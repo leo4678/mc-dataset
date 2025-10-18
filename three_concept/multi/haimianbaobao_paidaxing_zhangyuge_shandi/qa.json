@@ -1,0 +1,22 @@
+[
+    {
+        "question": "Are all <haimianbaobao>, <paidaxing>, and <zhangyuge> animals or humans? A. animal. B. human",
+        "answer": "A"
+    },
+    {
+        "question": "What are the genders of <haimianbaobao>, <paidaxing>, and <shandi> respectively? A. boy, boy, girl. B. girl, boy, boy",
+        "answer": "A"
+    },
+    {
+        "question": "What are the main colors of <haimianbaobao> and <paidaxing> respectively? A. yellow, pink. B. pink, yellow",
+        "answer": "A"
+    },
+    {
+        "question": "What type of clothing does <zhangyuge> and <shandi> often wear? A. Casual, Spacesuit. B. Formal, Casual",
+        "answer": "A"
+    },
+    {
+        "question": "Do <haimianbaobao> and <zhangyuge> often wear hats? A. Yes. B. No",
+        "answer": "A"
+    }
+]

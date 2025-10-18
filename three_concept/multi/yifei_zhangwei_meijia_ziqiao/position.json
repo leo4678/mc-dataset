@@ -1,0 +1,32 @@
+{
+    "0.png": {
+        "<yifei>": "middle right",
+        "<zhangwei>": "left",
+        "<meijia>": "middle left",
+        "<ziqiao>": "right"
+    },
+    "1.png": {
+        "<yifei>": "middle right",
+        "<zhangwei>": "right",
+        "<meijia>": "middle left",
+        "<ziqiao>": "left"
+    },
+    "2.png": {
+        "<yifei>": "left",
+        "<zhangwei>": null,
+        "<meijia>": "middle",
+        "<ziqiao>": "right"
+    },
+    "3.png": {
+        "<yifei>": "middle",
+        "<zhangwei>": "right",
+        "<meijia>": "left",
+        "<ziqiao>": null
+    },
+    "4.png": {
+        "<yifei>": "right",
+        "<zhangwei>": null,
+        "<meijia>": "left",
+        "<ziqiao>": "middle"
+    }
+}

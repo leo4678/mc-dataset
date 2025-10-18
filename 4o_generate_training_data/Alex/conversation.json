@@ -1,0 +1,422 @@
+{
+    "three_concept/concept/train/Alex/0.png": [
+        {
+            "Question": "What is <Alex> hair color?",
+            "Answer": "<Alex>'s hair is brown."
+        },
+        {
+            "Question": "What color are <Alex> eyes?",
+            "Answer": "<Alex>'s eyes are blue."
+        },
+        {
+            "Question": "Would you describe <Alex>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<Alex>'s physique is athletic."
+        },
+        {
+            "Question": "What is <Alex> skin tone?",
+            "Answer": "<Alex> has a light brown skin tone."
+        },
+        {
+            "Question": "How would you describe <Alex> hairstyle?",
+            "Answer": "<Alex>'s hairstyle is a large, fluffy mane with a rounded shape."
+        },
+        {
+            "Question": "Does <Alex> wear glasses or any accessories?",
+            "Answer": "<Alex> does not wear glasses or any accessories."
+        },
+        {
+            "Question": "How would you describe <Alex>'s attire?",
+            "Answer": "<Alex> is not wearing any attire."
+        },
+        {
+            "Question": "Does <Alex> have any distinctive facial features?",
+            "Answer": "<Alex> has a large, fluffy mane, bright blue eyes, and a wide, expressive mouth."
+        },
+        {
+            "Question": "What is <Alex> overall build or physique?",
+            "Answer": "<Alex> has a robust and muscular build typical of a lion."
+        },
+        {
+            "Question": "What is <Alex> general expression or demeanor?",
+            "Answer": "<Alex> has a playful and silly expression, with his tongue out and eyes wide open."
+        }
+    ],
+    "three_concept/concept/train/Alex/1.png": [
+        {
+            "Question": "What is <Alex> hair color?",
+            "Answer": "<Alex>'s hair is brown."
+        },
+        {
+            "Question": "What color are <Alex> eyes?",
+            "Answer": "<Alex>'s eyes are blue."
+        },
+        {
+            "Question": "Would you describe <Alex>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<Alex>'s physique is athletic."
+        },
+        {
+            "Question": "What is <Alex> skin tone?",
+            "Answer": "<Alex>'s skin tone is a light tan color."
+        },
+        {
+            "Question": "How would you describe <Alex> hairstyle?",
+            "Answer": "<Alex>'s hairstyle is a large, fluffy mane surrounding his head."
+        },
+        {
+            "Question": "Does <Alex> wear glasses or any accessories?",
+            "Answer": "<Alex> does not wear glasses or any accessories."
+        },
+        {
+            "Question": "How would you describe <Alex>'s attire?",
+            "Answer": "<Alex> is not wearing any attire; he is a lion with a mane."
+        },
+        {
+            "Question": "Does <Alex> have any distinctive facial features?",
+            "Answer": "<Alex> has a large mane, expressive eyes, and a wide, open mouth."
+        },
+        {
+            "Question": "What is <Alex> overall build or physique?",
+            "Answer": "<Alex> has a lean and muscular build."
+        },
+        {
+            "Question": "What is <Alex> general expression or demeanor?",
+            "Answer": "<Alex> has an excited and joyful expression, with arms raised and mouth open in a smile."
+        }
+    ],
+    "three_concept/concept/train/Alex/2.png": [
+        {
+            "Question": "What is <Alex> hair color?",
+            "Answer": "<Alex>'s hair is purple."
+        },
+        {
+            "Question": "What color are <Alex> eyes?",
+            "Answer": "<Alex>'s eyes are blue."
+        },
+        {
+            "Question": "Would you describe <Alex>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<Alex>'s physique is athletic."
+        },
+        {
+            "Question": "What is <Alex> skin tone?",
+            "Answer": "<Alex>'s skin tone is orange."
+        },
+        {
+            "Question": "How would you describe <Alex> hairstyle?",
+            "Answer": "<Alex>'s hairstyle is a vibrant purple mane with a fluffy and full appearance."
+        },
+        {
+            "Question": "Does <Alex> wear glasses or any accessories?",
+            "Answer": "<Alex> is not wearing glasses or any accessories."
+        },
+        {
+            "Question": "How would you describe <Alex>'s attire?",
+            "Answer": "<Alex> is not wearing any attire; he is an animated lion with a purple mane."
+        },
+        {
+            "Question": "Does <Alex> have any distinctive facial features?",
+            "Answer": "<Alex> has a large, expressive face with a prominent nose and a wide smile."
+        },
+        {
+            "Question": "What is <Alex> overall build or physique?",
+            "Answer": "<Alex> has a cartoonish, anthropomorphic lion build with a large, fluffy mane."
+        },
+        {
+            "Question": "What is <Alex> general expression or demeanor?",
+            "Answer": "<Alex> has a cheerful and friendly expression."
+        }
+    ],
+    "three_concept/concept/train/Alex/3.png": [
+        {
+            "Question": "What is <Alex> hair color?",
+            "Answer": "<Alex>'s hair is brown."
+        },
+        {
+            "Question": "What color are <Alex> eyes?",
+            "Answer": "<Alex>'s eyes are brown."
+        },
+        {
+            "Question": "Would you describe <Alex>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<Alex>'s physique is athletic."
+        },
+        {
+            "Question": "What is <Alex> skin tone?",
+            "Answer": "<Alex>'s skin tone is a mix of light brown and tan."
+        },
+        {
+            "Question": "How would you describe <Alex> hairstyle?",
+            "Answer": "<Alex> has a large, fluffy mane that surrounds his face."
+        },
+        {
+            "Question": "Does <Alex> wear glasses or any accessories?",
+            "Answer": "<Alex> does not wear glasses or any accessories."
+        },
+        {
+            "Question": "How would you describe <Alex>'s attire?",
+            "Answer": "<Alex> is not wearing any attire."
+        },
+        {
+            "Question": "Does <Alex> have any distinctive facial features?",
+            "Answer": "<Alex> has a large, fluffy mane and a wide, expressive smile."
+        },
+        {
+            "Question": "What is <Alex> overall build or physique?",
+            "Answer": "<Alex> has a robust and muscular build."
+        },
+        {
+            "Question": "What is <Alex> general expression or demeanor?",
+            "Answer": "<Alex> has a cheerful and happy expression."
+        }
+    ],
+    "three_concept/concept/train/Alex/4.png": [
+        {
+            "Question": "What is <Alex> hair color?",
+            "Answer": "<Alex>'s hair is brown."
+        },
+        {
+            "Question": "What color are <Alex> eyes?",
+            "Answer": "<Alex>'s eyes are brown."
+        },
+        {
+            "Question": "Would you describe <Alex>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<Alex>'s physique is athletic."
+        },
+        {
+            "Question": "What is <Alex> skin tone?",
+            "Answer": "<Alex>'s skin tone is light brown."
+        },
+        {
+            "Question": "How would you describe <Alex> hairstyle?",
+            "Answer": "<Alex> has a large, fluffy mane surrounding his head."
+        },
+        {
+            "Question": "Does <Alex> wear glasses or any accessories?",
+            "Answer": "<Alex> does not wear glasses or any accessories."
+        },
+        {
+            "Question": "How would you describe <Alex>'s attire?",
+            "Answer": "<Alex> is not wearing any attire."
+        },
+        {
+            "Question": "Does <Alex> have any distinctive facial features?",
+            "Answer": "<Alex> has a large mane, a wide mouth, and expressive eyes."
+        },
+        {
+            "Question": "What is <Alex> overall build or physique?",
+            "Answer": "<Alex> has a strong and muscular build."
+        },
+        {
+            "Question": "What is <Alex> general expression or demeanor?",
+            "Answer": "<Alex> appears surprised or startled."
+        }
+    ],
+    "three_concept/concept/train/Alex/5.png": [
+        {
+            "Question": "What is <Alex> hair color?",
+            "Answer": "<Alex>'s hair is brown."
+        },
+        {
+            "Question": "What color are <Alex> eyes?",
+            "Answer": "<Alex>'s eyes are brown."
+        },
+        {
+            "Question": "Would you describe <Alex>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<Alex>'s physique is athletic."
+        },
+        {
+            "Question": "What is <Alex> skin tone?",
+            "Answer": "<Alex>'s skin tone is a light tan color."
+        },
+        {
+            "Question": "How would you describe <Alex> hairstyle?",
+            "Answer": "<Alex> has a large, fluffy mane that surrounds the head."
+        },
+        {
+            "Question": "Does <Alex> wear glasses or any accessories?",
+            "Answer": "<Alex> does not wear glasses or any accessories."
+        },
+        {
+            "Question": "How would you describe <Alex>'s attire?",
+            "Answer": "<Alex> is not wearing any attire, as he is depicted as a lion with a mane."
+        },
+        {
+            "Question": "Does <Alex> have any distinctive facial features?",
+            "Answer": "<Alex> has a prominent mane and a distinctively shaped nose."
+        },
+        {
+            "Question": "What is <Alex> overall build or physique?",
+            "Answer": "<Alex> has a strong and muscular build, typical of a lion."
+        },
+        {
+            "Question": "What is <Alex> general expression or demeanor?",
+            "Answer": "<Alex> appears to have a thoughtful or contemplative demeanor."
+        }
+    ],
+    "three_concept/concept/train/Alex/6.png": [
+        {
+            "Question": "What is <Alex> hair color?",
+            "Answer": "<Alex>'s hair is brown."
+        },
+        {
+            "Question": "What color are <Alex> eyes?",
+            "Answer": "<Alex>'s eyes are blue."
+        },
+        {
+            "Question": "Would you describe <Alex>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<Alex>'s physique is athletic."
+        },
+        {
+            "Question": "What is <Alex> skin tone?",
+            "Answer": "<Alex>'s skin tone is a warm orange-brown."
+        },
+        {
+            "Question": "How would you describe <Alex> hairstyle?",
+            "Answer": "<Alex>'s hairstyle is a large, fluffy mane that surrounds his head."
+        },
+        {
+            "Question": "Does <Alex> wear glasses or any accessories?",
+            "Answer": "<Alex> does not wear glasses or any accessories."
+        },
+        {
+            "Question": "How would you describe <Alex>'s attire?",
+            "Answer": "<Alex> is not wearing any attire; he is a lion with a large mane."
+        },
+        {
+            "Question": "Does <Alex> have any distinctive facial features?",
+            "Answer": "<Alex> has a large mane, wide eyes, and a prominent nose."
+        },
+        {
+            "Question": "What is <Alex> overall build or physique?",
+            "Answer": "<Alex> has a robust and muscular build typical of a lion."
+        },
+        {
+            "Question": "What is <Alex> general expression or demeanor?",
+            "Answer": "<Alex> has a surprised or concerned expression."
+        }
+    ],
+    "three_concept/concept/train/Alex/7.png": [
+        {
+            "Question": "What is <Alex> hair color?",
+            "Answer": "<Alex>'s hair color is brown."
+        },
+        {
+            "Question": "What color are <Alex> eyes?",
+            "Answer": "<Alex>'s eyes are blue."
+        },
+        {
+            "Question": "Would you describe <Alex>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<Alex>'s physique is athletic."
+        },
+        {
+            "Question": "What is <Alex> skin tone?",
+            "Answer": "<Alex> has a light brown skin tone."
+        },
+        {
+            "Question": "How would you describe <Alex> hairstyle?",
+            "Answer": "<Alex> has a large, fluffy mane that surrounds his head."
+        },
+        {
+            "Question": "Does <Alex> wear glasses or any accessories?",
+            "Answer": "<Alex> is not wearing glasses or any accessories."
+        },
+        {
+            "Question": "How would you describe <Alex>'s attire?",
+            "Answer": "<Alex> is not wearing any attire."
+        },
+        {
+            "Question": "Does <Alex> have any distinctive facial features?",
+            "Answer": "<Alex> has a large mane and a prominent snout."
+        },
+        {
+            "Question": "What is <Alex> overall build or physique?",
+            "Answer": "<Alex> has a lean and muscular build."
+        },
+        {
+            "Question": "What is <Alex> general expression or demeanor?",
+            "Answer": "<Alex> has a cheerful and relaxed expression."
+        }
+    ],
+    "three_concept/concept/train/Alex/8.png": [
+        {
+            "Question": "What is <Alex> hair color?",
+            "Answer": "<Alex>'s hair is brown."
+        },
+        {
+            "Question": "What color are <Alex> eyes?",
+            "Answer": "<Alex>'s eyes are blue."
+        },
+        {
+            "Question": "Would you describe <Alex>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<Alex>'s physique is athletic."
+        },
+        {
+            "Question": "What is <Alex> skin tone?",
+            "Answer": "<Alex>'s skin tone is a warm golden brown."
+        },
+        {
+            "Question": "How would you describe <Alex> hairstyle?",
+            "Answer": "<Alex>'s hairstyle is a large, fluffy mane that surrounds his head."
+        },
+        {
+            "Question": "Does <Alex> wear glasses or any accessories?",
+            "Answer": "<Alex> does not wear glasses or any accessories."
+        },
+        {
+            "Question": "How would you describe <Alex>'s attire?",
+            "Answer": "<Alex> is not wearing any attire."
+        },
+        {
+            "Question": "Does <Alex> have any distinctive facial features?",
+            "Answer": "<Alex> has a large mane, blue eyes, and a playful expression with his tongue sticking out."
+        },
+        {
+            "Question": "What is <Alex> overall build or physique?",
+            "Answer": "<Alex> has a robust and muscular build."
+        },
+        {
+            "Question": "What is <Alex> general expression or demeanor?",
+            "Answer": "<Alex> has a playful and excited expression, with his tongue out and paws raised."
+        }
+    ],
+    "three_concept/concept/train/Alex/9.png": [
+        {
+            "Question": "What is <Alex> hair color?",
+            "Answer": "<Alex>'s hair color is brown."
+        },
+        {
+            "Question": "What color are <Alex> eyes?",
+            "Answer": "<Alex>'s eyes are black."
+        },
+        {
+            "Question": "Would you describe <Alex>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<Alex>'s physique is athletic."
+        },
+        {
+            "Question": "What is <Alex> skin tone?",
+            "Answer": "<Alex>'s skin tone is a golden brown."
+        },
+        {
+            "Question": "How would you describe <Alex> hairstyle?",
+            "Answer": "<Alex>'s hairstyle is a wild, voluminous mane with a spiky texture."
+        },
+        {
+            "Question": "Does <Alex> wear glasses or any accessories?",
+            "Answer": "<Alex> does not wear glasses or any accessories."
+        },
+        {
+            "Question": "How would you describe <Alex>'s attire?",
+            "Answer": "<Alex> is not wearing any attire, as he is an animated lion character."
+        },
+        {
+            "Question": "Does <Alex> have any distinctive facial features?",
+            "Answer": "<Alex> has a prominent mane and a distinctive snout."
+        },
+        {
+            "Question": "What is <Alex> overall build or physique?",
+            "Answer": "<Alex> has a strong and muscular build."
+        },
+        {
+            "Question": "What is <Alex> general expression or demeanor?",
+            "Answer": "<Alex> appears to have an intense and determined demeanor."
+        }
+    ]
+}

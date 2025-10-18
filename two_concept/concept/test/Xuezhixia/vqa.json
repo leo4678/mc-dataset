@@ -1,0 +1,22 @@
+{
+    "two_concept/concept/test/Xuezhixia/0.png": {
+        "Human": "What color are <Xuezhixia>'s eyes in the image?",
+        "AI": "<Xuezhixia> has blue eyes in the image."
+    },
+    "two_concept/concept/test/Xuezhixia/1.png": {
+        "Human": "What color are <Xuezhixia>'s eyes?",
+        "AI": "<Xuezhixia>'s eyes are blue."
+    },
+    "two_concept/concept/test/Xuezhixia/2.png": {
+        "Human": "What color is <Xuezhixia>'s hair tie?",
+        "AI": "<Xuezhixia>'s hair tie is red."
+    },
+    "two_concept/concept/test/Xuezhixia/3.png": {
+        "Human": "What color is the dress that <Xuezhixia> is wearing?",
+        "AI": "<Xuezhixia> is wearing a dark purple dress."
+    },
+    "two_concept/concept/test/Xuezhixia/4.png": {
+        "Human": "What is the color of <Xuezhixia>'s eyes?",
+        "AI": "<Xuezhixia> has blue eyes."
+    }
+}

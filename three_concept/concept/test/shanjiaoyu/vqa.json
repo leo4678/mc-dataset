@@ -1,0 +1,22 @@
+{
+    "three_concept/concept/test/shanjiaoyu/0.png": {
+        "Human": "What is the primary color of the <shanjiaoyu> in the image?",
+        "AI": "The primary color of the <shanjiaoyu> is brown."
+    },
+    "three_concept/concept/test/shanjiaoyu/1.png": {
+        "Human": "What distinctive feature does the <shanjiaoyu> have in its design?",
+        "AI": "The <shanjiaoyu> has a distinctive feature of large, sharp teeth that are prominently displayed in its design."
+    },
+    "three_concept/concept/test/shanjiaoyu/2.png": {
+        "Human": "What distinctive feature does <shanjiaoyu> have on its back?",
+        "AI": "<shanjiaoyu> has a large, segmented, metallic tail on its back."
+    },
+    "three_concept/concept/test/shanjiaoyu/3.png": {
+        "Human": "What is the distinctive feature of <shanjiaoyu> in the image?",
+        "AI": "The distinctive feature of <shanjiaoyu> is its mechanical, insect-like design with a dark body and red eyes."
+    },
+    "three_concept/concept/test/shanjiaoyu/4.png": {
+        "Human": "What is the distinctive feature of <shanjiaoyu>'s mouth in the image?",
+        "AI": "<shanjiaoyu> has a large, toothy grin with sharp, triangular teeth."
+    }
+}

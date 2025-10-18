@@ -1,0 +1,22 @@
+{
+    "0.png": {
+        "<xiaoxiong>": "right",
+        "<xiaozhu>": "left"
+    },
+    "1.png": {
+        "<xiaoxiong>": "right",
+        "<xiaozhu>": "left"
+    },
+    "2.png": {
+        "<xiaoxiong>": "left",
+        "<xiaozhu>": "right"
+    },
+    "3.png": {
+        "<xiaoxiong>": "right",
+        "<xiaozhu>": "left"
+    },
+    "4.png": {
+        "<xiaoxiong>": "right",
+        "<xiaozhu>": "left"
+    }
+}

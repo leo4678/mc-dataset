@@ -1,0 +1,72 @@
+{
+    "three_concept/multi/Alex_Gloria_Marty/0.png": [
+        {
+            "Human": "Where is <Alex> located in the photo? A. left B. middle C. right.",
+            "AI": "C"
+        },
+        {
+            "Human": "Where is <Gloria> located in the photo? A. left B. middle C. right.",
+            "AI": "A"
+        },
+        {
+            "Human": "Where is <Marty> located in the photo? A. left B. middle C. right.",
+            "AI": "B"
+        }
+    ],
+    "three_concept/multi/Alex_Gloria_Marty/1.png": [
+        {
+            "Human": "Where is <Alex> located in the photo? A. left B. middle C. right.",
+            "AI": "B"
+        },
+        {
+            "Human": "Where is <Gloria> located in the photo? A. left B. middle C. right.",
+            "AI": "A"
+        },
+        {
+            "Human": "Where is <Marty> located in the photo? A. left B. middle C. right.",
+            "AI": "C"
+        }
+    ],
+    "three_concept/multi/Alex_Gloria_Marty/2.png": [
+        {
+            "Human": "Where is <Alex> located in the photo? A. left B. middle C. right.",
+            "AI": "B"
+        },
+        {
+            "Human": "Where is <Gloria> located in the photo? A. left B. middle C. right.",
+            "AI": "C"
+        },
+        {
+            "Human": "Where is <Marty> located in the photo? A. left B. middle C. right.",
+            "AI": "A"
+        }
+    ],
+    "three_concept/multi/Alex_Gloria_Marty/3.png": [
+        {
+            "Human": "Where is <Alex> located in the photo? A. left B. middle C. right.",
+            "AI": "B"
+        },
+        {
+            "Human": "Where is <Gloria> located in the photo? A. left B. middle C. right.",
+            "AI": "C"
+        },
+        {
+            "Human": "Where is <Marty> located in the photo? A. left B. middle C. right.",
+            "AI": "A"
+        }
+    ],
+    "three_concept/multi/Alex_Gloria_Marty/4.png": [
+        {
+            "Human": "Where is <Alex> located in the photo? A. left B. middle C. right.",
+            "AI": "B"
+        },
+        {
+            "Human": "Where is <Gloria> located in the photo? A. left B. middle C. right.",
+            "AI": "A"
+        },
+        {
+            "Human": "Where is <Marty> located in the photo? A. left B. middle C. right.",
+            "AI": "C"
+        }
+    ]
+}

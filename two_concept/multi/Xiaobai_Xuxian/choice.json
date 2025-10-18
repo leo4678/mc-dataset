@@ -1,0 +1,72 @@
+{
+    "two_concept/multi/Xiaobai_Xuxian/0.jpg": [
+        {
+            "Human": "What is <Xiaobai> doing in the image? A. Tying a knot. B. Holding a sword. C. Playing a musical instrument.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is <Xuxian> doing in the image? A. Tying a ribbon. B. Holding a sword. C. Writing a letter.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is <Xuxian> doing in the image? A. Tying <Xiaobai>'s hair. B. Giving <Xiaobai> a gift. C. Holding <Xiaobai>'s hand.",
+            "AI": "A"
+        }
+    ],
+    "two_concept/multi/Xiaobai_Xuxian/1.jpg": [
+        {
+            "Human": "What is <Xiaobai> wearing in the image? A. A white robe. B. A brown robe.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is <Xuxian> holding in the image? A. A basket. B. A sword. C. A book.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is <Xuxian> holding in the image? A. A basket. B. A sword. C. A book.",
+            "AI": "A"
+        }
+    ],
+    "two_concept/multi/Xiaobai_Xuxian/2.jpg": [
+        {
+            "Human": "What is <Xiaobai> doing in the image? A. Playing a flute. B. Reading a book.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is <Xuxian> holding in the image? A. A flute. B. A sword. C. A book.",
+            "AI": "A"
+        },
+        {
+            "Human": "What are <Xiaobai> and <Xuxian> doing in the image? A. Playing a flute. B. Reading a book. C. Painting.",
+            "AI": "A"
+        }
+    ],
+    "two_concept/multi/Xiaobai_Xuxian/3.jpg": [
+        {
+            "Human": "What are <Xiaobai> and the other character doing in the image? A. Flying. B. Swimming. C. Running.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is <Xuxian> holding in the image? A. A book. B. A basket. C. A small animal.",
+            "AI": "C"
+        },
+        {
+            "Human": "What are <Xiaobai> and <Xuxian> doing in the image? A. Flying. B. Swimming. C. Running.",
+            "AI": "A"
+        }
+    ],
+    "two_concept/multi/Xiaobai_Xuxian/4.jpg": [
+        {
+            "Human": "What is <Xiaobai> holding in the image? A. A flower. B. A sword.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is <Xuxian> wearing in the image? A. A white robe. B. A brown robe.",
+            "AI": "B"
+        },
+        {
+            "Human": "What are <Xiaobai> and <Xuxian> wearing in the image? A. Modern clothes. B. Traditional clothes.",
+            "AI": "B"
+        }
+    ]
+}

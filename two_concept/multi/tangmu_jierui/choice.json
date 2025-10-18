@@ -1,0 +1,72 @@
+{
+    "two_concept/multi/tangmu_jierui/0.jpg": [
+        {
+            "Human": "What is <tangmu> holding in the image? A. a mouse. B. a book. C. a ball",
+            "AI": "A"
+        },
+        {
+            "Human": "What is <jierui> holding in the image? A. a tomato. B. a mouse. C. a book.",
+            "AI": "B"
+        },
+        {
+            "Human": "What is <tangmu> holding in the image? A. A book. B. <jierui>. C. A ball.",
+            "AI": "B"
+        }
+    ],
+    "two_concept/multi/tangmu_jierui/1.jpg": [
+        {
+            "Human": "What is <tangmu> wearing on his head? A. A hat. B. A bucket. C. A helmet.",
+            "AI": "B"
+        },
+        {
+            "Human": "What is <jierui> hiding inside? A. a tomato. B. a pumpkin.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is <tangmu> wearing on his head? A. A hat. B. A bucket. C. A helmet.",
+            "AI": "B"
+        }
+    ],
+    "two_concept/multi/tangmu_jierui/2.jpg": [
+        {
+            "Human": "What is <tangmu> doing in the image? A. Smiling. B. Squinting. C. Sleeping.",
+            "AI": "B"
+        },
+        {
+            "Human": "What is <jierui> doing in the image? A. Hugging <Tom>. B. Kissing <Tom>. C. Running away from <Tom>.",
+            "AI": "B"
+        },
+        {
+            "Human": "What are <tangmu> and <jierui> doing in the image? A. Hugging. B. Staring at each other. C. Running away.",
+            "AI": "B"
+        }
+    ],
+    "two_concept/multi/tangmu_jierui/3.jpg": [
+        {
+            "Human": "What is <tangmu> wearing on his head? A. A helmet. B. A bucket. C. A hat.",
+            "AI": "B"
+        },
+        {
+            "Human": "What is <jierui> holding in the image? A. a pumpkin. B. a carrot.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is <jierui> holding in the image? A. a pumpkin. B. a watermelon. C. an apple.",
+            "AI": "A"
+        }
+    ],
+    "two_concept/multi/tangmu_jierui/4.jpg": [
+        {
+            "Human": "What is <tangmu> wearing on his head? A. A hat. B. A helmet. C. A crown.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is <jierui> doing in the image? A. Sitting on <Tom>'s back. B. Flying in the sky.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is <tangmu> wearing on his head? A. A hat. B. A helmet. C. A crown.",
+            "AI": "A"
+        }
+    ]
+}

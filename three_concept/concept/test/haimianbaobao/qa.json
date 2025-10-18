@@ -1,0 +1,22 @@
+[
+    {
+        "question": "What is the color of <haimianbaobao>'s body? A.Yellow.  B.Blue",
+        "answer": "A"
+    },
+    {
+        "question": "What type of clothing does <haimianbaobao> wear? A.Shorts and tie.  B.Jeans and t-shirt",
+        "answer": "A"
+    },
+    {
+        "question": "Does <haimianbaobao> have a happy or sad expression? A.Happy.  B.Sad",
+        "answer": "A"
+    },
+    {
+        "question": "What shape is <haimianbaobao>? A.Round.  B.Square",
+        "answer": "B"
+    },
+    {
+        "question": "What color are <haimianbaobao>'s eyes? A.Blue.  B.Green",
+        "answer": "A"
+    }
+]

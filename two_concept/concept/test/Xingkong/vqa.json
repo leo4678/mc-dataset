@@ -1,0 +1,22 @@
+{
+    "two_concept/concept/test/Xingkong/0.png": {
+        "Human": "What is the color of <Xingkong>'s eyes in the image?",
+        "AI": "<Xingkong>'s eyes are green in the image."
+    },
+    "two_concept/concept/test/Xingkong/1.png": {
+        "Human": "What color are <Xingkong>'s eyes in the image?",
+        "AI": "<Xingkong>'s eyes are green in the image."
+    },
+    "two_concept/concept/test/Xingkong/2.png": {
+        "Human": "What color is <Xingkong>'s hair in the image?",
+        "AI": "<Xingkong>'s hair is purple."
+    },
+    "two_concept/concept/test/Xingkong/3.png": {
+        "Human": "What color is <Xingkong>'s hair in the image?",
+        "AI": "<Xingkong>'s hair is purple."
+    },
+    "two_concept/concept/test/Xingkong/4.png": {
+        "Human": "What is the expression on <Xingkong>'s face in the image?",
+        "AI": "<Xingkong> looks surprised and a bit worried."
+    }
+}

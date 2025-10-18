@@ -1,0 +1,22 @@
+[
+    {
+        "question": "Are both <Xingkong> and <Si> animals or humans? A. Animal. B. Human.",
+        "answer": "B"
+    },
+    {
+        "question": "What are the genders of <Xingkong> and <Si> respectively? A. Boy, Girl. B. Girl, Boy.",
+        "answer": "A"
+    },
+    {
+        "question": "What are the hair colors of <Xingkong> and <Si> respectively? A. Purple, Pink. B. Pink, Purple.",
+        "answer": "A"
+    },
+    {
+        "question": "What are the eye colors of <Xingkong> and <Si> respectively? A. Green, Red. B. Red, Green.",
+        "answer": "A"
+    },
+    {
+        "question": "Do <Xingkong> and <Si> often wear formal or casual clothing? A. Both Formal. B. Both Casual.",
+        "answer": "B"
+    }
+]

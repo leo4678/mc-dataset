@@ -1,0 +1,216 @@
+{
+    "three_concept/multi/yifei_zhangwei_meijia_ziqiao/0.png": [
+        {
+            "Human": "What is <yifei> wearing in the image?",
+            "AI": "<yifei> is wearing a black sweater with colorful designs."
+        },
+        {
+            "Human": "What is <zhangwei> wearing in the image?",
+            "AI": "<zhangwei> is wearing a yellow sweater."
+        },
+        {
+            "Human": "What is <meijia> wearing in the image?",
+            "AI": "<meijia> is wearing a pink sweater with overalls."
+        },
+        {
+            "Human": "What is <ziqiao> wearing in the image?",
+            "AI": "<ziqiao> is wearing a plaid jacket with a red sweater underneath."
+        },
+        {
+            "Human": "What are <yifei> and <zhangwei> doing in the image?",
+            "AI": "<yifei> and <zhangwei> are sitting on a couch, with <yifei> holding a phone for a selfie."
+        },
+        {
+            "Human": "What are <yifei> and <meijia> doing in the image?",
+            "AI": "<yifei> and <meijia> are taking a selfie together."
+        },
+        {
+            "Human": "What are <yifei> and <ziqiao> doing in the image?",
+            "AI": "<yifei> and <ziqiao> are sitting on a couch, with <yifei> holding a phone."
+        },
+        {
+            "Human": "What are <zhangwei> and <meijia> doing in the image?",
+            "AI": "<zhangwei> and <meijia> are sitting together on a couch, with <meijia> holding a phone for a selfie."
+        },
+        {
+            "Human": "What are <zhangwei> and <ziqiao> wearing in the image?",
+            "AI": "<zhangwei> is wearing a yellow sweater, and <ziqiao> is wearing a plaid jacket with a red sweater underneath."
+        },
+        {
+            "Human": "What are <meijia> and <ziqiao> doing in the image?",
+            "AI": "<meijia> and <ziqiao> are sitting on a couch, with <meijia> taking a selfie."
+        },
+        {
+            "Human": "What are <yifei>, <zhangwei>, and <meijia> doing in the image?",
+            "AI": "<yifei>, <zhangwei>, and <meijia> are taking a selfie together on a couch."
+        },
+        {
+            "Human": "What are <yifei>, <zhangwei>, and <ziqiao> doing in the image?",
+            "AI": "<yifei>, <zhangwei>, and <ziqiao> are sitting together on a couch, taking a selfie."
+        },
+        {
+            "Human": "What are <yifei>, <meijia>, and <ziqiao> doing in the image?",
+            "AI": "<yifei>, <meijia>, and <ziqiao> are sitting together on a couch, taking a selfie with a phone."
+        },
+        {
+            "Human": "What activity are <zhangwei>, <meijia>, and <ziqiao> engaged in?",
+            "AI": "<zhangwei>, <meijia>, and <ziqiao> are taking a selfie together."
+        },
+        {
+            "Human": "What are <yifei>, <zhangwei>, <meijia>, and <ziqiao> doing in the image?",
+            "AI": "<yifei>, <zhangwei>, <meijia>, and <ziqiao> are sitting together on a couch, taking a selfie."
+        }
+    ],
+    "three_concept/multi/yifei_zhangwei_meijia_ziqiao/1.png": [
+        {
+            "Human": "What is <yifei> wearing in the image?",
+            "AI": "<yifei> is wearing a red dress with a belt."
+        },
+        {
+            "Human": "What is <zhangwei> wearing in the image?",
+            "AI": "<zhangwei> is wearing a black and white checkered shirt with blue jeans."
+        },
+        {
+            "Human": "What is <meijia> wearing in the image?",
+            "AI": "<meijia> is wearing a light pink dress."
+        },
+        {
+            "Human": "What is <ziqiao> wearing in the image?",
+            "AI": "<ziqiao> is wearing a blue checkered suit with a white shirt and tie."
+        },
+        {
+            "Human": "What are <yifei> and <zhangwei> wearing in the image?",
+            "AI": "<yifei> is wearing a red dress, and <zhangwei> is wearing a checkered shirt with jeans."
+        },
+        {
+            "Human": "What are <yifei> and <meijia> wearing in the image?",
+            "AI": "<yifei> is wearing a red dress, and <meijia> is wearing a light pink dress."
+        },
+        {
+            "Human": "What are <yifei> and <ziqiao> wearing in the image?",
+            "AI": "<yifei> is wearing a checkered shirt and jeans, while <ziqiao> is wearing a blue checkered suit."
+        },
+        {
+            "Human": "What are <zhangwei> and <meijia> wearing in the image?",
+            "AI": "<zhangwei> is wearing a checkered shirt and jeans, while <meijia> is wearing a light pink dress."
+        },
+        {
+            "Human": "What are <zhangwei> and <ziqiao> wearing in the image?",
+            "AI": "<zhangwei> is wearing a checkered shirt and jeans, while <ziqiao> is wearing a checkered suit."
+        },
+        {
+            "Human": "What are <meijia> and <ziqiao> wearing in the image?",
+            "AI": "<meijia> is wearing a light pink dress, and <ziqiao> is wearing a blue checkered suit."
+        },
+        {
+            "Human": "What are <yifei>, <zhangwei>, and <meijia> wearing in the image?",
+            "AI": "<yifei> is wearing a red dress, <zhangwei> is in a checkered shirt and jeans, and <meijia> is in a light pink dress."
+        },
+        {
+            "Human": "What are <yifei>, <zhangwei>, and <ziqiao> wearing in the image?",
+            "AI": "<yifei> is wearing a red dress, <zhangwei> is in a checkered shirt and jeans, and <ziqiao> is wearing a blue checkered suit."
+        },
+        {
+            "Human": "What are <yifei>, <meijia>, and <ziqiao> wearing in the image?",
+            "AI": "<yifei> is wearing a checkered shirt and jeans, <meijia> is in a light pink dress, and <ziqiao> is in a blue checkered suit."
+        },
+        {
+            "Human": "What are <zhangwei>, <meijia>, and <ziqiao> wearing in the image?",
+            "AI": "<zhangwei> is wearing a checkered shirt and jeans, <meijia> is in a pink dress, and <ziqiao> is in a blue checkered suit."
+        },
+        {
+            "Human": "What are <yifei>, <zhangwei>, <meijia>, and <ziqiao> wearing in the image?",
+            "AI": "<yifei> is wearing a red dress, <zhangwei> is in a checkered shirt and jeans, <meijia> is in a light pink dress, and <ziqiao> is wearing a blue checkered suit."
+        }
+    ],
+    "three_concept/multi/yifei_zhangwei_meijia_ziqiao/2.png": [
+        {
+            "Human": "What is <yifei> wearing in the image?",
+            "AI": "<yifei> is wearing a colorful apron with a cartoon design."
+        },
+        {
+            "Human": "What is <meijia> wearing in the image?",
+            "AI": "<meijia> is wearing a pink jacket."
+        },
+        {
+            "Human": "What is <ziqiao> wearing in the image?",
+            "AI": "<ziqiao> is wearing a light blue blazer."
+        },
+        {
+            "Human": "What is <yifei> wearing in the image?",
+            "AI": "<yifei> is wearing a colorful apron with a cartoon design."
+        },
+        {
+            "Human": "What is <yifei> wearing in the image?",
+            "AI": "<yifei> is wearing a blue apron with a cartoon design."
+        },
+        {
+            "Human": "What are <meijia> and <ziqiao> doing in the image?",
+            "AI": "<meijia> is sitting at the table with a plate of food, and <ziqiao> is sitting beside her."
+        },
+        {
+            "Human": "What are <yifei>, <meijia>, and <ziqiao> doing in the image?",
+            "AI": "<yifei> is standing by the table, <meijia> is sitting and holding a fork, and <ziqiao> is sitting next to <meijia>."
+        }
+    ],
+    "three_concept/multi/yifei_zhangwei_meijia_ziqiao/3.png": [
+        {
+            "Human": "What is <yifei> holding in the image?",
+            "AI": "<yifei> is holding a red banner with gold writing."
+        },
+        {
+            "Human": "What is <zhangwei> wearing in the image?",
+            "AI": "<zhangwei> is wearing a red plaid jacket with a bow tie."
+        },
+        {
+            "Human": "What is <meijia> holding in the image?",
+            "AI": "<meijia> is holding a red banner with gold writing."
+        },
+        {
+            "Human": "What are <yifei> and <zhangwei> holding in the image?",
+            "AI": "<yifei> and <zhangwei> are holding red banners with gold writing."
+        },
+        {
+            "Human": "What are <yifei> and <meijia> holding in the image?",
+            "AI": "<yifei> and <meijia> are holding red banners with gold writing."
+        },
+        {
+            "Human": "What are <zhangwei> and <meijia> holding in the image?",
+            "AI": "<zhangwei> and <meijia> are holding red banners with gold writing."
+        },
+        {
+            "Human": "What are <yifei>, <zhangwei>, and <meijia> holding in the image?",
+            "AI": "<yifei>, <zhangwei>, and <meijia> are holding red banners with gold writing."
+        }
+    ],
+    "three_concept/multi/yifei_zhangwei_meijia_ziqiao/4.png": [
+        {
+            "Human": "What is <yifei> wearing in the image?",
+            "AI": "<yifei> is wearing a red racing suit with various sponsor logos."
+        },
+        {
+            "Human": "What is <meijia> wearing in the image?",
+            "AI": "<meijia> is wearing a beige dress with ruffled sleeves and a large hat."
+        },
+        {
+            "Human": "What is <ziqiao> wearing in the image?",
+            "AI": "<ziqiao> is wearing a white shirt with a brown vest and a bow tie."
+        },
+        {
+            "Human": "What are <yifei> and <meijia> wearing in the image?",
+            "AI": "<yifei> is wearing a red racing suit, and <meijia> is wearing a beige dress with a large hat."
+        },
+        {
+            "Human": "What are <yifei> and <ziqiao> wearing in the image?",
+            "AI": "<yifei> is wearing a red racing suit, and <ziqiao> is wearing a vest with a bow tie."
+        },
+        {
+            "Human": "What are <meijia> and <ziqiao> doing in the image?",
+            "AI": "<meijia> and <ziqiao> are clapping their hands."
+        },
+        {
+            "Human": "What are <yifei>, <meijia>, and <ziqiao> doing in the image?",
+            "AI": "<yifei>, <meijia>, and <ziqiao> are sitting together and clapping at a table set with tea and desserts."
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "two_concept/concept/test/kaiqi/0.jpg": {
+        "Human": "What type of shirt is <kaiqi> wearing?  A. Plaid shirt; B. Striped shirt; C. Solid color shirt;",
+        "AI": "A"
+    },
+    "two_concept/concept/test/kaiqi/1.jpg": {
+        "Human": "What color is the dress that <kaiqi> is wearing?  A. White; B. Black; C. Red;",
+        "AI": "A"
+    },
+    "two_concept/concept/test/kaiqi/2.jpg": {
+        "Human": "What color are the flowers in <kaiqi>'s hair?  A. Yellow; B. Red; C. Blue;",
+        "AI": "A"
+    },
+    "two_concept/concept/test/kaiqi/3.jpg": {
+        "Human": "What color is the dress that <kaiqi> is wearing?  A. Pink; B. Blue; C. Green;",
+        "AI": "A"
+    },
+    "two_concept/concept/test/kaiqi/4.jpg": {
+        "Human": "What is <kaiqi> wearing in the image?  A. A white dress; B. A black dress;",
+        "AI": "A"
+    }
+}

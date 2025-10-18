@@ -1,0 +1,22 @@
+{
+    "three_concept/concept/test/Alex/0.png": {
+        "Human": "What is <Alex> doing in the image?",
+        "AI": "<Alex> is striking a playful pose with one paw raised and a big smile."
+    },
+    "three_concept/concept/test/Alex/1.png": {
+        "Human": "What is <Alex> looking at in the image?",
+        "AI": "<Alex> is looking at his paws with a surprised expression."
+    },
+    "three_concept/concept/test/Alex/2.png": {
+        "Human": "What expression does <Alex> have in the image?",
+        "AI": "<Alex> has a confident and slightly smug expression in the image."
+    },
+    "three_concept/concept/test/Alex/3.png": {
+        "Human": "What is <Alex> doing in the image?",
+        "AI": "<Alex> is prowling forward with a determined expression."
+    },
+    "three_concept/concept/test/Alex/4.png": {
+        "Human": "What is <Alex> doing in the image?",
+        "AI": "<Alex> is standing with his arms wide open, looking cheerful."
+    }
+}

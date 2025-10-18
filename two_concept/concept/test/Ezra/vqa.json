@@ -1,0 +1,22 @@
+{
+    "two_concept/concept/test/Ezra/0.png": {
+        "Human": "What unique feature does <Ezra> have on its front?",
+        "AI": "<Ezra> has two round goggles on its front."
+    },
+    "two_concept/concept/test/Ezra/1.png": {
+        "Human": "What unique feature does the anime style cowboy hat <Ezra> have?",
+        "AI": "The anime style cowboy hat <Ezra> is decorated with prayer beads and has two blue goggles on the front."
+    },
+    "two_concept/concept/test/Ezra/2.png": {
+        "Human": "What unique feature does the anime style cowboy hat <Ezra> have?",
+        "AI": "The anime style cowboy hat <Ezra> is decorated with prayer beads and has a pair of goggles with a grinning face design."
+    },
+    "two_concept/concept/test/Ezra/3.png": {
+        "Human": "What unique feature does <Ezra> have on its front?",
+        "AI": "<Ezra> has two blue circular emblems with expressive faces on its front."
+    },
+    "two_concept/concept/test/Ezra/4.png": {
+        "Human": "What unique feature does <Ezra> have on its front?",
+        "AI": "<Ezra> has two circular emblems with distinct facial expressions on its front."
+    }
+}

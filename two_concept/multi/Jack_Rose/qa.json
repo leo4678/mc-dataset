@@ -1,0 +1,22 @@
+[
+    {
+        "question": "Are both <Jack> and <Rose> wearing formal or casual clothing in some images? A.Formal. B.Casual",
+        "answer": "A"
+    },
+    {
+        "question": "What are the hair colors of <Jack> and <Rose> respectively? A.Both brown. B.Brown, red",
+        "answer": "B"
+    },
+    {
+        "question": "What are the genders of <Jack> and <Rose> respectively? A.Male, female. B.Female, male",
+        "answer": "A"
+    },
+    {
+        "question": "Do <Jack> and <Rose> both appear to wear accessories like necklaces or rings? A.Yes. B.No",
+        "answer": "A"
+    },
+    {
+        "question": "Do <Jack> and <Rose> have similar hairstyles? A.Yes. B.No",
+        "answer": "B"
+    }
+]

@@ -1,0 +1,414 @@
+{
+    "two_concept/concept/train/QinZi/0.png": [
+        {
+            "Question": "What is <QinZi> hair color?",
+            "Answer": "<QinZi>'s hair color is black."
+        },
+        {
+            "Question": "What color are <QinZi> eyes?",
+            "Answer": "<QinZi>'s eyes are closed in the image, so their color cannot be determined."
+        },
+        {
+            "Question": "Would you describe <QinZi>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<QinZi>'s physique appears slim."
+        },
+        {
+            "Question": "What is <QinZi> skin tone?",
+            "Answer": "<QinZi>'s skin tone is light."
+        },
+        {
+            "Question": "How would you describe <QinZi> hairstyle?",
+            "Answer": "<QinZi>'s hairstyle is short, spiky, and tousled."
+        },
+        {
+            "Question": "Does <QinZi> wear glasses or any accessories?",
+            "Answer": "<QinZi> does not wear glasses or any accessories in the image."
+        },
+        {
+            "Question": "How would you describe <QinZi>'s attire?",
+            "Answer": "<QinZi> is wearing a light blue outfit with a white collar that has a decorative design."
+        },
+        {
+            "Question": "Does <QinZi> have any distinctive facial features?",
+            "Answer": "<QinZi> has a distinctive blush on their cheeks and a wide, happy smile."
+        },
+        {
+            "Question": "What is <QinZi> overall build or physique?",
+            "Answer": "<QinZi> has a petite and slender build."
+        },
+        {
+            "Question": "What is <QinZi> general expression or demeanor?",
+            "Answer": "<QinZi> has a joyful and happy expression, with eyes closed and a wide smile."
+        }
+    ],
+    "two_concept/concept/train/QinZi/1.png": [
+        {
+            "Question": "What is <QinZi> hair color?",
+            "Answer": "<QinZi>'s hair color is dark brown."
+        },
+        {
+            "Question": "What color are <QinZi> eyes?",
+            "Answer": "<QinZi>'s eyes are blue."
+        },
+        {
+            "Question": "Would you describe <QinZi>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<QinZi>'s physique appears slim."
+        },
+        {
+            "Question": "What is <QinZi> skin tone?",
+            "Answer": "<QinZi> has a light skin tone."
+        },
+        {
+            "Question": "How would you describe <QinZi> hairstyle?",
+            "Answer": "<QinZi>'s hairstyle is medium-length, straight, and features bangs that partially cover the forehead."
+        },
+        {
+            "Question": "Does <QinZi> wear glasses or any accessories?",
+            "Answer": "<QinZi> does not wear glasses but has a headband as an accessory."
+        },
+        {
+            "Question": "How would you describe <QinZi>'s attire?",
+            "Answer": "<QinZi> is wearing a blue school uniform with a white collar and a dark blue tie."
+        },
+        {
+            "Question": "Does <QinZi> have any distinctive facial features?",
+            "Answer": "<QinZi> has large, expressive blue eyes and a small, round nose."
+        },
+        {
+            "Question": "What is <QinZi> overall build or physique?",
+            "Answer": "<QinZi> has a slender and delicate build."
+        },
+        {
+            "Question": "What is <QinZi> general expression or demeanor?",
+            "Answer": "<QinZi> has a calm and slightly curious expression."
+        }
+    ],
+    "two_concept/concept/train/QinZi/2.png": [
+        {
+            "Question": "What is <QinZi> hair color?",
+            "Answer": "<QinZi>'s hair color is brown."
+        },
+        {
+            "Question": "Would you describe <QinZi>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<QinZi>'s physique appears to be slim."
+        },
+        {
+            "Question": "What is <QinZi> skin tone?",
+            "Answer": "<QinZi>'s skin tone is light."
+        },
+        {
+            "Question": "How would you describe <QinZi> hairstyle?",
+            "Answer": "<QinZi>'s hairstyle is long and slightly messy, with hair extending past the shoulders and some strands sticking out at the top."
+        },
+        {
+            "Question": "Does <QinZi> wear glasses or any accessories?",
+            "Answer": "<QinZi> is wearing a headband with pink heart-shaped accessories."
+        },
+        {
+            "Question": "How would you describe <QinZi>'s attire?",
+            "Answer": "<QinZi> is wearing a blue sailor-style uniform with a white collar and red accents."
+        },
+        {
+            "Question": "Does <QinZi> have any distinctive facial features?",
+            "Answer": "I cannot determine if <QinZi> has any distinctive facial features based on the provided image."
+        },
+        {
+            "Question": "What is <QinZi> overall build or physique?",
+            "Answer": "<QinZi> has a slender build."
+        },
+        {
+            "Question": "What is <QinZi> general expression or demeanor?",
+            "Answer": "<QinZi> has a cheerful and playful demeanor, as indicated by the heart decorations around their head."
+        }
+    ],
+    "two_concept/concept/train/QinZi/3.png": [
+        {
+            "Question": "What is <QinZi> hair color?",
+            "Answer": "<QinZi>'s hair color is brown."
+        },
+        {
+            "Question": "What color are <QinZi> eyes?",
+            "Answer": "<QinZi>'s eyes are blue."
+        },
+        {
+            "Question": "Would you describe <QinZi>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<QinZi>'s physique appears slim."
+        },
+        {
+            "Question": "What is <QinZi> skin tone?",
+            "Answer": "<QinZi>'s skin tone is light."
+        },
+        {
+            "Question": "How would you describe <QinZi> hairstyle?",
+            "Answer": "<QinZi>'s hairstyle is medium-length with bangs and is complemented by wearing goggles on the head."
+        },
+        {
+            "Question": "Does <QinZi> wear glasses or any accessories?",
+            "Answer": "<QinZi> is wearing goggles on their head."
+        },
+        {
+            "Question": "How would you describe <QinZi>'s attire?",
+            "Answer": "<QinZi> is wearing a blue scarf and goggles on their head."
+        },
+        {
+            "Question": "Does <QinZi> have any distinctive facial features?",
+            "Answer": "<QinZi> has large, expressive blue eyes and a small, pointed nose."
+        },
+        {
+            "Question": "What is <QinZi> overall build or physique?",
+            "Answer": "<QinZi> has a slender and youthful build."
+        },
+        {
+            "Question": "What is <QinZi> general expression or demeanor?",
+            "Answer": "<QinZi> has a calm and content expression."
+        }
+    ],
+    "two_concept/concept/train/QinZi/4.png": [
+        {
+            "Question": "What is <QinZi> hair color?",
+            "Answer": "<QinZi>'s hair color is brown."
+        },
+        {
+            "Question": "What color are <QinZi> eyes?",
+            "Answer": "<QinZi>'s eyes are blue."
+        },
+        {
+            "Question": "Would you describe <QinZi>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<QinZi>'s physique appears to be slim."
+        },
+        {
+            "Question": "What is <QinZi> skin tone?",
+            "Answer": "<QinZi>'s skin tone is light."
+        },
+        {
+            "Question": "How would you describe <QinZi> hairstyle?",
+            "Answer": "<QinZi>'s hairstyle is medium-length with a layered cut, featuring bangs that partially cover the forehead and a slightly tousled look."
+        },
+        {
+            "Question": "Does <QinZi> wear glasses or any accessories?",
+            "Answer": "<QinZi> does not wear glasses or any accessories."
+        },
+        {
+            "Question": "How would you describe <QinZi>'s attire?",
+            "Answer": "<QinZi> is wearing a blue school uniform with a white collar and red accents."
+        },
+        {
+            "Question": "Does <QinZi> have any distinctive facial features?",
+            "Answer": "<QinZi> has large, expressive eyes and a small mouth."
+        },
+        {
+            "Question": "What is <QinZi> overall build or physique?",
+            "Answer": "<QinZi> has a slender build."
+        },
+        {
+            "Question": "What is <QinZi> general expression or demeanor?",
+            "Answer": "<QinZi> has a surprised or shocked expression, with wide eyes and an open mouth."
+        }
+    ],
+    "two_concept/concept/train/QinZi/5.png": [
+        {
+            "Question": "What is <QinZi> hair color?",
+            "Answer": "<QinZi>'s hair color is brown."
+        },
+        {
+            "Question": "What color are <QinZi> eyes?",
+            "Answer": "<QinZi>'s eye color cannot be determined from the image."
+        },
+        {
+            "Question": "Would you describe <QinZi>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<QinZi>'s physique appears to be slim."
+        },
+        {
+            "Question": "What is <QinZi> skin tone?",
+            "Answer": "<QinZi>'s skin tone is light."
+        },
+        {
+            "Question": "How would you describe <QinZi> hairstyle?",
+            "Answer": "<QinZi>'s hairstyle is short and slightly tousled, with some strands sticking out and a bit of volume at the top."
+        },
+        {
+            "Question": "Does <QinZi> wear glasses or any accessories?",
+            "Answer": "<QinZi> wears glasses."
+        },
+        {
+            "Question": "How would you describe <QinZi>'s attire?",
+            "Answer": "<QinZi> is wearing a school uniform with a dark-colored top featuring a sailor-style collar and light-colored trim."
+        },
+        {
+            "Question": "Does <QinZi> have any distinctive facial features?",
+            "Answer": "I cannot determine any distinctive facial features for <QinZi> based on the provided image."
+        },
+        {
+            "Question": "What is <QinZi> overall build or physique?",
+            "Answer": "<QinZi> has a slender build."
+        },
+        {
+            "Question": "What is <QinZi> general expression or demeanor?",
+            "Answer": "<QinZi> has a calm and composed demeanor."
+        }
+    ],
+    "two_concept/concept/train/QinZi/6.png": [
+        {
+            "Question": "What is <QinZi> hair color?",
+            "Answer": "<QinZi>'s hair color is brown."
+        },
+        {
+            "Question": "What color are <QinZi> eyes?",
+            "Answer": "<QinZi>'s eyes are blue."
+        },
+        {
+            "Question": "Would you describe <QinZi>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<QinZi>'s physique appears to be slim."
+        },
+        {
+            "Question": "What is <QinZi> skin tone?",
+            "Answer": "<QinZi>'s skin tone is fair."
+        },
+        {
+            "Question": "How would you describe <QinZi> hairstyle?",
+            "Answer": "\"<QinZi>'s hairstyle is short and spiky on top, with longer strands framing the sides of the face.\""
+        },
+        {
+            "Question": "Does <QinZi> wear glasses or any accessories?",
+            "Answer": "<QinZi> is not wearing glasses but is wearing a necklace."
+        },
+        {
+            "Question": "How would you describe <QinZi>'s attire?",
+            "Answer": "<QinZi> is wearing a blue dress with a matching blue shawl. The dress features a light blue bodice with a decorative necklace."
+        },
+        {
+            "Question": "Does <QinZi> have any distinctive facial features?",
+            "Answer": "<QinZi> has large, expressive eyes and a surprised expression."
+        },
+        {
+            "Question": "What is <QinZi> overall build or physique?",
+            "Answer": "<QinZi> has a slender and petite build."
+        },
+        {
+            "Question": "What is <QinZi> general expression or demeanor?",
+            "Answer": "<QinZi> has a surprised or shocked expression, with wide eyes and a hand covering their mouth."
+        }
+    ],
+    "two_concept/concept/train/QinZi/7.png": [
+        {
+            "Question": "What is <QinZi> hair color?",
+            "Answer": "<QinZi>'s hair color is black."
+        },
+        {
+            "Question": "What color are <QinZi> eyes?",
+            "Answer": "<QinZi>'s eyes are blue."
+        },
+        {
+            "Question": "Would you describe <QinZi>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<QinZi>'s physique appears to be slim."
+        },
+        {
+            "Question": "What is <QinZi> skin tone?",
+            "Answer": "<QinZi> has a light skin tone."
+        },
+        {
+            "Question": "How would you describe <QinZi> hairstyle?",
+            "Answer": "<QinZi>'s hairstyle is short with bangs that fall across the forehead and a few strands that frame the face."
+        },
+        {
+            "Question": "Does <QinZi> wear glasses or any accessories?",
+            "Answer": "<QinZi> is wearing rose-shaped earrings as accessories. She is not wearing glasses."
+        },
+        {
+            "Question": "How would you describe <QinZi>'s attire?",
+            "Answer": "<QinZi> is wearing a white bridal veil and large rose-shaped earrings."
+        },
+        {
+            "Question": "Does <QinZi> have any distinctive facial features?",
+            "Answer": "<QinZi> has large, expressive eyes and a small mouth."
+        },
+        {
+            "Question": "What is <QinZi> overall build or physique?",
+            "Answer": "<QinZi> has a slender and delicate build."
+        },
+        {
+            "Question": "What is <QinZi> general expression or demeanor?",
+            "Answer": "<QinZi> has a surprised and slightly shocked expression."
+        }
+    ],
+    "two_concept/concept/train/QinZi/8.png": [
+        {
+            "Question": "What is <QinZi> hair color?",
+            "Answer": "<QinZi>'s hair color is dark brown."
+        },
+        {
+            "Question": "What color are <QinZi> eyes?",
+            "Answer": "<QinZi>'s eyes are closed in the image."
+        },
+        {
+            "Question": "Would you describe <QinZi>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<QinZi>'s physique appears slim."
+        },
+        {
+            "Question": "What is <QinZi> skin tone?",
+            "Answer": "<QinZi> has a light skin tone."
+        },
+        {
+            "Question": "How would you describe <QinZi> hairstyle?",
+            "Answer": "<QinZi>'s hairstyle is short to medium length with a tousled, layered look. The hair has a slightly messy appearance with some strands sticking out, and it features bangs that partially cover the forehead."
+        },
+        {
+            "Question": "Does <QinZi> wear glasses or any accessories?",
+            "Answer": "<QinZi> does not wear glasses or any accessories."
+        },
+        {
+            "Question": "How would you describe <QinZi>'s attire?",
+            "Answer": "<QinZi> is wearing a blue jacket over a yellow shirt."
+        },
+        {
+            "Question": "Does <QinZi> have any distinctive facial features?",
+            "Answer": "<QinZi> has a distinctive facial feature of closed eyes with a happy expression, characterized by a small, puckered mouth."
+        },
+        {
+            "Question": "What is <QinZi> overall build or physique?",
+            "Answer": "<QinZi> has a slender and petite build."
+        },
+        {
+            "Question": "What is <QinZi> general expression or demeanor?",
+            "Answer": "<QinZi> has a cheerful and content expression, with closed eyes and a slight smile."
+        }
+    ],
+    "two_concept/concept/train/QinZi/9.png": [
+        {
+            "Question": "What is <QinZi> hair color?",
+            "Answer": "<QinZi>'s hair color is dark brown."
+        },
+        {
+            "Question": "Would you describe <QinZi>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<QinZi>'s physique appears to be slim."
+        },
+        {
+            "Question": "What is <QinZi> skin tone?",
+            "Answer": "<QinZi>'s skin tone is light."
+        },
+        {
+            "Question": "How would you describe <QinZi> hairstyle?",
+            "Answer": "<QinZi>'s hairstyle is medium-length with a slightly messy and layered look, featuring some strands sticking out."
+        },
+        {
+            "Question": "Does <QinZi> wear glasses or any accessories?",
+            "Answer": "<QinZi> does not wear glasses or any accessories."
+        },
+        {
+            "Question": "How would you describe <QinZi>'s attire?",
+            "Answer": "<QinZi> is wearing a formal outfit that includes a dark-colored shirt, a tie, and a light-colored jacket with ruffled details on the shoulders."
+        },
+        {
+            "Question": "Does <QinZi> have any distinctive facial features?",
+            "Answer": "I cannot determine any distinctive facial features of <QinZi> due to the blurred face."
+        },
+        {
+            "Question": "What is <QinZi> overall build or physique?",
+            "Answer": "<QinZi> has a slender build."
+        },
+        {
+            "Question": "What is <QinZi> general expression or demeanor?",
+            "Answer": "<QinZi> has a serious and focused demeanor."
+        }
+    ]
+}

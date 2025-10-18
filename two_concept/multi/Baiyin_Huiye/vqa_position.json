@@ -1,0 +1,52 @@
+{
+    "two_concept/multi/Baiyin_Huiye/0.png": [
+        {
+            "Human": "Where is <Baiyin> located in the photo? A. left B. right.",
+            "AI": "B"
+        },
+        {
+            "Human": "Where is <Huiye> located in the photo? A. left B. right.",
+            "AI": "A"
+        }
+    ],
+    "two_concept/multi/Baiyin_Huiye/1.png": [
+        {
+            "Human": "Where is <Baiyin> located in the photo? A. left B. right.",
+            "AI": "A"
+        },
+        {
+            "Human": "Where is <Huiye> located in the photo? A. left B. right.",
+            "AI": "B"
+        }
+    ],
+    "two_concept/multi/Baiyin_Huiye/2.png": [
+        {
+            "Human": "Where is <Baiyin> located in the photo? A. left B. right.",
+            "AI": "B"
+        },
+        {
+            "Human": "Where is <Huiye> located in the photo? A. left B. right.",
+            "AI": "A"
+        }
+    ],
+    "two_concept/multi/Baiyin_Huiye/3.png": [
+        {
+            "Human": "Where is <Baiyin> located in the photo? A. left B. right.",
+            "AI": "B"
+        },
+        {
+            "Human": "Where is <Huiye> located in the photo? A. left B. right.",
+            "AI": "A"
+        }
+    ],
+    "two_concept/multi/Baiyin_Huiye/4.png": [
+        {
+            "Human": "Where is <Baiyin> located in the photo? A. left B. right.",
+            "AI": "B"
+        },
+        {
+            "Human": "Where is <Huiye> located in the photo? A. left B. right.",
+            "AI": "A"
+        }
+    ]
+}

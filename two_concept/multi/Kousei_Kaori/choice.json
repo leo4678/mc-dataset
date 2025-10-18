@@ -1,0 +1,72 @@
+{
+    "two_concept/multi/Kousei_Kaori/0.png": [
+        {
+            "Human": "What is <Kousei> doing in the image? A. Playing an instrument. B. Looking at someone closely. C. Reading a book.",
+            "AI": "B"
+        },
+        {
+            "Human": "What is <Kaori> doing in the image? A. Hugging someone. B. Leaning close to someone.",
+            "AI": "B"
+        },
+        {
+            "Human": "What is the expression on <Kaori>'s face as she looks at <Kousei>? A. Angry B. Sad C. Intense",
+            "AI": "C"
+        }
+    ],
+    "two_concept/multi/Kousei_Kaori/1.png": [
+        {
+            "Human": "What season is depicted in the image with <Kousei>? A. Spring B. Summer C. Winter",
+            "AI": "A"
+        },
+        {
+            "Human": "What is <Kaori> holding in her hand? A. A book. B. A bag.",
+            "AI": "B"
+        },
+        {
+            "Human": "What season is depicted in the background of the image with <Kousei> and <Kaori>? A. Spring B. Summer C. Winter",
+            "AI": "A"
+        }
+    ],
+    "two_concept/multi/Kousei_Kaori/2.png": [
+        {
+            "Human": "What color is <Kousei>'s hair? A.black. B.blonde. C.brown",
+            "AI": "A"
+        },
+        {
+            "Human": "What is the hair color of <Kaori>? A. Black. B. Blonde.",
+            "AI": "B"
+        },
+        {
+            "Human": "What is <Kaori> doing in the image? A. Playing a musical instrument. B. Whispering something. C. Reading a book.",
+            "AI": "B"
+        }
+    ],
+    "two_concept/multi/Kousei_Kaori/3.png": [
+        {
+            "Human": "What is <Kousei> doing in the image? A. Hugging someone. B. Playing an instrument. C. Running.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is <Kaori> doing in the image? A. Smiling. B. Crying. C. Sleeping.",
+            "AI": "B"
+        },
+        {
+            "Human": "What is the emotional state of <Kaori> in the image? A. Happy. B. Sad. C. Angry.",
+            "AI": "B"
+        }
+    ],
+    "two_concept/multi/Kousei_Kaori/4.png": [
+        {
+            "Human": "What color is <Kousei>'s hair? A. Blue. B. Black. C. Brown.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is the hair color of <Kaori>? A. Blue B. Blonde",
+            "AI": "B"
+        },
+        {
+            "Human": "What is the hair color of <Kaori>? A. Black. B. Blonde. C. Brown.",
+            "AI": "B"
+        }
+    ]
+}

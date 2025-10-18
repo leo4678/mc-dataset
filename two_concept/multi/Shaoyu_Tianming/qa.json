@@ -1,0 +1,22 @@
+[
+    {
+        "question": "Are both <Shaoyu> and <Tianming> humans or animals? A. Humans. B. Animals",
+        "answer": "A"
+    },
+    {
+        "question": "What are the hair colors of <Shaoyu> and <Tianming> respectively? A. Brown, Black. B. Black, Brown",
+        "answer": "B"
+    },
+    {
+        "question": "What type of clothing do <Shaoyu> and <Tianming> often wear? A. Traditional, Casual. B. Casual, Traditional",
+        "answer": "A"
+    },
+    {
+        "question": "Do <Shaoyu> and <Tianming> both wear accessories on their arms? A. Yes. B. No",
+        "answer": "A"
+    },
+    {
+        "question": "What are the dominant colors of <Shaoyu>'s and <Tianming>'s outfits? A. Purple, Yellow. B. Yellow, Purple",
+        "answer": "A"
+    }
+]

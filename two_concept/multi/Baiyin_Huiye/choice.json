@@ -1,0 +1,72 @@
+{
+    "two_concept/multi/Baiyin_Huiye/0.png": [
+        {
+            "Human": "What is <Baiyin> doing in the image? A. Sitting on a couch. B. Standing by a window. C. Reading a book.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is <Huiye> doing in the image? A. Sitting on the couch. B. Standing in front of the couch. C. Lying down on the floor.",
+            "AI": "B"
+        },
+        {
+            "Human": "What is <Baiyin> doing in the image? A. Sitting on a sofa. B. Standing near the window.  C. Reading a book.",
+            "AI": "A"
+        }
+    ],
+    "two_concept/multi/Baiyin_Huiye/1.png": [
+        {
+            "Human": "What is <Baiyin> wearing in the image? A.A suit. B.A school uniform.",
+            "AI": "B"
+        },
+        {
+            "Human": "What is <Huiye> holding in her hands? A. a book. B. a plate. C. a cup.",
+            "AI": "B"
+        },
+        {
+            "Human": "What is <Huiye> holding in the image? A. A book. B. A plate. C. A cup.",
+            "AI": "B"
+        }
+    ],
+    "two_concept/multi/Baiyin_Huiye/2.png": [
+        {
+            "Human": "What is the eye color of <Baiyin>? A.red. B.green",
+            "AI": "A"
+        },
+        {
+            "Human": "What is the expression on <Huiye>'s face in the image? A.smiling B.serious C.worried",
+            "AI": "C"
+        },
+        {
+            "Human": "What is the expression on <Huiye>'s face? A. happy. B. sad. C. anxious.",
+            "AI": "C"
+        }
+    ],
+    "two_concept/multi/Baiyin_Huiye/3.png": [
+        {
+            "Human": "What is <Baiyin> wearing in the image? A. Casual clothes. B. School uniform.",
+            "AI": "B"
+        },
+        {
+            "Human": "What color is the ribbon in <Huiye>'s hair? A.red B.blue",
+            "AI": "A"
+        },
+        {
+            "Human": "What kind of uniform is <Baiyin> wearing in the image? A. Sports uniform B. School uniform C. Military uniform",
+            "AI": "B"
+        }
+    ],
+    "two_concept/multi/Baiyin_Huiye/4.png": [
+        {
+            "Human": "What is <Baiyin>'s facial expression in the image? A. Happy. B. Surprised. C. Angry.",
+            "AI": "B"
+        },
+        {
+            "Human": "What is the expression on <Huiye>'s face? A. Sad. B. Nervous. C. Angry.",
+            "AI": "B"
+        },
+        {
+            "Human": "What is the expression on <Baiyin>'s face while <Huiye> is in the background? A. scared. B. happy. C. angry",
+            "AI": "A"
+        }
+    ]
+}

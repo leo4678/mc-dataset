@@ -1,0 +1,22 @@
+[
+    {
+        "question": "What sport do <james> and <curry> play? A.Basketball. B.Football",
+        "answer": "A"
+    },
+    {
+        "question": "What is the common feature of <james> and <curry>'s jerseys? A.Both have the number 23. B.Both have the number 30",
+        "answer": "B"
+    },
+    {
+        "question": "Which team colors do <james> and <curry> wear respectively? A.Yellow and Blue, Blue and Yellow. B.Blue and Yellow, Yellow and Blue",
+        "answer": "A"
+    },
+    {
+        "question": "Do <james> and <curry> both have tattoos? A.Yes. B.No",
+        "answer": "A"
+    },
+    {
+        "question": "What type of clothing do <james> and <curry> often wear during games? A.Casual. B.Sports jerseys",
+        "answer": "B"
+    }
+]

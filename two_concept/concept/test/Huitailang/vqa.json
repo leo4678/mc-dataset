@@ -1,0 +1,22 @@
+{
+    "two_concept/concept/test/Huitailang/0.jpg": {
+        "Human": "What is <Huitailang> wearing on his head?",
+        "AI": "<Huitailang> is wearing an orange hat with a patch on his head."
+    },
+    "two_concept/concept/test/Huitailang/1.jpg": {
+        "Human": "What is the expression on <Huitailang>'s face?",
+        "AI": "<Huitailang> looks sad and worried."
+    },
+    "two_concept/concept/test/Huitailang/2.jpg": {
+        "Human": "What is <Huitailang> holding in the image?",
+        "AI": "<Huitailang> is holding an orange object that looks like a microphone."
+    },
+    "two_concept/concept/test/Huitailang/3.jpg": {
+        "Human": "What is <Huitailang> wearing on his head?",
+        "AI": "<Huitailang> is wearing a patched hat on his head."
+    },
+    "two_concept/concept/test/Huitailang/5.jpg": {
+        "Human": "What is the expression on <Huitailang>'s face?",
+        "AI": "<Huitailang> looks sad and is crying."
+    }
+}

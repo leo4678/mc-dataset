@@ -1,0 +1,72 @@
+{
+    "two_concept/multi/KuaiDou_QinZi/0.png": [
+        {
+            "Human": "What is <KuaiDou> wearing in the image?",
+            "AI": "<KuaiDou> is wearing a white hoodie."
+        },
+        {
+            "Human": "What are <QinZi> and the other person wearing in the image?",
+            "AI": "<QinZi> and the other person are both wearing white hoodies."
+        },
+        {
+            "Human": "What are <KuaiDou> and <QinZi> wearing in the image?",
+            "AI": "<KuaiDou> and <QinZi> are both wearing white hoodies."
+        }
+    ],
+    "two_concept/multi/KuaiDou_QinZi/1.png": [
+        {
+            "Human": "What is <KuaiDou> doing in the image?",
+            "AI": "<KuaiDou> is whispering something to someone."
+        },
+        {
+            "Human": "What is the hair color of <QinZi>?",
+            "AI": "<QinZi> has brown hair."
+        },
+        {
+            "Human": "What is <KuaiDou> doing in the image?",
+            "AI": "<KuaiDou> is whispering something to <QinZi>."
+        }
+    ],
+    "two_concept/multi/KuaiDou_QinZi/2.png": [
+        {
+            "Human": "What is <KuaiDou> wearing in the image?",
+            "AI": "<KuaiDou> is wearing a white suit with a blue shirt and a red tie."
+        },
+        {
+            "Human": "What is <QinZi> wearing in the image?",
+            "AI": "<QinZi> is wearing a white outfit with a matching headscarf and earrings."
+        },
+        {
+            "Human": "What is the expression on <QinZi>'s face?",
+            "AI": "<QinZi> has a happy and smiling expression on her face."
+        }
+    ],
+    "two_concept/multi/KuaiDou_QinZi/3.png": [
+        {
+            "Human": "What are <KuaiDou> and the girl doing in the image?",
+            "AI": "<KuaiDou> and the girl are making a heart shape with their hands."
+        },
+        {
+            "Human": "What is <QinZi> doing in the image?",
+            "AI": "<QinZi> is making a heart shape with their hands together with another person."
+        },
+        {
+            "Human": "What are <KuaiDou> and <QinZi> doing in the image?",
+            "AI": "<KuaiDou> and <QinZi> are making a heart shape with their hands."
+        }
+    ],
+    "two_concept/multi/KuaiDou_QinZi/4.png": [
+        {
+            "Human": "What is <KuaiDou> holding in the image?",
+            "AI": "<KuaiDou> is holding a book in the image."
+        },
+        {
+            "Human": "What is the expression on <QinZi>'s face?",
+            "AI": "<QinZi> looks thoughtful and slightly concerned."
+        },
+        {
+            "Human": "What are <KuaiDou> and <QinZi> doing in the image?",
+            "AI": "<KuaiDou> is holding a book and smiling, while <QinZi> is resting her head on her hand and looking thoughtful."
+        }
+    ]
+}

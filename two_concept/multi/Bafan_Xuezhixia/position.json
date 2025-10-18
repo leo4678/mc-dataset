@@ -1,0 +1,22 @@
+{
+    "0.png": {
+        "<Bafan>": "right",
+        "<Xuezhixia>": "left"
+    },
+    "1.png": {
+        "<Bafan>": "left",
+        "<Xuezhixia>": "right"
+    },
+    "2.png": {
+        "<Bafan>": "right",
+        "<Xuezhixia>": "left"
+    },
+    "3.png": {
+        "<Bafan>": "right",
+        "<Xuezhixia>": "left"
+    },
+    "4.png": {
+        "<Bafan>": "left",
+        "<Xuezhixia>": "right"
+    }
+}

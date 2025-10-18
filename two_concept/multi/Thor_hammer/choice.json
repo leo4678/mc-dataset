@@ -1,0 +1,72 @@
+{
+    "two_concept/multi/Thor_hammer/0.jpg": [
+        {
+            "Human": "What is <Thor> holding in the image? A.a sword. B.a hammer. C.a shield.",
+            "AI": "B"
+        },
+        {
+            "Human": "What is the character holding in the image? A.<hammer>. B.sword. C.shield",
+            "AI": "A"
+        },
+        {
+            "Human": "What is <Thor> holding in the image? A.<hammer>. B.sword. C.shield",
+            "AI": "A"
+        }
+    ],
+    "two_concept/multi/Thor_hammer/1.png": [
+        {
+            "Human": "What is <Thor> holding in the image? A. A sword. B. A hammer. C. A shield.",
+            "AI": "B"
+        },
+        {
+            "Human": "What is the color of the <hammer> in the image? A.silver. B.gold. C.black",
+            "AI": "A"
+        },
+        {
+            "Human": "What is <Thor> holding in the image? A.<hammer>. B.sword. C.shield",
+            "AI": "A"
+        }
+    ],
+    "two_concept/multi/Thor_hammer/2.png": [
+        {
+            "Human": "What is <Thor> holding in the image? A.a sword. B.a hammer. C.a shield.",
+            "AI": "B"
+        },
+        {
+            "Human": "What is the <hammer> being held by the character in the image? A. A wooden hammer. B. A metal hammer.",
+            "AI": "B"
+        },
+        {
+            "Human": "What is <Thor> holding in the image? A. a sword. B. a shield. C. a <hammer>",
+            "AI": "C"
+        }
+    ],
+    "two_concept/multi/Thor_hammer/3.png": [
+        {
+            "Human": "What is <Thor> doing in the image? A. Holding a shield. B. Reaching for his hammer. C. Riding a horse.",
+            "AI": "B"
+        },
+        {
+            "Human": "What is the <hammer> doing in the image? A. Lying on the ground. B. Floating in the air. C. Being held by someone.",
+            "AI": "B"
+        },
+        {
+            "Human": "What is <Thor> doing with the <hammer> in the image? A.throwing it. B.calling it back to his hand. C.using it to fly",
+            "AI": "B"
+        }
+    ],
+    "two_concept/multi/Thor_hammer/4.jpg": [
+        {
+            "Human": "What is <Thor> holding in the image? A.a sword. B.a hammer. C.a shield.",
+            "AI": "B"
+        },
+        {
+            "Human": "What is <hammer> being used for in the image? A.as a weapon. B.as a tool for construction. C.as a decorative item",
+            "AI": "A"
+        },
+        {
+            "Human": "What is <Thor> holding in the image? A. a sword. B. a shield. C. a <hammer>",
+            "AI": "C"
+        }
+    ]
+}

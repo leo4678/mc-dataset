@@ -1,0 +1,22 @@
+{
+    "three_concept/concept/test/Vane/0.png": {
+        "Human": "What is the shape of <Vane>'s facial features? \n A. Circular with a bear-like nose; \n B. Square with a cat-like nose; \n C. Triangular with a dog-like nose;\n",
+        "AI": "A"
+    },
+    "three_concept/concept/test/Vane/1.png": {
+        "Human": "What is the primary color of <Vane>? \n A. Blue; \n B. Yellow; \n C. Green;",
+        "AI": "B"
+    },
+    "three_concept/concept/test/Vane/2.png": {
+        "Human": "What is the primary color of <Vane>? \n A. Blue; \n B. Yellow; \n C. Green;",
+        "AI": "B"
+    },
+    "three_concept/concept/test/Vane/3.png": {
+        "Human": "What is the primary color of <Vane>? \n A. Blue; \n B. Yellow; \n C. Green;",
+        "AI": "B"
+    },
+    "three_concept/concept/test/Vane/4.png": {
+        "Human": "What is the shape of the object surrounding <Vane>? \n A. A star; \n B. A circle; \n C. A square;\n",
+        "AI": "A"
+    }
+}

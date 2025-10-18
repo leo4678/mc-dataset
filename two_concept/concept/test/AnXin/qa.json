@@ -1,0 +1,22 @@
+[
+    {
+        "question": "What is the hair color of <AnXin>? A. Black. B. Grey",
+        "answer": "B"
+    },
+    {
+        "question": "What type of clothing does <AnXin> often wear? A. Casual. B. Formal",
+        "answer": "B"
+    },
+    {
+        "question": "Does <AnXin> wear a uniform? A. Yes. B. No",
+        "answer": "A"
+    },
+    {
+        "question": "What accessory is <AnXin> seen wearing? A. Hat. B. Glasses",
+        "answer": "A"
+    },
+    {
+        "question": "What is the general setting for <AnXin>? A. Indoor. B. Outdoor",
+        "answer": "A"
+    }
+]

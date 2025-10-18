@@ -1,0 +1,22 @@
+{
+    "two_concept/concept/test/Zhao Guohui/0.png": {
+        "Human": "What attire is <Zhao Guohui> wearing in the image?",
+        "AI": "<Zhao Guohui> is wearing a light-colored, striped long-sleeve shirt with a dark apron."
+    },
+    "two_concept/concept/test/Zhao Guohui/1.png": {
+        "Human": "What type of clothing is <Zhao Guohui> wearing in the image?",
+        "AI": "<Zhao Guohui> is wearing a plaid dress with short sleeves in the image."
+    },
+    "two_concept/concept/test/Zhao Guohui/2.png": {
+        "Human": "What date is prominently displayed in the image featuring <Zhao Guohui>?",
+        "AI": "The date prominently displayed is 2015.12.11."
+    },
+    "two_concept/concept/test/Zhao Guohui/3.png": {
+        "Human": "What color is the inner clothing of <Zhao Guohui> in the image?",
+        "AI": "The inner clothing of <Zhao Guohui> is yellow."
+    },
+    "two_concept/concept/test/Zhao Guohui/4.png": {
+        "Human": "What type of dress is <Zhao Guohui> wearing in the image?",
+        "AI": "<Zhao Guohui> is wearing a traditional Chinese qipao dress in the image."
+    }
+}

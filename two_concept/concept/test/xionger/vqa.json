@@ -1,0 +1,22 @@
+{
+    "two_concept/concept/test/xionger/0.png": {
+        "Human": "What is <xionger> holding in their hand?",
+        "AI": "<xionger> is holding a clay pot in their hand."
+    },
+    "two_concept/concept/test/xionger/1.png": {
+        "Human": "What is the expression on <xionger>'s face in the image?",
+        "AI": "<xionger> appears to have a surprised or concerned expression on his face."
+    },
+    "two_concept/concept/test/xionger/2.png": {
+        "Human": "What color are <xionger>'s eyes in the image?",
+        "AI": "<xionger>'s eyes are blue in the image."
+    },
+    "two_concept/concept/test/xionger/3.png": {
+        "Human": "What is the background setting where <xionger> is located?",
+        "AI": "<xionger> is located in a forest setting with trees and greenery in the background."
+    },
+    "two_concept/concept/test/xionger/4.png": {
+        "Human": "What type of environment is <xionger> in?",
+        "AI": "<xionger> is in a forested environment with trees and a clear sky in the background."
+    }
+}

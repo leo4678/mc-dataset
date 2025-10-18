@@ -1,0 +1,22 @@
+{
+    "two_concept/concept/test/Kaori/0.png": {
+        "Human": "What is <Kaori> holding in her arms?",
+        "AI": "<Kaori> is holding a black cat in her arms."
+    },
+    "two_concept/concept/test/Kaori/1.png": {
+        "Human": "What color is <Kaori>'s hair?",
+        "AI": "<Kaori>'s hair is blonde."
+    },
+    "two_concept/concept/test/Kaori/2.png": {
+        "Human": "What color is <Kaori>'s hair in the image?",
+        "AI": "<Kaori>'s hair is blonde."
+    },
+    "two_concept/concept/test/Kaori/3.png": {
+        "Human": "What color is <Kaori>'s hair in the image?",
+        "AI": "<Kaori>'s hair is blonde."
+    },
+    "two_concept/concept/test/Kaori/u=4064561040,2602308670&fm=253&fmt=auto&app=120&f=JPEG.png": {
+        "Human": "What is the background setting in the image featuring <Kaori>?",
+        "AI": "The background setting in the image featuring <Kaori> includes cherry blossoms."
+    }
+}

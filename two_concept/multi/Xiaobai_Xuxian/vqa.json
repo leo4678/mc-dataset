@@ -1,0 +1,72 @@
+{
+    "two_concept/multi/Xiaobai_Xuxian/0.jpg": [
+        {
+            "Human": "What is <Xiaobai> doing in the image?",
+            "AI": "<Xiaobai> is having her hair adjusted by someone."
+        },
+        {
+            "Human": "What is <Xuxian> doing in the image?",
+            "AI": "<Xuxian> is tying a ribbon in the hair of the person on the right."
+        },
+        {
+            "Human": "What is <Xuxian> doing in the image with <Xiaobai>?",
+            "AI": "<Xuxian> is tying a ribbon in <Xiaobai>'s hair."
+        }
+    ],
+    "two_concept/multi/Xiaobai_Xuxian/1.jpg": [
+        {
+            "Human": "What is <Xiaobai> wearing in the image?",
+            "AI": "<Xiaobai> is wearing a white traditional outfit with long sleeves and light blue accents."
+        },
+        {
+            "Human": "What is <Xuxian> holding in the image?",
+            "AI": "<Xuxian> is holding a woven basket."
+        },
+        {
+            "Human": "What are <Xiaobai> and <Xuxian> doing in the image?",
+            "AI": "<Xiaobai> is standing with her hands clasped together, while <Xuxian> is holding a basket."
+        }
+    ],
+    "two_concept/multi/Xiaobai_Xuxian/2.jpg": [
+        {
+            "Human": "What is <Xiaobai> doing in the image?",
+            "AI": "<Xiaobai> is standing close to someone who is playing a flute."
+        },
+        {
+            "Human": "What is <Xuxian> holding in the image?",
+            "AI": "<Xuxian> is holding a bamboo flute."
+        },
+        {
+            "Human": "What are <Xiaobai> and <Xuxian> doing in the image?",
+            "AI": "<Xiaobai> and <Xuxian> are playing a flute together."
+        }
+    ],
+    "two_concept/multi/Xiaobai_Xuxian/3.jpg": [
+        {
+            "Human": "What is <Xiaobai> wearing in the image?",
+            "AI": "<Xiaobai> is wearing a flowing white and light blue robe."
+        },
+        {
+            "Human": "What is <Xuxian> holding in the image?",
+            "AI": "<Xuxian> is holding a small animal in the image."
+        },
+        {
+            "Human": "What are <Xiaobai> and <Xuxian> doing in the image?",
+            "AI": "<Xiaobai> and <Xuxian> are flying over a scenic landscape with mountains and water below."
+        }
+    ],
+    "two_concept/multi/Xiaobai_Xuxian/4.jpg": [
+        {
+            "Human": "What are <Xiaobai> and the person next to them wearing?",
+            "AI": "<Xiaobai> is wearing a white traditional outfit, while the person next to them is wearing a brown traditional outfit."
+        },
+        {
+            "Human": "What are <Xuxian> and the person next to them wearing?",
+            "AI": "<Xuxian> is wearing a brown traditional outfit, while the person next to them is wearing a white traditional dress."
+        },
+        {
+            "Human": "What are <Xiaobai> and <Xuxian> wearing in the image?",
+            "AI": "<Xiaobai> is wearing a white traditional outfit, and <Xuxian> is wearing a brown traditional outfit."
+        }
+    ]
+}

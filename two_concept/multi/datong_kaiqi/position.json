@@ -1,0 +1,22 @@
+{
+    "0.jpg": {
+        "<datong>": "left",
+        "<kaiqi>": "right"
+    },
+    "1.jpg": {
+        "<datong>": "right",
+        "<kaiqi>": "left"
+    },
+    "2.jpg": {
+        "<datong>": "left",
+        "<kaiqi>": "right"
+    },
+    "3.jpg": {
+        "<datong>": "right",
+        "<kaiqi>": "left"
+    },
+    "4.jpg": {
+        "<datong>": "right",
+        "<kaiqi>": "left"
+    }
+}

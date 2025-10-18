@@ -1,0 +1,27 @@
+{
+    "0.png": {
+        "<LiKe>": "left",
+        "<LeiGu>": "middle",
+        "<NaNaQi>": "right"
+    },
+    "1.png": {
+        "<LiKe>": "middle",
+        "<LeiGu>": "left",
+        "<NaNaQi>": "right"
+    },
+    "2.png": {
+        "<LiKe>": "right",
+        "<LeiGu>": "left",
+        "<NaNaQi>": "middle"
+    },
+    "3.png": {
+        "<LiKe>": "middle",
+        "<LeiGu>": "left",
+        "<NaNaQi>": "right"
+    },
+    "4.png": {
+        "<LiKe>": "right",
+        "<LeiGu>": "middle",
+        "<NaNaQi>": "left"
+    }
+}

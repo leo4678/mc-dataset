@@ -1,0 +1,22 @@
+[
+    {
+        "question": "What is the hair color of <JinShang>? A.Black. B.Blonde",
+        "answer": "A"
+    },
+    {
+        "question": "What is the eye color of <JinShang>? A.Blue. B.Purple",
+        "answer": "B"
+    },
+    {
+        "question": "What type of clothing does <JinShang> often wear? A.Casual. B.School uniform",
+        "answer": "B"
+    },
+    {
+        "question": "Does <JinShang> carry any accessories? A.Gun. B.Sword",
+        "answer": "A"
+    },
+    {
+        "question": "What is the gender of <JinShang>? A.Boy. B.Girl",
+        "answer": "B"
+    }
+]

@@ -1,0 +1,422 @@
+{
+    "two_concept/two_concept/concept/train/Thor/0.png": [
+        {
+            "Question": "What is <Thor> hair color?",
+            "Answer": "<Thor>'s hair color is yellow."
+        },
+        {
+            "Question": "What color are <Thor> eyes?",
+            "Answer": "The image does not provide a clear view of <Thor>'s eyes, so their color cannot be determined from this image."
+        },
+        {
+            "Question": "Would you describe <Thor>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<Thor>'s physique is athletic."
+        },
+        {
+            "Question": "What is <Thor> skin tone?",
+            "Answer": "<Thor>'s skin tone is light."
+        },
+        {
+            "Question": "How would you describe <Thor> hairstyle?",
+            "Answer": "<Thor>'s hairstyle is long and blonde, pulled back with some volume at the top."
+        },
+        {
+            "Question": "Does <Thor> wear glasses or any accessories?",
+            "Answer": "<Thor> is not wearing glasses, but he is wearing a fur-trimmed cape and armor with decorative elements."
+        },
+        {
+            "Question": "How would you describe <Thor>'s attire?",
+            "Answer": "<Thor>'s attire consists of a black armored vest with gold accents and a fur-lined cape."
+        },
+        {
+            "Question": "Does <Thor> have any distinctive facial features?",
+            "Answer": "<Thor> is known for his strong, muscular build and long yellow hair, which are distinctive features."
+        },
+        {
+            "Question": "What is <Thor> overall build or physique?",
+            "Answer": "<Thor> has a muscular and athletic build, with broad shoulders and well-defined arms."
+        },
+        {
+            "Question": "What is <Thor> general expression or demeanor?",
+            "Answer": "<Thor> has a confident and powerful demeanor, with a strong and commanding presence."
+        }
+    ],
+    "two_concept/two_concept/concept/train/Thor/1.png": [
+        {
+            "Question": "What is <Thor> hair color?",
+            "Answer": "<Thor>'s hair color is yellow."
+        },
+        {
+            "Question": "What color are <Thor> eyes?",
+            "Answer": "The image does not provide visible information about <Thor>'s eye color."
+        },
+        {
+            "Question": "Would you describe <Thor>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<Thor>'s physique is athletic."
+        },
+        {
+            "Question": "What is <Thor> skin tone?",
+            "Answer": "<Thor>'s skin tone is light."
+        },
+        {
+            "Question": "How would you describe <Thor> hairstyle?",
+            "Answer": "<Thor>'s hairstyle is long and blonde, pulled back neatly."
+        },
+        {
+            "Question": "Does <Thor> wear glasses or any accessories?",
+            "Answer": "<Thor> is not wearing glasses or any accessories."
+        },
+        {
+            "Question": "How would you describe <Thor>'s attire?",
+            "Answer": "<Thor> is wearing a dark-colored jacket with a high collar."
+        },
+        {
+            "Question": "Does <Thor> have any distinctive facial features?",
+            "Answer": "<Thor> has long yellow hair, which is a distinctive feature."
+        },
+        {
+            "Question": "What is <Thor> overall build or physique?",
+            "Answer": "<Thor> has a muscular and athletic build, typical of a superhero character."
+        },
+        {
+            "Question": "What is <Thor> general expression or demeanor?",
+            "Answer": "<Thor>'s general demeanor is confident and composed."
+        }
+    ],
+    "two_concept/two_concept/concept/train/Thor/2.png": [
+        {
+            "Question": "What is <Thor> hair color?",
+            "Answer": "<Thor>'s hair color is yellow."
+        },
+        {
+            "Question": "What color are <Thor> eyes?",
+            "Answer": "The image does not provide a clear view of <Thor>'s eyes, but in the Thor series, his eyes are blue."
+        },
+        {
+            "Question": "Would you describe <Thor>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<Thor>'s physique is athletic, with muscular arms and a broad build."
+        },
+        {
+            "Question": "What is <Thor> skin tone?",
+            "Answer": "<Thor>'s skin tone is light."
+        },
+        {
+            "Question": "How would you describe <Thor> hairstyle?",
+            "Answer": "<Thor>'s hairstyle is long, wavy, and blonde."
+        },
+        {
+            "Question": "Does <Thor> wear glasses or any accessories?",
+            "Answer": "<Thor> is wearing armor with a circular metal accessory on his chest and wrist guards. He is not wearing glasses."
+        },
+        {
+            "Question": "How would you describe <Thor>'s attire?",
+            "Answer": "<Thor> is wearing a red cape and armor with metallic elements on the chest and arms."
+        },
+        {
+            "Question": "Does <Thor> have any distinctive facial features?",
+            "Answer": "<Thor> is known for his strong, chiseled jawline and rugged, masculine features."
+        },
+        {
+            "Question": "What is <Thor> overall build or physique?",
+            "Answer": "<Thor> has a muscular and athletic build, with well-defined arms and a broad chest."
+        },
+        {
+            "Question": "What is <Thor> general expression or demeanor?",
+            "Answer": "<Thor>'s general demeanor is confident and assertive, as indicated by his outstretched arm and commanding posture."
+        }
+    ],
+    "two_concept/two_concept/concept/train/Thor/3.png": [
+        {
+            "Question": "What is <Thor> hair color?",
+            "Answer": "<Thor>'s hair color is yellow."
+        },
+        {
+            "Question": "What color are <Thor> eyes?",
+            "Answer": "The image does not provide a clear view of <Thor>'s eyes, so their color cannot be determined from this image."
+        },
+        {
+            "Question": "Would you describe <Thor>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<Thor>'s physique is athletic, characterized by a muscular and powerful build."
+        },
+        {
+            "Question": "What is <Thor> skin tone?",
+            "Answer": "<Thor>'s skin tone is light."
+        },
+        {
+            "Question": "How would you describe <Thor> hairstyle?",
+            "Answer": "<Thor>'s hairstyle is long and flowing, with his hair pulled back and secured, allowing it to cascade down his back."
+        },
+        {
+            "Question": "Does <Thor> wear glasses or any accessories?",
+            "Answer": "<Thor> is not wearing glasses, but he is wearing armor and a red cape."
+        },
+        {
+            "Question": "How would you describe <Thor>'s attire?",
+            "Answer": "<Thor> is wearing a red cape and armor with a metallic, scale-like texture."
+        },
+        {
+            "Question": "Does <Thor> have any distinctive facial features?",
+            "Answer": "<Thor> is known for his strong, muscular build and typically has a rugged, heroic appearance."
+        },
+        {
+            "Question": "What is <Thor> overall build or physique?",
+            "Answer": "<Thor> has a muscular and athletic build, characterized by broad shoulders and a strong, powerful physique."
+        },
+        {
+            "Question": "What is <Thor> general expression or demeanor?",
+            "Answer": "<Thor>'s general demeanor is powerful and heroic, with a commanding presence."
+        }
+    ],
+    "two_concept/two_concept/concept/train/Thor/4.png": [
+        {
+            "Question": "What is <Thor> hair color?",
+            "Answer": "<Thor>'s hair color is yellow."
+        },
+        {
+            "Question": "What color are <Thor> eyes?",
+            "Answer": "The image does not provide visible information about <Thor>'s eye color."
+        },
+        {
+            "Question": "Would you describe <Thor>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<Thor>'s physique is athletic."
+        },
+        {
+            "Question": "What is <Thor> skin tone?",
+            "Answer": "<Thor>'s skin tone is light."
+        },
+        {
+            "Question": "How would you describe <Thor> hairstyle?",
+            "Answer": "<Thor>'s hairstyle is long and blonde, with some sections braided."
+        },
+        {
+            "Question": "Does <Thor> wear glasses or any accessories?",
+            "Answer": "<Thor> is wearing a fur-lined cloak and armor, but no glasses or other visible accessories."
+        },
+        {
+            "Question": "How would you describe <Thor>'s attire?",
+            "Answer": "<Thor> is wearing a fur-lined cloak with metallic armor details."
+        },
+        {
+            "Question": "Does <Thor> have any distinctive facial features?",
+            "Answer": "<Thor> is known for his strong jawline and rugged, masculine features."
+        },
+        {
+            "Question": "What is <Thor> overall build or physique?",
+            "Answer": "<Thor> has a muscular and robust build, typical of a warrior."
+        },
+        {
+            "Question": "What is <Thor> general expression or demeanor?",
+            "Answer": "<Thor>'s general demeanor appears confident and commanding, as suggested by his posture and attire."
+        }
+    ],
+    "two_concept/two_concept/concept/train/Thor/5.png": [
+        {
+            "Question": "What is <Thor> hair color?",
+            "Answer": "<Thor>'s hair color is yellow."
+        },
+        {
+            "Question": "What color are <Thor> eyes?",
+            "Answer": "The image does not provide a clear view of <Thor>'s eyes, so their color cannot be determined from this image."
+        },
+        {
+            "Question": "Would you describe <Thor>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<Thor>'s physique is athletic."
+        },
+        {
+            "Question": "What is <Thor> skin tone?",
+            "Answer": "<Thor>'s skin tone is light."
+        },
+        {
+            "Question": "How would you describe <Thor> hairstyle?",
+            "Answer": "<Thor>'s hairstyle is long and wavy, with a natural flow and a slightly tousled look."
+        },
+        {
+            "Question": "Does <Thor> wear glasses or any accessories?",
+            "Answer": "<Thor> is not wearing glasses, but he is wearing armor and a red cape."
+        },
+        {
+            "Question": "How would you describe <Thor>'s attire?",
+            "Answer": "<Thor> is wearing a metallic armor with circular silver accents, a red cape, and is holding a hammer."
+        },
+        {
+            "Question": "Does <Thor> have any distinctive facial features?",
+            "Answer": "<Thor> is known for his strong, muscular build and distinctive Asgardian armor, which includes a red cape and circular silver accents."
+        },
+        {
+            "Question": "What is <Thor> overall build or physique?",
+            "Answer": "<Thor> has a muscular and robust build, characterized by broad shoulders and a strong, athletic physique."
+        },
+        {
+            "Question": "What is <Thor> general expression or demeanor?",
+            "Answer": "<Thor> has a confident and heroic demeanor, characterized by his strong posture and powerful stance."
+        }
+    ],
+    "two_concept/two_concept/concept/train/Thor/6.png": [
+        {
+            "Question": "What is <Thor> hair color?",
+            "Answer": "<Thor>'s hair color is yellow."
+        },
+        {
+            "Question": "What color are <Thor> eyes?",
+            "Answer": "The image does not provide visible information about <Thor>'s eye color."
+        },
+        {
+            "Question": "Would you describe <Thor>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<Thor>'s physique is athletic."
+        },
+        {
+            "Question": "What is <Thor> skin tone?",
+            "Answer": "<Thor>'s skin tone is light."
+        },
+        {
+            "Question": "How would you describe <Thor> hairstyle?",
+            "Answer": "<Thor>'s hairstyle is long and blonde, with a slight wave and pulled back behind the ears."
+        },
+        {
+            "Question": "Does <Thor> wear glasses or any accessories?",
+            "Answer": "<Thor> is not wearing glasses or any accessories."
+        },
+        {
+            "Question": "How would you describe <Thor>'s attire?",
+            "Answer": "<Thor> is wearing a dark coat over a grey shirt."
+        },
+        {
+            "Question": "Does <Thor> have any distinctive facial features?",
+            "Answer": "<Thor> is known for his strong jawline and rugged facial features, but these are not visible in the image provided."
+        },
+        {
+            "Question": "What is <Thor> overall build or physique?",
+            "Answer": "<Thor> has a muscular and robust build, typical of a superhero physique."
+        },
+        {
+            "Question": "What is <Thor> general expression or demeanor?",
+            "Answer": "<Thor> has a relaxed and composed demeanor."
+        }
+    ],
+    "two_concept/two_concept/concept/train/Thor/7.png": [
+        {
+            "Question": "What is <Thor> hair color?",
+            "Answer": "<Thor>'s hair color is blonde."
+        },
+        {
+            "Question": "What color are <Thor> eyes?",
+            "Answer": "<Thor>'s eyes are blue."
+        },
+        {
+            "Question": "Would you describe <Thor>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<Thor>'s physique is athletic."
+        },
+        {
+            "Question": "What is <Thor> skin tone?",
+            "Answer": "<Thor>'s skin tone is light."
+        },
+        {
+            "Question": "How would you describe <Thor> hairstyle?",
+            "Answer": "<Thor>'s hairstyle is long and flowing, with a natural wave and a light blonde color."
+        },
+        {
+            "Question": "Does <Thor> wear glasses or any accessories?",
+            "Answer": "<Thor> is not wearing glasses, but he is wearing armor with metallic accents."
+        },
+        {
+            "Question": "How would you describe <Thor>'s attire?",
+            "Answer": "<Thor> is wearing a metallic armor with circular silver accents on the chest, a red cape, and black arm guards."
+        },
+        {
+            "Question": "Does <Thor> have any distinctive facial features?",
+            "Answer": "<Thor> is known for his strong, muscular build and long yellow hair, which are distinctive features."
+        },
+        {
+            "Question": "What is <Thor> overall build or physique?",
+            "Answer": "<Thor> has a muscular and athletic build, with broad shoulders and well-defined arms."
+        },
+        {
+            "Question": "What is <Thor> general expression or demeanor?",
+            "Answer": "<Thor> has a confident and powerful demeanor, as indicated by his strong posture and heroic attire."
+        }
+    ],
+    "two_concept/two_concept/concept/train/Thor/8.png": [
+        {
+            "Question": "What is <Thor> hair color?",
+            "Answer": "<Thor>'s hair color is yellow."
+        },
+        {
+            "Question": "What color are <Thor> eyes?",
+            "Answer": "The image does not provide a clear view of <Thor>'s eyes, so their color cannot be determined from this image."
+        },
+        {
+            "Question": "Would you describe <Thor>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<Thor>'s physique is athletic."
+        },
+        {
+            "Question": "What is <Thor> skin tone?",
+            "Answer": "<Thor>'s skin tone is light."
+        },
+        {
+            "Question": "How would you describe <Thor> hairstyle?",
+            "Answer": "<Thor>'s hairstyle is long, wavy, and blonde, with some sections tied back."
+        },
+        {
+            "Question": "Does <Thor> wear glasses or any accessories?",
+            "Answer": "<Thor> is wearing a small hair accessory to tie back his hair."
+        },
+        {
+            "Question": "How would you describe <Thor>'s attire?",
+            "Answer": "<Thor>'s attire includes a red cape and armor with a dark color scheme."
+        },
+        {
+            "Question": "Does <Thor> have any distinctive facial features?",
+            "Answer": "<Thor> has long yellow hair, which is a distinctive feature."
+        },
+        {
+            "Question": "What is <Thor> overall build or physique?",
+            "Answer": "<Thor> has a muscular and athletic build, characterized by broad shoulders and a strong upper body."
+        },
+        {
+            "Question": "What is <Thor> general expression or demeanor?",
+            "Answer": "<Thor>'s general demeanor appears focused and determined."
+        }
+    ],
+    "two_concept/two_concept/concept/train/Thor/9.png": [
+        {
+            "Question": "What is <Thor> hair color?",
+            "Answer": "<Thor>'s hair color is yellow."
+        },
+        {
+            "Question": "What color are <Thor> eyes?",
+            "Answer": "The image does not provide a clear view of <Thor>'s eyes, so their color cannot be determined from this image."
+        },
+        {
+            "Question": "Would you describe <Thor>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<Thor>'s physique is athletic."
+        },
+        {
+            "Question": "What is <Thor> skin tone?",
+            "Answer": "<Thor>'s skin tone is light."
+        },
+        {
+            "Question": "How would you describe <Thor> hairstyle?",
+            "Answer": "<Thor>'s hairstyle is long and flowing, with yellow hair cascading down past the shoulders."
+        },
+        {
+            "Question": "Does <Thor> wear glasses or any accessories?",
+            "Answer": "<Thor> is wearing a fur-lined cape as an accessory."
+        },
+        {
+            "Question": "How would you describe <Thor>'s attire?",
+            "Answer": "<Thor> is wearing a black armored chest piece with gold accents and a fur-lined cape."
+        },
+        {
+            "Question": "Does <Thor> have any distinctive facial features?",
+            "Answer": "<Thor> is known for his strong, chiseled jawline and rugged, masculine features."
+        },
+        {
+            "Question": "What is <Thor> overall build or physique?",
+            "Answer": "<Thor> has a muscular and robust build, with broad shoulders and a strong upper body."
+        },
+        {
+            "Question": "What is <Thor> general expression or demeanor?",
+            "Answer": "<Thor> has a strong and confident demeanor, with a powerful and heroic presence."
+        }
+    ]
+}

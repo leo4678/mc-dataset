@@ -1,0 +1,22 @@
+{
+    "two_concept/concept/test/tangmu/0.jpg": {
+        "Human": "What is the expression on <tangmu>'s face in the image?",
+        "AI": "<tangmu> has an angry expression on his face in the image."
+    },
+    "two_concept/concept/test/tangmu/1.jpg": {
+        "Human": "What color are <tangmu>'s eyes in the image?",
+        "AI": "<tangmu>'s eyes are green in the image."
+    },
+    "two_concept/concept/test/tangmu/2.jpg": {
+        "Human": "What is <tangmu> doing in the image?",
+        "AI": "<tangmu> is running very fast, creating a whirlwind behind him."
+    },
+    "two_concept/concept/test/tangmu/3.jpg": {
+        "Human": "What is <tangmu> holding in the image?",
+        "AI": "<tangmu> is holding a newspaper in the image."
+    },
+    "two_concept/concept/test/tangmu/4.jpg": {
+        "Human": "What is <tangmu> looking at through the window?",
+        "AI": "<tangmu> is looking at something with a confused expression through the window."
+    }
+}

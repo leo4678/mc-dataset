@@ -1,0 +1,22 @@
+{
+    "two_concept/concept/test/Chen Shi/0.png": {
+        "Human": "What weapon is <Chen Shi> holding in the image?",
+        "AI": "<Chen Shi> is holding a pair of knives."
+    },
+    "two_concept/concept/test/Chen Shi/1.png": {
+        "Human": "What type of clothing is <Chen Shi> wearing in the image?",
+        "AI": "<Chen Shi> is wearing a grey suit jacket over a waistcoat and a white shirt."
+    },
+    "two_concept/concept/test/Chen Shi/2.png": {
+        "Human": "What type of clothing is <Chen Shi> wearing?",
+        "AI": "<Chen Shi> is wearing a grey tunic with a darker grey vest and a brown apron over it."
+    },
+    "two_concept/concept/test/Chen Shi/3.png": {
+        "Human": "What type of hat is <Chen Shi> wearing in the image?",
+        "AI": "<Chen Shi> is wearing a light brown fedora with a ribbon in the image."
+    },
+    "two_concept/concept/test/Chen Shi/4.png": {
+        "Human": "What type of clothing is <Chen Shi> wearing in the image?",
+        "AI": "<Chen Shi> is wearing a dark traditional outfit."
+    }
+}

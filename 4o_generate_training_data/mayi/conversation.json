@@ -1,0 +1,422 @@
+{
+    "three_concept/three_concept/concept/train/mayi/0.png": [
+        {
+            "Question": "What color is <mayi>?",
+            "Answer": "<mayi> is primarily brown with red horns."
+        },
+        {
+            "Question": "What shape does <mayi> have?",
+            "Answer": "<mayi> has a humanoid shape with a long face and two prominent horns."
+        },
+        {
+            "Question": "What is the overall vibe of <mayi>?",
+            "Answer": "<mayi> has a quirky and slightly menacing vibe with its anime-style design, featuring two prominent red horns and a mischievous expression."
+        },
+        {
+            "Question": "What material is <mayi> made of?",
+            "Answer": "The material of <mayi> is not discernible from the image alone."
+        },
+        {
+            "Question": "What size is this <mayi>?",
+            "Answer": "The image does not provide a clear reference for determining the size of <mayi>."
+        },
+        {
+            "Question": "Does <mayi> have any patterns or markings?",
+            "Answer": "<mayi> has no patterns or markings, but features a plain surface with visible stitches and two prominent red horns."
+        },
+        {
+            "Question": "What type of <mayi> is this subject?",
+            "Answer": "This is an anime style puppet with two horns."
+        },
+        {
+            "Question": "Does <mayi> have any distinctive features or details?",
+            "Answer": "<mayi> has two prominent red horns, a stitched mouth, and wears glasses with round frames."
+        },
+        {
+            "Question": "What's <mayi> general texture like?",
+            "Answer": "<mayi> has a smooth and matte texture with a slightly rough appearance due to the stylized lines and shading."
+        },
+        {
+            "Question": "How would you describe <mayi> overall appearance?",
+            "Answer": "<mayi> has a distinctive anime style with two prominent red horns, a beige face, and a mane of dark, spiky hair. The puppet features a unique expression with circular eyes and a wide, toothy grin."
+        }
+    ],
+    "three_concept/three_concept/concept/train/mayi/1.png": [
+        {
+            "Question": "What color is <mayi>?",
+            "Answer": "<mayi> is primarily brown with red horns and some black and gray elements."
+        },
+        {
+            "Question": "What shape does <mayi> have?",
+            "Answer": "<mayi> has a humanoid shape with multiple arms and a barrel-like torso."
+        },
+        {
+            "Question": "What is the overall vibe of <mayi>?",
+            "Answer": "The overall vibe of <mayi> is eerie and menacing, with its multiple arms, dark cloak, and sinister expression."
+        },
+        {
+            "Question": "What material is <mayi> made of?",
+            "Answer": "<mayi> is made of a material resembling wood or a similar rigid substance, as indicated by the segmented and jointed appearance of its limbs and body."
+        },
+        {
+            "Question": "What size is this <mayi>?",
+            "Answer": "<mayi> is large, with a towering presence and multiple arms, suggesting a significant size."
+        },
+        {
+            "Question": "Does <mayi> have any patterns or markings?",
+            "Answer": "<mayi> has a pattern of rectangular segments on its torso, resembling bricks."
+        },
+        {
+            "Question": "What type of <mayi> is this subject?",
+            "Answer": "This <mayi> is a multi-armed anime style puppet with two red horns and a cloak."
+        },
+        {
+            "Question": "Does <mayi> have any distinctive features or details?",
+            "Answer": "<mayi> has two red horns, multiple arms, and a cloak-like covering."
+        },
+        {
+            "Question": "What's <mayi> general texture like?",
+            "Answer": "<mayi> has a smooth, mechanical texture with a wooden appearance, featuring a cloak that appears tattered and rough."
+        },
+        {
+            "Question": "How would you describe <mayi> overall appearance?",
+            "Answer": "<mayi> has a mechanical, anime-style appearance with a humanoid form. It features two prominent red horns on its head, multiple arms, and a cloak-like covering. The body is segmented and robotic, with a hollow, barrel-like torso."
+        }
+    ],
+    "three_concept/three_concept/concept/train/mayi/2.png": [
+        {
+            "Question": "What color is <mayi>?",
+            "Answer": "<mayi> is primarily gray with red horns and black hair."
+        },
+        {
+            "Question": "What shape does <mayi> have?",
+            "Answer": "<mayi> has a humanoid shape with a cylindrical head, two prominent red horns, and multiple segmented limbs extending from its body."
+        },
+        {
+            "Question": "What is the overall vibe of <mayi>?",
+            "Answer": "The overall vibe of <mayi> is menacing and dynamic, with its sharp horns, intense expression, and flowing, segmented limbs suggesting movement and power."
+        },
+        {
+            "Question": "What material is <mayi> made of?",
+            "Answer": "<mayi> is made of wood."
+        },
+        {
+            "Question": "What size is this <mayi>?",
+            "Answer": "<mayi> is large, with a robust body and long, segmented limbs."
+        },
+        {
+            "Question": "Does <mayi> have any patterns or markings?",
+            "Answer": "<mayi> does not have any patterns or markings."
+        },
+        {
+            "Question": "What type of <mayi> is this subject?",
+            "Answer": "This is a puppet type of <mayi> with two horns and segmented limbs."
+        },
+        {
+            "Question": "Does <mayi> have any distinctive features or details?",
+            "Answer": "<mayi> has two prominent red horns, a segmented body resembling puppet limbs, and a cloak-like covering."
+        },
+        {
+            "Question": "What's <mayi> general texture like?",
+            "Answer": "<mayi> has a smooth, wooden texture with a matte finish, typical of a puppet."
+        },
+        {
+            "Question": "How would you describe <mayi> overall appearance?",
+            "Answer": "<mayi> has a distinctive anime style with two prominent red horns, a dark cloak, and segmented, puppet-like limbs. The face is simplistic with yellow eyes and a neutral expression."
+        }
+    ],
+    "three_concept/three_concept/concept/train/mayi/3.png": [
+        {
+            "Question": "What color is <mayi>?",
+            "Answer": "<mayi> is primarily gray with red horns and black hair."
+        },
+        {
+            "Question": "What shape does <mayi> have?",
+            "Answer": "<mayi> has a humanoid shape with angular features and two prominent horns."
+        },
+        {
+            "Question": "What is the overall vibe of <mayi>?",
+            "Answer": "<mayi> has a mysterious and slightly menacing vibe, with its sharp features, dark color scheme, and prominent horns."
+        },
+        {
+            "Question": "What material is <mayi> made of?",
+            "Answer": "<mayi> is made of wood."
+        },
+        {
+            "Question": "What size is this <mayi>?",
+            "Answer": "The size of <mayi> is not determinable from the image alone, as there is no reference object for scale."
+        },
+        {
+            "Question": "Does <mayi> have any patterns or markings?",
+            "Answer": "<mayi> does not have any visible patterns or markings."
+        },
+        {
+            "Question": "What type of <mayi> is this subject?",
+            "Answer": "This <mayi> is an anime-style puppet with two prominent red horns and a mechanical appearance."
+        },
+        {
+            "Question": "Does <mayi> have any distinctive features or details?",
+            "Answer": "<mayi> has two prominent red horns, long black spiky hair, and a puppet-like appearance with articulated limbs."
+        },
+        {
+            "Question": "What's <mayi> general texture like?",
+            "Answer": "<mayi> has a smooth and shiny texture, typical of a puppet with a polished surface."
+        },
+        {
+            "Question": "How would you describe <mayi> overall appearance?",
+            "Answer": "<mayi> has a distinctive anime style with two prominent red horns, a puppet-like structure, and wild, spiky black hair."
+        }
+    ],
+    "three_concept/three_concept/concept/train/mayi/4.png": [
+        {
+            "Question": "What color is <mayi>?",
+            "Answer": "<mayi> is primarily beige with some gray and red accents."
+        },
+        {
+            "Question": "What shape does <mayi> have?",
+            "Answer": "<mayi> has a round, segmented body shape with a cloak-like covering."
+        },
+        {
+            "Question": "What is the overall vibe of <mayi>?",
+            "Answer": "The overall vibe of <mayi> is imposing and mysterious, with a large, armored appearance and a dark cloak."
+        },
+        {
+            "Question": "What material is <mayi> made of?",
+            "Answer": "<mayi> is made of wood."
+        },
+        {
+            "Question": "What size is this <mayi>?",
+            "Answer": "The <mayi> is large, with a bulky, rounded body and long limbs."
+        },
+        {
+            "Question": "Does <mayi> have any patterns or markings?",
+            "Answer": "<mayi> has horizontal lines and rectangular markings on its body."
+        },
+        {
+            "Question": "What type of <mayi> is this subject?",
+            "Answer": "This <mayi> is a large, armored puppet with a segmented body and two visible horns."
+        },
+        {
+            "Question": "Does <mayi> have any distinctive features or details?",
+            "Answer": "<mayi> has a large, segmented body with a cloak-like covering and two prominent red horns on its head."
+        },
+        {
+            "Question": "What's <mayi> general texture like?",
+            "Answer": "<mayi> has a smooth, segmented texture with a wooden appearance."
+        },
+        {
+            "Question": "How would you describe <mayi> overall appearance?",
+            "Answer": "<mayi> has a large, rounded body with segmented armor-like plates and two prominent red horns on its head. It is draped in a tattered cloak, giving it a rugged and imposing appearance."
+        }
+    ],
+    "three_concept/three_concept/concept/train/mayi/5.png": [
+        {
+            "Question": "What color is <mayi>?",
+            "Answer": "<mayi> is primarily beige with red horns and black hair."
+        },
+        {
+            "Question": "What shape does <mayi> have?",
+            "Answer": "<mayi> has a humanoid shape with a mechanical appearance, featuring two prominent horns and a mask-like face."
+        },
+        {
+            "Question": "What is the overall vibe of <mayi>?",
+            "Answer": "The overall vibe of <mayi> is mysterious and slightly ominous, with its anime style, two horns, and mechanical puppet features."
+        },
+        {
+            "Question": "What material is <mayi> made of?",
+            "Answer": "<mayi> appears to be made of a wood-like material, resembling a puppet or marionette."
+        },
+        {
+            "Question": "What size is this <mayi>?",
+            "Answer": "The image does not provide a clear reference for determining the size of <mayi>."
+        },
+        {
+            "Question": "Does <mayi> have any patterns or markings?",
+            "Answer": "<mayi> does not have any patterns or markings."
+        },
+        {
+            "Question": "What type of <mayi> is this subject?",
+            "Answer": "This <mayi> is a mechanical puppet with a humanoid face, long black hair, and two prominent red horns."
+        },
+        {
+            "Question": "Does <mayi> have any distinctive features or details?",
+            "Answer": "<mayi> has two prominent red horns and a mechanical face with three circular eyes."
+        },
+        {
+            "Question": "What's <mayi> general texture like?",
+            "Answer": "<mayi> has a smooth, metallic texture with a matte finish."
+        },
+        {
+            "Question": "How would you describe <mayi> overall appearance?",
+            "Answer": "<mayi> has a mechanical, anime-style appearance with a humanoid puppet form. It features two prominent red horns, long black hair, and a face with circular, metallic eyes and a mouth resembling a mechanical jaw."
+        }
+    ],
+    "three_concept/three_concept/concept/train/mayi/6.png": [
+        {
+            "Question": "What color is <mayi>?",
+            "Answer": "<mayi> is primarily brown with black hair and red horns."
+        },
+        {
+            "Question": "What shape does <mayi> have?",
+            "Answer": "<mayi> has a cylindrical shape with two prominent horns and a face resembling a puppet."
+        },
+        {
+            "Question": "What is the overall vibe of <mayi>?",
+            "Answer": "<mayi> has a mysterious and slightly intimidating vibe, with its dark hair, two prominent horns, and piercing yellow eyes."
+        },
+        {
+            "Question": "What material is <mayi> made of?",
+            "Answer": "<mayi> appears to be made of a material resembling wood or a similar hard substance, typical of anime-style puppets."
+        },
+        {
+            "Question": "What size is this <mayi>?",
+            "Answer": "The image does not provide a clear reference for scale, so the size of <mayi> cannot be determined from this image alone."
+        },
+        {
+            "Question": "Does <mayi> have any patterns or markings?",
+            "Answer": "<mayi> has a pattern of white zigzag lines on its face."
+        },
+        {
+            "Question": "What type of <mayi> is this subject?",
+            "Answer": "This subject is a puppet with a humanoid face, long black hair, and two prominent red horns."
+        },
+        {
+            "Question": "Does <mayi> have any distinctive features or details?",
+            "Answer": "<mayi> has two prominent red horns and long black hair."
+        },
+        {
+            "Question": "What's <mayi> general texture like?",
+            "Answer": "<mayi> has a smooth and matte texture with a slightly metallic appearance."
+        },
+        {
+            "Question": "How would you describe <mayi> overall appearance?",
+            "Answer": "<mayi> has a distinctive anime style with two prominent red horns, a cylindrical snout, and long black hair covering part of its face. Its eyes are yellow with a mechanical appearance, and it has a stitched mouth design."
+        }
+    ],
+    "three_concept/three_concept/concept/train/mayi/7.png": [
+        {
+            "Question": "What color is <mayi>?",
+            "Answer": "<mayi> is primarily brown with red horns."
+        },
+        {
+            "Question": "What shape does <mayi> have?",
+            "Answer": "<mayi> has a rectangular, box-like shape with angular features and two prominent horns."
+        },
+        {
+            "Question": "What is the overall vibe of <mayi>?",
+            "Answer": "<mayi> has a mysterious and slightly ominous vibe, with its anime-style design, two horns, and a mask-like face."
+        },
+        {
+            "Question": "What material is <mayi> made of?",
+            "Answer": "<mayi> appears to be made of a material resembling wood or a similar rigid substance, as indicated by the texture and structure visible in the image."
+        },
+        {
+            "Question": "What size is this <mayi>?",
+            "Answer": "The image does not provide a clear reference for determining the size of <mayi>."
+        },
+        {
+            "Question": "Does <mayi> have any patterns or markings?",
+            "Answer": "<mayi> has a zigzag pattern on its snout and circular markings around its eyes."
+        },
+        {
+            "Question": "What type of <mayi> is this subject?",
+            "Answer": "This subject is an anime-style puppet with two horns, characterized by its mechanical and stylized appearance."
+        },
+        {
+            "Question": "Does <mayi> have any distinctive features or details?",
+            "Answer": "<mayi> has two red horns and a mask-like face with a gold circular detail around the eye area."
+        },
+        {
+            "Question": "What's <mayi> general texture like?",
+            "Answer": "<mayi> has a smooth and matte texture with visible seams and stitching details."
+        },
+        {
+            "Question": "How would you describe <mayi> overall appearance?",
+            "Answer": "<mayi> has a distinctive anime-style appearance with a puppet-like face, featuring two prominent red horns, a stitched mouth, and a single visible eye with a golden ring around it. The puppet has dark hair that partially covers its face."
+        }
+    ],
+    "three_concept/three_concept/concept/train/mayi/8.png": [
+        {
+            "Question": "What color is <mayi>?",
+            "Answer": "<mayi> is primarily gray with some black and red accents."
+        },
+        {
+            "Question": "What shape does <mayi> have?",
+            "Answer": "<mayi> has a cylindrical shape with segmented sections and jointed limbs."
+        },
+        {
+            "Question": "What is the overall vibe of <mayi>?",
+            "Answer": "The overall vibe of <mayi> is rugged and mechanical, with a slightly menacing appearance due to its large, barrel-like body and two prominent horns."
+        },
+        {
+            "Question": "What material is <mayi> made of?",
+            "Answer": "<mayi> is made of wood."
+        },
+        {
+            "Question": "What size is this <mayi>?",
+            "Answer": "The <mayi> is large, with a bulky, rounded body and long limbs."
+        },
+        {
+            "Question": "Does <mayi> have any patterns or markings?",
+            "Answer": "<mayi> has horizontal lines and button-like markings on its body."
+        },
+        {
+            "Question": "What type of <mayi> is this subject?",
+            "Answer": "This subject is a large, humanoid anime-style puppet with a cylindrical body, jointed limbs, and two horns."
+        },
+        {
+            "Question": "Does <mayi> have any distinctive features or details?",
+            "Answer": "<mayi> has two horns, a segmented body, and a tattered cloak-like covering."
+        },
+        {
+            "Question": "What's <mayi> general texture like?",
+            "Answer": "<mayi> has a wooden texture with visible joints and a slightly worn appearance."
+        },
+        {
+            "Question": "How would you describe <mayi> overall appearance?",
+            "Answer": "<mayi> has a cylindrical, segmented body with jointed limbs, a tattered cloak, and two prominent horns on its head."
+        }
+    ],
+    "three_concept/three_concept/concept/train/mayi/9.png": [
+        {
+            "Question": "What color is <mayi>?",
+            "Answer": "<mayi> is primarily brown with black hair and red horns."
+        },
+        {
+            "Question": "What shape does <mayi> have?",
+            "Answer": "<mayi> has a cylindrical shape with a segmented body and two horns on its head."
+        },
+        {
+            "Question": "What is the overall vibe of <mayi>?",
+            "Answer": "The overall vibe of <mayi> is rugged and mysterious, with a worn and patched appearance, accentuated by its two horns and anime-style design."
+        },
+        {
+            "Question": "What material is <mayi> made of?",
+            "Answer": "<mayi> appears to be made of wood."
+        },
+        {
+            "Question": "What size is this <mayi>?",
+            "Answer": "The <mayi> appears to be large, as it is depicted with a robust, barrel-like body and long limbs, suggesting a significant size."
+        },
+        {
+            "Question": "Does <mayi> have any patterns or markings?",
+            "Answer": "<mayi> has no distinct patterns or markings visible on its body."
+        },
+        {
+            "Question": "What type of <mayi> is this subject?",
+            "Answer": "This subject is a large, humanoid anime-style puppet with two horns and segmented body parts."
+        },
+        {
+            "Question": "Does <mayi> have any distinctive features or details?",
+            "Answer": "<mayi> has two red horns and a segmented, cylindrical body with a tattered cloak."
+        },
+        {
+            "Question": "What's <mayi> general texture like?",
+            "Answer": "<mayi> has a rough, wooden texture with visible cracks and a worn appearance."
+        },
+        {
+            "Question": "How would you describe <mayi> overall appearance?",
+            "Answer": "<mayi> has a rugged, cylindrical body with visible joints and a tattered cloak. It features two prominent horns and long, dark hair."
+        }
+    ]
+}

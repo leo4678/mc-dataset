@@ -1,0 +1,152 @@
+{
+    "three_concept/multi/Alex_Gloria_Marty/0.png": [
+        {
+            "Human": "What is the expression on <Alex>'s face? A.happy. B.surprised. C.angry",
+            "AI": "A"
+        },
+        {
+            "Human": "What is the expression on <Gloria>'s face? A.happy. B.surprised. C.angry",
+            "AI": "A"
+        },
+        {
+            "Human": "What is the expression on <Marty>'s face? A.happy. B.surprised. C.angry",
+            "AI": "B"
+        },
+        {
+            "Human": "What is the expression on <Alex>'s face compared to <Gloria>'s? A.happy. B.surprised. C.sad",
+            "AI": "A"
+        },
+        {
+            "Human": "What is the expression on <Alex>'s face compared to <Marty>'s? A.happy and surprised. B.sad and calm. C.angry and confused.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is the expression on <Gloria> and <Marty>'s faces? A.surprised. B.happy. C.angry",
+            "AI": "A"
+        },
+        {
+            "Human": "What is the expression on <Alex>'s face compared to <Gloria> and <Marty>? A.happy. B.surprised. C.sad",
+            "AI": "A"
+        }
+    ],
+    "three_concept/multi/Alex_Gloria_Marty/1.png": [
+        {
+            "Human": "What is the expression on <Alex>'s face? A.happy. B.sad. C.angry",
+            "AI": "B"
+        },
+        {
+            "Human": "What is <Gloria> doing in the image? A.smiling. B.looking concerned.",
+            "AI": "B"
+        },
+        {
+            "Human": "What is <Marty> wearing on his head? A.a helmet. B.a hat. C.nothing",
+            "AI": "A"
+        },
+        {
+            "Human": "What is the expression on <Alex>'s face compared to <Gloria>'s? A.happy. B.sad. C.confused",
+            "AI": "B"
+        },
+        {
+            "Human": "What is <Marty> wearing on his head? A.a helmet. B.a hat. C.nothing",
+            "AI": "A"
+        },
+        {
+            "Human": "What is <Marty> wearing on his head? A.a helmet. B.a hat. C.nothing",
+            "AI": "A"
+        },
+        {
+            "Human": "What is the expression on <Alex>'s face compared to <Gloria> and <Marty>? A. Happy. B. Sad. C. Angry.",
+            "AI": "B"
+        }
+    ],
+    "three_concept/multi/Alex_Gloria_Marty/2.png": [
+        {
+            "Human": "What is the expression on <Alex>'s face? A.happy. B.surprised. C.angry",
+            "AI": "B"
+        },
+        {
+            "Human": "What is the expression of <Gloria> in the image? A.happy. B.concerned. C.angry",
+            "AI": "B"
+        },
+        {
+            "Human": "What is the expression on <Marty>'s face? A.happy. B.surprised. C.angry.",
+            "AI": "B"
+        },
+        {
+            "Human": "What is the expression on <Alex> and <Gloria>'s faces? A.happy. B.concerned. C.angry.",
+            "AI": "B"
+        },
+        {
+            "Human": "What is the expression on <Alex>'s face compared to <Marty>'s? A.surprised. B.calm. C.angry",
+            "AI": "A"
+        },
+        {
+            "Human": "What is the expression on the faces of <Gloria> and <Marty>? A.happy. B.surprised. C.angry.",
+            "AI": "B"
+        },
+        {
+            "Human": "What is the expression on the faces of <Alex>, <Gloria>, and <Marty>? A.surprised. B.happy. C.angry",
+            "AI": "A"
+        }
+    ],
+    "three_concept/multi/Alex_Gloria_Marty/3.png": [
+        {
+            "Human": "What is the expression on <Alex>'s face? A.happy. B.surprised. C.confused.",
+            "AI": "C"
+        },
+        {
+            "Human": "What is the expression of <Gloria> in the image? A.happy. B.surprised. C.curious",
+            "AI": "C"
+        },
+        {
+            "Human": "What is the expression on <Marty>'s face? A.happy. B.surprised. C.angry",
+            "AI": "B"
+        },
+        {
+            "Human": "What is the setting behind <Alex> and <Gloria>? A.desert. B.beach. C.forest",
+            "AI": "B"
+        },
+        {
+            "Human": "What is the expression of <Alex> and <Marty> in the image? A.surprised. B.happy. C.angry.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is the setting behind <Gloria> and <Marty>? A.desert. B.beach. C.forest",
+            "AI": "B"
+        },
+        {
+            "Human": "What is the setting behind <Alex>, <Gloria>, and <Marty>? A.desert. B.beach. C.jungle",
+            "AI": "B"
+        }
+    ],
+    "three_concept/multi/Alex_Gloria_Marty/4.png": [
+        {
+            "Human": "What is <Alex> doing in the image? A.smiling. B.frowning. C.sleeping.",
+            "AI": "B"
+        },
+        {
+            "Human": "What is <Gloria> doing in the image? A.sitting on a branch. B.holding onto a giraffe. C.swimming in a river.",
+            "AI": "B"
+        },
+        {
+            "Human": "What is <Marty> doing in the image? A.sitting calmly. B.balancing on a lion. C.running away",
+            "AI": "B"
+        },
+        {
+            "Human": "What is the expression of <Alex> in the image? A.happy. B.angry. C.surprised",
+            "AI": "B"
+        },
+        {
+            "Human": "What is the expression on <Alex>'s face compared to <Marty>'s? A.happy. B.angry. C.surprised",
+            "AI": "B"
+        },
+        {
+            "Human": "What are <Gloria> and <Marty> doing in the image? A.sitting quietly. B.balancing on a lion. C.running fast.",
+            "AI": "B"
+        },
+        {
+            "Human": "What are <Alex>, <Gloria>, and <Marty> doing in the image? A.standing on the ground. B.piled on top of each other. C.swimming in water.",
+            "AI": "B"
+        }
+    ]
+}

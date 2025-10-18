@@ -1,0 +1,22 @@
+{
+    "three_concept/concept/test/zhongtangxi/0.png": {
+        "Human": "What type of clothing is <zhongtangxi> wearing in the image?",
+        "AI": "<zhongtangxi> is wearing a green jacket over a blue shirt with a star emblem."
+    },
+    "three_concept/concept/test/zhongtangxi/1.png": {
+        "Human": "What is <zhongtangxi> wearing in the image?",
+        "AI": "<zhongtangxi> is wearing a black suit with a white shirt."
+    },
+    "three_concept/concept/test/zhongtangxi/2.png": {
+        "Human": "What is <zhongtangxi> wearing in the image?",
+        "AI": "<zhongtangxi> is wearing a gray button-up shirt."
+    },
+    "three_concept/concept/test/zhongtangxi/3.png": {
+        "Human": "What is the hairstyle of <zhongtangxi> in the image?",
+        "AI": "<zhongtangxi> has medium-length, wavy hair."
+    },
+    "three_concept/concept/test/zhongtangxi/4.png": {
+        "Human": "What type of clothing is <zhongtangxi> wearing in the image?",
+        "AI": "<zhongtangxi> is wearing a protective gown and a face mask."
+    }
+}

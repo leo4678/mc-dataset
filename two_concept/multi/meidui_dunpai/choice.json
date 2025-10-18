@@ -1,0 +1,72 @@
+{
+    "two_concept/multi/meidui_dunpai/0.png": [
+        {
+            "Human": "What is <meidui> holding in the image? A. a sword. B. a shield. C. a hammer.",
+            "AI": "B"
+        },
+        {
+            "Human": "What is <dunpai> used for in the image? A. As a weapon. B. As a shield. C. As a decoration.",
+            "AI": "B"
+        },
+        {
+            "Human": "What is <meidui> doing in the image? A.saluting. B.running. C.sitting.",
+            "AI": "A"
+        }
+    ],
+    "two_concept/multi/meidui_dunpai/1.png": [
+        {
+            "Human": "What is <meidui> holding in the image? A.a sword. B.a shield. C.a hammer.",
+            "AI": "B"
+        },
+        {
+            "Human": "What is the color pattern on <dunpai> in the image? A. Red, white, and blue with a star. B. Black and yellow stripes.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is <meidui> holding in the image? A.<dunpai>. B.a sword. C.a gun",
+            "AI": "A"
+        }
+    ],
+    "two_concept/multi/meidui_dunpai/2.png": [
+        {
+            "Human": "What is <meidui> holding in the image? A.a sword. B.a shield. C.a gun.",
+            "AI": "B"
+        },
+        {
+            "Human": "What is <dunpai> doing in the image? A.Reflecting bullets. B.Being thrown. C.Lying on the ground.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is <meidui> doing with <dunpai> in the image? A.deflecting bullets. B.throwing the shield. C.holding it passively.",
+            "AI": "A"
+        }
+    ],
+    "two_concept/multi/meidui_dunpai/3.png": [
+        {
+            "Human": "What is <meidui> holding in the image? A. A sword. B. A shield. C. A gun.",
+            "AI": "B"
+        },
+        {
+            "Human": "What is <dunpai> used for in the image? A. As a weapon. B. As a shield. C. As a decoration.",
+            "AI": "B"
+        },
+        {
+            "Human": "What is <meidui> holding in the image? A.<dunpai>. B.a sword. C.a gun.",
+            "AI": "A"
+        }
+    ],
+    "two_concept/multi/meidui_dunpai/4.png": [
+        {
+            "Human": "What is <meidui> holding in the image? A.a sword. B.a shield. C.a bow",
+            "AI": "B"
+        },
+        {
+            "Human": "What is the color pattern on <dunpai>? A. Red, white, and blue with a star. B. Green and yellow stripes. C. Black and white checkered.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is the color pattern on <dunpai> held by <meidui>? A. Red, white, and blue with a star. B. Green and yellow stripes. C. Black and white checkered.",
+            "AI": "A"
+        }
+    ]
+}

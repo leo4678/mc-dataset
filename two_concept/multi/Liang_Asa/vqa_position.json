@@ -1,0 +1,52 @@
+{
+    "two_concept/multi/Liang_Asa/0.png": [
+        {
+            "Human": "Where is <Liang> located in the photo? A. left B. right.",
+            "AI": "A"
+        },
+        {
+            "Human": "Where is <Asa> located in the photo? A. left B. right.",
+            "AI": "B"
+        }
+    ],
+    "two_concept/multi/Liang_Asa/1.png": [
+        {
+            "Human": "Where is <Liang> located in the photo? A. left B. right.",
+            "AI": "A"
+        },
+        {
+            "Human": "Where is <Asa> located in the photo? A. left B. right.",
+            "AI": "B"
+        }
+    ],
+    "two_concept/multi/Liang_Asa/2.png": [
+        {
+            "Human": "Where is <Liang> located in the photo? A. left B. right.",
+            "AI": "A"
+        },
+        {
+            "Human": "Where is <Asa> located in the photo? A. left B. right.",
+            "AI": "B"
+        }
+    ],
+    "two_concept/multi/Liang_Asa/3.png": [
+        {
+            "Human": "Where is <Liang> located in the photo? A. left B. right.",
+            "AI": "B"
+        },
+        {
+            "Human": "Where is <Asa> located in the photo? A. left B. right.",
+            "AI": "A"
+        }
+    ],
+    "two_concept/multi/Liang_Asa/4.png": [
+        {
+            "Human": "Where is <Liang> located in the photo? A. left B. right.",
+            "AI": "B"
+        },
+        {
+            "Human": "Where is <Asa> located in the photo? A. left B. right.",
+            "AI": "A"
+        }
+    ]
+}

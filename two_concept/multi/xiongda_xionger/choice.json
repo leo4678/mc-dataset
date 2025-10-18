@@ -1,0 +1,72 @@
+{
+    "two_concept/multi/xiongda_xionger/0.png": [
+        {
+            "Human": "What is the color of <xiongda>'s fur? A. Brown B. Yellow",
+            "AI": "A"
+        },
+        {
+            "Human": "What is the color of <xionger>'s fur? A.brown. B.yellow.",
+            "AI": "B"
+        },
+        {
+            "Human": "What are <xiongda> and <xionger> doing in the image? A. Hugging each other. B. Fighting. C. Running.",
+            "AI": "A"
+        }
+    ],
+    "two_concept/multi/xiongda_xionger/1.png": [
+        {
+            "Human": "What is <xiongda> doing in the image? A. Holding a pot. B. Standing with clenched fists.",
+            "AI": "B"
+        },
+        {
+            "Human": "What is <xionger> holding in the image? A. A pot. B. A book. C. A stick.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is <xionger> holding in the image? A. A book. B. A pot. C. A stick.",
+            "AI": "B"
+        }
+    ],
+    "two_concept/multi/xiongda_xionger/2.png": [
+        {
+            "Human": "What is the color of <xiongda>'s fur? A. Brown B. Black C. White",
+            "AI": "A"
+        },
+        {
+            "Human": "What is <xionger> doing in the image? A. Climbing a tree. B. Sitting on the ground. C. Walking.",
+            "AI": "A"
+        },
+        {
+            "Human": "What are <xiongda> and <xionger> doing in the image? A. Dancing. B. Walking. C. Standing.",
+            "AI": "C"
+        }
+    ],
+    "two_concept/multi/xiongda_xionger/3.png": [
+        {
+            "Human": "What is <xiongda> holding in the image? A. A frying pan. B. A tree branch.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is <xionger> holding in the image? A. A frying pan. B. A bunch of leaves.",
+            "AI": "B"
+        },
+        {
+            "Human": "What are <xiongda> and <xionger> holding in their hands? A. A frying pan and a tree branch. B. A book and a flower. C. A stick and a leaf.",
+            "AI": "A"
+        }
+    ],
+    "two_concept/multi/xiongda_xionger/4.png": [
+        {
+            "Human": "What is <xiongda> doing in the image? A. Eating honey. B. Climbing a tree.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is <xionger> holding in the image? A. A stack of pancakes. B. A beehive. C. A pile of leaves.",
+            "AI": "B"
+        },
+        {
+            "Human": "What is <xionger> holding in the image? A. A stack of pancakes. B. A pile of leaves. C. A bunch of bananas.",
+            "AI": "A"
+        }
+    ]
+}

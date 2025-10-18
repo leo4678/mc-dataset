@@ -1,0 +1,22 @@
+{
+    "three_concept/concept/test/Zhuyun/0.png": {
+        "Human": "What type of earrings is <Zhuyun> wearing in the image?",
+        "AI": "<Zhuyun> is wearing small, star-shaped earrings with a gemstone in the center."
+    },
+    "three_concept/concept/test/Zhuyun/1.png": {
+        "Human": "What hairstyle does <Zhuyun> have in the image?",
+        "AI": "<Zhuyun> has her hair tied up in a bun."
+    },
+    "three_concept/concept/test/Zhuyun/2.png": {
+        "Human": "What is the hairstyle of <Zhuyun> in the image?",
+        "AI": "<Zhuyun> has long, straight black hair with a small section pinned back."
+    },
+    "three_concept/concept/test/Zhuyun/3.png": {
+        "Human": "What is the hairstyle of <Zhuyun> in the image?",
+        "AI": "<Zhuyun> has straight, dark hair that is parted slightly to the side."
+    },
+    "three_concept/concept/test/Zhuyun/4.png": {
+        "Human": "What is <Zhuyun> wearing in the image?",
+        "AI": "<Zhuyun> is wearing a pink hoodie and a light-colored shirt with a white crossbody bag."
+    }
+}

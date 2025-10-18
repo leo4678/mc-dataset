@@ -1,0 +1,22 @@
+{
+    "three_concept/concept/test/meijia/0.png": {
+        "Human": "What type of clothing is <meijia> wearing? A. A white lace top; B. A black turtleneck; C. A red sweater;",
+        "AI": "A"
+    },
+    "three_concept/concept/test/meijia/1.png": {
+        "Human": "What is <meijia> holding in the image? A. Stuffed animals; B. Hand puppets; C. Books;",
+        "AI": "B"
+    },
+    "three_concept/concept/test/meijia/2.png": {
+        "Human": "What is the color of <meijia>'s dress? A. Pink; B. Blue; C. Green;",
+        "AI": "A"
+    },
+    "three_concept/concept/test/meijia/3.png": {
+        "Human": "What type of dress is <meijia> wearing? A. Floral dress; B. Striped dress; C. Polka dot dress;",
+        "AI": "A"
+    },
+    "three_concept/concept/test/meijia/4.png": {
+        "Human": "What is <meijia> wearing in the image? A. A pink polka dot outfit; B. A blue striped outfit; C. A green floral outfit;",
+        "AI": "A"
+    }
+}

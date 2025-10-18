@@ -1,0 +1,22 @@
+{
+    "three_concept/concept/test/donghailinxizi/0.png": {
+        "Human": "What type of earrings is <donghailinxizi> wearing? A. Stud earrings; B. Hoop earrings; C. Drop earrings;",
+        "AI": "C"
+    },
+    "three_concept/concept/test/donghailinxizi/1.png": {
+        "Human": "What color is the jacket worn by <donghailinxizi>? A. Gray; B. Black; C. Blue;",
+        "AI": "A"
+    },
+    "three_concept/concept/test/donghailinxizi/2.png": {
+        "Human": "What color is the shirt worn by <donghailinxizi>? A. Blue; B. Brown; C. Green;",
+        "AI": "B"
+    },
+    "three_concept/concept/test/donghailinxizi/3.png": {
+        "Human": "What color is the top worn by <donghailinxizi>? A. Yellow; B. Blue; C. Red;",
+        "AI": "A"
+    },
+    "three_concept/concept/test/donghailinxizi/4.png": {
+        "Human": "What is <donghailinxizi> wearing in the image? A. A red shirt and beige jacket; B. A blue shirt and black jacket; C. A green shirt and brown jacket;",
+        "AI": "A"
+    }
+}

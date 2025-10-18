@@ -1,0 +1,22 @@
+{
+    "two_concept/concept/test/Nezuko/0.png": {
+        "Human": "What is <Nezuko> wearing around her mouth?  A. A bamboo muzzle; B. A cloth mask; C. A metal gag;",
+        "AI": "A"
+    },
+    "two_concept/concept/test/Nezuko/1.png": {
+        "Human": "What color is the ribbon in <Nezuko>'s hair?  A. Pink; B. Blue; C. Green;",
+        "AI": "A"
+    },
+    "two_concept/concept/test/Nezuko/2.png": {
+        "Human": "What is <Nezuko> wearing around her mouth?  A. A green bamboo muzzle; B. A red scarf; C. A blue mask;",
+        "AI": "A"
+    },
+    "two_concept/concept/test/Nezuko/3.png": {
+        "Human": "What color is the ribbon in <Nezuko>'s hair?  A. Pink; B. Blue; C. Green;",
+        "AI": "A"
+    },
+    "two_concept/concept/test/Nezuko/4.png": {
+        "Human": "What color is the ribbon in <Nezuko>'s hair?  A. Red; B. Pink; C. Blue;",
+        "AI": "B"
+    }
+}

@@ -1,0 +1,22 @@
+[
+    {
+        "question": "Are both <Xiyangyang> and <Huitailang> animals or humans? A. Animal. B. Human",
+        "answer": "A"
+    },
+    {
+        "question": "What are the fur colors of <Xiyangyang> and <Huitailang> respectively? A. White, Grey. B. Grey, White",
+        "answer": "A"
+    },
+    {
+        "question": "What type of clothing do <Xiyangyang> and <Huitailang> often wear? A. Space suit, Casual. B. Casual, Space suit",
+        "answer": "A"
+    },
+    {
+        "question": "Do <Xiyangyang> and <Huitailang> have horns or ears? A. Both have horns. B. Horns, Ears",
+        "answer": "B"
+    },
+    {
+        "question": "What accessory is <Huitailang> often seen wearing? A. Hat. B. Glasses",
+        "answer": "A"
+    }
+]

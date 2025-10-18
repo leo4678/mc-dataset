@@ -1,0 +1,22 @@
+{
+    "two_concept/concept/test/james/0.jpg": {
+        "Human": "What team does <james> play for in the image?",
+        "AI": "<james> plays for the Lakers in the image."
+    },
+    "two_concept/concept/test/james/1.jpg": {
+        "Human": "What team does <james> play for in the image?",
+        "AI": "<james> plays for the Lakers in the image."
+    },
+    "two_concept/concept/test/james/2.jpg": {
+        "Human": "What team is <james> playing for in the image?",
+        "AI": "<james> is playing for the Los Angeles Lakers."
+    },
+    "two_concept/concept/test/james/3.jpg": {
+        "Human": "What team does <james> play for in the image?",
+        "AI": "<james> plays for the Lakers in the image."
+    },
+    "two_concept/concept/test/james/4.jpg": {
+        "Human": "What team is <james> playing for in the image?",
+        "AI": "<james> is playing for the Los Angeles Lakers."
+    }
+}

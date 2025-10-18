@@ -1,0 +1,22 @@
+{
+    "0.png": {
+        "<HouTeng>": "left",
+        "<HongXia>": "right"
+    },
+    "1.png": {
+        "<HouTeng>": "left",
+        "<HongXia>": "right"
+    },
+    "2.png": {
+        "<HouTeng>": "right",
+        "<HongXia>": "left"
+    },
+    "3.png": {
+        "<HouTeng>": "right",
+        "<HongXia>": "left"
+    },
+    "4.png": {
+        "<HouTeng>": "left",
+        "<HongXia>": "right"
+    }
+}

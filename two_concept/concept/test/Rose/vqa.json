@@ -1,0 +1,22 @@
+{
+    "two_concept/concept/test/Rose/0.png": {
+        "Human": "What type of jewelry is <Rose> wearing in the image?",
+        "AI": "<Rose> is wearing a pearl necklace."
+    },
+    "two_concept/concept/test/Rose/1.png": {
+        "Human": "What is the condition of <Rose>'s hair in the image?",
+        "AI": "<Rose>'s hair is wet in the image."
+    },
+    "two_concept/concept/test/Rose/2.png": {
+        "Human": "What type of jewelry is <Rose> wearing in the image?",
+        "AI": "<Rose> is wearing a necklace and earrings."
+    },
+    "two_concept/concept/test/Rose/3.png": {
+        "Human": "What type of necklace is <Rose> wearing in the image?",
+        "AI": "<Rose> is wearing a delicate necklace with a pendant."
+    },
+    "two_concept/concept/test/Rose/4.png": {
+        "Human": "What type of hat is <Rose> wearing in the image?",
+        "AI": "<Rose> is wearing a large, purple hat with a striped ribbon."
+    }
+}

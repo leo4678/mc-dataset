@@ -1,0 +1,152 @@
+{
+    "three_concept/multi/Anya_Loid_Yor/0.jpg": [
+        {
+            "Human": "What is <Anya> doing in the image?",
+            "AI": "<Anya> is standing and pointing upwards with her finger."
+        },
+        {
+            "Human": "What is <Loid> wearing in the image?",
+            "AI": "<Loid> is wearing a green suit with a red tie."
+        },
+        {
+            "Human": "What is <Yor> wearing in the image?",
+            "AI": "<Yor> is wearing a pink dress with white gloves and a headband."
+        },
+        {
+            "Human": "What is <Anya> doing in the image with <Loid>?",
+            "AI": "<Anya> is standing and pointing upwards while <Loid> stands beside her."
+        },
+        {
+            "Human": "What is the expression of <Anya> and <Yor> in the image?",
+            "AI": "<Anya> is making a playful gesture with her hand, while <Yor> is smiling gently."
+        },
+        {
+            "Human": "What is the attire of <Loid> and <Yor> in the image?",
+            "AI": "<Loid> is wearing a green suit with a red tie, and <Yor> is wearing a pink dress with white gloves."
+        },
+        {
+            "Human": "What is the setting of the room where <Anya>, <Loid>, and <Yor> are located?",
+            "AI": "The room where <Anya>, <Loid>, and <Yor> are located has a vintage clock and patterned wallpaper."
+        }
+    ],
+    "three_concept/multi/Anya_Loid_Yor/1.jpg": [
+        {
+            "Human": "What is <Anya> doing in the image?",
+            "AI": "<Anya> is sitting on a bicycle seat, looking happy and raising her arm."
+        },
+        {
+            "Human": "What is <Loid> doing in the image?",
+            "AI": "<Loid> is riding a bicycle in a forest setting."
+        },
+        {
+            "Human": "What is <Yor> doing in the image?",
+            "AI": "<Yor> is standing behind the child on the bicycle, holding onto the seat."
+        },
+        {
+            "Human": "What activity are <Anya> and <Loid> doing in the image?",
+            "AI": "<Anya> and <Loid> are enjoying a bike ride in the forest."
+        },
+        {
+            "Human": "What activity are <Anya> and <Yor> engaged in?",
+            "AI": "<Anya> is sitting on a bicycle seat, looking happy, while <Yor> is standing behind her."
+        },
+        {
+            "Human": "What activity are <Loid> and <Yor> engaged in with the child?",
+            "AI": "<Loid> and <Yor> are taking the child for a bike ride in a forest setting."
+        },
+        {
+            "Human": "What activity are <Anya>, <Loid>, and <Yor> engaged in?",
+            "AI": "<Anya>, <Loid>, and <Yor> are enjoying a bike ride together in a forest setting."
+        }
+    ],
+    "three_concept/multi/Anya_Loid_Yor/2.jpg": [
+        {
+            "Human": "What is <Anya> wearing in the image?",
+            "AI": "<Anya> is wearing a dark coat with a white collar."
+        },
+        {
+            "Human": "What is <Loid> wearing in the image?",
+            "AI": "<Loid> is wearing a green suit with a red tie and a white hat."
+        },
+        {
+            "Human": "What is <Yor> wearing in the image?",
+            "AI": "<Yor> is wearing a long pink dress and a headband."
+        },
+        {
+            "Human": "What is the relationship between <Anya> and <Loid> in the image?",
+            "AI": "<Anya> is holding hands with <Loid>, suggesting a close relationship."
+        },
+        {
+            "Human": "What is the relationship between <Anya> and <Yor> in the image?",
+            "AI": "<Anya> is holding hands with <Yor>, suggesting a close relationship."
+        },
+        {
+            "Human": "What are <Loid> and <Yor> wearing in the image?",
+            "AI": "<Loid> is wearing a green suit with a red tie and a hat, while <Yor> is wearing a long pink dress with a headband."
+        },
+        {
+            "Human": "What are <Anya>, <Loid>, and <Yor> doing in the image?",
+            "AI": "<Anya> is holding hands with <Loid> and <Yor> as they walk together."
+        }
+    ],
+    "three_concept/multi/Anya_Loid_Yor/3.jpg": [
+        {
+            "Human": "What is <Anya> doing in the image?",
+            "AI": "<Anya> is sleeping peacefully in someone's arms."
+        },
+        {
+            "Human": "What is <Loid> holding in the image?",
+            "AI": "<Loid> is holding a sleeping child with pink hair."
+        },
+        {
+            "Human": "What is <Yor> doing in the image?",
+            "AI": "<Yor> is sleeping peacefully while leaning on someone's shoulder."
+        },
+        {
+            "Human": "What is the relationship between <Anya> and <Loid> in the image?",
+            "AI": "<Anya> is being held by <Loid>, suggesting a caring relationship."
+        },
+        {
+            "Human": "What are <Anya> and <Yor> doing in the image?",
+            "AI": "<Anya> and <Yor> are both sleeping peacefully."
+        },
+        {
+            "Human": "What is the relationship between <Loid> and <Yor> in the image?",
+            "AI": "<Loid> is holding <Yor> as she rests against him, suggesting a close and caring relationship."
+        },
+        {
+            "Human": "What are <Anya>, <Loid>, and <Yor> doing in the image?",
+            "AI": "<Anya> is sleeping in <Loid>'s arms, and <Yor> is resting her head on <Loid>'s shoulder."
+        }
+    ],
+    "three_concept/multi/Anya_Loid_Yor/4.jpg": [
+        {
+            "Human": "What is <Anya> holding in the image?",
+            "AI": "<Anya> is holding two spoons and a yellow object on her head."
+        },
+        {
+            "Human": "What is <Loid> holding in the image?",
+            "AI": "<Loid> is holding a pot and wearing yellow gloves."
+        },
+        {
+            "Human": "What is <Yor> wearing in the image?",
+            "AI": "<Yor> is wearing a red outfit with a white headband."
+        },
+        {
+            "Human": "What is <Anya> holding in the image?",
+            "AI": "<Anya> is holding two spoons."
+        },
+        {
+            "Human": "What is <Anya> holding in the image?",
+            "AI": "<Anya> is holding two spoons."
+        },
+        {
+            "Human": "What is <Loid> holding in the image?",
+            "AI": "<Loid> is holding a pot with yellow gloves."
+        },
+        {
+            "Human": "What is <Anya> holding in the image with <Loid> and <Yor>?",
+            "AI": "<Anya> is holding two spoons in the image with <Loid> and <Yor>."
+        }
+    ]
+}

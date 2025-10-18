@@ -1,0 +1,22 @@
+[
+    {
+        "question": "Are both <Tongren> and <Yasina> humans or animals? A. Humans. B. Animals",
+        "answer": "A"
+    },
+    {
+        "question": "What are the genders of <Tongren> and <Yasina> respectively? A. Boy, Girl. B. Girl, Boy",
+        "answer": "A"
+    },
+    {
+        "question": "What are the hair colors of <Tongren> and <Yasina> respectively? A. Black, Brown. B. Brown, Black",
+        "answer": "A"
+    },
+    {
+        "question": "What type of clothing does <Tongren> and <Yasina> often wear? A. Armor, Dress. B. Casual, Formal",
+        "answer": "A"
+    },
+    {
+        "question": "Do <Tongren> and <Yasina> often carry weapons? A. Yes. B. No",
+        "answer": "A"
+    }
+]

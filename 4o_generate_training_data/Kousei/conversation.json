@@ -1,0 +1,418 @@
+{
+    "two_concept/concept/train/Kousei/0.png": [
+        {
+            "Question": "What is <Kousei> hair color?",
+            "Answer": "<Kousei>'s hair color is dark brown."
+        },
+        {
+            "Question": "Would you describe <Kousei>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<Kousei>'s physique appears to be slim."
+        },
+        {
+            "Question": "What is <Kousei> skin tone?",
+            "Answer": "<Kousei>'s skin tone is light."
+        },
+        {
+            "Question": "How would you describe <Kousei> hairstyle?",
+            "Answer": "<Kousei>'s hairstyle is short, slightly messy, and has a natural, tousled look with some strands sticking out."
+        },
+        {
+            "Question": "Does <Kousei> wear glasses or any accessories?",
+            "Answer": "<Kousei> does not wear glasses or any accessories."
+        },
+        {
+            "Question": "How would you describe <Kousei>'s attire?",
+            "Answer": "<Kousei> is wearing a light blue dress shirt with a red and white striped tie, and a gray blazer."
+        },
+        {
+            "Question": "Does <Kousei> have any distinctive facial features?",
+            "Answer": "<Kousei> has dark, slightly messy hair and is wearing a school uniform with a tie."
+        },
+        {
+            "Question": "What is <Kousei> overall build or physique?",
+            "Answer": "<Kousei> has a slim and average build."
+        },
+        {
+            "Question": "What is <Kousei> general expression or demeanor?",
+            "Answer": "<Kousei> has a generally calm and composed demeanor."
+        }
+    ],
+    "two_concept/concept/train/Kousei/1.png": [
+        {
+            "Question": "What is <Kousei> hair color?",
+            "Answer": "<Kousei>'s hair color is dark brown."
+        },
+        {
+            "Question": "What color are <Kousei> eyes?",
+            "Answer": "<Kousei>'s eye color cannot be determined from the image."
+        },
+        {
+            "Question": "Would you describe <Kousei>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<Kousei>'s physique is slim."
+        },
+        {
+            "Question": "What is <Kousei> skin tone?",
+            "Answer": "<Kousei>'s skin tone is light."
+        },
+        {
+            "Question": "How would you describe <Kousei> hairstyle?",
+            "Answer": "<Kousei>'s hairstyle is short and slightly tousled, with a few strands falling over the forehead."
+        },
+        {
+            "Question": "Does <Kousei> wear glasses or any accessories?",
+            "Answer": "<Kousei> does not wear glasses or any accessories."
+        },
+        {
+            "Question": "How would you describe <Kousei>'s attire?",
+            "Answer": "<Kousei> is wearing a light gray school uniform with a white shirt and a red striped tie. He also has a black strap over his shoulder, likely from a bag."
+        },
+        {
+            "Question": "Does <Kousei> have any distinctive facial features?",
+            "Answer": "<Kousei> does not have any visible distinctive facial features in this image."
+        },
+        {
+            "Question": "What is <Kousei> overall build or physique?",
+            "Answer": "<Kousei> has a slim and average build."
+        },
+        {
+            "Question": "What is <Kousei> general expression or demeanor?",
+            "Answer": "<Kousei> appears to have a calm and composed demeanor."
+        }
+    ],
+    "two_concept/concept/train/Kousei/2.png": [
+        {
+            "Question": "What is <Kousei> hair color?",
+            "Answer": "<Kousei>'s hair color is dark gray."
+        },
+        {
+            "Question": "What color are <Kousei> eyes?",
+            "Answer": "<Kousei>'s eyes are not visible in the image."
+        },
+        {
+            "Question": "Would you describe <Kousei>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<Kousei>'s physique is slim."
+        },
+        {
+            "Question": "What is <Kousei> skin tone?",
+            "Answer": "<Kousei>'s skin tone is light."
+        },
+        {
+            "Question": "How would you describe <Kousei> hairstyle?",
+            "Answer": "<Kousei>'s hairstyle is short, dark, and slightly tousled with a natural, casual look."
+        },
+        {
+            "Question": "Does <Kousei> wear glasses or any accessories?",
+            "Answer": "<Kousei> is not wearing glasses or any accessories."
+        },
+        {
+            "Question": "How would you describe <Kousei>'s attire?",
+            "Answer": "<Kousei> is wearing a light gray sweater over a dark blue collared shirt, and he has a black shoulder bag."
+        },
+        {
+            "Question": "Does <Kousei> have any distinctive facial features?",
+            "Answer": "<Kousei> has short, dark hair with a slightly tousled look."
+        },
+        {
+            "Question": "What is <Kousei> overall build or physique?",
+            "Answer": "<Kousei> has a slim and average build."
+        },
+        {
+            "Question": "What is <Kousei> general expression or demeanor?",
+            "Answer": "<Kousei> has a relaxed and casual demeanor, indicated by his slightly slouched posture and the casual way he is dressed."
+        }
+    ],
+    "two_concept/concept/train/Kousei/3.png": [
+        {
+            "Question": "What is <Kousei> hair color?",
+            "Answer": "<Kousei>'s hair color is dark brown."
+        },
+        {
+            "Question": "What color are <Kousei> eyes?",
+            "Answer": "<Kousei>'s eye color cannot be determined from the image."
+        },
+        {
+            "Question": "Would you describe <Kousei>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<Kousei>'s physique appears to be slim."
+        },
+        {
+            "Question": "What is <Kousei> skin tone?",
+            "Answer": "<Kousei>'s skin tone is light."
+        },
+        {
+            "Question": "How would you describe <Kousei> hairstyle?",
+            "Answer": "<Kousei>'s hairstyle is short, slightly messy, and has a natural, tousled look."
+        },
+        {
+            "Question": "Does <Kousei> wear glasses or any accessories?",
+            "Answer": "<Kousei> is not wearing glasses or any accessories."
+        },
+        {
+            "Question": "How would you describe <Kousei>'s attire?",
+            "Answer": "<Kousei> is wearing a blue collared shirt under a light gray sweater, and he has a black strap over his shoulder."
+        },
+        {
+            "Question": "Does <Kousei> have any distinctive facial features?",
+            "Answer": "<Kousei> has short, dark hair with a slightly tousled look."
+        },
+        {
+            "Question": "What is <Kousei> overall build or physique?",
+            "Answer": "<Kousei> has a slim and average build."
+        },
+        {
+            "Question": "What is <Kousei> general expression or demeanor?",
+            "Answer": "<Kousei> has a relaxed and casual demeanor, indicated by his slightly tousled hair and casual clothing."
+        }
+    ],
+    "two_concept/concept/train/Kousei/4.png": [
+        {
+            "Question": "What is <Kousei> hair color?",
+            "Answer": "<Kousei>'s hair color is dark blue."
+        },
+        {
+            "Question": "What color are <Kousei> eyes?",
+            "Answer": "<Kousei>'s eyes are not visible in the image."
+        },
+        {
+            "Question": "Would you describe <Kousei>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<Kousei>'s physique appears slim."
+        },
+        {
+            "Question": "What is <Kousei> skin tone?",
+            "Answer": "<Kousei>'s skin tone is light."
+        },
+        {
+            "Question": "How would you describe <Kousei> hairstyle?",
+            "Answer": "<Kousei>'s hairstyle is short, slightly messy, and has a tousled look with some strands sticking out."
+        },
+        {
+            "Question": "Does <Kousei> wear glasses or any accessories?",
+            "Answer": "<Kousei> does not wear glasses or any accessories."
+        },
+        {
+            "Question": "How would you describe <Kousei>'s attire?",
+            "Answer": "<Kousei> is wearing a light blue jacket over a white shirt."
+        },
+        {
+            "Question": "Does <Kousei> have any distinctive facial features?",
+            "Answer": "<Kousei> has no visible distinctive facial features in the image."
+        },
+        {
+            "Question": "What is <Kousei> overall build or physique?",
+            "Answer": "<Kousei> has a slender build."
+        },
+        {
+            "Question": "What is <Kousei> general expression or demeanor?",
+            "Answer": "<Kousei> appears to have a calm and serene demeanor, gazing thoughtfully into the distance."
+        }
+    ],
+    "two_concept/concept/train/Kousei/5.png": [
+        {
+            "Question": "What is <Kousei> hair color?",
+            "Answer": "<Kousei>'s hair color is black."
+        },
+        {
+            "Question": "What color are <Kousei> eyes?",
+            "Answer": "<Kousei>'s eye color cannot be determined from the image."
+        },
+        {
+            "Question": "Would you describe <Kousei>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<Kousei>'s physique can be described as slim."
+        },
+        {
+            "Question": "What is <Kousei> skin tone?",
+            "Answer": "<Kousei>'s skin tone is light."
+        },
+        {
+            "Question": "How would you describe <Kousei> hairstyle?",
+            "Answer": "<Kousei>'s hairstyle is medium-length, dark, and slightly tousled with some strands falling over the ears."
+        },
+        {
+            "Question": "Does <Kousei> wear glasses or any accessories?",
+            "Answer": "<Kousei> does not appear to be wearing glasses or any accessories."
+        },
+        {
+            "Question": "How would you describe <Kousei>'s attire?",
+            "Answer": "<Kousei> is wearing a light blue collared shirt and a dark blazer."
+        },
+        {
+            "Question": "Does <Kousei> have any distinctive facial features?",
+            "Answer": "<Kousei> has dark, slightly messy hair that falls around his ears and neck."
+        },
+        {
+            "Question": "What is <Kousei> overall build or physique?",
+            "Answer": "<Kousei> has a slim and average build."
+        },
+        {
+            "Question": "What is <Kousei> general expression or demeanor?",
+            "Answer": "<Kousei> appears to have a contemplative or thoughtful demeanor, with his hand resting on his face and his gaze directed downward."
+        }
+    ],
+    "two_concept/concept/train/Kousei/6.png": [
+        {
+            "Question": "What is <Kousei> hair color?",
+            "Answer": "<Kousei>'s hair color is dark blue."
+        },
+        {
+            "Question": "What color are <Kousei> eyes?",
+            "Answer": "<Kousei>'s eyes are not visible in the image."
+        },
+        {
+            "Question": "Would you describe <Kousei>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<Kousei>'s physique can be described as slim."
+        },
+        {
+            "Question": "What is <Kousei> skin tone?",
+            "Answer": "<Kousei>'s skin tone is light."
+        },
+        {
+            "Question": "How would you describe <Kousei> hairstyle?",
+            "Answer": "<Kousei>'s hairstyle is short and slightly tousled, with a few strands sticking out."
+        },
+        {
+            "Question": "Does <Kousei> wear glasses or any accessories?",
+            "Answer": "<Kousei> does not wear glasses or any accessories."
+        },
+        {
+            "Question": "How would you describe <Kousei>'s attire?",
+            "Answer": "<Kousei> is wearing a light blue dress shirt, a red and white striped tie, and a light gray blazer with an \"S\" emblem on the left side."
+        },
+        {
+            "Question": "Does <Kousei> have any distinctive facial features?",
+            "Answer": "<Kousei> has no visible distinctive facial features in the image."
+        },
+        {
+            "Question": "What is <Kousei> overall build or physique?",
+            "Answer": "<Kousei> has a slim build."
+        },
+        {
+            "Question": "What is <Kousei> general expression or demeanor?",
+            "Answer": "<Kousei> appears to have a relaxed and calm demeanor, lying down with his arms spread out."
+        }
+    ],
+    "two_concept/concept/train/Kousei/7.png": [
+        {
+            "Question": "What is <Kousei> hair color?",
+            "Answer": "<Kousei>'s hair color is dark blue."
+        },
+        {
+            "Question": "What color are <Kousei> eyes?",
+            "Answer": "<Kousei>'s eyes are not visible in the image."
+        },
+        {
+            "Question": "Would you describe <Kousei>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<Kousei>'s physique is slim."
+        },
+        {
+            "Question": "What is <Kousei> skin tone?",
+            "Answer": "<Kousei>'s skin tone is light."
+        },
+        {
+            "Question": "How would you describe <Kousei> hairstyle?",
+            "Answer": "<Kousei>'s hairstyle is medium-length, slightly wavy, and tousled, with some strands falling over the ears."
+        },
+        {
+            "Question": "Does <Kousei> wear glasses or any accessories?",
+            "Answer": "<Kousei> wears glasses."
+        },
+        {
+            "Question": "How would you describe <Kousei>'s attire?",
+            "Answer": "<Kousei> is wearing a blue suit with a white shirt underneath."
+        },
+        {
+            "Question": "Does <Kousei> have any distinctive facial features?",
+            "Answer": "<Kousei> has no visible distinctive facial features in the image."
+        },
+        {
+            "Question": "What is <Kousei> overall build or physique?",
+            "Answer": "<Kousei> has a slender build."
+        },
+        {
+            "Question": "What is <Kousei> general expression or demeanor?",
+            "Answer": "<Kousei>'s general expression or demeanor appears focused and engaged, as he is depicted playing a violin."
+        }
+    ],
+    "two_concept/concept/train/Kousei/8.png": [
+        {
+            "Question": "What is <Kousei> hair color?",
+            "Answer": "<Kousei>'s hair color is brown."
+        },
+        {
+            "Question": "What color are <Kousei> eyes?",
+            "Answer": "<Kousei>'s eyes are not visible in the image."
+        },
+        {
+            "Question": "Would you describe <Kousei>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<Kousei>'s physique is slim."
+        },
+        {
+            "Question": "What is <Kousei> skin tone?",
+            "Answer": "<Kousei>'s skin tone is light."
+        },
+        {
+            "Question": "How would you describe <Kousei> hairstyle?",
+            "Answer": "<Kousei>'s hairstyle is short, with a slightly tousled and layered look."
+        },
+        {
+            "Question": "Does <Kousei> wear glasses or any accessories?",
+            "Answer": "<Kousei> does not wear glasses or any accessories."
+        },
+        {
+            "Question": "How would you describe <Kousei>'s attire?",
+            "Answer": "<Kousei> is wearing a light-colored blazer with a school emblem on the left side, a white shirt, a red and white striped tie, and a shoulder bag."
+        },
+        {
+            "Question": "Does <Kousei> have any distinctive facial features?",
+            "Answer": "<Kousei> has short, brown hair and is wearing a school uniform with a red and white striped tie."
+        },
+        {
+            "Question": "What is <Kousei> overall build or physique?",
+            "Answer": "<Kousei> has a slim and average build."
+        },
+        {
+            "Question": "What is <Kousei> general expression or demeanor?",
+            "Answer": "<Kousei> appears to have a calm and composed demeanor, standing in a relaxed posture with his school uniform neatly worn."
+        }
+    ],
+    "two_concept/concept/train/Kousei/9.png": [
+        {
+            "Question": "What is <Kousei> hair color?",
+            "Answer": "<Kousei>'s hair color is black."
+        },
+        {
+            "Question": "What color are <Kousei> eyes?",
+            "Answer": "I cannot determine the color of <Kousei>'s eyes from the image."
+        },
+        {
+            "Question": "Would you describe <Kousei>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<Kousei>'s physique appears to be slim."
+        },
+        {
+            "Question": "What is <Kousei> skin tone?",
+            "Answer": "<Kousei>'s skin tone is light."
+        },
+        {
+            "Question": "How would you describe <Kousei> hairstyle?",
+            "Answer": "<Kousei>'s hairstyle is short, black, and slightly tousled with a few strands sticking out."
+        },
+        {
+            "Question": "Does <Kousei> wear glasses or any accessories?",
+            "Answer": "<Kousei> wears glasses."
+        },
+        {
+            "Question": "How would you describe <Kousei>'s attire?",
+            "Answer": "<Kousei> is wearing a blue collared shirt."
+        },
+        {
+            "Question": "Does <Kousei> have any distinctive facial features?",
+            "Answer": "<Kousei> has black, slightly tousled hair."
+        },
+        {
+            "Question": "What is <Kousei> overall build or physique?",
+            "Answer": "<Kousei> has a slender build."
+        },
+        {
+            "Question": "What is <Kousei> general expression or demeanor?",
+            "Answer": "<Kousei> has a calm and neutral demeanor."
+        }
+    ]
+}

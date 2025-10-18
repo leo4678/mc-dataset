@@ -1,0 +1,22 @@
+{
+    "two_concept/concept/test/Kaori/0.png": {
+        "Human": "What is <Kaori> holding in the image?  A. A book; B. A cat; C. A flower;",
+        "AI": "B"
+    },
+    "two_concept/concept/test/Kaori/1.png": {
+        "Human": "What color is <Kaori>'s hair?  A. Black; B. Blonde; C. Brown;",
+        "AI": "B"
+    },
+    "two_concept/concept/test/Kaori/2.png": {
+        "Human": "What color is <Kaori>'s hair?  A. Black; B. Blonde; C. Brown;",
+        "AI": "B"
+    },
+    "two_concept/concept/test/Kaori/3.png": {
+        "Human": "What color is <Kaori>'s hair?  A. Black; B. Blonde; C. Brown;",
+        "AI": "B"
+    },
+    "two_concept/concept/test/Kaori/u=4064561040,2602308670&fm=253&fmt=auto&app=120&f=JPEG.png": {
+        "Human": "What color are <Kaori>'s eyes?  A. Blue; B. Green; C. Brown;",
+        "AI": "A"
+    }
+}

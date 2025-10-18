@@ -1,0 +1,410 @@
+{
+    "two_concept/concept/train/datong/0.jpg": [
+        {
+            "Question": "What is <datong> hair color?",
+            "Answer": "<datong>'s hair color is black."
+        },
+        {
+            "Question": "What color are <datong> eyes?",
+            "Answer": "I cannot determine the color of <datong>'s eyes from the image."
+        },
+        {
+            "Question": "Would you describe <datong>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<datong>'s physique can be described as slim."
+        },
+        {
+            "Question": "What is <datong> skin tone?",
+            "Answer": "<datong>'s skin tone is light."
+        },
+        {
+            "Question": "How would you describe <datong> hairstyle?",
+            "Answer": "<datong>'s hairstyle is short on the sides and back, with longer hair on top that is styled upwards and slightly to the side."
+        },
+        {
+            "Question": "Does <datong> wear glasses or any accessories?",
+            "Answer": "<datong> does not wear glasses or any accessories."
+        },
+        {
+            "Question": "How would you describe <datong>'s attire?",
+            "Answer": "<datong> is wearing a blue sweatshirt."
+        },
+        {
+            "Question": "Does <datong> have any distinctive facial features?",
+            "Answer": "I cannot determine any distinctive facial features of <datong> from the image provided."
+        },
+        {
+            "Question": "What is <datong> overall build or physique?",
+            "Answer": "<datong> has a slim build."
+        },
+        {
+            "Question": "What is <datong> general expression or demeanor?",
+            "Answer": "<datong>'s general expression or demeanor appears relaxed and casual."
+        }
+    ],
+    "two_concept/concept/train/datong/1.jpg": [
+        {
+            "Question": "What is <datong> hair color?",
+            "Answer": "<datong>'s hair color is black."
+        },
+        {
+            "Question": "What color are <datong> eyes?",
+            "Answer": "I cannot determine the color of <datong>'s eyes from the image."
+        },
+        {
+            "Question": "Would you describe <datong>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<datong>'s physique can be described as slim."
+        },
+        {
+            "Question": "What is <datong> skin tone?",
+            "Answer": "<datong>'s skin tone is light."
+        },
+        {
+            "Question": "How would you describe <datong> hairstyle?",
+            "Answer": "<datong>'s hairstyle is short and neatly combed to the side."
+        },
+        {
+            "Question": "Does <datong> wear glasses or any accessories?",
+            "Answer": "<datong> does not wear glasses or any accessories."
+        },
+        {
+            "Question": "How would you describe <datong>'s attire?",
+            "Answer": "<datong> is wearing a yellow sweatshirt."
+        },
+        {
+            "Question": "Does <datong> have any distinctive facial features?",
+            "Answer": "I cannot determine any distinctive facial features for <datong> based on the provided image."
+        },
+        {
+            "Question": "What is <datong> overall build or physique?",
+            "Answer": "<datong> has a slim and lean build."
+        },
+        {
+            "Question": "What is <datong> general expression or demeanor?",
+            "Answer": "<datong>'s general expression or demeanor appears relaxed and casual."
+        }
+    ],
+    "two_concept/concept/train/datong/2.jpg": [
+        {
+            "Question": "What is <datong> hair color?",
+            "Answer": "<datong>'s hair color is black."
+        },
+        {
+            "Question": "Would you describe <datong>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<datong>'s physique appears to be slim."
+        },
+        {
+            "Question": "What is <datong> skin tone?",
+            "Answer": "<datong>'s skin tone is light."
+        },
+        {
+            "Question": "How would you describe <datong> hairstyle?",
+            "Answer": "<datong>'s hairstyle is short and slightly tousled, with a natural, unstyled look."
+        },
+        {
+            "Question": "Does <datong> wear glasses or any accessories?",
+            "Answer": "<datong> does not wear glasses or any accessories."
+        },
+        {
+            "Question": "How would you describe <datong>'s attire?",
+            "Answer": "<datong> is wearing a shiny blue jacket."
+        },
+        {
+            "Question": "Does <datong> have any distinctive facial features?",
+            "Answer": "I cannot determine any distinctive facial features of <datong> from the image provided."
+        },
+        {
+            "Question": "What is <datong> overall build or physique?",
+            "Answer": "<datong> has a medium build."
+        },
+        {
+            "Question": "What is <datong> general expression or demeanor?",
+            "Answer": "<datong>'s general expression or demeanor cannot be determined from the image."
+        }
+    ],
+    "two_concept/concept/train/datong/3.jpg": [
+        {
+            "Question": "What is <datong> hair color?",
+            "Answer": "<datong>'s hair color is black."
+        },
+        {
+            "Question": "What color are <datong> eyes?",
+            "Answer": "I cannot determine the color of <datong>'s eyes from the image."
+        },
+        {
+            "Question": "Would you describe <datong>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<datong>'s physique can be described as slim."
+        },
+        {
+            "Question": "What is <datong> skin tone?",
+            "Answer": "<datong>'s skin tone is light."
+        },
+        {
+            "Question": "How would you describe <datong> hairstyle?",
+            "Answer": "<datong>'s hairstyle is short, wavy, and voluminous, with a slightly tousled look."
+        },
+        {
+            "Question": "Does <datong> wear glasses or any accessories?",
+            "Answer": "<datong> is wearing a black bow tie."
+        },
+        {
+            "Question": "How would you describe <datong>'s attire?",
+            "Answer": "<datong> is wearing a grey knit sweater over a white collared shirt, paired with a black bow tie."
+        },
+        {
+            "Question": "Does <datong> have any distinctive facial features?",
+            "Answer": "I cannot determine any distinctive facial features for <datong> based on the provided image."
+        },
+        {
+            "Question": "What is <datong> overall build or physique?",
+            "Answer": "<datong> has a slim and lean build."
+        },
+        {
+            "Question": "What is <datong> general expression or demeanor?",
+            "Answer": "<datong>'s general expression or demeanor appears to be formal and stylish, indicated by the bow tie and neatly styled hair."
+        }
+    ],
+    "two_concept/concept/train/datong/4.jpg": [
+        {
+            "Question": "What is <datong> hair color?",
+            "Answer": "<datong>'s hair color is black."
+        },
+        {
+            "Question": "What color are <datong> eyes?",
+            "Answer": "I cannot determine the color of <datong>'s eyes from the image."
+        },
+        {
+            "Question": "Would you describe <datong>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<datong>'s physique is slim."
+        },
+        {
+            "Question": "What is <datong> skin tone?",
+            "Answer": "<datong>'s skin tone is light."
+        },
+        {
+            "Question": "How would you describe <datong> hairstyle?",
+            "Answer": "<datong>'s hairstyle is short and dark."
+        },
+        {
+            "Question": "Does <datong> wear glasses or any accessories?",
+            "Answer": "<datong> is wearing a red bow tie as an accessory."
+        },
+        {
+            "Question": "How would you describe <datong>'s attire?",
+            "Answer": "<datong> is wearing a white hoodie over a white shirt, accessorized with a red bow tie."
+        },
+        {
+            "Question": "Does <datong> have any distinctive facial features?",
+            "Answer": "I cannot determine any distinctive facial features for <datong> based on the provided image."
+        },
+        {
+            "Question": "What is <datong> overall build or physique?",
+            "Answer": "<datong> has a slim build."
+        },
+        {
+            "Question": "What is <datong> general expression or demeanor?",
+            "Answer": "<datong>'s general expression or demeanor appears to be casual and relaxed, as indicated by the white hoodie and red bow tie."
+        }
+    ],
+    "two_concept/concept/train/datong/5.jpg": [
+        {
+            "Question": "What is <datong> hair color?",
+            "Answer": "<datong>'s hair color is black."
+        },
+        {
+            "Question": "What color are <datong> eyes?",
+            "Answer": "I cannot determine the color of <datong>'s eyes from the image."
+        },
+        {
+            "Question": "Would you describe <datong>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<datong>'s physique can be described as slim."
+        },
+        {
+            "Question": "What is <datong> skin tone?",
+            "Answer": "<datong>'s skin tone is light."
+        },
+        {
+            "Question": "How would you describe <datong> hairstyle?",
+            "Answer": "<datong> is wearing a cap, so their hairstyle is not visible."
+        },
+        {
+            "Question": "Does <datong> wear glasses or any accessories?",
+            "Answer": "<datong> is wearing a cap."
+        },
+        {
+            "Question": "How would you describe <datong>'s attire?",
+            "Answer": "<datong> is wearing a black, long-sleeved traditional Chinese jacket with a subtle floral pattern and frog buttons."
+        },
+        {
+            "Question": "Does <datong> have any distinctive facial features?",
+            "Answer": "I cannot determine any distinctive facial features of <datong> from the image."
+        },
+        {
+            "Question": "What is <datong> overall build or physique?",
+            "Answer": "<datong> has a slender build."
+        },
+        {
+            "Question": "What is <datong> general expression or demeanor?",
+            "Answer": "<datong>'s general expression or demeanor appears to be calm and composed."
+        }
+    ],
+    "two_concept/concept/train/datong/6.jpg": [
+        {
+            "Question": "What is <datong> hair color?",
+            "Answer": "<datong>'s hair color is black."
+        },
+        {
+            "Question": "What color are <datong> eyes?",
+            "Answer": "I cannot determine the color of <datong>'s eyes from the image."
+        },
+        {
+            "Question": "Would you describe <datong>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<datong>'s physique appears to be slim."
+        },
+        {
+            "Question": "What is <datong> skin tone?",
+            "Answer": "<datong>'s skin tone is light."
+        },
+        {
+            "Question": "How would you describe <datong> hairstyle?",
+            "Answer": "<datong>'s hairstyle is short and neatly combed to the side."
+        },
+        {
+            "Question": "Does <datong> wear glasses or any accessories?",
+            "Answer": "<datong> does not wear glasses or any accessories."
+        },
+        {
+            "Question": "How would you describe <datong>'s attire?",
+            "Answer": "<datong> is wearing a dark-colored shirt with light-colored sleeves and a collar. The shirt has a casual style with visible stitching details."
+        },
+        {
+            "Question": "Does <datong> have any distinctive facial features?",
+            "Answer": "I cannot determine any distinctive facial features of <datong> from the image provided."
+        },
+        {
+            "Question": "What is <datong> overall build or physique?",
+            "Answer": "<datong> has a slim build."
+        },
+        {
+            "Question": "What is <datong> general expression or demeanor?",
+            "Answer": "<datong>'s general expression or demeanor cannot be determined from the image."
+        }
+    ],
+    "two_concept/concept/train/datong/7.jpg": [
+        {
+            "Question": "What is <datong> hair color?",
+            "Answer": "<datong>'s hair color is black."
+        },
+        {
+            "Question": "What color are <datong> eyes?",
+            "Answer": "I cannot determine the color of <datong>'s eyes from the image."
+        },
+        {
+            "Question": "Would you describe <datong>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<datong>'s physique can be described as slim."
+        },
+        {
+            "Question": "What is <datong> skin tone?",
+            "Answer": "I cannot determine <datong>'s skin tone from the image."
+        },
+        {
+            "Question": "How would you describe <datong> hairstyle?",
+            "Answer": "<datong>'s hairstyle is short and spiky."
+        },
+        {
+            "Question": "Does <datong> wear glasses or any accessories?",
+            "Answer": "<datong> is not wearing glasses or any accessories."
+        },
+        {
+            "Question": "How would you describe <datong>'s attire?",
+            "Answer": "<datong> is wearing a black blazer over a white dress shirt, paired with a light-colored tie. He is also wearing dark jeans."
+        },
+        {
+            "Question": "What is <datong> overall build or physique?",
+            "Answer": "<datong> has a slim and lean build."
+        },
+        {
+            "Question": "What is <datong> general expression or demeanor?",
+            "Answer": "<datong>'s general expression or demeanor appears to be relaxed and casual."
+        }
+    ],
+    "two_concept/concept/train/datong/8.jpg": [
+        {
+            "Question": "What is <datong> hair color?",
+            "Answer": "<datong>'s hair color is black."
+        },
+        {
+            "Question": "What color are <datong> eyes?",
+            "Answer": "I cannot determine the color of <datong>'s eyes from the image."
+        },
+        {
+            "Question": "Would you describe <datong>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<datong>'s physique can be described as slim."
+        },
+        {
+            "Question": "What is <datong> skin tone?",
+            "Answer": "<datong>'s skin tone is light."
+        },
+        {
+            "Question": "How would you describe <datong> hairstyle?",
+            "Answer": "<datong>'s hairstyle is short and neatly styled."
+        },
+        {
+            "Question": "Does <datong> wear glasses or any accessories?",
+            "Answer": "<datong> is wearing a bow tie as an accessory. He is not wearing glasses."
+        },
+        {
+            "Question": "How would you describe <datong>'s attire?",
+            "Answer": "<datong> is wearing a dark brown velvet suit with a white dress shirt and a black bow tie."
+        },
+        {
+            "Question": "Does <datong> have any distinctive facial features?",
+            "Answer": "I cannot determine any distinctive facial features of <datong> from the image provided."
+        },
+        {
+            "Question": "What is <datong> overall build or physique?",
+            "Answer": "<datong> has a slim and tall build."
+        },
+        {
+            "Question": "What is <datong> general expression or demeanor?",
+            "Answer": "<datong>'s general expression or demeanor appears formal and composed."
+        }
+    ],
+    "two_concept/concept/train/datong/9.jpg": [
+        {
+            "Question": "What is <datong> hair color?",
+            "Answer": "<datong>'s hair color is black."
+        },
+        {
+            "Question": "What color are <datong> eyes?",
+            "Answer": "I cannot determine the color of <datong>'s eyes from the image."
+        },
+        {
+            "Question": "Would you describe <datong>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<datong>'s physique can be described as slim."
+        },
+        {
+            "Question": "What is <datong> skin tone?",
+            "Answer": "<datong>'s skin tone is light."
+        },
+        {
+            "Question": "How would you describe <datong> hairstyle?",
+            "Answer": "<datong>'s hairstyle is slicked back and neatly styled."
+        },
+        {
+            "Question": "Does <datong> wear glasses or any accessories?",
+            "Answer": "<datong> is not wearing glasses or any accessories."
+        },
+        {
+            "Question": "How would you describe <datong>'s attire?",
+            "Answer": "<datong> is wearing a black double-breasted coat over a white shirt."
+        },
+        {
+            "Question": "What is <datong> overall build or physique?",
+            "Answer": "<datong> has a slim build."
+        },
+        {
+            "Question": "What is <datong> general expression or demeanor?",
+            "Answer": "<datong>'s general expression or demeanor appears confident and composed, as he is holding a microphone and an award."
+        }
+    ]
+}

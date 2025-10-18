@@ -1,0 +1,22 @@
+[
+    {
+        "question": "What type of animal is <tangmu>? A.Cat.  B.Dog",
+        "answer": "A"
+    },
+    {
+        "question": "What is the primary color of <tangmu>'s fur? A.Gray.  B.Brown",
+        "answer": "A"
+    },
+    {
+        "question": "What color are <tangmu>'s eyes? A.Green.  B.Blue",
+        "answer": "A"
+    },
+    {
+        "question": "Does <tangmu> wear a red scarf? A.Yes.  B.No",
+        "answer": "A"
+    },
+    {
+        "question": "What is <tangmu>'s demeanor? A.Playful.  B.Serious",
+        "answer": "A"
+    }
+]

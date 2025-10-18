@@ -1,0 +1,52 @@
+{
+    "two_concept/multi/QianShu_JinShang/0.png": [
+        {
+            "Human": "Where is <QianShu> located in the photo? A. left B. right.",
+            "AI": "A"
+        },
+        {
+            "Human": "Where is <JinShang> located in the photo? A. left B. right.",
+            "AI": "B"
+        }
+    ],
+    "two_concept/multi/QianShu_JinShang/1.png": [
+        {
+            "Human": "Where is <QianShu> located in the photo? A. left B. right.",
+            "AI": "A"
+        },
+        {
+            "Human": "Where is <JinShang> located in the photo? A. left B. right.",
+            "AI": "B"
+        }
+    ],
+    "two_concept/multi/QianShu_JinShang/2.png": [
+        {
+            "Human": "Where is <QianShu> located in the photo? A. left B. right.",
+            "AI": "B"
+        },
+        {
+            "Human": "Where is <JinShang> located in the photo? A. left B. right.",
+            "AI": "A"
+        }
+    ],
+    "two_concept/multi/QianShu_JinShang/3.png": [
+        {
+            "Human": "Where is <QianShu> located in the photo? A. left B. right.",
+            "AI": "B"
+        },
+        {
+            "Human": "Where is <JinShang> located in the photo? A. left B. right.",
+            "AI": "A"
+        }
+    ],
+    "two_concept/multi/QianShu_JinShang/4.png": [
+        {
+            "Human": "Where is <QianShu> located in the photo? A. left B. right.",
+            "AI": "B"
+        },
+        {
+            "Human": "Where is <JinShang> located in the photo? A. left B. right.",
+            "AI": "A"
+        }
+    ]
+}

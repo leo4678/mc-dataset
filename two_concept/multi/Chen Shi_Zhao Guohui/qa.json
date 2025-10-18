@@ -1,0 +1,22 @@
+[
+    {
+        "question": "Are both <Chen Shi> and <Zhao Guohui> humans or animals? A. Humans. B. Animals",
+        "answer": "A"
+    },
+    {
+        "question": "What are the genders of <Chen Shi> and <Zhao Guohui> respectively? A. Male, Female. B. Female, Male",
+        "answer": "A"
+    },
+    {
+        "question": "What type of clothing do <Chen Shi> and <Zhao Guohui> often wear? A. Formal, Traditional. B. Casual, Sporty",
+        "answer": "A"
+    },
+    {
+        "question": "Do <Chen Shi> and <Zhao Guohui> often wear accessories? A. Yes. B. No",
+        "answer": "A"
+    },
+    {
+        "question": "What is the hair length of <Chen Shi> and <Zhao Guohui> respectively? A. Short, Long. B. Long, Short",
+        "answer": "A"
+    }
+]

@@ -1,0 +1,22 @@
+{
+    "three_concept/concept/test/Ron/0.png": {
+        "Human": "What type of clothing is <Ron> wearing? A. Casual T-shirt; B. School uniform; C. Sports jersey;",
+        "AI": "B"
+    },
+    "three_concept/concept/test/Ron/1.png": {
+        "Human": "What is <Ron's> school uniform color? A. Blue; B. Grey; C. Green;",
+        "AI": "B"
+    },
+    "three_concept/concept/test/Ron/2.png": {
+        "Human": "What is <Ron> wearing in the image? A. A blue hoodie; B. A red sweater; C. A black jacket;",
+        "AI": "A"
+    },
+    "three_concept/concept/test/Ron/3.png": {
+        "Human": "What color is <Ron>'s hair? A. Black; B. Red; C. Blonde;",
+        "AI": "B"
+    },
+    "three_concept/concept/test/Ron/4.png": {
+        "Human": "What color is <Ron>'s hair? A. Black; B. Blonde; C. Red;",
+        "AI": "C"
+    }
+}

@@ -1,0 +1,22 @@
+[
+    {
+        "question": "What is <Tongren>'s hair color? A.Black. B.Blonde",
+        "answer": "A"
+    },
+    {
+        "question": "Does <Tongren> carry a sword? A.Yes. B.No",
+        "answer": "A"
+    },
+    {
+        "question": "What type of clothing does <Tongren> wear? A.Armor. B.Casual",
+        "answer": "A"
+    },
+    {
+        "question": "Is <Tongren> often seen in a serious or playful demeanor? A.Serious. B.Playful",
+        "answer": "A"
+    },
+    {
+        "question": "What is <Tongren>'s gender? A.Male. B.Female",
+        "answer": "A"
+    }
+]

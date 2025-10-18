@@ -1,0 +1,22 @@
+{
+    "three_concept/concept/test/Kace/0.png": {
+        "Human": "What type of clothing is <Kace> in the image?",
+        "AI": "<Kace> is a red sleeveless vest with buttons in the image."
+    },
+    "three_concept/concept/test/Kace/1.png": {
+        "Human": "What is the main difference between the shirt in the image and <Kace>?",
+        "AI": "The shirt in the image is a sleeveless red vest with yellow buttons, while <Kace> is described as a red long sleeve shirt."
+    },
+    "three_concept/concept/test/Kace/2.png": {
+        "Human": "What is the color of the buttons on the <Kace> shirt?",
+        "AI": "The buttons on the <Kace> shirt are brown."
+    },
+    "three_concept/concept/test/Kace/3.png": {
+        "Human": "What color are the buttons on the <Kace> shirt?",
+        "AI": "The buttons on the <Kace> shirt are yellow."
+    },
+    "three_concept/concept/test/Kace/4.png": {
+        "Human": "What is the color of the buttons on <Kace> in the image?",
+        "AI": "The buttons on <Kace> are yellow."
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "two_concept/concept/test/Si/0.png": {
+        "Human": "What is the color of <Si>'s eyes?  A. Blue; B. Red; C. Green;",
+        "AI": "B"
+    },
+    "two_concept/concept/test/Si/1.png": {
+        "Human": "What is the expression on <Si>'s face?  A. Happy; B. Surprised; C. Neutral;",
+        "AI": "C"
+    },
+    "two_concept/concept/test/Si/2.png": {
+        "Human": "What color is <Si>'s hair?  A. Pink; B. Blue; C. Green;",
+        "AI": "A"
+    },
+    "two_concept/concept/test/Si/3.png": {
+        "Human": "What is the background setting behind <Si>?  A. A library; B. A park; C. A kitchen;",
+        "AI": "A"
+    },
+    "two_concept/concept/test/Si/4.png": {
+        "Human": "What is <Si> wearing in the image?  A. A dress; B. Pajamas; C. A suit;",
+        "AI": "B"
+    }
+}

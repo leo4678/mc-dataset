@@ -1,0 +1,22 @@
+{
+    "0.jpg": {
+        "<Modi>": "right",
+        "<Rike>": "left"
+    },
+    "1.jpg": {
+        "<Modi>": "right",
+        "<Rike>": "left"
+    },
+    "2.jpg": {
+        "<Modi>": "left",
+        "<Rike>": "right"
+    },
+    "3.png": {
+        "<Modi>": "left",
+        "<Rike>": "right"
+    },
+    "4.jpg": {
+        "<Modi>": "left",
+        "<Rike>": "right"
+    }
+}

@@ -1,0 +1,22 @@
+[
+    {
+        "question": "What is <Ye Wen>'s gender? A. Male B. Female",
+        "answer": "A"
+    },
+    {
+        "question": "What type of clothing does <Ye Wen> typically wear? A. Traditional B. Modern",
+        "answer": "A"
+    },
+    {
+        "question": "Does <Ye Wen> have short or long hair? A. Short B. Long",
+        "answer": "A"
+    },
+    {
+        "question": "What is <Ye Wen> often seen doing? A. Reading B. Practicing martial arts",
+        "answer": "B"
+    },
+    {
+        "question": "What is <Ye Wen>'s demeanor? A. Calm B. Aggressive",
+        "answer": "A"
+    }
+]

@@ -1,0 +1,32 @@
+{
+    "0.png": {
+        "<haimianbaobao>": "middle left",
+        "<paidaxing>": "right",
+        "<zhangyuge>": "middle right",
+        "<shandi>": "left"
+    },
+    "1.png": {
+        "<haimianbaobao>": "right",
+        "<paidaxing>": "middle right",
+        "<zhangyuge>": "left",
+        "<shandi>": "middle left"
+    },
+    "2.png": {
+        "<haimianbaobao>": "middle left",
+        "<paidaxing>": "middle right",
+        "<zhangyuge>": "right",
+        "<shandi>": "left"
+    },
+    "3.png": {
+        "<haimianbaobao>": "right",
+        "<paidaxing>": "middle left",
+        "<zhangyuge>": "middle right",
+        "<shandi>": "left"
+    },
+    "4.png": {
+        "<haimianbaobao>": "right",
+        "<paidaxing>": "middle left",
+        "<zhangyuge>": "middle right",
+        "<shandi>": "left"
+    }
+}

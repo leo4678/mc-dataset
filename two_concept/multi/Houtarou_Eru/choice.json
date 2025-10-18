@@ -1,0 +1,72 @@
+{
+    "two_concept/multi/Houtarou_Eru/0.png": [
+        {
+            "Human": "What is <Houtarou> doing in the image? A. Making a peace sign. B. Reading a book.",
+            "AI": "A"
+        },
+        {
+            "Human": "What color is the uniform of <Eru>? A. blue and white. B. green and white. C. black and white",
+            "AI": "A"
+        },
+        {
+            "Human": "What is the color of the outfit worn by <Eru>? A.black. B.white. C.red",
+            "AI": "B"
+        }
+    ],
+    "two_concept/multi/Houtarou_Eru/1.png": [
+        {
+            "Human": "What item is <Houtarou> carrying over his shoulder? A. A backpack. B. A guitar case.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is the possible relationship between <Eru> and the person on the right? A.siblings. B.friends. C.coworkers",
+            "AI": "B"
+        },
+        {
+            "Human": "What are <Houtarou> and <Eru> wearing in the image? A.school uniforms. B.casual clothes. C.formal attire",
+            "AI": "A"
+        }
+    ],
+    "two_concept/multi/Houtarou_Eru/2.png": [
+        {
+            "Human": "What color are the eyes of <Houtarou>? A. Blue B. Green C. Brown",
+            "AI": "B"
+        },
+        {
+            "Human": "What is the hair color of <Eru> in the image? A. Black  B. Blonde",
+            "AI": "A"
+        },
+        {
+            "Human": "What is the background setting behind <Houtarou> and <Eru>? A.library B.kitchen C.bedroom",
+            "AI": "A"
+        }
+    ],
+    "two_concept/multi/Houtarou_Eru/3.png": [
+        {
+            "Human": "What is <Houtarou> holding in the image? A. A book B. A bag C. A towel",
+            "AI": "B"
+        },
+        {
+            "Human": "What is <Eru> holding in the image? A. A blanket B. A book",
+            "AI": "A"
+        },
+        {
+            "Human": "What is <Eru> holding in the image? A. A book. B. A pillow. C. A tablet.",
+            "AI": "B"
+        }
+    ],
+    "two_concept/multi/Houtarou_Eru/4.png": [
+        {
+            "Human": "What type of uniform is <Houtarou> wearing? A. School athletic uniform. B. School formal uniform.  C. Casual clothes",
+            "AI": "B"
+        },
+        {
+            "Human": "What is <Eru> wearing in the image? A. A sports uniform. B. A school uniform. C. Casual clothes.",
+            "AI": "B"
+        },
+        {
+            "Human": "What type of uniforms are <Houtarou> and <Eru> wearing? A. school uniforms. B. sports uniforms. C. casual wear.",
+            "AI": "A"
+        }
+    ]
+}

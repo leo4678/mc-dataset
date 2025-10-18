@@ -1,0 +1,22 @@
+{
+    "three_concept/concept/test/Marty/0.png": {
+        "Human": "What is <Marty> doing in the image?",
+        "AI": "<Marty> is walking through a rocky area."
+    },
+    "three_concept/concept/test/Marty/1.png": {
+        "Human": "What is <Marty> doing in the image?",
+        "AI": "<Marty> is striking a pose in a jungle setting."
+    },
+    "three_concept/concept/test/Marty/2.png": {
+        "Human": "What is <Marty> doing in this scene?",
+        "AI": "<Marty> is smiling on the beach during a sunset."
+    },
+    "three_concept/concept/test/Marty/3.png": {
+        "Human": "What is <Marty> holding in the image?",
+        "AI": "<Marty> is holding a long stick in the image."
+    },
+    "three_concept/concept/test/Marty/4.png": {
+        "Human": "What is <Marty> doing in the image?",
+        "AI": "<Marty> is standing on a beach with a surprised expression."
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "two_concept/concept/test/Eru/0.png": {
+        "Human": "What is located on the table behind <Eru> in the image?  A. A plant; B. A phone; C. A book;",
+        "AI": "A"
+    },
+    "two_concept/concept/test/Eru/1.png": {
+        "Human": "What color are <Eru>'s eyes?  A. Blue; B. Purple; C. Green;",
+        "AI": "B"
+    },
+    "two_concept/concept/test/Eru/2.png": {
+        "Human": "What type of outfit is <Eru> wearing?  A. School uniform;  B. Casual clothes;",
+        "AI": "A"
+    },
+    "two_concept/concept/test/Eru/3.png": {
+        "Human": "What is <Eru> looking at in the image?  A. A poster on the wall; B. Someone in front of her;",
+        "AI": "A"
+    },
+    "two_concept/concept/test/Eru/4.png": {
+        "Human": "What is the color of the hair of <Eru>?  A. Blonde; B. Brown; C. Black;",
+        "AI": "B"
+    }
+}

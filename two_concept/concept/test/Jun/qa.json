@@ -1,0 +1,22 @@
+[
+    {
+        "question": "What type of clothing does <Jun> typically wear? A. Casual.  B. Uniform",
+        "answer": "B"
+    },
+    {
+        "question": "What accessory is <Jun> often seen with? A. Hat.  B. Glasses",
+        "answer": "A"
+    },
+    {
+        "question": "What is the primary color of <Jun>'s outfit? A. Blue.  B. Red",
+        "answer": "A"
+    },
+    {
+        "question": "Is <Jun> usually depicted indoors or outdoors? A. Indoors.  B. Outdoors",
+        "answer": "B"
+    },
+    {
+        "question": "What is <Jun>'s gender? A. Male.  B. Female",
+        "answer": "A"
+    }
+]

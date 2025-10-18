@@ -1,0 +1,52 @@
+{
+    "two_concept/multi/Chuhuoluo_Shenzhenyi/0.jpg": [
+        {
+            "Human": "Where is <Chuhuoluo> located in the photo? A. left B. right.",
+            "AI": "A"
+        },
+        {
+            "Human": "Where is <Shenzhenyi> located in the photo? A. left B. right.",
+            "AI": "B"
+        }
+    ],
+    "two_concept/multi/Chuhuoluo_Shenzhenyi/1.jpg": [
+        {
+            "Human": "Where is <Chuhuoluo> located in the photo? A. left B. right.",
+            "AI": "A"
+        },
+        {
+            "Human": "Where is <Shenzhenyi> located in the photo? A. left B. right.",
+            "AI": "B"
+        }
+    ],
+    "two_concept/multi/Chuhuoluo_Shenzhenyi/2.jpg": [
+        {
+            "Human": "Where is <Chuhuoluo> located in the photo? A. left B. right.",
+            "AI": "A"
+        },
+        {
+            "Human": "Where is <Shenzhenyi> located in the photo? A. left B. right.",
+            "AI": "B"
+        }
+    ],
+    "two_concept/multi/Chuhuoluo_Shenzhenyi/3.jpg": [
+        {
+            "Human": "Where is <Chuhuoluo> located in the photo? A. left B. right.",
+            "AI": "B"
+        },
+        {
+            "Human": "Where is <Shenzhenyi> located in the photo? A. left B. right.",
+            "AI": "A"
+        }
+    ],
+    "two_concept/multi/Chuhuoluo_Shenzhenyi/4.jpg": [
+        {
+            "Human": "Where is <Chuhuoluo> located in the photo? A. left B. right.",
+            "AI": "A"
+        },
+        {
+            "Human": "Where is <Shenzhenyi> located in the photo? A. left B. right.",
+            "AI": "B"
+        }
+    ]
+}

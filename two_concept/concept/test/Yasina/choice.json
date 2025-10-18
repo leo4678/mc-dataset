@@ -1,0 +1,22 @@
+{
+    "two_concept/concept/test/Yasina/0.png": {
+        "Human": "What is the expression on <Yasina>'s face?  A. Happy; B. Sad; C. Angry;",
+        "AI": "B"
+    },
+    "two_concept/concept/test/Yasina/1.png": {
+        "Human": "What is <Yasina> doing in the image?  A. Laughing; B. Crying; C. Sleeping;",
+        "AI": "B"
+    },
+    "two_concept/concept/test/Yasina/2.png": {
+        "Human": "What is <Yasina> holding in her hand?  A. A book; B. A sword; C. A shield;",
+        "AI": "B"
+    },
+    "two_concept/concept/test/Yasina/3.png": {
+        "Human": "What color is <Yasina>'s hair?  A. Blonde; B. Black; C. Brown;",
+        "AI": "A"
+    },
+    "two_concept/concept/test/Yasina/4.png": {
+        "Human": "What is <Yasina> wearing in the image?  A. A white and red outfit with gold accents; B. A blue and black outfit with silver accents;",
+        "AI": "A"
+    }
+}

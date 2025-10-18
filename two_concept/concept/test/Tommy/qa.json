@@ -1,0 +1,22 @@
+[
+    {
+        "question": "What type of clothing does <Tommy> typically wear? A. Casual. B. Formal suits",
+        "answer": "B"
+    },
+    {
+        "question": "What accessory is often seen with <Tommy>? A. Hat. B. Sunglasses",
+        "answer": "A"
+    },
+    {
+        "question": "What is <Tommy>'s demeanor? A. Relaxed. B. Serious",
+        "answer": "B"
+    },
+    {
+        "question": "What color is <Tommy>'s suit usually? A. Bright colors. B. Dark colors",
+        "answer": "B"
+    },
+    {
+        "question": "What is a common setting for <Tommy>? A. Office. B. Beach",
+        "answer": "A"
+    }
+]

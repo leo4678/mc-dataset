@@ -1,0 +1,22 @@
+[
+    {
+        "question": "What type of animal is <Huitailang>? A.Wolf.  B.Cat",
+        "answer": "A"
+    },
+    {
+        "question": "What color is <Huitailang>'s fur? A.Gray.  B.Brown",
+        "answer": "A"
+    },
+    {
+        "question": "Does <Huitailang> wear a hat? A.Yes.  B.No",
+        "answer": "A"
+    },
+    {
+        "question": "What is the expression of <Huitailang>? A.Happy.  B.Serious",
+        "answer": "B"
+    },
+    {
+        "question": "What color are <Huitailang>'s gloves? A.White.  B.Black",
+        "answer": "A"
+    }
+]

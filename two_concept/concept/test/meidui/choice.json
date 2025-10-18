@@ -1,0 +1,22 @@
+{
+    "two_concept/concept/test/meidui/0.png": {
+        "Human": "What is the emblem on <meidui>'s chest? \n A. A star; \n B. A circle; \n C. A triangle;",
+        "AI": "A"
+    },
+    "two_concept/concept/test/meidui/1.png": {
+        "Human": "What is <meidui> holding in the image? \n A. A sword; \n B. A shield; \n C. A gun;",
+        "AI": "B"
+    },
+    "two_concept/concept/test/meidui/2.png": {
+        "Human": "What is the color of <meidui>'s suit in the image? \n A. Red; \n B. Blue; \n C. Green;",
+        "AI": "B"
+    },
+    "two_concept/concept/test/meidui/3.png": {
+        "Human": "What is the color of <meidui>'s suit in the image? \n A. Red and white; \n B. Blue and red; \n C. Green and yellow;",
+        "AI": "B"
+    },
+    "two_concept/concept/test/meidui/4.png": {
+        "Human": "What color is <meidui>'s suit in the image? \n A. Black; \n B. Blue; \n C. Red;",
+        "AI": "B"
+    }
+}

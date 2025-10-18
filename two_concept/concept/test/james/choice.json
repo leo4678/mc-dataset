@@ -1,0 +1,22 @@
+{
+    "two_concept/concept/test/james/0.jpg": {
+        "Human": "What number is on <james>'s jersey?  A. 6; B. 23; C. 8;",
+        "AI": "A"
+    },
+    "two_concept/concept/test/james/1.jpg": {
+        "Human": "What team is <james> playing for in the image?  A. Lakers; B. Bulls; C. Celtics;",
+        "AI": "A"
+    },
+    "two_concept/concept/test/james/2.jpg": {
+        "Human": "What team is <james> playing for in the image?  A. Lakers; B. Warriors; C. Celtics;",
+        "AI": "A"
+    },
+    "two_concept/concept/test/james/3.jpg": {
+        "Human": "What number is on <james>'s jersey?  A. 23; B. 32;",
+        "AI": "A"
+    },
+    "two_concept/concept/test/james/4.jpg": {
+        "Human": "What team is <james> playing for in the image?  A. Lakers; B. Bulls; C. Celtics;",
+        "AI": "A"
+    }
+}

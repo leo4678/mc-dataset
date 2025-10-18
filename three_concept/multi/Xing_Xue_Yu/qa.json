@@ -1,0 +1,22 @@
+[
+    {
+        "question": "What are the genders of <Xing>, <Xue>, and <Yu> respectively? A. boy, girl, boy. B. girl, boy, girl.",
+        "answer": "A"
+    },
+    {
+        "question": "What is the common hair color of <Xing> and <Yu>? A. Black. B. Brown.",
+        "answer": "A"
+    },
+    {
+        "question": "Do <Xue> and <Yu> have long hair? A. Yes. B. No.",
+        "answer": "B"
+    },
+    {
+        "question": "Which roles often wear casual clothing? A. <Xing> and <Yu>. B. <Xue> and <Yu>.",
+        "answer": "A"
+    },
+    {
+        "question": "Are <Xing> and <Xue> both humans? A. Yes. B. No.",
+        "answer": "A"
+    }
+]

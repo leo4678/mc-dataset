@@ -1,0 +1,22 @@
+{
+    "two_concept/concept/test/Tommy/0.png": {
+        "Human": "What is <Tommy> wearing?  A. A white shirt and brown vest; B. A black shirt and blue vest; C. A beige shirt and grey vest;",
+        "AI": "A"
+    },
+    "two_concept/concept/test/Tommy/1.png": {
+        "Human": "What type of setting is <Tommy> standing in?  A. Outdoor park; B. Wooden cabin; C. Modern office;",
+        "AI": "B"
+    },
+    "two_concept/concept/test/Tommy/2.png": {
+        "Human": "What color is the shirt that <Tommy> is wearing?  A. Black; B. White; C. Blue;",
+        "AI": "A"
+    },
+    "two_concept/concept/test/Tommy/3.png": {
+        "Human": "What type of hat is <Tommy> wearing?  A. A baseball cap;  B. A flat cap;",
+        "AI": "B"
+    },
+    "two_concept/concept/test/Tommy/4.png": {
+        "Human": "What is <Tommy> holding in his left hand?  A. A cigar; B. A pen;",
+        "AI": "A"
+    }
+}

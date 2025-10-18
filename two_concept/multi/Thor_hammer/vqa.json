@@ -1,0 +1,72 @@
+{
+    "two_concept/multi/Thor_hammer/0.jpg": [
+        {
+            "Human": "What weapon is <Thor> holding in the image?",
+            "AI": "<Thor> is holding his iconic hammer, Mjolnir, in the image."
+        },
+        {
+            "Human": "What is the character holding in the image?",
+            "AI": "The character is holding a <hammer>."
+        },
+        {
+            "Human": "What is <Thor> holding in the image?",
+            "AI": "<Thor> is holding a <hammer> in the image."
+        }
+    ],
+    "two_concept/multi/Thor_hammer/1.png": [
+        {
+            "Human": "What is <Thor> holding in the image?",
+            "AI": "<Thor> is holding his iconic hammer, Mjolnir, in the image."
+        },
+        {
+            "Human": "What is <hammer> being used for in the image?",
+            "AI": "<hammer> is being held by a person wearing armor, suggesting it is used as a weapon or tool of power."
+        },
+        {
+            "Human": "What is <Thor> holding in the image?",
+            "AI": "<Thor> is holding a <hammer> in the image."
+        }
+    ],
+    "two_concept/multi/Thor_hammer/2.png": [
+        {
+            "Human": "What is <Thor> holding in the image?",
+            "AI": "<Thor> is holding his iconic hammer, Mjolnir."
+        },
+        {
+            "Human": "What is the <hammer> being used for in the image?",
+            "AI": "The <hammer> is being held by a person in armor, suggesting it is being used as a weapon or tool in a battle or action scene."
+        },
+        {
+            "Human": "What is <Thor> holding in the image?",
+            "AI": "<Thor> is holding a <hammer> in the image."
+        }
+    ],
+    "two_concept/multi/Thor_hammer/3.png": [
+        {
+            "Human": "What is <Thor> doing in the image?",
+            "AI": "<Thor> is summoning his hammer, Mjolnir, with his outstretched hand."
+        },
+        {
+            "Human": "What is happening with the <hammer> in the image?",
+            "AI": "The <hammer> is floating in the air, seemingly being summoned or controlled by the person in the image."
+        },
+        {
+            "Human": "What action is <Thor> performing with the <hammer> in the image?",
+            "AI": "<Thor> is summoning the <hammer> with his outstretched hand."
+        }
+    ],
+    "two_concept/multi/Thor_hammer/4.jpg": [
+        {
+            "Human": "What is <Thor> holding in the image?",
+            "AI": "<Thor> is holding a hammer in the image."
+        },
+        {
+            "Human": "What is the character holding in the image?",
+            "AI": "The character is holding a <hammer>."
+        },
+        {
+            "Human": "What is <Thor> holding in the image?",
+            "AI": "<Thor> is holding a <hammer> in the image."
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+[
+    {
+        "question": "Are both <QianShu> and <JinShang> humans or animals? A. Humans. B. Animals",
+        "answer": "A"
+    },
+    {
+        "question": "What are the hair colors of <QianShu> and <JinShang> respectively? A. Blonde, Black. B. Black, Blonde",
+        "answer": "A"
+    },
+    {
+        "question": "What are the genders of <QianShu> and <JinShang> respectively? A. Girl, Girl. B. Boy, Girl",
+        "answer": "A"
+    },
+    {
+        "question": "Do <QianShu> and <JinShang> often wear traditional clothing? A. Yes, No. B. No, Yes",
+        "answer": "A"
+    },
+    {
+        "question": "What type of accessories do <QianShu> and <JinShang> often wear? A. Hair clips, Hats. B. Earrings, Belts",
+        "answer": "A"
+    }
+]

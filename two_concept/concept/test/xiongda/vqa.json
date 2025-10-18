@@ -1,0 +1,22 @@
+{
+    "two_concept/concept/test/xiongda/0.png": {
+        "Human": "What is <xiongda> doing in the image?",
+        "AI": "<xiongda> is lying down on a rock."
+    },
+    "two_concept/concept/test/xiongda/1.png": {
+        "Human": "What color is <xiongda>'s fur?",
+        "AI": "<xiongda>'s fur is brown with a white patch on the chest."
+    },
+    "two_concept/concept/test/xiongda/2.png": {
+        "Human": "What is the expression on <xiongda>'s face in the image?",
+        "AI": "<xiongda> has an intense and determined expression on his face in the image."
+    },
+    "two_concept/concept/test/xiongda/3.png": {
+        "Human": "What is the color of <xiongda>'s fur?",
+        "AI": "<xiongda>'s fur is brown with a white patch on the chest."
+    },
+    "two_concept/concept/test/xiongda/4.png": {
+        "Human": "What is <xiongda> doing in the image?",
+        "AI": "<xiongda> is standing on two legs and looking up with a surprised expression."
+    }
+}

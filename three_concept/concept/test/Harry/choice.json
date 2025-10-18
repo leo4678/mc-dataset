@@ -1,0 +1,22 @@
+{
+    "three_concept/concept/test/Harry/0.png": {
+        "Human": "What is the color of <Harry>'s shirt in the image? A. Red and black; B. Blue and white; C. Green and yellow;",
+        "AI": "A"
+    },
+    "three_concept/concept/test/Harry/1.png": {
+        "Human": "What type of clothing is <Harry> wearing? A. A leather jacket; B. A zip-up jacket; C. A hoodie;",
+        "AI": "B"
+    },
+    "three_concept/concept/test/Harry/2.png": {
+        "Human": "What type of clothing is <Harry> wearing? A. A striped shirt with a cloak; B. A plain t-shirt; C. A formal suit;",
+        "AI": "A"
+    },
+    "three_concept/concept/test/Harry/3.png": {
+        "Human": "What is <Harry> wearing around his neck? A. A bow tie; B. A striped tie; C. A scarf;",
+        "AI": "B"
+    },
+    "three_concept/concept/test/Harry/4.png": {
+        "Human": "What color is <Harry>'s shirt? A. Red; B. Blue; C. Green;",
+        "AI": "A"
+    }
+}

@@ -1,0 +1,22 @@
+[
+    {
+        "question": "Are both <Tommy> and <Grace> animals or humans? A. Animal. B. Human",
+        "answer": "B"
+    },
+    {
+        "question": "What are the genders of <Tommy> and <Grace> respectively? A. Male, Female. B. Female, Male",
+        "answer": "A"
+    },
+    {
+        "question": "What type of clothing do <Tommy> and <Grace> often wear? A. Formal, Elegant. B. Casual, Sporty",
+        "answer": "A"
+    },
+    {
+        "question": "Do <Tommy> and <Grace> both have light-colored hair? A. Yes. B. No",
+        "answer": "A"
+    },
+    {
+        "question": "Do <Tommy> and <Grace> often wear hats? A. Yes. B. No",
+        "answer": "A"
+    }
+]

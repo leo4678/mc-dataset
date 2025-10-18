@@ -1,0 +1,22 @@
+{
+    "0.png": {
+        "<Tanjiro>": "right",
+        "<Nezuko>": "left"
+    },
+    "1.png": {
+        "<Tanjiro>": "right",
+        "<Nezuko>": "left"
+    },
+    "2.png": {
+        "<Tanjiro>": "left",
+        "<Nezuko>": "right"
+    },
+    "3.png": {
+        "<Tanjiro>": "right",
+        "<Nezuko>": "left"
+    },
+    "4.png": {
+        "<Tanjiro>": "right",
+        "<Nezuko>": "left"
+    }
+}

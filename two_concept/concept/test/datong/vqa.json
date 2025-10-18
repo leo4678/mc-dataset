@@ -1,0 +1,22 @@
+{
+    "two_concept/concept/test/datong/0.jpg": {
+        "Human": "What color is the jacket that <datong> is wearing?",
+        "AI": "<datong> is wearing a yellow jacket."
+    },
+    "two_concept/concept/test/datong/1.jpg": {
+        "Human": "What is <datong> wearing in the image?",
+        "AI": "<datong> is wearing a white shirt, a dark blue jacket, and blue jeans."
+    },
+    "two_concept/concept/test/datong/2.jpg": {
+        "Human": "What type of clothing is <datong> wearing in the image?",
+        "AI": "<datong> is wearing a dark jacket over a white shirt."
+    },
+    "two_concept/concept/test/datong/3.jpg": {
+        "Human": "What is <datong> holding in the image?",
+        "AI": "<datong> is holding a vintage microphone."
+    },
+    "two_concept/concept/test/datong/4.jpg": {
+        "Human": "What is <datong> holding in his hand?",
+        "AI": "<datong> is holding a microphone in his hand."
+    }
+}

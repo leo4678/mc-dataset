@@ -1,0 +1,22 @@
+{
+    "two_concept/concept/test/kaiqi/0.jpg": {
+        "Human": "What type of shirt is <kaiqi> wearing in the image?",
+        "AI": "<kaiqi> is wearing a plaid shirt in the image."
+    },
+    "two_concept/concept/test/kaiqi/1.jpg": {
+        "Human": "What brand is prominently displayed in the background of the image featuring <kaiqi>?",
+        "AI": "The brand prominently displayed in the background is Chanel."
+    },
+    "two_concept/concept/test/kaiqi/2.jpg": {
+        "Human": "What color are the flowers in <kaiqi>'s hair?",
+        "AI": "The flowers in <kaiqi>'s hair are yellow."
+    },
+    "two_concept/concept/test/kaiqi/3.jpg": {
+        "Human": "What color is the dress that <kaiqi> is wearing in the image?",
+        "AI": "<kaiqi> is wearing a pink dress in the image."
+    },
+    "two_concept/concept/test/kaiqi/4.jpg": {
+        "Human": "What is <kaiqi> wearing in the image?",
+        "AI": "<kaiqi> is wearing a white sleeveless top."
+    }
+}

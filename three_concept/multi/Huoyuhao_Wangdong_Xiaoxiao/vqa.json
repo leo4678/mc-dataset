@@ -1,0 +1,152 @@
+{
+    "three_concept/multi/Huoyuhao_Wangdong_Xiaoxiao/0.jpg": [
+        {
+            "Human": "What is <Huoyuhao> wearing in the image?",
+            "AI": "<Huoyuhao> is wearing a blue and white outfit with intricate designs."
+        },
+        {
+            "Human": "What is <Wangdong> wearing in the image?",
+            "AI": "<Wangdong> is wearing a blue outfit with intricate designs."
+        },
+        {
+            "Human": "What is the hairstyle of <Xiaoxiao> in the image?",
+            "AI": "<Xiaoxiao> has long green hair styled in a braid."
+        },
+        {
+            "Human": "What are <Huoyuhao> and <Wangdong> wearing in the image?",
+            "AI": "<Huoyuhao> is wearing a dark ornate outfit, while <Wangdong> is dressed in a blue and white suit with intricate designs."
+        },
+        {
+            "Human": "What are <Huoyuhao> and <Xiaoxiao> wearing in the image?",
+            "AI": "<Huoyuhao> is wearing a blue outfit with intricate designs, while <Xiaoxiao> is dressed in a green outfit with decorative elements."
+        },
+        {
+            "Human": "What are <Wangdong> and <Xiaoxiao> wearing in the image?",
+            "AI": "<Wangdong> is wearing a blue outfit with intricate designs, while <Xiaoxiao> is dressed in a green outfit with decorative elements."
+        },
+        {
+            "Human": "What are the clothing styles of <Huoyuhao>, <Wangdong>, and <Xiaoxiao> in the image?",
+            "AI": "<Huoyuhao> is wearing a dark, ornate outfit, <Wangdong> is in a blue and white suit with intricate designs, and <Xiaoxiao> has a detailed outfit with green accents."
+        }
+    ],
+    "three_concept/multi/Huoyuhao_Wangdong_Xiaoxiao/1.jpg": [
+        {
+            "Human": "What is <Huoyuhao> wearing in the image?",
+            "AI": "<Huoyuhao> is wearing a detailed outfit with ornate designs and a belt featuring a green gem."
+        },
+        {
+            "Human": "What is <Wangdong> wearing in the image?",
+            "AI": "<Wangdong> is wearing a blue outfit with intricate designs and a decorative belt."
+        },
+        {
+            "Human": "What is <Xiaoxiao> wearing in the image?",
+            "AI": "<Xiaoxiao> is wearing a detailed outfit with gold and green accents."
+        },
+        {
+            "Human": "What are <Huoyuhao> and <Wangdong> wearing in the image?",
+            "AI": "<Huoyuhao> is wearing a detailed outfit with gold accents and a green gem, while <Wangdong> is dressed in a blue outfit with similar design elements and a green gem."
+        },
+        {
+            "Human": "What are <Huoyuhao> and <Xiaoxiao> wearing in the image?",
+            "AI": "<Huoyuhao> is wearing a detailed blue and silver outfit with a belt, while <Xiaoxiao> is in a green and gold dress with intricate designs."
+        },
+        {
+            "Human": "What are <Wangdong> and <Xiaoxiao> wearing in the image?",
+            "AI": "<Wangdong> is wearing a blue outfit with intricate designs, while <Xiaoxiao> is dressed in a green and gold ensemble."
+        },
+        {
+            "Human": "What are <Huoyuhao>, <Wangdong>, and <Xiaoxiao> wearing in the image?",
+            "AI": "<Huoyuhao> is wearing a detailed outfit with a belt and shoulder armor, <Wangdong> is in a blue suit with ornate designs, and <Xiaoxiao> is dressed in a green and gold ensemble with intricate patterns."
+        }
+    ],
+    "three_concept/multi/Huoyuhao_Wangdong_Xiaoxiao/2.jpg": [
+        {
+            "Human": "What is the setting behind <Huoyuhao> in the image?",
+            "AI": "The setting behind <Huoyuhao> is a classroom with a chalkboard filled with diagrams and text."
+        },
+        {
+            "Human": "What is the background setting behind <Wangdong>?",
+            "AI": "The background behind <Wangdong> features a chalkboard with diagrams and text."
+        },
+        {
+            "Human": "What is the background setting behind <Xiaoxiao>?",
+            "AI": "The background behind <Xiaoxiao> features a chalkboard with diagrams and text."
+        },
+        {
+            "Human": "What are <Huoyuhao> and <Wangdong> wearing in the image?",
+            "AI": "<Huoyuhao> is wearing a detailed, ornate outfit with gold accents, while <Wangdong> is dressed in a blue and white ensemble with a similar style."
+        },
+        {
+            "Human": "What are <Huoyuhao> and <Xiaoxiao> wearing in the image?",
+            "AI": "<Huoyuhao> is wearing a detailed, ornate outfit with a decorative brooch, while <Xiaoxiao> is dressed in a green and gold outfit with intricate designs."
+        },
+        {
+            "Human": "What are <Wangdong> and <Xiaoxiao> wearing in the image?",
+            "AI": "<Wangdong> is wearing a blue outfit with intricate designs, while <Xiaoxiao> is wearing a green outfit with decorative patterns."
+        },
+        {
+            "Human": "What are <Huoyuhao>, <Wangdong>, and <Xiaoxiao> wearing in the image?",
+            "AI": "<Huoyuhao> is wearing a detailed, ornate outfit with a decorative brooch, <Wangdong> is in a blue outfit with a similar brooch, and <Xiaoxiao> is in a green and gold outfit with intricate designs."
+        }
+    ],
+    "three_concept/multi/Huoyuhao_Wangdong_Xiaoxiao/3.jpg": [
+        {
+            "Human": "What kind of clothing is <Huoyuhao> wearing in the image?",
+            "AI": "<Huoyuhao> is wearing a detailed outfit with a high collar and decorative elements, including a belt and shoulder accents."
+        },
+        {
+            "Human": "What is <Wangdong> wearing in the image?",
+            "AI": "<Wangdong> is wearing a blue outfit with a decorative emblem on the chest."
+        },
+        {
+            "Human": "What kind of outfit is <Xiaoxiao> wearing in the image?",
+            "AI": "<Xiaoxiao> is wearing a detailed outfit with green and gold accents."
+        },
+        {
+            "Human": "What are <Huoyuhao> and <Wangdong> wearing in the image?",
+            "AI": "<Huoyuhao> is wearing a detailed outfit with a belt and shoulder decorations, while <Wangdong> is dressed in a blue outfit with a high collar and ornate designs."
+        },
+        {
+            "Human": "What are <Huoyuhao> and <Xiaoxiao> wearing in the image?",
+            "AI": "<Huoyuhao> is wearing a detailed outfit with a belt and shoulder decorations, while <Xiaoxiao> is in a green and gold outfit with intricate designs."
+        },
+        {
+            "Human": "What are <Wangdong> and <Xiaoxiao> wearing in the image?",
+            "AI": "<Wangdong> is wearing a blue outfit with a decorative emblem, while <Xiaoxiao> is in a green and gold outfit with intricate designs."
+        },
+        {
+            "Human": "What kind of outfits are <Huoyuhao>, <Wangdong>, and <Xiaoxiao> wearing?",
+            "AI": "<Huoyuhao> is wearing a detailed outfit with a strap, <Wangdong> is in a blue and white ensemble, and <Xiaoxiao> has a green and gold outfit."
+        }
+    ],
+    "three_concept/multi/Huoyuhao_Wangdong_Xiaoxiao/4.jpg": [
+        {
+            "Human": "What is the hairstyle of <Huoyuhao> in the image?",
+            "AI": "<Huoyuhao> has dark hair styled with a side part."
+        },
+        {
+            "Human": "What is the hair color of <Wangdong> in the image?",
+            "AI": "<Wangdong> has blue and pink hair."
+        },
+        {
+            "Human": "What is the hair color of <Xiaoxiao> in the image?",
+            "AI": "<Xiaoxiao> has green hair."
+        },
+        {
+            "Human": "What are the hair colors of <Huoyuhao> and <Wangdong> in the image?",
+            "AI": "<Huoyuhao> has dark hair, while <Wangdong> has blue and pink hair."
+        },
+        {
+            "Human": "What are the clothing styles of <Huoyuhao> and <Xiaoxiao> in the image?",
+            "AI": "<Huoyuhao> is wearing a detailed outfit with gold embroidery, while <Xiaoxiao> has a green outfit with ornate designs."
+        },
+        {
+            "Human": "What are the hair colors of <Wangdong> and <Xiaoxiao>?",
+            "AI": "<Wangdong> has blue and pink hair, while <Xiaoxiao> has green hair."
+        },
+        {
+            "Human": "What are the hair colors of <Huoyuhao>, <Wangdong>, and <Xiaoxiao> in the image?",
+            "AI": "<Huoyuhao> has dark hair, <Wangdong> has blue and pink hair, and <Xiaoxiao> has green hair."
+        }
+    ]
+}

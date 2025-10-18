@@ -1,0 +1,22 @@
+{
+    "three_concept/concept/test/zhongtangxi/0.png": {
+        "Human": "What color is <zhongtangxi>'s outer jacket? A. Green; B. Blue; C. Gray;",
+        "AI": "A"
+    },
+    "three_concept/concept/test/zhongtangxi/1.png": {
+        "Human": "What is <zhongtangxi> wearing in the image? A. A casual t-shirt; B. A formal suit; C. A hoodie;",
+        "AI": "B"
+    },
+    "three_concept/concept/test/zhongtangxi/2.png": {
+        "Human": "What is <zhongtangxi> wearing in the image? A. A gray shirt; B. A white shirt; C. A black shirt;",
+        "AI": "A"
+    },
+    "three_concept/concept/test/zhongtangxi/3.png": {
+        "Human": "What is the hairstyle of <zhongtangxi>? A. Short and straight; B. Medium and wavy; C. Long and curly;",
+        "AI": "B"
+    },
+    "three_concept/concept/test/zhongtangxi/4.png": {
+        "Human": "What is <zhongtangxi> wearing in the image? A. A lab coat and mask; B. A suit and tie; C. A casual t-shirt;",
+        "AI": "A"
+    }
+}

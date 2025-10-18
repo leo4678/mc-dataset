@@ -1,0 +1,152 @@
+{
+    "three_concept/multi/Anya_Loid_Yor/0.jpg": [
+        {
+            "Human": "What is <Anya> doing in the image? A.pointing upwards. B.sitting quietly. C.reading a book.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is <Loid> wearing in the image? A.a blue suit. B.a green suit. C.a black suit.",
+            "AI": "B"
+        },
+        {
+            "Human": "What is <Yor> wearing in the image? A. A blue dress. B. A pink dress. C. A green dress.",
+            "AI": "B"
+        },
+        {
+            "Human": "What is <Anya> doing in the image? A. Pointing upwards. B. Sitting quietly. C. Reading a book.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is <Anya> doing in the image? A. Pointing upwards. B. Sitting quietly. C. Reading a book.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is <Loid> wearing in the image? A.a green suit. B.a blue suit. C.a black suit.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is the color of the dress <Yor> is wearing? A.pink. B.blue. C.green.",
+            "AI": "A"
+        }
+    ],
+    "three_concept/multi/Anya_Loid_Yor/1.jpg": [
+        {
+            "Human": "What is <Anya> doing in the image? A.sitting on a bicycle seat. B.playing with a ball. C.reading a book.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is <Loid> doing in the image? A.riding a bicycle. B.reading a book. C.playing a game.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is <Yor> wearing on her head? A.helmet. B.hat. C.cap",
+            "AI": "B"
+        },
+        {
+            "Human": "What is <Anya> doing in the image? A.sitting on a bicycle seat. B.playing with a toy. C.eating ice cream.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is <Anya> doing in the image? A.sitting on a bicycle seat. B.playing with a ball. C.eating ice cream.",
+            "AI": "A"
+        },
+        {
+            "Human": "What activity are <Loid> and <Yor> doing in the image? A.riding a bicycle. B.having a picnic. C.playing soccer.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is <Anya> doing in the image? A.sitting on a bicycle seat. B.standing on the ground. C.running around",
+            "AI": "A"
+        }
+    ],
+    "three_concept/multi/Anya_Loid_Yor/2.jpg": [
+        {
+            "Human": "What is <Anya> wearing in the image? A.a blue coat. B.a red dress. C.a green jacket.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is <Loid> wearing in the image? A.a green suit with a red tie. B.a blue jacket with a scarf.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is <Yor> wearing in the image? A.a pink dress. B.a blue coat. C.a green suit",
+            "AI": "A"
+        },
+        {
+            "Human": "What is <Anya> wearing in the image? A.a blue coat. B.a red dress. C.a green jacket.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is <Anya> wearing in the image? A.a blue coat. B.a red dress. C.a green jacket.",
+            "AI": "A"
+        },
+        {
+            "Human": "What are <Loid> and <Yor> wearing in the image? A.suits and dresses. B.casual clothes. C.sportswear",
+            "AI": "A"
+        },
+        {
+            "Human": "What is <Anya> wearing in the image? A.a blue coat. B.a red dress. C.a green jacket.",
+            "AI": "A"
+        }
+    ],
+    "three_concept/multi/Anya_Loid_Yor/3.jpg": [
+        {
+            "Human": "What is <Anya> doing in the image? A.sleeping. B.reading a book. C.eating.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is <Loid> holding in the image? A.a book. B.a child. C.a pet.",
+            "AI": "B"
+        },
+        {
+            "Human": "What is <Yor> doing in the image? A.sleeping. B.reading a book. C.eating.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is <Anya> doing in the image? A.sleeping. B.reading a book. C.playing a game.",
+            "AI": "A"
+        },
+        {
+            "Human": "What are <Anya> and <Yor> doing in the image? A.sleeping. B.eating. C.reading.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is <Yor> doing in the image? A.sleeping. B.reading. C.talking",
+            "AI": "A"
+        },
+        {
+            "Human": "What is the expression of <Anya>, <Loid>, and <Yor> in the image? A.sleeping. B.laughing. C.crying.",
+            "AI": "A"
+        }
+    ],
+    "three_concept/multi/Anya_Loid_Yor/4.jpg": [
+        {
+            "Human": "What is <Anya> holding in the image? A.spoons. B.forks. C.knives.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is <Loid> holding in the image? A.a book. B.a pot. C.a basket.",
+            "AI": "B"
+        },
+        {
+            "Human": "What is <Yor> holding in the image? A.spoon. B.fork. C.knife",
+            "AI": "A"
+        },
+        {
+            "Human": "What is <Anya> holding in the image? A.spoons. B.forks. C.knives.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is <Anya> holding in the image? A.spoons. B.forks. C.knives",
+            "AI": "A"
+        },
+        {
+            "Human": "What is <Loid> wearing in the image? A.green apron. B.blue apron. C.red apron",
+            "AI": "A"
+        },
+        {
+            "Human": "What is <Anya> holding in the image? A.spoons. B.forks. C.knives.",
+            "AI": "A"
+        }
+    ]
+}

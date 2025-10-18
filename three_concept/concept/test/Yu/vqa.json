@@ -1,0 +1,22 @@
+{
+    "three_concept/concept/test/Yu/0.png": {
+        "Human": "What color is <Yu>'s jacket in the image?",
+        "AI": "<Yu>'s jacket is red with gray accents."
+    },
+    "three_concept/concept/test/Yu/1.png": {
+        "Human": "What is <Yu> wearing in the image?",
+        "AI": "<Yu> is wearing a sleeveless shirt with text and yellow shorts."
+    },
+    "three_concept/concept/test/Yu/2.png": {
+        "Human": "What color is <Yu>'s shirt in the image?",
+        "AI": "<Yu> is wearing a red shirt."
+    },
+    "three_concept/concept/test/Yu/3.png": {
+        "Human": "What color is <Yu>'s hoodie in the image?",
+        "AI": "<Yu>'s hoodie is orange."
+    },
+    "three_concept/concept/test/Yu/4.png": {
+        "Human": "What color is the shirt that <Yu> is wearing?",
+        "AI": "<Yu> is wearing a light green shirt."
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "0.png": {
+        "<GaoQiQiang>": "left",
+        "<AnXin>": "right"
+    },
+    "1.png": {
+        "<GaoQiQiang>": "left",
+        "<AnXin>": "right"
+    },
+    "2.png": {
+        "<GaoQiQiang>": "right",
+        "<AnXin>": "left"
+    },
+    "3.png": {
+        "<GaoQiQiang>": "left",
+        "<AnXin>": "right"
+    },
+    "4.png": {
+        "<GaoQiQiang>": "left",
+        "<AnXin>": "right"
+    }
+}

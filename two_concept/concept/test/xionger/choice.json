@@ -1,0 +1,22 @@
+{
+    "two_concept/concept/test/xionger/0.png": {
+        "Human": "What is <xionger> holding in the image?  A. A pot; B. A book; C. A stick;",
+        "AI": "A"
+    },
+    "two_concept/concept/test/xionger/1.png": {
+        "Human": "What is the expression on <xionger>'s face?  A. Happy; B. Surprised; C. Angry;",
+        "AI": "B"
+    },
+    "two_concept/concept/test/xionger/2.png": {
+        "Human": "What is the expression on <xionger>'s face?  A. Happy; B. Surprised; C. Sad;",
+        "AI": "B"
+    },
+    "two_concept/concept/test/xionger/3.png": {
+        "Human": "What is the expression on <xionger>'s face?  A. Happy; B. Sad; C. Angry;",
+        "AI": "A"
+    },
+    "two_concept/concept/test/xionger/4.png": {
+        "Human": "What type of animal is <xionger>?  A. Sloth; B. Bear; C. Monkey;",
+        "AI": "A"
+    }
+}

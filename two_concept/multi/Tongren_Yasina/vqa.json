@@ -1,0 +1,72 @@
+{
+    "two_concept/multi/Tongren_Yasina/0.png": [
+        {
+            "Human": "What is <Tongren> doing in the image?",
+            "AI": "<Tongren> is standing with his arms crossed, looking at the person preparing food."
+        },
+        {
+            "Human": "What is <Yasina> doing in the image?",
+            "AI": "<Yasina> is standing in the kitchen with her hands on her hips, next to a large piece of meat on the counter."
+        },
+        {
+            "Human": "What is <Yasina> preparing in the kitchen while <Tongren> watches?",
+            "AI": "<Yasina> is preparing a large piece of meat in the kitchen while <Tongren> watches."
+        }
+    ],
+    "two_concept/multi/Tongren_Yasina/1.png": [
+        {
+            "Human": "What are <Tongren> and the person on the right wearing?",
+            "AI": "<Tongren> is wearing a black outfit, while the person on the right is wearing a white and red outfit."
+        },
+        {
+            "Human": "What is <Yasina> wearing in the image?",
+            "AI": "<Yasina> is wearing a white and red outfit with long sleeves and a skirt."
+        },
+        {
+            "Human": "What are <Tongren> and <Yasina> wearing in the image?",
+            "AI": "<Tongren> is wearing a black outfit with a long coat, while <Yasina> is wearing a white and red dress with intricate designs."
+        }
+    ],
+    "two_concept/multi/Tongren_Yasina/2.png": [
+        {
+            "Human": "What is <Tongren> wearing in the image?",
+            "AI": "<Tongren> is wearing a black outfit with a sword on his back."
+        },
+        {
+            "Human": "What is <Yasina> wearing in the image?",
+            "AI": "<Yasina> is wearing a white and red outfit with long sleeves and a long skirt."
+        },
+        {
+            "Human": "What are <Tongren> and <Yasina> wearing in the image?",
+            "AI": "<Tongren> is wearing a black outfit with a sword on his back, while <Yasina> is wearing a white and red dress with long orange hair."
+        }
+    ],
+    "two_concept/multi/Tongren_Yasina/3.png": [
+        {
+            "Human": "What is <Tongren> wearing in the image?",
+            "AI": "<Tongren> is wearing a black long-sleeve shirt and black pants."
+        },
+        {
+            "Human": "What is <Yasina> doing in the image?",
+            "AI": "<Yasina> is standing with her hands behind her head."
+        },
+        {
+            "Human": "What are <Tongren> and <Yasina> doing in the image?",
+            "AI": "<Tongren> is standing on a wooden path, while <Yasina> is stretching with her hands behind her head."
+        }
+    ],
+    "two_concept/multi/Tongren_Yasina/4.png": [
+        {
+            "Human": "What is <Tongren> holding in the image?",
+            "AI": "<Tongren> is holding a cup."
+        },
+        {
+            "Human": "What is <Yasina> holding in the image?",
+            "AI": "<Yasina> is holding a knife."
+        },
+        {
+            "Human": "What is <Tongren> holding in the image?",
+            "AI": "<Tongren> is holding a cup."
+        }
+    ]
+}

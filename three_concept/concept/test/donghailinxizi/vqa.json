@@ -1,0 +1,22 @@
+{
+    "three_concept/concept/test/donghailinxizi/0.png": {
+        "Human": "What type of earrings is <donghailinxizi> wearing?",
+        "AI": "<donghailinxizi> is wearing small hoop earrings."
+    },
+    "three_concept/concept/test/donghailinxizi/1.png": {
+        "Human": "What color is <donghailinxizi>'s sweater in the image?",
+        "AI": "<donghailinxizi> is wearing a mustard yellow sweater."
+    },
+    "three_concept/concept/test/donghailinxizi/2.png": {
+        "Human": "What type of clothing is <donghailinxizi> wearing in the image?",
+        "AI": "<donghailinxizi> is wearing a light-colored blazer over a brown top."
+    },
+    "three_concept/concept/test/donghailinxizi/3.png": {
+        "Human": "What is <donghailinxizi> wearing in the image?",
+        "AI": "<donghailinxizi> is wearing a mustard-colored top and holding a black and white striped item."
+    },
+    "three_concept/concept/test/donghailinxizi/4.png": {
+        "Human": "What is <donghailinxizi> wearing in the image?",
+        "AI": "<donghailinxizi> is wearing a beige jacket over a red top."
+    }
+}

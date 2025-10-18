@@ -1,0 +1,22 @@
+{
+    "two_concept/concept/test/Xuxian/0.jpg": {
+        "Human": "What type of clothing is <Xuxian> wearing?  A. Modern casual wear; B. Traditional robe; C. Sports attire;",
+        "AI": "B"
+    },
+    "two_concept/concept/test/Xuxian/1.jpg": {
+        "Human": "What type of clothing is <Xuxian> wearing?  A. Traditional robe;  B. Modern suit;",
+        "AI": "A"
+    },
+    "two_concept/concept/test/Xuxian/2.jpg": {
+        "Human": "What is <Xuxian> holding in the image?  A. A sword; B. An umbrella; C. A book;",
+        "AI": "B"
+    },
+    "two_concept/concept/test/Xuxian/3.jpg": {
+        "Human": "What is <Xuxian> wearing in the image?  A. A modern suit; B. Traditional robes; C. Casual clothes;",
+        "AI": "B"
+    },
+    "two_concept/concept/test/Xuxian/4.jpg": {
+        "Human": "What instrument is <Xuxian> playing in the image?  A. Flute; B. Violin; C. Guitar;",
+        "AI": "A"
+    }
+}

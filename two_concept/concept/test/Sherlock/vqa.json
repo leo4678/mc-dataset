@@ -1,0 +1,22 @@
+{
+    "two_concept/concept/test/Sherlock/0.png": {
+        "Human": "What is <Sherlock> holding in his hand?",
+        "AI": "<Sherlock> is holding a phone in his hand."
+    },
+    "two_concept/concept/test/Sherlock/1.png": {
+        "Human": "What is <Sherlock> wearing in the image?",
+        "AI": "<Sherlock> is wearing a dark suit with a white shirt."
+    },
+    "two_concept/concept/test/Sherlock/2.png": {
+        "Human": "What is <Sherlock> wearing in the image?",
+        "AI": "<Sherlock> is wearing a white robe or coat."
+    },
+    "two_concept/concept/test/Sherlock/3.png": {
+        "Human": "What is <Sherlock> holding in his hands in the image?",
+        "AI": "<Sherlock> is holding two walking sticks in his hands in the image."
+    },
+    "two_concept/concept/test/Sherlock/4.png": {
+        "Human": "What type of clothing is <Sherlock> wearing in the image?",
+        "AI": "<Sherlock> is wearing a dark suit jacket over a light-colored dress shirt."
+    }
+}

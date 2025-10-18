@@ -1,0 +1,22 @@
+{
+    "two_concept/concept/test/Zeke/0.png": {
+        "Human": "What is the color of <Zeke> in the image?",
+        "AI": "The color of <Zeke> is white."
+    },
+    "two_concept/concept/test/Zeke/1.png": {
+        "Human": "What is the color of <Zeke> in the image?",
+        "AI": "The color of <Zeke> is white."
+    },
+    "two_concept/concept/test/Zeke/2.png": {
+        "Human": "What is the color of the anime style hat named <Zeke> in the image?",
+        "AI": "The anime style hat named <Zeke> is white in color."
+    },
+    "two_concept/concept/test/Zeke/3.png": {
+        "Human": "What color is the anime style hat worn by <Zeke>?",
+        "AI": "The anime style hat worn by <Zeke> is white."
+    },
+    "two_concept/concept/test/Zeke/4.png": {
+        "Human": "What is the color of the background behind <Zeke> in the image?",
+        "AI": "The background behind <Zeke> is a bright yellow with some abstract patterns."
+    }
+}

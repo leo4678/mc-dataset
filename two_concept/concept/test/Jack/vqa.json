@@ -1,0 +1,22 @@
+{
+    "two_concept/concept/test/Jack/0.png": {
+        "Human": "What color is <Jack>'s shirt in the image?",
+        "AI": "<Jack>'s shirt is dark brown."
+    },
+    "two_concept/concept/test/Jack/1.png": {
+        "Human": "What type of hairstyle does <Jack> have in the image?",
+        "AI": "<Jack> has slicked-back hair in the image."
+    },
+    "two_concept/concept/test/Jack/2.png": {
+        "Human": "What type of clothing is <Jack> wearing in the image?",
+        "AI": "<Jack> is wearing a black suit jacket with a white shirt underneath."
+    },
+    "two_concept/concept/test/Jack/3.png": {
+        "Human": "What is <Jack> wearing in the image?",
+        "AI": "<Jack> is wearing a dark-colored shirt and has a strap over his shoulder."
+    },
+    "two_concept/concept/test/Jack/4.png": {
+        "Human": "What activity does <Jack> mention they will do on the beach?",
+        "AI": "<Jack> mentions that they will ride horses on the beach, right in the surf."
+    }
+}

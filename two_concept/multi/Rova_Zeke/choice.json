@@ -1,0 +1,72 @@
+{
+    "two_concept/multi/Rova_Zeke/0.png": [
+        {
+            "Human": "What is the primary color of <Rova> in the image? A.black. B.white. C.red",
+            "AI": "A"
+        },
+        {
+            "Human": "What is <Zeke> doing in the image? A.holding a slingshot. B.wearing a white hat. C.sitting on a chair.",
+            "AI": "B"
+        },
+        {
+            "Human": "What is <Rova> being used for in the image? A. Fishing. B. As a weapon. C. As a decoration.",
+            "AI": "B"
+        }
+    ],
+    "two_concept/multi/Rova_Zeke/1.png": [
+        {
+            "Human": "What is the shape of <Rova> in the image? A.circular. B.triangular. C.square.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is <Zeke> being worn by in the image? A. a pirate. B. a cowboy. C. a samurai.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is <Rova> being used for in the image? A. Fishing. B. Combat. C. Decoration.",
+            "AI": "B"
+        }
+    ],
+    "two_concept/multi/Rova_Zeke/2.png": [
+        {
+            "Human": "What is <Rova> being used for in the image? A. Fishing. B. As a weapon. C. As a musical instrument.",
+            "AI": "B"
+        },
+        {
+            "Human": "What is <Zeke> being worn by the character in the image? A.on the head. B.on the hand. C.on the shoulder.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is <Zeke> being used for in the image? A. As a shield. B. As a hat. C. As a weapon.",
+            "AI": "B"
+        }
+    ],
+    "two_concept/multi/Rova_Zeke/3.png": [
+        {
+            "Human": "What is <Rova> being used for in the image? A. Fishing. B. As a weapon. C. As a musical instrument.",
+            "AI": "B"
+        },
+        {
+            "Human": "What is <Zeke> being worn by the character in the image? A.on the head. B.on the shoulder. C.on the hand.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is <Rova> being used for in the image? A. Fishing. B. Attacking a poster. C. Climbing a wall.",
+            "AI": "B"
+        }
+    ],
+    "two_concept/multi/Rova_Zeke/4.png": [
+        {
+            "Human": "What is the shape of <Rova> in the image? A.circular. B.triangular. C.square.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is <Zeke> holding in the image? A.a sword. B.a slingshot. C.a shield.",
+            "AI": "B"
+        },
+        {
+            "Human": "What is the color of <Zeke> in the image? A.white. B.black. C.red",
+            "AI": "A"
+        }
+    ]
+}

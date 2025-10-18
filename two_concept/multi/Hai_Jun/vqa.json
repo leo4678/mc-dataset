@@ -1,0 +1,72 @@
+{
+    "two_concept/multi/Hai_Jun/0.jpg": [
+        {
+            "Human": "What is <Hai> wearing in the image?",
+            "AI": "<Hai> is wearing a pink shirt with a white collar and a red cardigan."
+        },
+        {
+            "Human": "What is <Jun> wearing in the image?",
+            "AI": "<Jun> is wearing a blue uniform with a matching cap."
+        },
+        {
+            "Human": "What are <Hai> and <Jun> wearing in the image?",
+            "AI": "<Hai> is wearing a pink jacket over a white shirt, and <Jun> is wearing a blue uniform with a matching cap."
+        }
+    ],
+    "two_concept/multi/Hai_Jun/1.jpg": [
+        {
+            "Human": "What is <Hai> wearing in the image?",
+            "AI": "<Hai> is wearing a white sailor uniform with a red scarf."
+        },
+        {
+            "Human": "What is <Jun> doing in the image?",
+            "AI": "<Jun> is leaning over a desk and looking at something."
+        },
+        {
+            "Human": "What are <Hai> and <Jun> doing in the image?",
+            "AI": "<Hai> is sitting at a desk while <Jun> is standing next to <Hai> and looking at something on the desk."
+        }
+    ],
+    "two_concept/multi/Hai_Jun/2.jpg": [
+        {
+            "Human": "What is <Hai> holding in her hand while running up the stairs?",
+            "AI": "<Hai> is holding a shoe in her hand while running up the stairs."
+        },
+        {
+            "Human": "What are <Jun> and the girl doing in the image?",
+            "AI": "<Jun> and the girl are running up the stairs while holding briefcases."
+        },
+        {
+            "Human": "What are <Hai> and <Jun> doing in the image?",
+            "AI": "<Hai> and <Jun> are running up the stairs while holding briefcases."
+        }
+    ],
+    "two_concept/multi/Hai_Jun/3.jpg": [
+        {
+            "Human": "What is <Hai> carrying in the image?",
+            "AI": "<Hai> is carrying a black briefcase."
+        },
+        {
+            "Human": "What are <Jun> and the other person carrying in the image?",
+            "AI": "<Jun> is carrying a book and a briefcase, while the other person is carrying a briefcase."
+        },
+        {
+            "Human": "What are <Hai> and <Jun> carrying in the image?",
+            "AI": "<Hai> is carrying a black briefcase, and <Jun> is carrying a brown folder and a book."
+        }
+    ],
+    "two_concept/multi/Hai_Jun/4.jpg": [
+        {
+            "Human": "What is <Hai> holding in the image?",
+            "AI": "<Hai> is holding an umbrella."
+        },
+        {
+            "Human": "What is <Jun> holding in the image?",
+            "AI": "<Jun> is holding an umbrella."
+        },
+        {
+            "Human": "What are <Hai> and <Jun> doing in the image?",
+            "AI": "<Hai> and <Jun> are standing under a red umbrella in the rain."
+        }
+    ]
+}

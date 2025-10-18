@@ -1,0 +1,72 @@
+{
+    "two_concept/multi/Ye Wen_Wife/0.png": [
+        {
+            "Human": "What is <Ye Wen> holding in the image? A. A book. B. A cloth. C. A bowl.",
+            "AI": "B"
+        },
+        {
+            "Human": "What is <Wife> wearing in the image? A. A black coat. B. A beige coat.",
+            "AI": "B"
+        },
+        {
+            "Human": "What is <Ye Wen> holding in the image? A. A book. B. A cloth. C. A bowl.",
+            "AI": "B"
+        }
+    ],
+    "two_concept/multi/Ye Wen_Wife/1.png": [
+        {
+            "Human": "What is <Ye Wen> wearing in the image? A. A white cardigan. B. A black outfit. C. A blue shirt.",
+            "AI": "B"
+        },
+        {
+            "Human": "What is <Wife> wearing in the image? A. A white cardigan. B. A black jacket.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is <Wife> wearing in the image? A. A white cardigan. B. A black jacket. C. A red dress.",
+            "AI": "A"
+        }
+    ],
+    "two_concept/multi/Ye Wen_Wife/2.png": [
+        {
+            "Human": "What is <Ye Wen> holding in the image? A. A book. B. A bag. C. A hat.",
+            "AI": "B"
+        },
+        {
+            "Human": "What color is the jacket that <Wife> is wearing? A. Red B. Blue C. Green",
+            "AI": "A"
+        },
+        {
+            "Human": "What is <Ye Wen> holding in his hand? A. A book. B. A bag. C. A hat.",
+            "AI": "B"
+        }
+    ],
+    "two_concept/multi/Ye Wen_Wife/3.png": [
+        {
+            "Human": "What is <Ye Wen> holding in the image? A. A book. B. A newspaper.",
+            "AI": "B"
+        },
+        {
+            "Human": "What is <Wife> wearing in the image? A. A green cardigan. B. A red dress. C. A blue jacket.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is <Ye Wen> holding in the image? A. A book. B. A newspaper. C. A cup.",
+            "AI": "B"
+        }
+    ],
+    "two_concept/multi/Ye Wen_Wife/4.png": [
+        {
+            "Human": "What is <Ye Wen> wearing in the image? A. A black robe. B. A white shirt. C. A blue jacket.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is <Wife> wearing in the image? A. A black jacket and a grey skirt. B. A red dress. C. A blue shirt and jeans.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is <Ye Wen> wearing in the image? A. A suit. B. Traditional attire. C. Casual clothes.",
+            "AI": "B"
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "three_concept/concept/test/Nola/0.png": {
+        "Human": "What distinctive feature does the sheath of <Nola> have in the image?",
+        "AI": "The sheath of <Nola> has a series of white cross symbols along its length."
+    },
+    "three_concept/concept/test/Nola/1.png": {
+        "Human": "What distinctive design feature does the sheath of <Nola> have?",
+        "AI": "The sheath of <Nola> features a series of white cross symbols along its length."
+    },
+    "three_concept/concept/test/Nola/2.png": {
+        "Human": "What is the color scheme of the scabbard on the katana <Nola>?",
+        "AI": "The scabbard of the katana <Nola> is black with white cross patterns and has a red wrapping."
+    },
+    "three_concept/concept/test/Nola/3.png": {
+        "Human": "What is the design pattern on the sheath of <Nola>?",
+        "AI": "The sheath of <Nola> features a pattern of white crosses on a black background."
+    },
+    "three_concept/concept/test/Nola/4.png": {
+        "Human": "What is the color of the sheath of <Nola> in the image?",
+        "AI": "The sheath of <Nola> is green with white cross patterns."
+    }
+}

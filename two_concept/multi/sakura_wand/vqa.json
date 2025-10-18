@@ -1,0 +1,72 @@
+{
+    "two_concept/multi/sakura_wand/0.jpg": [
+        {
+            "Human": "What is <sakura> holding in the image?",
+            "AI": "<sakura> is holding a magical staff with a heart-shaped top and wings."
+        },
+        {
+            "Human": "What is the design feature of the <wand> held by the character in the image?",
+            "AI": "The <wand> held by the character is a pink anime style stick-shaped staff with a heart-shaped top and wings on the sides."
+        },
+        {
+            "Human": "What is <sakura> holding in the image?",
+            "AI": "<sakura> is holding a <wand> which is a pink anime style stick-shaped staff."
+        }
+    ],
+    "two_concept/multi/sakura_wand/1.jpg": [
+        {
+            "Human": "What is <sakura> holding in the image?",
+            "AI": "<sakura> is holding a magical staff with a winged design and a red tip."
+        },
+        {
+            "Human": "What is the design of the <wand> in the image?",
+            "AI": "The <wand> is a pink anime style stick-shaped staff with a winged design and a red and white color scheme at the top."
+        },
+        {
+            "Human": "What is <sakura> holding in the image?",
+            "AI": "<sakura> is holding a <wand> which is a pink anime style stick-shaped staff."
+        }
+    ],
+    "two_concept/multi/sakura_wand/2.jpg": [
+        {
+            "Human": "What is <sakura> holding in the image?",
+            "AI": "<sakura> is holding a magical staff with a red gem and wing-like decorations."
+        },
+        {
+            "Human": "What is the design feature of the <wand> in the image?",
+            "AI": "The <wand> is a pink anime style stick-shaped staff with a winged design at the top."
+        },
+        {
+            "Human": "What is <sakura> holding in the image?",
+            "AI": "<sakura> is holding a pink <wand> with a winged design at the top."
+        }
+    ],
+    "two_concept/multi/sakura_wand/3.png": [
+        {
+            "Human": "What is <sakura> holding in the image?",
+            "AI": "<sakura> is holding a magical staff with a winged design and a red gem."
+        },
+        {
+            "Human": "What is the color and style of the <wand> in the image?",
+            "AI": "The <wand> is pink and has an anime style with a stick-shaped staff."
+        },
+        {
+            "Human": "What is <sakura> holding in the image?",
+            "AI": "<sakura> is holding a <wand> which is a pink anime style stick-shaped staff."
+        }
+    ],
+    "two_concept/multi/sakura_wand/4.jpg": [
+        {
+            "Human": "What is <sakura> holding in the image?",
+            "AI": "<sakura> is holding a magical staff with a winged design and a pink orb."
+        },
+        {
+            "Human": "What is the design feature of the <wand> in the image?",
+            "AI": "The <wand> in the image is a pink anime style stick-shaped staff with a decorative top featuring a large pink gem and wing-like structures."
+        },
+        {
+            "Human": "What is <sakura> holding in the image?",
+            "AI": "<sakura> is holding a pink anime style <wand>."
+        }
+    ]
+}

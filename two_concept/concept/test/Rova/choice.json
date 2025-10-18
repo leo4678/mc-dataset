@@ -1,0 +1,22 @@
+{
+    "two_concept/concept/test/Rova/0.png": {
+        "Human": "What is the shape of the <Rova> in the image? \n A. Square; \n B. Circular; \n C. Triangular;",
+        "AI": "B"
+    },
+    "two_concept/concept/test/Rova/1.png": {
+        "Human": "What is the primary color of the <Rova>? \n A. Green; \n B. Blue; \n C. Red;",
+        "AI": "A"
+    },
+    "two_concept/concept/test/Rova/2.png": {
+        "Human": "What is the shape of the <Rova> in the image? \n A. Circular; \n B. Triangular; \n C. Square;",
+        "AI": "A"
+    },
+    "two_concept/concept/test/Rova/3.png": {
+        "Human": "What is the color of the <Rova> in the image? \n A. Green; \n B. Blue; \n C. Red;",
+        "AI": "A"
+    },
+    "two_concept/concept/test/Rova/4.png": {
+        "Human": "What is the shape of the <Rova>? \n A. Circular; \n B. Triangular; \n C. Square;\n",
+        "AI": "A"
+    }
+}

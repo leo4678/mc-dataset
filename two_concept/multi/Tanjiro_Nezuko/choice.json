@@ -1,0 +1,72 @@
+{
+    "two_concept/multi/Tanjiro_Nezuko/0.png": [
+        {
+            "Human": "What is <Tanjiro> wearing in the image? A. A white robe. B. A black suit.",
+            "AI": "A"
+        },
+        {
+            "Human": "What accessory is <Nezuko> wearing in her hair? A. A bow. B. A hat.",
+            "AI": "A"
+        },
+        {
+            "Human": "What accessory is <Nezuko> wearing in her hair? A. A ribbon. B. A hat.",
+            "AI": "A"
+        }
+    ],
+    "two_concept/multi/Tanjiro_Nezuko/1.png": [
+        {
+            "Human": "What is <Tanjiro> wearing in the image? A. A striped jacket. B. A plain shirt.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is <Nezuko> doing in the image? A. Hugging someone. B. Running away.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is the hair color of <Tanjiro> and <Nezuko>? A. Black. B. Blonde. C. Red.",
+            "AI": "A"
+        }
+    ],
+    "two_concept/multi/Tanjiro_Nezuko/2.png": [
+        {
+            "Human": "What is <Tanjiro> wearing in the image? A. Green and black striped outfit. B. Red and white outfit.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is <Nezuko> wearing in the image? A. A green and black outfit. B. A pink outfit. C. A blue outfit.",
+            "AI": "B"
+        },
+        {
+            "Human": "What is the expression on <Nezuko>'s face? A. Happy. B. Angry. C. Scared.",
+            "AI": "C"
+        }
+    ],
+    "two_concept/multi/Tanjiro_Nezuko/3.png": [
+        {
+            "Human": "What element is <Tanjiro> associated with in the image? A. Fire. B. Water. C. Wind.",
+            "AI": "B"
+        },
+        {
+            "Human": "What is <Nezuko> wearing in the image? A. A pink kimono with a black haori. B. A blue kimono with a white haori.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is the color of <Tanjiro>'s outfit? A. Green and black. B. Red and white. C. Blue and yellow.",
+            "AI": "A"
+        }
+    ],
+    "two_concept/multi/Tanjiro_Nezuko/4.png": [
+        {
+            "Human": "What is <Tanjiro> wearing around his neck? A. A scarf. B. A necklace.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is <Nezuko> doing in the image? A. Crying. B. Laughing. C. Sleeping.",
+            "AI": "B"
+        },
+        {
+            "Human": "What is the expression on <Tanjiro> and <Nezuko>'s faces? A. Sad. B. Happy. C. Angry.",
+            "AI": "B"
+        }
+    ]
+}

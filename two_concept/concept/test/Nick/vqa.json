@@ -1,0 +1,22 @@
+{
+    "two_concept/concept/test/Nick/0.png": {
+        "Human": "What type of clothing is <Nick> wearing in the image?",
+        "AI": "<Nick> is wearing a yellow shirt and a striped tie in the image."
+    },
+    "two_concept/concept/test/Nick/1.png": {
+        "Human": "What is <Nick> holding in his hand?",
+        "AI": "<Nick> is holding a briefcase in his hand."
+    },
+    "two_concept/concept/test/Nick/2.png": {
+        "Human": "What color are <Nick>'s eyes in the image?",
+        "AI": "<Nick>'s eyes are green in the image."
+    },
+    "two_concept/concept/test/Nick/3.png": {
+        "Human": "What is the expression on <Nick>'s face in the image?",
+        "AI": "<Nick> has a surprised or shocked expression on his face."
+    },
+    "two_concept/concept/test/Nick/4.png": {
+        "Human": "What is <Nick> holding in his hand?",
+        "AI": "<Nick> is holding a red lollipop in his hand."
+    }
+}

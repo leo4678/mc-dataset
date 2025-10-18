@@ -1,0 +1,22 @@
+[
+    {
+        "question": "What type of creature is <NaNaQi>? A. Human  B. Animal-like",
+        "answer": "B"
+    },
+    {
+        "question": "What is the color of <NaNaQi>'s hair? A. Black  B. White",
+        "answer": "B"
+    },
+    {
+        "question": "What is a distinctive feature of <NaNaQi>'s appearance? A. Long ears  B. Short tail",
+        "answer": "A"
+    },
+    {
+        "question": "What color are <NaNaQi>'s eyes? A. Green  B. Yellow",
+        "answer": "B"
+    },
+    {
+        "question": "Does <NaNaQi> wear a hat? A. Yes  B. No",
+        "answer": "A"
+    }
+]

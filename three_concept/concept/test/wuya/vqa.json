@@ -1,0 +1,22 @@
+{
+    "three_concept/concept/test/wuya/0.png": {
+        "Human": "What is the expression on <wuya>'s face in the image?",
+        "AI": "<wuya> has a wide-open mouth with a menacing expression, showing sharp teeth."
+    },
+    "three_concept/concept/test/wuya/1.png": {
+        "Human": "What is the distinctive feature of <wuya> in the image?",
+        "AI": "The distinctive feature of <wuya> in the image is its three eyes and puppet-like appearance with wooden limbs."
+    },
+    "three_concept/concept/test/wuya/2.png": {
+        "Human": "What is the expression on <wuya>'s face in the image?",
+        "AI": "<wuya> has a surprised or shocked expression on its face in the image."
+    },
+    "three_concept/concept/test/wuya/3.png": {
+        "Human": "What unique feature does <wuya> have on its face?",
+        "AI": "<wuya> has three eyes on its face."
+    },
+    "three_concept/concept/test/wuya/4.png": {
+        "Human": "What is the unique feature of <wuya> in the image?",
+        "AI": "<wuya> has three eyes, which is a unique feature of this anime style puppet."
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "two_concept/concept/test/Xiyangyang/0.jpg": {
+        "Human": "What is <Xiyangyang> wearing in the image?",
+        "AI": "<Xiyangyang> is wearing a space suit in the image."
+    },
+    "two_concept/concept/test/Xiyangyang/1.jpg": {
+        "Human": "What is <Xiyangyang> wearing in the image?",
+        "AI": "<Xiyangyang> is wearing a blue outfit with a high collar and buttons."
+    },
+    "two_concept/concept/test/Xiyangyang/2.jpg": {
+        "Human": "What is <Xiyangyang> holding in the image?",
+        "AI": "<Xiyangyang> is holding a small device with colorful buttons."
+    },
+    "two_concept/concept/test/Xiyangyang/3.jpg": {
+        "Human": "What is <Xiyangyang> wearing in the image?",
+        "AI": "<Xiyangyang> is wearing a white and blue spacesuit with gloves and boots."
+    },
+    "two_concept/concept/test/Xiyangyang/4.jpg": {
+        "Human": "What is the expression on <Xiyangyang>'s face in the image?",
+        "AI": "<Xiyangyang> has a happy and excited expression on his face."
+    }
+}

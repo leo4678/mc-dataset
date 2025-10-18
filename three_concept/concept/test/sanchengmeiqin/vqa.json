@@ -1,0 +1,22 @@
+{
+    "three_concept/concept/test/sanchengmeiqin/0.png": {
+        "Human": "What type of protective clothing is <sanchengmeiqin> wearing in the image?",
+        "AI": "<sanchengmeiqin> is wearing a transparent plastic gown and a surgical mask."
+    },
+    "three_concept/concept/test/sanchengmeiqin/1.png": {
+        "Human": "What type of clothing is <sanchengmeiqin> wearing in the image?",
+        "AI": "<sanchengmeiqin> is wearing a dark blazer over a white shirt."
+    },
+    "three_concept/concept/test/sanchengmeiqin/2.png": {
+        "Human": "What organization is <sanchengmeiqin> associated with based on the logo on the jacket?",
+        "AI": "<sanchengmeiqin> is associated with the UDI, as indicated by the logo on the jacket."
+    },
+    "three_concept/concept/test/sanchengmeiqin/3.png": {
+        "Human": "What type of clothing is <sanchengmeiqin> wearing in the image?",
+        "AI": "<sanchengmeiqin> is wearing a denim jacket over a white shirt."
+    },
+    "three_concept/concept/test/sanchengmeiqin/4.png": {
+        "Human": "What is <sanchengmeiqin> wearing in the image?",
+        "AI": "<sanchengmeiqin> is wearing a dark blue jacket and a gray scarf."
+    }
+}

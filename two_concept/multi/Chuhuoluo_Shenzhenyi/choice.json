@@ -1,0 +1,72 @@
+{
+    "two_concept/multi/Chuhuoluo_Shenzhenyi/0.jpg": [
+        {
+            "Human": "What is <Chuhuoluo> holding in his hand? A. A sword. B. Nothing.",
+            "AI": "B"
+        },
+        {
+            "Human": "What color is <Shenzhenyi>'s outfit? A. Red. B. Green. C. Blue.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is the primary color of <Chuhuoluo>'s outfit in the image? A.blue. B.red. C.green.",
+            "AI": "A"
+        }
+    ],
+    "two_concept/multi/Chuhuoluo_Shenzhenyi/1.jpg": [
+        {
+            "Human": "What is <Chuhuoluo> wearing in the image? A. A red outfit with gold accents. B. A blue outfit with silver accents. C. A green outfit with white accents.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is <Shenzhenyi> wearing in the image? A. A white gown with blue accents. B. A red dress with gold accents. C. A black suit.",
+            "AI": "A"
+        },
+        {
+            "Human": "What are <Chuhuoluo> and <Shenzhenyi> wearing? A.Armor and robe respectively. B.Suits. C.T-shirts and jeans.",
+            "AI": "A"
+        }
+    ],
+    "two_concept/multi/Chuhuoluo_Shenzhenyi/2.jpg": [
+        {
+            "Human": "What is the background setting in the image with <Chuhuoluo>? A. a forest B. a garden C. a city",
+            "AI": "B"
+        },
+        {
+            "Human": "What is <Shenzhenyi> wearing in the image? A. A suit of armor. B. Traditional attire. C. Modern casual clothes.",
+            "AI": "B"
+        },
+        {
+            "Human": "What is the setting behind <Chuhuoluo> and <Shenzhenyi>? A.countryside. B.shopping mall. C.snowy mountain",
+            "AI": "A"
+        }
+    ],
+    "two_concept/multi/Chuhuoluo_Shenzhenyi/3.jpg": [
+        {
+            "Human": "What color is the outfit of <Chuhuoluo>? A.red. B.blue. C.green",
+            "AI": "A"
+        },
+        {
+            "Human": "What color is the clothing of <Shenzhenyi>? A.grey.  B.red",
+            "AI": "A"
+        },
+        {
+            "Human": "What color is the outfit of <Shenzhenyi>? A. Blue and gray. B. Red and gold.",
+            "AI": "A"
+        }
+    ],
+    "two_concept/multi/Chuhuoluo_Shenzhenyi/4.jpg": [
+        {
+            "Human": "What color is the outfit of <Chuhuoluo>? A.blue. B.red. C.green",
+            "AI": "B"
+        },
+        {
+            "Human": "What is <Shenzhenyi> wearing in the image? A. Red and gold outfit. B. Blue and white outfit.",
+            "AI": "B"
+        },
+        {
+            "Human": "What is the main color of <Chuhuoluo>'s outfit? A. Red. B. Blue.",
+            "AI": "A"
+        }
+    ]
+}

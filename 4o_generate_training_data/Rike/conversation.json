@@ -1,0 +1,422 @@
+{
+    "two_concept/concept/train/Rike/0.jpg": [
+        {
+            "Question": "What is <Rike> hair color?",
+            "Answer": "<Rike>'s hair color is light blue."
+        },
+        {
+            "Question": "What color are <Rike> eyes?",
+            "Answer": "<Rike>'s eyes are white with black pupils."
+        },
+        {
+            "Question": "Would you describe <Rike>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<Rike>'s physique is slim."
+        },
+        {
+            "Question": "What is <Rike> skin tone?",
+            "Answer": "<Rike>'s skin tone is a light blue."
+        },
+        {
+            "Question": "How would you describe <Rike> hairstyle?",
+            "Answer": "<Rike>'s hairstyle is spiky and blue, with the hair standing up in sharp points."
+        },
+        {
+            "Question": "Does <Rike> wear glasses or any accessories?",
+            "Answer": "<Rike> wears glasses."
+        },
+        {
+            "Question": "How would you describe <Rike>'s attire?",
+            "Answer": "<Rike> is wearing a light blue shirt, brown pants, and a white lab coat."
+        },
+        {
+            "Question": "Does <Rike> have any distinctive facial features?",
+            "Answer": "<Rike> has large, round eyes and a unibrow."
+        },
+        {
+            "Question": "What is <Rike> overall build or physique?",
+            "Answer": "<Rike> has a tall and slender build."
+        },
+        {
+            "Question": "What is <Rike> general expression or demeanor?",
+            "Answer": "<Rike> has a generally serious and slightly concerned expression."
+        }
+    ],
+    "two_concept/concept/train/Rike/1.jpg": [
+        {
+            "Question": "What is <Rike> hair color?",
+            "Answer": "<Rike>'s hair color is light blue."
+        },
+        {
+            "Question": "What color are <Rike> eyes?",
+            "Answer": "<Rike>'s eyes are white with black pupils."
+        },
+        {
+            "Question": "Would you describe <Rike>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<Rike>'s physique is slim."
+        },
+        {
+            "Question": "What is <Rike> skin tone?",
+            "Answer": "<Rike>'s skin tone is light."
+        },
+        {
+            "Question": "How would you describe <Rike> hairstyle?",
+            "Answer": "<Rike>'s hairstyle is spiky and white, with the hair standing up in sharp, jagged points."
+        },
+        {
+            "Question": "Does <Rike> wear glasses or any accessories?",
+            "Answer": "<Rike> does not wear glasses or any accessories."
+        },
+        {
+            "Question": "How would you describe <Rike>'s attire?",
+            "Answer": "<Rike> is wearing a light blue shirt, brown pants, a white lab coat, and black shoes."
+        },
+        {
+            "Question": "Does <Rike> have any distinctive facial features?",
+            "Answer": "<Rike> has large, round eyes and a unibrow."
+        },
+        {
+            "Question": "What is <Rike> overall build or physique?",
+            "Answer": "<Rike> has a tall and slender build."
+        },
+        {
+            "Question": "What is <Rike> general expression or demeanor?",
+            "Answer": "<Rike> has a neutral expression and demeanor."
+        }
+    ],
+    "two_concept/concept/train/Rike/2.jpg": [
+        {
+            "Question": "What is <Rike> hair color?",
+            "Answer": "<Rike>'s hair color is light blue."
+        },
+        {
+            "Question": "What color are <Rike> eyes?",
+            "Answer": "<Rike>'s eyes are black."
+        },
+        {
+            "Question": "Would you describe <Rike>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<Rike>'s physique is slim."
+        },
+        {
+            "Question": "What is <Rike> skin tone?",
+            "Answer": "<Rike>'s skin tone is light beige."
+        },
+        {
+            "Question": "How would you describe <Rike> hairstyle?",
+            "Answer": "<Rike>'s hairstyle is spiky and light blue in color, with the hair standing up in sharp points."
+        },
+        {
+            "Question": "Does <Rike> wear glasses or any accessories?",
+            "Answer": "<Rike> wears a light blue headband."
+        },
+        {
+            "Question": "How would you describe <Rike>'s attire?",
+            "Answer": "<Rike> is wearing a light blue shirt and a white lab coat."
+        },
+        {
+            "Question": "Does <Rike> have any distinctive facial features?",
+            "Answer": "<Rike> has a unibrow and a pointed nose."
+        },
+        {
+            "Question": "What is <Rike> overall build or physique?",
+            "Answer": "<Rike> has a slender build."
+        },
+        {
+            "Question": "What is <Rike> general expression or demeanor?",
+            "Answer": "<Rike> has a generally serious and slightly bored expression."
+        }
+    ],
+    "two_concept/concept/train/Rike/3.jpg": [
+        {
+            "Question": "What is <Rike> hair color?",
+            "Answer": "<Rike>'s hair color is light blue."
+        },
+        {
+            "Question": "What color are <Rike> eyes?",
+            "Answer": "<Rike>'s eyes are white with black pupils."
+        },
+        {
+            "Question": "Would you describe <Rike>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<Rike>'s physique is slim."
+        },
+        {
+            "Question": "What is <Rike> skin tone?",
+            "Answer": "<Rike>'s skin tone is light."
+        },
+        {
+            "Question": "How would you describe <Rike> hairstyle?",
+            "Answer": "<Rike>'s hairstyle is spiky and white, with the hair standing up in sharp, pointed spikes."
+        },
+        {
+            "Question": "Does <Rike> wear glasses or any accessories?",
+            "Answer": "<Rike> wears glasses."
+        },
+        {
+            "Question": "How would you describe <Rike>'s attire?",
+            "Answer": "<Rike> is wearing a white lab coat over a light blue shirt."
+        },
+        {
+            "Question": "Does <Rike> have any distinctive facial features?",
+            "Answer": "<Rike> has a unibrow and a spiky blue hair."
+        },
+        {
+            "Question": "What is <Rike> overall build or physique?",
+            "Answer": "<Rike> has a slender build."
+        },
+        {
+            "Question": "What is <Rike> general expression or demeanor?",
+            "Answer": "<Rike> has a generally surprised or bewildered expression."
+        }
+    ],
+    "two_concept/concept/train/Rike/4.jpg": [
+        {
+            "Question": "What is <Rike> hair color?",
+            "Answer": "<Rike>'s hair color is light blue."
+        },
+        {
+            "Question": "What color are <Rike> eyes?",
+            "Answer": "<Rike>'s eyes are white with black pupils."
+        },
+        {
+            "Question": "Would you describe <Rike>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<Rike>'s physique is slim."
+        },
+        {
+            "Question": "What is <Rike> skin tone?",
+            "Answer": "<Rike>'s skin tone is light."
+        },
+        {
+            "Question": "How would you describe <Rike> hairstyle?",
+            "Answer": "<Rike>'s hairstyle is spiky and blue, with the hair standing up in sharp points."
+        },
+        {
+            "Question": "Does <Rike> wear glasses or any accessories?",
+            "Answer": "<Rike> does not wear glasses or any accessories."
+        },
+        {
+            "Question": "How would you describe <Rike>'s attire?",
+            "Answer": "<Rike> is wearing a light blue shirt, brown pants, and a white lab coat."
+        },
+        {
+            "Question": "Does <Rike> have any distinctive facial features?",
+            "Answer": "<Rike> has a unibrow and a drooling mouth."
+        },
+        {
+            "Question": "What is <Rike> overall build or physique?",
+            "Answer": "<Rike> has a tall and slender build."
+        },
+        {
+            "Question": "What is <Rike> general expression or demeanor?",
+            "Answer": "<Rike> has a generally neutral expression with a slight frown."
+        }
+    ],
+    "two_concept/concept/train/Rike/5.jpg": [
+        {
+            "Question": "What is <Rike> hair color?",
+            "Answer": "<Rike>'s hair color is light blue."
+        },
+        {
+            "Question": "What color are <Rike> eyes?",
+            "Answer": "<Rike>'s eyes are white with black pupils."
+        },
+        {
+            "Question": "Would you describe <Rike>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<Rike>'s physique is slim."
+        },
+        {
+            "Question": "What is <Rike> skin tone?",
+            "Answer": "<Rike>'s skin tone is a light greyish color."
+        },
+        {
+            "Question": "How would you describe <Rike> hairstyle?",
+            "Answer": "<Rike>'s hairstyle is spiky and light blue in color, with the hair standing up in sharp points."
+        },
+        {
+            "Question": "Does <Rike> wear glasses or any accessories?",
+            "Answer": "<Rike> does not wear glasses but has a drool stain on his mouth."
+        },
+        {
+            "Question": "How would you describe <Rike>'s attire?",
+            "Answer": "<Rike> is wearing a light blue shirt, brown pants, and a white lab coat."
+        },
+        {
+            "Question": "Does <Rike> have any distinctive facial features?",
+            "Answer": "<Rike> has a unibrow and a drooling mouth."
+        },
+        {
+            "Question": "What is <Rike> overall build or physique?",
+            "Answer": "<Rike> has a slender and tall build."
+        },
+        {
+            "Question": "What is <Rike> general expression or demeanor?",
+            "Answer": "<Rike> has a neutral expression with a slightly open mouth and wide eyes."
+        }
+    ],
+    "two_concept/concept/train/Rike/6.jpg": [
+        {
+            "Question": "What is <Rike> hair color?",
+            "Answer": "<Rike>'s hair color is light blue."
+        },
+        {
+            "Question": "What color are <Rike> eyes?",
+            "Answer": "<Rike>'s eyes are white with black pupils."
+        },
+        {
+            "Question": "Would you describe <Rike>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<Rike>'s physique is slim."
+        },
+        {
+            "Question": "What is <Rike> skin tone?",
+            "Answer": "<Rike>'s skin tone is a light greyish color."
+        },
+        {
+            "Question": "How would you describe <Rike> hairstyle?",
+            "Answer": "<Rike>'s hairstyle is spiky and light blue in color."
+        },
+        {
+            "Question": "Does <Rike> wear glasses or any accessories?",
+            "Answer": "<Rike> does not wear glasses but is wearing a wristband."
+        },
+        {
+            "Question": "How would you describe <Rike>'s attire?",
+            "Answer": "<Rike> is wearing a light blue shirt under a white lab coat."
+        },
+        {
+            "Question": "Does <Rike> have any distinctive facial features?",
+            "Answer": "<Rike> has a unibrow and spiky blue hair."
+        },
+        {
+            "Question": "What is <Rike> overall build or physique?",
+            "Answer": "<Rike> has a slender and lanky build."
+        },
+        {
+            "Question": "What is <Rike> general expression or demeanor?",
+            "Answer": "<Rike> has an intense and serious expression, with furrowed brows and a slightly open mouth, suggesting he is speaking or in the middle of a conversation."
+        }
+    ],
+    "two_concept/concept/train/Rike/7.jpg": [
+        {
+            "Question": "What is <Rike> hair color?",
+            "Answer": "<Rike>'s hair is light blue."
+        },
+        {
+            "Question": "What color are <Rike> eyes?",
+            "Answer": "<Rike>'s eyes are white with black pupils."
+        },
+        {
+            "Question": "Would you describe <Rike>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<Rike>'s physique is slim."
+        },
+        {
+            "Question": "What is <Rike> skin tone?",
+            "Answer": "<Rike> has a light skin tone."
+        },
+        {
+            "Question": "How would you describe <Rike> hairstyle?",
+            "Answer": "<Rike> has spiky, light blue hair that stands up in all directions."
+        },
+        {
+            "Question": "Does <Rike> wear glasses or any accessories?",
+            "Answer": "<Rike> does not wear glasses but is wearing a wrist device that emits a blue light."
+        },
+        {
+            "Question": "How would you describe <Rike>'s attire?",
+            "Answer": "<Rike> is wearing a light blue shirt and a white lab coat."
+        },
+        {
+            "Question": "Does <Rike> have any distinctive facial features?",
+            "Answer": "<Rike> has a unibrow and a pointed nose."
+        },
+        {
+            "Question": "What is <Rike> overall build or physique?",
+            "Answer": "<Rike> has a slender build."
+        },
+        {
+            "Question": "What is <Rike> general expression or demeanor?",
+            "Answer": "<Rike> has a surprised or concerned expression."
+        }
+    ],
+    "two_concept/concept/train/Rike/8.jpg": [
+        {
+            "Question": "What is <Rike> hair color?",
+            "Answer": "<Rike>'s hair color is light blue."
+        },
+        {
+            "Question": "What color are <Rike> eyes?",
+            "Answer": "<Rike>'s eyes are white with black pupils."
+        },
+        {
+            "Question": "Would you describe <Rike>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<Rike>'s physique is slim."
+        },
+        {
+            "Question": "What is <Rike> skin tone?",
+            "Answer": "<Rike>'s skin tone is a light, pale color."
+        },
+        {
+            "Question": "How would you describe <Rike> hairstyle?",
+            "Answer": "<Rike>'s hairstyle is spiky and stands straight up."
+        },
+        {
+            "Question": "Does <Rike> wear glasses or any accessories?",
+            "Answer": "<Rike> does not wear glasses but has a device attached to his head."
+        },
+        {
+            "Question": "How would you describe <Rike>'s attire?",
+            "Answer": "<Rike> is wearing a light blue shirt, brown pants, a white lab coat, and black shoes."
+        },
+        {
+            "Question": "Does <Rike> have any distinctive facial features?",
+            "Answer": "<Rike> has a unibrow and a spiky hairstyle."
+        },
+        {
+            "Question": "What is <Rike> overall build or physique?",
+            "Answer": "<Rike> has a slender and tall build."
+        },
+        {
+            "Question": "What is <Rike> general expression or demeanor?",
+            "Answer": "<Rike> has an intense and determined expression."
+        }
+    ],
+    "two_concept/concept/train/Rike/9.jpg": [
+        {
+            "Question": "What is <Rike> hair color?",
+            "Answer": "<Rike>'s hair color is light blue."
+        },
+        {
+            "Question": "What color are <Rike> eyes?",
+            "Answer": "<Rike>'s eyes are white with black pupils."
+        },
+        {
+            "Question": "Would you describe <Rike>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<Rike>'s physique is slim."
+        },
+        {
+            "Question": "What is <Rike> skin tone?",
+            "Answer": "<Rike>'s skin tone is light."
+        },
+        {
+            "Question": "How would you describe <Rike> hairstyle?",
+            "Answer": "<Rike>'s hairstyle is spiky and white, with the hair standing up in sharp points."
+        },
+        {
+            "Question": "Does <Rike> wear glasses or any accessories?",
+            "Answer": "<Rike> wears a unibrow accessory."
+        },
+        {
+            "Question": "How would you describe <Rike>'s attire?",
+            "Answer": "<Rike> is wearing a light blue shirt and a white lab coat."
+        },
+        {
+            "Question": "Does <Rike> have any distinctive facial features?",
+            "Answer": "<Rike> has distinctive facial features including a unibrow, large round eyes, and a wide open mouth with visible teeth."
+        },
+        {
+            "Question": "What is <Rike> overall build or physique?",
+            "Answer": "<Rike> has a thin and lanky build."
+        },
+        {
+            "Question": "What is <Rike> general expression or demeanor?",
+            "Answer": "<Rike> has an angry and intense expression."
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "two_concept/concept/test/jierui/0.jpg": {
+        "Human": "What is the color of <jierui>'s fur in the image?",
+        "AI": "<jierui>'s fur is brown."
+    },
+    "two_concept/concept/test/jierui/1.jpg": {
+        "Human": "What is <jierui> doing in the image?",
+        "AI": "<jierui> is peeking from behind a wall with his tongue sticking out."
+    },
+    "two_concept/concept/test/jierui/2.jpg": {
+        "Human": "What is <jierui> holding in the image?",
+        "AI": "<jierui> is holding a piece of cheese."
+    },
+    "two_concept/concept/test/jierui/3.jpg": {
+        "Human": "What is the color of <jierui>'s fur in the image?",
+        "AI": "<jierui>'s fur is brown with a lighter beige belly."
+    },
+    "two_concept/concept/test/jierui/4.jpg": {
+        "Human": "What is <jierui> wearing on their head?",
+        "AI": "<jierui> is wearing a dunce cap on their head."
+    }
+}

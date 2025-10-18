@@ -1,0 +1,152 @@
+{
+    "three_concept/multi/Vane_Vex_Zor/0.png": [
+        {
+            "Human": "What is the position of <Vane> on the ship in the image?",
+            "AI": "<Vane> is located at the bow of the ship, serving as the figurehead."
+        },
+        {
+            "Human": "What is the design on the <Vex> sail in the image?",
+            "AI": "The <Vex> sail has a skull print with a straw hat."
+        },
+        {
+            "Human": "What is the color scheme of the roof of <Zor> in the image?",
+            "AI": "The roof of <Zor> has a two-tone color scheme of red and yellow."
+        },
+        {
+            "Human": "What is the position of <Vane> and <Vex> on the ship in the image?",
+            "AI": "<Vane> is located at the bow of the ship, while <Vex> is the sail with a skull print."
+        },
+        {
+            "Human": "Where are <Vane> and <Zor> located in the image?",
+            "AI": "<Vane> is located at the front of the ship, while <Zor> is on top of the ship."
+        },
+        {
+            "Human": "What is the relationship between <Vex> and <Zor> in the image?",
+            "AI": "<Vex> is the sail with a skull print on the boat, and <Zor> is the small house with a two-tone roof on the same boat."
+        },
+        {
+            "Human": "What is the position of <Vane>, <Vex>, and <Zor> on the boat in the image?",
+            "AI": "<Vane> is at the front of the boat, <Vex> is the sail in the middle, and <Zor> is the small house on the deck towards the back."
+        }
+    ],
+    "three_concept/multi/Vane_Vex_Zor/1.png": [
+        {
+            "Human": "What is the position of <Vane> on the ship in the image?",
+            "AI": "<Vane> is located at the front of the ship, serving as the figurehead."
+        },
+        {
+            "Human": "What is the design on the <Vex> sail in the image?",
+            "AI": "The <Vex> sail has a skull print with a straw hat."
+        },
+        {
+            "Human": "What is the design feature of <Zor> on the boat in the image?",
+            "AI": "<Zor> is an anime style small house with a two tone roof located on the boat."
+        },
+        {
+            "Human": "What is the position of <Vane> and <Vex> on the ship in the image?",
+            "AI": "<Vane> is located at the front of the ship as the figurehead, and <Vex> is the sail with a skull print."
+        },
+        {
+            "Human": "What is the position of <Vane> and <Zor> on the boat in the image?",
+            "AI": "<Vane> is located at the front of the boat, while <Zor> is part of the structure on the deck."
+        },
+        {
+            "Human": "What is the relationship between <Vex> and <Zor> in the image?",
+            "AI": "<Vex> is the sail with a skull print on the boat, and <Zor> is the small house on the boat with a two-tone roof."
+        },
+        {
+            "Human": "What is the position of <Vane>, <Vex>, and <Zor> on the boat in the image?",
+            "AI": "<Vane> is at the front of the boat, <Vex> is the sail with a skull print, and <Zor> is the small house on the boat with a two-tone roof."
+        }
+    ],
+    "three_concept/multi/Vane_Vex_Zor/2.png": [
+        {
+            "Human": "What is the design style of <Vane> on the ship in the image?",
+            "AI": "<Vane> is designed in an anime style with yellow and orange colors, resembling a biotechnical creature."
+        },
+        {
+            "Human": "What is the design on <Vex> in the image?",
+            "AI": "<Vex> has a skull print with crossbones and a straw hat."
+        },
+        {
+            "Human": "What is the design feature of <Zor> in the image?",
+            "AI": "<Zor> is an anime style small house on a boat with a two tone roof, featuring a red and yellow color scheme."
+        },
+        {
+            "Human": "What is the position of <Vane> and <Vex> on the ship in the image?",
+            "AI": "<Vane> is located at the front of the ship as the figurehead, and <Vex> is the sail with a skull print."
+        },
+        {
+            "Human": "What is the position of <Vane> and <Zor> on the boat in the image?",
+            "AI": "<Vane> is located at the front of the boat, while <Zor> is situated towards the back with a two-tone roof."
+        },
+        {
+            "Human": "What is the design on <Vex> and the color scheme of <Zor> in the image?",
+            "AI": "<Vex> has a skull print design, and <Zor> has a two-tone roof with red and yellow colors."
+        },
+        {
+            "Human": "What is the color scheme of <Vane>, <Vex>, and <Zor> in the image?",
+            "AI": "<Vane> is in yellow and orange colors, <Vex> is a white sail with a skull print, and <Zor> is a small house with a two-tone roof of red and yellow."
+        }
+    ],
+    "three_concept/multi/Vane_Vex_Zor/3.png": [
+        {
+            "Human": "What is the shape of <Vane> on the ship in the image?",
+            "AI": "<Vane> is shaped like a sun with a smiling face and spiky rays."
+        },
+        {
+            "Human": "What is the design on <Vex> in the image?",
+            "AI": "<Vex> has a skull print with a straw hat on the sail."
+        },
+        {
+            "Human": "What is the design feature of the roof on <Zor>?",
+            "AI": "The roof on <Zor> is two-toned, with red and white colors."
+        },
+        {
+            "Human": "What is the relationship between <Vane> and <Vex> on the ship in the image?",
+            "AI": "<Vane> is the figurehead at the front of the ship, while <Vex> is the sail with a skull print above it."
+        },
+        {
+            "Human": "What is the position of <Vane> and <Zor> on the boat in the image?",
+            "AI": "<Vane> is located at the front of the boat as the figurehead, while <Zor> is situated on the deck of the boat with a two-tone roof."
+        },
+        {
+            "Human": "What is the design on <Vex> and the color scheme of <Zor> in the image?",
+            "AI": "<Vex> has a skull print design, and <Zor> has a two-tone roof with red and white colors."
+        },
+        {
+            "Human": "What is the position of <Vane>, <Vex>, and <Zor> on the boat in the image?",
+            "AI": "<Vane> is at the front of the boat, <Vex> is the sail in the middle, and <Zor> is the small house towards the back of the boat."
+        }
+    ],
+    "three_concept/multi/Vane_Vex_Zor/4.png": [
+        {
+            "Human": "What is the position of <Vane> on the ship in the image?",
+            "AI": "<Vane> is located at the front of the ship, serving as the figurehead."
+        },
+        {
+            "Human": "What is the design on the <Vex> sail in the image?",
+            "AI": "The <Vex> sail has a skull print with a straw hat."
+        },
+        {
+            "Human": "What is the design style of the roof on <Zor> in the image?",
+            "AI": "The roof on <Zor> has a two-tone design with red and brown colors."
+        },
+        {
+            "Human": "What is the position of <Vane> and <Vex> on the ship in the image?",
+            "AI": "<Vane> is located at the front of the ship, while <Vex> is the sail with a skull print."
+        },
+        {
+            "Human": "What is the position of <Vane> and <Zor> on the boat in the image?",
+            "AI": "<Vane> is located at the front of the boat, while <Zor> is situated on the deck towards the back."
+        },
+        {
+            "Human": "What is the position of <Vex> and <Zor> on the boat in the image?",
+            "AI": "<Vex> is positioned at the front of the boat, while <Zor> is located towards the back on the deck."
+        },
+        {
+            "Human": "What is the position of <Vane>, <Vex>, and <Zor> on the boat?",
+            "AI": "<Vane> is at the front of the boat, <Vex> is the sail with a skull print, and <Zor> is the small house on the boat with a two-tone roof."
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "two_concept/concept/test/Huitailang/0.jpg": {
+        "Human": "What is on <Huitailang>'s head?  A. A hat with a patch; B. A crown;",
+        "AI": "A"
+    },
+    "two_concept/concept/test/Huitailang/1.jpg": {
+        "Human": "What is the expression on <Huitailang>'s face?  A. Happy; B. Sad; C. Angry;",
+        "AI": "B"
+    },
+    "two_concept/concept/test/Huitailang/2.jpg": {
+        "Human": "What is <Huitailang> holding in the image?  A. A microphone; B. A guitar; C. A book;",
+        "AI": "A"
+    },
+    "two_concept/concept/test/Huitailang/3.jpg": {
+        "Human": "What is <Huitailang> wearing on his head?  A. A hat; B. A helmet; C. A cap;",
+        "AI": "A"
+    },
+    "two_concept/concept/test/Huitailang/5.jpg": {
+        "Human": "What is <Huitailang> wearing on his head?  A. A hat with a patch; B. A crown;",
+        "AI": "A"
+    }
+}

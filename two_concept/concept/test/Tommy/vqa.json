@@ -1,0 +1,22 @@
+{
+    "two_concept/concept/test/Tommy/0.png": {
+        "Human": "What is <Tommy> holding in his hand?",
+        "AI": "<Tommy> is holding a cigarette in his hand."
+    },
+    "two_concept/concept/test/Tommy/1.png": {
+        "Human": "What kind of attire is <Tommy> wearing in the image?",
+        "AI": "<Tommy> is wearing a military-style jacket with a shirt and a tie."
+    },
+    "two_concept/concept/test/Tommy/2.png": {
+        "Human": "What kind of footwear is <Tommy> wearing in the image?",
+        "AI": "<Tommy> is wearing brown boots in the image."
+    },
+    "two_concept/concept/test/Tommy/3.png": {
+        "Human": "What type of hat is <Tommy> wearing in the image?",
+        "AI": "<Tommy> is wearing a flat cap in the image."
+    },
+    "two_concept/concept/test/Tommy/4.png": {
+        "Human": "What is <Tommy> holding in his left hand?",
+        "AI": "<Tommy> is holding a cigarette in his left hand."
+    }
+}

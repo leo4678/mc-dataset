@@ -1,0 +1,22 @@
+{
+    "two_concept/concept/test/Nick/0.png": {
+        "Human": "What is <Nick> wearing around his neck?  A. A bow tie; B. A striped tie; C. A scarf;",
+        "AI": "B"
+    },
+    "two_concept/concept/test/Nick/1.png": {
+        "Human": "What is <Nick> holding in his hand?  A. A briefcase; B. A book; C. A cup;",
+        "AI": "A"
+    },
+    "two_concept/concept/test/Nick/2.png": {
+        "Human": "What color are <Nick>'s eyes?  A. Blue; B. Green; C. Brown;",
+        "AI": "B"
+    },
+    "two_concept/concept/test/Nick/3.png": {
+        "Human": "What is the expression on <Nick>'s face?  A. Happy; B. Surprised; C. Angry;",
+        "AI": "B"
+    },
+    "two_concept/concept/test/Nick/4.png": {
+        "Human": "What is <Nick> holding in his hand?  A. A lollipop; B. A flashlight; C. A badge;",
+        "AI": "A"
+    }
+}

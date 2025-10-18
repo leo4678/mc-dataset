@@ -1,0 +1,22 @@
+{
+    "two_concept/concept/test/Eru/0.png": {
+        "Human": "What can be seen on the table in front of <Eru>?",
+        "AI": "There are sheets of paper, a pencil, a blue pencil case, a cup, and a small plant on the table in front of <Eru>."
+    },
+    "two_concept/concept/test/Eru/1.png": {
+        "Human": "What color are <Eru>'s eyes in the image?",
+        "AI": "<Eru>'s eyes are purple in the image."
+    },
+    "two_concept/concept/test/Eru/2.png": {
+        "Human": "What kind of uniform is <Eru> wearing in this image?",
+        "AI": "<Eru> is wearing a white sailor-style school uniform with dark-colored collar and stripes."
+    },
+    "two_concept/concept/test/Eru/3.png": {
+        "Human": "What color are <Eru>'s eyes in this image?",
+        "AI": "<Eru> has purple eyes in this image."
+    },
+    "two_concept/concept/test/Eru/4.png": {
+        "Human": "What is <Eru> standing in front of in the image?",
+        "AI": "<Eru> is standing in front of a bookshelf."
+    }
+}

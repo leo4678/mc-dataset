@@ -1,0 +1,22 @@
+{
+    "three_concept/concept/test/Zor/0.png": {
+        "Human": "What is the color scheme of the roof of <Zor>? \n A. Red and yellow; \n B. Blue and white; \n C. Green and brown;",
+        "AI": "A"
+    },
+    "three_concept/concept/test/Zor/1.png": {
+        "Human": "What is the color pattern of the roof on <Zor>? \n A. Red and white stripes; \n B. Blue and white stripes; \n C. Green and yellow stripes;\n",
+        "AI": "A"
+    },
+    "three_concept/concept/test/Zor/2.png": {
+        "Human": "What is the color pattern of the roof of <Zor>? \n A. Solid red; \n B. Two-tone with orange and red; \n C. Blue and white;\n",
+        "AI": "B"
+    },
+    "three_concept/concept/test/Zor/3.png": {
+        "Human": "What is the color pattern of the roof of <Zor>? \n A. Red and yellow; \n B. Blue and white; \n C. Green and black;\n",
+        "AI": "A"
+    },
+    "three_concept/concept/test/Zor/4.png": {
+        "Human": "What is the color pattern of the roof of <Zor>? \n A. Red and yellow; \n B. Blue and white; \n C. Green and orange;",
+        "AI": "A"
+    }
+}

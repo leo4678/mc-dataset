@@ -1,0 +1,27 @@
+{
+    "0.jpg": {
+        "<Anya>": "left",
+        "<Loid>": "middle",
+        "<Yor>": "right"
+    },
+    "1.jpg": {
+        "<Anya>": "middle",
+        "<Loid>": "left",
+        "<Yor>": "right"
+    },
+    "2.jpg": {
+        "<Anya>": "middle",
+        "<Loid>": "left",
+        "<Yor>": "right"
+    },
+    "3.jpg": {
+        "<Anya>": "right",
+        "<Loid>": "middle",
+        "<Yor>": "left"
+    },
+    "4.jpg": {
+        "<Anya>": "middle",
+        "<Loid>": "right",
+        "<Yor>": "left"
+    }
+}

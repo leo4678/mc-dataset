@@ -1,0 +1,72 @@
+{
+    "two_concept/multi/Ezra_Kian/0.png": [
+        {
+            "Human": "What is the distinctive feature of <Ezra> in the image?",
+            "AI": "<Ezra> is an anime style cowboy hat decorated with prayer beads."
+        },
+        {
+            "Human": "What is the color of the beads on the <Kian> necklace?",
+            "AI": "The beads on the <Kian> necklace are red."
+        },
+        {
+            "Human": "What accessories are <Ezra> and <Kian> in the image?",
+            "AI": "<Ezra> is an anime style cowboy hat decorated with prayer beads, and <Kian> is an anime style necklace in the shape of beads."
+        }
+    ],
+    "two_concept/multi/Ezra_Kian/1.png": [
+        {
+            "Human": "What is the unique feature of <Ezra> in the image?",
+            "AI": "<Ezra> is a cowboy hat decorated with prayer beads, worn by an anime character."
+        },
+        {
+            "Human": "What is the color of the beads on the <Kian> necklace in the image?",
+            "AI": "The beads on the <Kian> necklace are red."
+        },
+        {
+            "Human": "What accessories is the character wearing in the image featuring <Ezra> and <Kian>?",
+            "AI": "The character is wearing <Ezra>, a cowboy hat decorated with prayer beads, and <Kian>, a necklace in the shape of beads."
+        }
+    ],
+    "two_concept/multi/Ezra_Kian/2.png": [
+        {
+            "Human": "What unique features does <Ezra> have in the image?",
+            "AI": "<Ezra> is an anime style cowboy hat decorated with prayer beads and has goggles with a unique design on the front."
+        },
+        {
+            "Human": "What is the color of the beads on the <Kian> necklace in the image?",
+            "AI": "The beads on the <Kian> necklace are red."
+        },
+        {
+            "Human": "What accessories are <Ezra> and <Kian> in the image?",
+            "AI": "<Ezra> is an anime style cowboy hat decorated with prayer beads, and <Kian> is an anime style necklace in the shape of beads."
+        }
+    ],
+    "two_concept/multi/Ezra_Kian/3.png": [
+        {
+            "Human": "What is the distinctive feature of <Ezra> in the image?",
+            "AI": "<Ezra> is an anime style cowboy hat decorated with prayer beads and has two blue smiley face emblems on the front."
+        },
+        {
+            "Human": "What is the color and style of the hat worn by the character with <Kian>?",
+            "AI": "The character wearing <Kian> has an orange cowboy-style hat with two blue smiley face emblems on it."
+        },
+        {
+            "Human": "What are the distinctive features of <Ezra> and <Kian> in the image?",
+            "AI": "<Ezra> is an anime style cowboy hat decorated with prayer beads and has two blue symbols on it, while <Kian> is an anime style necklace made of large red beads."
+        }
+    ],
+    "two_concept/multi/Ezra_Kian/4.png": [
+        {
+            "Human": "What is the distinctive feature of <Ezra> in the image?",
+            "AI": "<Ezra> is an anime style cowboy hat decorated with prayer beads and is surrounded by flames."
+        },
+        {
+            "Human": "What is the color of the beads on the <Kian> necklace in the image?",
+            "AI": "The beads on the <Kian> necklace are red."
+        },
+        {
+            "Human": "What is the relationship between <Ezra> and <Kian> in the image?",
+            "AI": "<Ezra> is a cowboy hat worn by the character, and <Kian> is a necklace around the character's neck, both contributing to the character's anime style appearance."
+        }
+    ]
+}

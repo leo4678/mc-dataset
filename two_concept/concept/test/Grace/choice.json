@@ -1,0 +1,22 @@
+{
+    "two_concept/concept/test/Grace/0.png": {
+        "Human": "What is <Grace> holding in her right hand?A. A handkerchief;B. A glass of wine;C. A book;",
+        "AI": "B"
+    },
+    "two_concept/concept/test/Grace/1.png": {
+        "Human": "What color is <Grace>'s hair?  A. Blonde; B. Black; C. Red;",
+        "AI": "A"
+    },
+    "two_concept/concept/test/Grace/2.png": {
+        "Human": "What color is the jacket that <Grace> is wearing?  A. Black; B. White; C. Red;",
+        "AI": "A"
+    },
+    "two_concept/concept/test/Grace/3.png": {
+        "Human": "What is <Grace> wearing on her head?  A. A hat; B. A headband; C. A scarf;",
+        "AI": "A"
+    },
+    "two_concept/concept/test/Grace/4.png": {
+        "Human": "What is <Grace> holding in the image?  A. A book; B. A gun;",
+        "AI": "B"
+    }
+}

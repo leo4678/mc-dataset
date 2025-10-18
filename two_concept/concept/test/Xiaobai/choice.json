@@ -1,0 +1,22 @@
+{
+    "two_concept/concept/test/Xiaobai/0.jpg": {
+        "Human": "What accessory is <Xiaobai> wearing in her hair?  A. A green hairpin with dangling ornaments; B. A red ribbon;",
+        "AI": "A"
+    },
+    "two_concept/concept/test/Xiaobai/1.jpg": {
+        "Human": "What color is <Xiaobai>'s outfit?  A. Blue; B. White; C. Red;",
+        "AI": "B"
+    },
+    "two_concept/concept/test/Xiaobai/2.jpg": {
+        "Human": "What accessory is <Xiaobai> wearing in her hair?  A. A green hairpin with dangling ornaments; B. A red ribbon; C. A golden crown;",
+        "AI": "A"
+    },
+    "two_concept/concept/test/Xiaobai/3.jpg": {
+        "Human": "What color is <Xiaobai>'s outfit?  A. White and blue; B. Red and black;",
+        "AI": "A"
+    },
+    "two_concept/concept/test/Xiaobai/4.jpg": {
+        "Human": "What color is <Xiaobai>'s cloak?  A. Blue; B. Red; C. Green;",
+        "AI": "A"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "two_concept/concept/test/Thor/0.jpg": {
+        "Human": "What color is the cape worn by <Thor>?  A. Red; B. Blue; C. Green;",
+        "AI": "A"
+    },
+    "two_concept/concept/test/Thor/1.png": {
+        "Human": "What type of clothing is <Thor> wearing in the image? \n A. A leather jacket; \n B. A fur-lined cloak; \n C. A metal armor; \n",
+        "AI": "B"
+    },
+    "two_concept/concept/test/Thor/2.jpg": {
+        "Human": "What color is <Thor>'s hair in the image? \n A. Black; \n B. Yellow; \n C. Brown;",
+        "AI": "B"
+    },
+    "two_concept/concept/test/Thor/3.jpg": {
+        "Human": "What type of clothing is <Thor> wearing in the image? \n A. A leather jacket; \n B. A formal suit; \n C. A hoodie;\n",
+        "AI": "A"
+    },
+    "two_concept/concept/test/Thor/4.jpg": {
+        "Human": "What is the color of <Thor>'s hair in the image? \n A. Black; \n B. Yellow; \n C. Brown;",
+        "AI": "B"
+    }
+}

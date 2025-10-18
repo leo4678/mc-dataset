@@ -1,0 +1,22 @@
+{
+    "three_concept/concept/test/haimianbaobao/0.png": {
+        "Human": "What is the background setting for <haimianbaobao>? A. A pineapple house; B. A sandy beach; C. A cityscape;",
+        "AI": "A"
+    },
+    "three_concept/concept/test/haimianbaobao/1.png": {
+        "Human": "What is <haimianbaobao> doing in the image? A. Smiling with hands on cheeks; B. Frowning with arms crossed; C. Sleeping on a table;",
+        "AI": "A"
+    },
+    "three_concept/concept/test/haimianbaobao/2.png": {
+        "Human": "What is <haimianbaobao> holding in his hand? A. A fishing rod; B. A net; C. A stick;",
+        "AI": "C"
+    },
+    "three_concept/concept/test/haimianbaobao/3.png": {
+        "Human": "What is <haimianbaobao> sitting on in the image? A. A cloud; B. A rock; C. A chair;",
+        "AI": "A"
+    },
+    "three_concept/concept/test/haimianbaobao/4.png": {
+        "Human": "What is <haimianbaobao> doing in the image? A. Dancing; B. Sleeping; C. Reading;",
+        "AI": "A"
+    }
+}

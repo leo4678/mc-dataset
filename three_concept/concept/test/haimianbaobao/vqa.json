@@ -1,0 +1,22 @@
+{
+    "three_concept/concept/test/haimianbaobao/0.png": {
+        "Human": "What is <haimianbaobao> doing in the image?",
+        "AI": "<haimianbaobao> is happily posing with a big smile and waving hands."
+    },
+    "three_concept/concept/test/haimianbaobao/1.png": {
+        "Human": "What is <haimianbaobao> doing with his hands in the image?",
+        "AI": "<haimianbaobao> is resting his chin on his hands in the image."
+    },
+    "three_concept/concept/test/haimianbaobao/2.png": {
+        "Human": "What is <haimianbaobao> holding in his hand?",
+        "AI": "<haimianbaobao> is holding a stick in his hand."
+    },
+    "three_concept/concept/test/haimianbaobao/3.png": {
+        "Human": "What is <haimianbaobao> holding in the image?",
+        "AI": "<haimianbaobao> is holding a paintbrush in the image."
+    },
+    "three_concept/concept/test/haimianbaobao/4.png": {
+        "Human": "What is <haimianbaobao> doing with his hand in the image?",
+        "AI": "<haimianbaobao> is pointing upwards with his hand in the image."
+    }
+}

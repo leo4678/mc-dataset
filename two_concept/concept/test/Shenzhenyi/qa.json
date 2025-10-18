@@ -1,0 +1,22 @@
+[
+    {
+        "question": "What color is <Shenzhenyi>'s hair? A.Black. B.Blue",
+        "answer": "B"
+    },
+    {
+        "question": "What type of clothing does <Shenzhenyi> wear? A.Armor. B.Robes",
+        "answer": "B"
+    },
+    {
+        "question": "Does <Shenzhenyi> have long or short hair? A.Long. B.Short",
+        "answer": "A"
+    },
+    {
+        "question": "What is the primary color of <Shenzhenyi>'s outfit? A.Red. B.Blue",
+        "answer": "B"
+    },
+    {
+        "question": "Is <Shenzhenyi> sitting or standing in most scenes? A.Sitting. B.Standing",
+        "answer": "A"
+    }
+]

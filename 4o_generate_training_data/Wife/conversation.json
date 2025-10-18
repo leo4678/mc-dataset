@@ -1,0 +1,422 @@
+{
+    "two_concept/concept/train/Wife/0.png": [
+        {
+            "Question": "What is <Wife> hair color?",
+            "Answer": "<Wife>'s hair color is black."
+        },
+        {
+            "Question": "What color are <Wife> eyes?",
+            "Answer": "I cannot determine the color of <Wife>'s eyes from the image."
+        },
+        {
+            "Question": "Would you describe <Wife>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<Wife>'s physique can be described as slim."
+        },
+        {
+            "Question": "What is <Wife> skin tone?",
+            "Answer": "<Wife>'s skin tone is light."
+        },
+        {
+            "Question": "How would you describe <Wife> hairstyle?",
+            "Answer": "<Wife>'s hairstyle is a neat, low bun with a side part."
+        },
+        {
+            "Question": "Does <Wife> wear glasses or any accessories?",
+            "Answer": "<Wife> does not wear glasses or any accessories."
+        },
+        {
+            "Question": "How would you describe <Wife>'s attire?",
+            "Answer": "<Wife> is wearing a white, high-collared blouse with a subtle pattern, paired with a purple cardigan."
+        },
+        {
+            "Question": "Does <Wife> have any distinctive facial features?",
+            "Answer": "I cannot determine any distinctive facial features of <Wife> from the image provided."
+        },
+        {
+            "Question": "What is <Wife> overall build or physique?",
+            "Answer": "<Wife> has a slender build."
+        },
+        {
+            "Question": "What is <Wife> general expression or demeanor?",
+            "Answer": "<Wife>'s general expression or demeanor appears calm and composed."
+        }
+    ],
+    "two_concept/concept/train/Wife/1.png": [
+        {
+            "Question": "What is <Wife> hair color?",
+            "Answer": "<Wife>'s hair color is brown."
+        },
+        {
+            "Question": "What color are <Wife> eyes?",
+            "Answer": "The color of <Wife>'s eyes cannot be determined from the image."
+        },
+        {
+            "Question": "Would you describe <Wife>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<Wife>'s physique can be described as slim."
+        },
+        {
+            "Question": "What is <Wife> skin tone?",
+            "Answer": "<Wife>'s skin tone is light."
+        },
+        {
+            "Question": "How would you describe <Wife> hairstyle?",
+            "Answer": "<Wife>'s hairstyle is long and tied back in a low ponytail."
+        },
+        {
+            "Question": "Does <Wife> wear glasses or any accessories?",
+            "Answer": "<Wife> is not wearing glasses or any accessories."
+        },
+        {
+            "Question": "How would you describe <Wife>'s attire?",
+            "Answer": "<Wife> is wearing a light-colored, long-sleeved, high-collared blouse with vertical stripes."
+        },
+        {
+            "Question": "Does <Wife> have any distinctive facial features?",
+            "Answer": "I cannot determine any distinctive facial features of <Wife> from the image."
+        },
+        {
+            "Question": "What is <Wife> overall build or physique?",
+            "Answer": "<Wife> has a slender build."
+        },
+        {
+            "Question": "What is <Wife> general expression or demeanor?",
+            "Answer": "<Wife>'s general expression or demeanor appears to be calm and composed."
+        }
+    ],
+    "two_concept/concept/train/Wife/2.png": [
+        {
+            "Question": "What is <Wife> hair color?",
+            "Answer": "<Wife>'s hair color is black."
+        },
+        {
+            "Question": "What color are <Wife> eyes?",
+            "Answer": "I cannot determine the color of <Wife>'s eyes from the image."
+        },
+        {
+            "Question": "Would you describe <Wife>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<Wife>'s physique appears to be slim."
+        },
+        {
+            "Question": "What is <Wife> skin tone?",
+            "Answer": "<Wife>'s skin tone is light."
+        },
+        {
+            "Question": "How would you describe <Wife> hairstyle?",
+            "Answer": "<Wife>'s hairstyle is short and neatly combed with a side part."
+        },
+        {
+            "Question": "Does <Wife> wear glasses or any accessories?",
+            "Answer": "<Wife> is wearing a brooch on her cardigan. She is not wearing glasses."
+        },
+        {
+            "Question": "How would you describe <Wife>'s attire?",
+            "Answer": "<Wife> is wearing a black cardigan adorned with decorative brooches over a light-colored, patterned blouse."
+        },
+        {
+            "Question": "Does <Wife> have any distinctive facial features?",
+            "Answer": "<Wife> has no visible distinctive facial features."
+        },
+        {
+            "Question": "What is <Wife> overall build or physique?",
+            "Answer": "<Wife> has a slender build."
+        },
+        {
+            "Question": "What is <Wife> general expression or demeanor?",
+            "Answer": "<Wife>'s general expression or demeanor appears to be calm and composed."
+        }
+    ],
+    "two_concept/concept/train/Wife/3.png": [
+        {
+            "Question": "What is <Wife> hair color?",
+            "Answer": "<Wife>'s hair color is black."
+        },
+        {
+            "Question": "What color are <Wife> eyes?",
+            "Answer": "<Wife>'s eyes are not visible in the image."
+        },
+        {
+            "Question": "Would you describe <Wife>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<Wife>'s physique can be described as slim."
+        },
+        {
+            "Question": "What is <Wife> skin tone?",
+            "Answer": "<Wife>'s skin tone is light."
+        },
+        {
+            "Question": "How would you describe <Wife> hairstyle?",
+            "Answer": "<Wife>'s hairstyle is neatly combed back and secured in a low bun."
+        },
+        {
+            "Question": "Does <Wife> wear glasses or any accessories?",
+            "Answer": "<Wife> does not wear glasses or any accessories."
+        },
+        {
+            "Question": "How would you describe <Wife>'s attire?",
+            "Answer": "<Wife> is wearing a white high-collared blouse under a dark purple cardigan."
+        },
+        {
+            "Question": "Does <Wife> have any distinctive facial features?",
+            "Answer": "I cannot determine any distinctive facial features of <Wife> from the image."
+        },
+        {
+            "Question": "What is <Wife> overall build or physique?",
+            "Answer": "<Wife> has a slender build."
+        },
+        {
+            "Question": "What is <Wife> general expression or demeanor?",
+            "Answer": "<Wife>'s general expression or demeanor appears to be calm and attentive."
+        }
+    ],
+    "two_concept/concept/train/Wife/4.png": [
+        {
+            "Question": "What is <Wife> hair color?",
+            "Answer": "<Wife>'s hair color is dark brown."
+        },
+        {
+            "Question": "What color are <Wife> eyes?",
+            "Answer": "The color of <Wife>'s eyes cannot be determined from the image."
+        },
+        {
+            "Question": "Would you describe <Wife>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<Wife>'s physique can be described as slim."
+        },
+        {
+            "Question": "What is <Wife> skin tone?",
+            "Answer": "<Wife>'s skin tone is light."
+        },
+        {
+            "Question": "How would you describe <Wife> hairstyle?",
+            "Answer": "<Wife>'s hairstyle is medium-length and straight."
+        },
+        {
+            "Question": "Does <Wife> wear glasses or any accessories?",
+            "Answer": "<Wife> does not wear glasses or any accessories."
+        },
+        {
+            "Question": "How would you describe <Wife>'s attire?",
+            "Answer": "<Wife> is wearing a light-colored, button-up cardigan over a plaid shirt."
+        },
+        {
+            "Question": "Does <Wife> have any distinctive facial features?",
+            "Answer": "I cannot determine any distinctive facial features for <Wife> based on the provided image."
+        },
+        {
+            "Question": "What is <Wife> overall build or physique?",
+            "Answer": "<Wife> has a medium build and is wearing a thick, buttoned cardigan over a plaid shirt."
+        },
+        {
+            "Question": "What is <Wife> general expression or demeanor?",
+            "Answer": "<Wife>'s general expression or demeanor appears calm and composed."
+        }
+    ],
+    "two_concept/concept/train/Wife/5.png": [
+        {
+            "Question": "What is <Wife> hair color?",
+            "Answer": "<Wife>'s hair color is black."
+        },
+        {
+            "Question": "What color are <Wife> eyes?",
+            "Answer": "I cannot determine the color of <Wife>'s eyes from the image."
+        },
+        {
+            "Question": "Would you describe <Wife>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<Wife>'s physique can be described as slim."
+        },
+        {
+            "Question": "What is <Wife> skin tone?",
+            "Answer": "<Wife>'s skin tone is medium."
+        },
+        {
+            "Question": "How would you describe <Wife> hairstyle?",
+            "Answer": "<Wife>'s hairstyle is short and neatly combed back."
+        },
+        {
+            "Question": "Does <Wife> wear glasses or any accessories?",
+            "Answer": "<Wife> does not wear glasses or any accessories."
+        },
+        {
+            "Question": "How would you describe <Wife>'s attire?",
+            "Answer": "<Wife> is wearing a pink collared shirt under a gray sweater."
+        },
+        {
+            "Question": "Does <Wife> have any distinctive facial features?",
+            "Answer": "I cannot determine any distinctive facial features of <Wife> from the image provided."
+        },
+        {
+            "Question": "What is <Wife> overall build or physique?",
+            "Answer": "<Wife> has a slender build."
+        },
+        {
+            "Question": "What is <Wife> general expression or demeanor?",
+            "Answer": "<Wife>'s general expression or demeanor appears to be calm and composed."
+        }
+    ],
+    "two_concept/concept/train/Wife/6.png": [
+        {
+            "Question": "What is <Wife> hair color?",
+            "Answer": "<Wife>'s hair color is dark brown."
+        },
+        {
+            "Question": "What color are <Wife> eyes?",
+            "Answer": "<Wife>'s eyes are not visible in the image."
+        },
+        {
+            "Question": "Would you describe <Wife>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<Wife>'s physique can be described as slim."
+        },
+        {
+            "Question": "What is <Wife> skin tone?",
+            "Answer": "<Wife>'s skin tone is light."
+        },
+        {
+            "Question": "How would you describe <Wife> hairstyle?",
+            "Answer": "<Wife>'s hairstyle is short and neatly combed back."
+        },
+        {
+            "Question": "Does <Wife> wear glasses or any accessories?",
+            "Answer": "<Wife> does not wear glasses or any accessories."
+        },
+        {
+            "Question": "How would you describe <Wife>'s attire?",
+            "Answer": "<Wife> is wearing a traditional, light-colored, long-sleeved blouse with a high collar and subtle vertical stripes."
+        },
+        {
+            "Question": "Does <Wife> have any distinctive facial features?",
+            "Answer": "No, <Wife> does not have any distinctive facial features."
+        },
+        {
+            "Question": "What is <Wife> overall build or physique?",
+            "Answer": "<Wife> has a slender build."
+        },
+        {
+            "Question": "What is <Wife> general expression or demeanor?",
+            "Answer": "<Wife>'s general expression or demeanor appears calm and composed."
+        }
+    ],
+    "two_concept/concept/train/Wife/7.png": [
+        {
+            "Question": "What is <Wife> hair color?",
+            "Answer": "<Wife>'s hair color is brown."
+        },
+        {
+            "Question": "What color are <Wife> eyes?",
+            "Answer": "The eye color of <Wife> cannot be determined from the image."
+        },
+        {
+            "Question": "Would you describe <Wife>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<Wife>'s physique appears to be slim."
+        },
+        {
+            "Question": "What is <Wife> skin tone?",
+            "Answer": "<Wife>'s skin tone is light."
+        },
+        {
+            "Question": "How would you describe <Wife> hairstyle?",
+            "Answer": "<Wife>'s hairstyle is medium-length with soft waves."
+        },
+        {
+            "Question": "Does <Wife> wear glasses or any accessories?",
+            "Answer": "<Wife> does not wear glasses or any accessories."
+        },
+        {
+            "Question": "How would you describe <Wife>'s attire?",
+            "Answer": "<Wife> is wearing a traditional outfit with a high collar and intricate embroidery. The top is light purple with lace details and is complemented by a white outer garment."
+        },
+        {
+            "Question": "Does <Wife> have any distinctive facial features?",
+            "Answer": "I cannot determine any distinctive facial features of <Wife> from the image provided."
+        },
+        {
+            "Question": "What is <Wife> overall build or physique?",
+            "Answer": "<Wife> has a slender build."
+        },
+        {
+            "Question": "What is <Wife> general expression or demeanor?",
+            "Answer": "<Wife>'s general expression or demeanor appears to be calm and composed."
+        }
+    ],
+    "two_concept/concept/train/Wife/8.png": [
+        {
+            "Question": "What is <Wife> hair color?",
+            "Answer": "<Wife>'s hair color is black."
+        },
+        {
+            "Question": "What color are <Wife> eyes?",
+            "Answer": "The color of <Wife>'s eyes cannot be determined from the image."
+        },
+        {
+            "Question": "Would you describe <Wife>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<Wife>'s physique can be described as slim."
+        },
+        {
+            "Question": "What is <Wife> skin tone?",
+            "Answer": "<Wife>'s skin tone is light."
+        },
+        {
+            "Question": "How would you describe <Wife> hairstyle?",
+            "Answer": "<Wife>'s hairstyle is an elegant updo, with the hair neatly pulled back and styled at the back of the head."
+        },
+        {
+            "Question": "Does <Wife> wear glasses or any accessories?",
+            "Answer": "<Wife> is not wearing glasses or any accessories."
+        },
+        {
+            "Question": "How would you describe <Wife>'s attire?",
+            "Answer": "<Wife> is wearing a floral-patterned dress with a light-colored cardigan over it."
+        },
+        {
+            "Question": "Does <Wife> have any distinctive facial features?",
+            "Answer": "I cannot determine any distinctive facial features of <Wife> from the image."
+        },
+        {
+            "Question": "What is <Wife> overall build or physique?",
+            "Answer": "<Wife> has a slender build."
+        },
+        {
+            "Question": "What is <Wife> general expression or demeanor?",
+            "Answer": "<Wife>'s general expression or demeanor appears to be calm and composed."
+        }
+    ],
+    "two_concept/concept/train/Wife/9.png": [
+        {
+            "Question": "What is <Wife> hair color?",
+            "Answer": "<Wife>'s hair color is black."
+        },
+        {
+            "Question": "What color are <Wife> eyes?",
+            "Answer": "The color of <Wife>'s eyes cannot be determined from the image."
+        },
+        {
+            "Question": "Would you describe <Wife>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<Wife>'s physique appears to be slim."
+        },
+        {
+            "Question": "What is <Wife> skin tone?",
+            "Answer": "<Wife>'s skin tone appears to be light."
+        },
+        {
+            "Question": "How would you describe <Wife> hairstyle?",
+            "Answer": "<Wife>'s hairstyle is long and straight."
+        },
+        {
+            "Question": "Does <Wife> wear glasses or any accessories?",
+            "Answer": "<Wife> is not wearing glasses or any accessories."
+        },
+        {
+            "Question": "How would you describe <Wife>'s attire?",
+            "Answer": "<Wife> is wearing a traditional, light-colored garment with a high collar and a decorative knot on the front."
+        },
+        {
+            "Question": "Does <Wife> have any distinctive facial features?",
+            "Answer": "<Wife> does not have any visible distinctive facial features in the image."
+        },
+        {
+            "Question": "What is <Wife> overall build or physique?",
+            "Answer": "<Wife> has a slender build."
+        },
+        {
+            "Question": "What is <Wife> general expression or demeanor?",
+            "Answer": "<Wife>'s general expression or demeanor appears to be calm and composed."
+        }
+    ]
+}

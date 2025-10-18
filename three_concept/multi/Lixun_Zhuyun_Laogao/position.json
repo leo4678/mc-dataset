@@ -1,0 +1,27 @@
+{
+    "0.png": {
+        "<Lixun>": "right",
+        "<Zhuyun>": "middle",
+        "<Laogao>": "left"
+    },
+    "1.png": {
+        "<Lixun>": "middle",
+        "<Zhuyun>": "left",
+        "<Laogao>": "right"
+    },
+    "2.png": {
+        "<Lixun>": "middle",
+        "<Zhuyun>": "left",
+        "<Laogao>": "right"
+    },
+    "3.png": {
+        "<Lixun>": "right",
+        "<Zhuyun>": "middle",
+        "<Laogao>": "left"
+    },
+    "4.png": {
+        "<Lixun>": "middle",
+        "<Zhuyun>": "right",
+        "<Laogao>": "left"
+    }
+}

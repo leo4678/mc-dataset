@@ -1,0 +1,22 @@
+{
+    "three_concept/concept/test/meijia/0.png": {
+        "Human": "What type of clothing is <meijia> wearing in the image?",
+        "AI": "<meijia> is wearing a white lace top with intricate patterns."
+    },
+    "three_concept/concept/test/meijia/1.png": {
+        "Human": "What is <meijia> holding in the image?",
+        "AI": "<meijia> is holding two hand puppets, one green and one pink."
+    },
+    "three_concept/concept/test/meijia/2.png": {
+        "Human": "What type of dress is <meijia> wearing in the image?",
+        "AI": "<meijia> is wearing a sleeveless dress with floral embellishments."
+    },
+    "three_concept/concept/test/meijia/3.png": {
+        "Human": "What type of dress is <meijia> wearing?",
+        "AI": "<meijia> is wearing a floral dress with ruffled sleeves."
+    },
+    "three_concept/concept/test/meijia/4.png": {
+        "Human": "What is <meijia> wearing in the image?",
+        "AI": "<meijia> is wearing a pink polka dot top."
+    }
+}

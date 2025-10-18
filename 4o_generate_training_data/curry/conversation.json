@@ -1,0 +1,382 @@
+{
+    "two_concept/concept/train/curry/0.jpg": [
+        {
+            "Question": "What is <curry> hair color?",
+            "Answer": "<curry>'s hair color is black."
+        },
+        {
+            "Question": "Would you describe <curry>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<curry>'s physique is athletic."
+        },
+        {
+            "Question": "What is <curry> skin tone?",
+            "Answer": "<curry>'s skin tone is light brown."
+        },
+        {
+            "Question": "How would you describe <curry> hairstyle?",
+            "Answer": "<curry>'s hairstyle is short and closely cropped."
+        },
+        {
+            "Question": "Does <curry> wear glasses or any accessories?",
+            "Answer": "<curry> is not wearing glasses or any accessories."
+        },
+        {
+            "Question": "How would you describe <curry>'s attire?",
+            "Answer": "<curry> is wearing a Golden State Warriors basketball jersey with the number 30 on it. The jersey is predominantly white with blue and yellow accents, and it features the Rakuten logo on the upper right side."
+        },
+        {
+            "Question": "Does <curry> have any distinctive facial features?",
+            "Answer": "<curry> has a well-groomed beard and short, closely-cropped hair."
+        },
+        {
+            "Question": "What is <curry> overall build or physique?",
+            "Answer": "<curry> has an athletic and muscular build."
+        },
+        {
+            "Question": "What is <curry> general expression or demeanor?",
+            "Answer": "<curry> has a focused and determined demeanor, as indicated by his posture and the intensity of his presence on the court."
+        }
+    ],
+    "two_concept/concept/train/curry/1.jpg": [
+        {
+            "Question": "What is <curry> hair color?",
+            "Answer": "<curry>'s hair color is black."
+        },
+        {
+            "Question": "What color are <curry> eyes?",
+            "Answer": "I cannot determine the color of <curry>'s eyes from the image."
+        },
+        {
+            "Question": "Would you describe <curry>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<curry>'s physique can be described as athletic."
+        },
+        {
+            "Question": "What is <curry> skin tone?",
+            "Answer": "<curry>'s skin tone is medium brown."
+        },
+        {
+            "Question": "How would you describe <curry> hairstyle?",
+            "Answer": "<curry>'s hairstyle is short and curly."
+        },
+        {
+            "Question": "Does <curry> wear glasses or any accessories?",
+            "Answer": "<curry> is not wearing glasses or any accessories."
+        },
+        {
+            "Question": "How would you describe <curry>'s attire?",
+            "Answer": "<curry> is wearing a blue suit with a white dress shirt and a black tie."
+        },
+        {
+            "Question": "Does <curry> have any distinctive facial features?",
+            "Answer": "<curry> has a distinctive beard."
+        },
+        {
+            "Question": "What is <curry> overall build or physique?",
+            "Answer": "<curry> has an athletic build."
+        },
+        {
+            "Question": "What is <curry> general expression or demeanor?",
+            "Answer": "<curry>'s general expression or demeanor appears formal and professional."
+        }
+    ],
+    "two_concept/concept/train/curry/2.jpg": [
+        {
+            "Question": "What is <curry> hair color?",
+            "Answer": "<curry>'s hair color is black."
+        },
+        {
+            "Question": "Would you describe <curry>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<curry>'s physique is athletic."
+        },
+        {
+            "Question": "What is <curry> skin tone?",
+            "Answer": "<curry> has a light to medium skin tone."
+        },
+        {
+            "Question": "How would you describe <curry> hairstyle?",
+            "Answer": "<curry> has short, neatly trimmed hair."
+        },
+        {
+            "Question": "Does <curry> wear glasses or any accessories?",
+            "Answer": "<curry> is not wearing glasses or any accessories."
+        },
+        {
+            "Question": "How would you describe <curry>'s attire?",
+            "Answer": "<curry> is wearing a Golden State Warriors basketball uniform, which includes a white jersey with blue and yellow accents, and the number 30 on it. He is also wearing white shorts with similar blue and yellow accents. Additionally, he has a white leg sleeve on his right leg and is wearing colorful basketball shoes with a mix of purple, orange, and white."
+        },
+        {
+            "Question": "What is <curry> overall build or physique?",
+            "Answer": "<curry> has an athletic and muscular build, typical of a professional basketball player."
+        },
+        {
+            "Question": "What is <curry> general expression or demeanor?",
+            "Answer": "<curry>'s general expression or demeanor appears focused and determined as he dribbles the basketball."
+        }
+    ],
+    "two_concept/concept/train/curry/3.jpg": [
+        {
+            "Question": "What is <curry> hair color?",
+            "Answer": "<curry>'s hair color is black."
+        },
+        {
+            "Question": "What color are <curry> eyes?",
+            "Answer": "I cannot determine the color of <curry>'s eyes from the image."
+        },
+        {
+            "Question": "Would you describe <curry>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<curry>'s physique is athletic."
+        },
+        {
+            "Question": "What is <curry> skin tone?",
+            "Answer": "<curry>'s skin tone is light brown."
+        },
+        {
+            "Question": "How would you describe <curry> hairstyle?",
+            "Answer": "<curry>'s hairstyle is short and neatly trimmed."
+        },
+        {
+            "Question": "Does <curry> wear glasses or any accessories?",
+            "Answer": "<curry> is wearing a wristband on his left wrist. He is not wearing glasses."
+        },
+        {
+            "Question": "How would you describe <curry>'s attire?",
+            "Answer": "<curry> is wearing a blue Golden State Warriors basketball jersey with yellow accents and the number 30 on it."
+        },
+        {
+            "Question": "What is <curry> overall build or physique?",
+            "Answer": "<curry> has an athletic build with a lean and muscular physique."
+        },
+        {
+            "Question": "What is <curry> general expression or demeanor?",
+            "Answer": "<curry> has a focused and attentive demeanor, with his hands positioned as if he is communicating or signaling during the game."
+        }
+    ],
+    "two_concept/concept/train/curry/4.jpg": [
+        {
+            "Question": "What is <curry> hair color?",
+            "Answer": "<curry>'s hair color is black."
+        },
+        {
+            "Question": "Would you describe <curry>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<curry>'s physique is athletic."
+        },
+        {
+            "Question": "What is <curry> skin tone?",
+            "Answer": "<curry>'s skin tone is medium."
+        },
+        {
+            "Question": "How would you describe <curry> hairstyle?",
+            "Answer": "<curry>'s hairstyle is short and curly."
+        },
+        {
+            "Question": "Does <curry> wear glasses or any accessories?",
+            "Answer": "<curry> is not wearing glasses or any accessories."
+        },
+        {
+            "Question": "How would you describe <curry>'s attire?",
+            "Answer": "<curry> is wearing a sleeveless athletic jersey with a dark color and white trim, featuring an American flag patch on the chest."
+        },
+        {
+            "Question": "What is <curry> overall build or physique?",
+            "Answer": "<curry> has a muscular and athletic build."
+        },
+        {
+            "Question": "What is <curry> general expression or demeanor?",
+            "Answer": "<curry>'s general expression or demeanor appears to be one of frustration or disappointment, as indicated by the way they are holding their hands to their face."
+        }
+    ],
+    "two_concept/concept/train/curry/5.jpg": [
+        {
+            "Question": "What is <curry> hair color?",
+            "Answer": "<curry>'s hair color is black."
+        },
+        {
+            "Question": "Would you describe <curry>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<curry>'s physique is athletic."
+        },
+        {
+            "Question": "What is <curry> skin tone?",
+            "Answer": "<curry>'s skin tone is light brown."
+        },
+        {
+            "Question": "How would you describe <curry> hairstyle?",
+            "Answer": "<curry>'s hairstyle is short and closely cropped."
+        },
+        {
+            "Question": "Does <curry> wear glasses or any accessories?",
+            "Answer": "<curry> is wearing a blue wristband on his right wrist. He is not wearing glasses."
+        },
+        {
+            "Question": "How would you describe <curry>'s attire?",
+            "Answer": "<curry> is wearing a black basketball jersey with yellow and blue accents, featuring the number 30 and a logo of a bridge."
+        },
+        {
+            "Question": "Does <curry> have any distinctive facial features?",
+            "Answer": "I cannot determine <curry>'s facial features from the image provided."
+        },
+        {
+            "Question": "What is <curry> overall build or physique?",
+            "Answer": "<curry> has a lean and muscular build."
+        },
+        {
+            "Question": "What is <curry> general expression or demeanor?",
+            "Answer": "<curry>'s general expression or demeanor appears to be celebratory and triumphant, with arms raised in a victorious gesture."
+        }
+    ],
+    "two_concept/concept/train/curry/6.jpg": [
+        {
+            "Question": "What is <curry> hair color?",
+            "Answer": "<curry>'s hair color is dark brown."
+        },
+        {
+            "Question": "What color are <curry> eyes?",
+            "Answer": "I cannot determine the color of <curry>'s eyes from the image."
+        },
+        {
+            "Question": "Would you describe <curry>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<curry>'s physique is athletic."
+        },
+        {
+            "Question": "What is <curry> skin tone?",
+            "Answer": "<curry> has a light to medium skin tone."
+        },
+        {
+            "Question": "How would you describe <curry> hairstyle?",
+            "Answer": "<curry>'s hairstyle is short and closely cropped."
+        },
+        {
+            "Question": "Does <curry> wear glasses or any accessories?",
+            "Answer": "<curry> is not wearing glasses or any accessories."
+        },
+        {
+            "Question": "How would you describe <curry>'s attire?",
+            "Answer": "<curry> is wearing a navy blue basketball uniform with \"USA\" and the number 4 on the front. The uniform has white and red accents."
+        },
+        {
+            "Question": "What is <curry> overall build or physique?",
+            "Answer": "<curry> has an athletic and muscular build, typical of a professional basketball player."
+        },
+        {
+            "Question": "What is <curry> general expression or demeanor?",
+            "Answer": "<curry>'s general expression or demeanor appears to be one of frustration or disappointment, as indicated by his hands covering his face."
+        }
+    ],
+    "two_concept/concept/train/curry/7.jpg": [
+        {
+            "Question": "What is <curry> hair color?",
+            "Answer": "<curry>'s hair color is black."
+        },
+        {
+            "Question": "What color are <curry> eyes?",
+            "Answer": "I cannot determine the color of <curry>'s eyes from the image provided."
+        },
+        {
+            "Question": "Would you describe <curry>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<curry>'s physique is athletic."
+        },
+        {
+            "Question": "What is <curry> skin tone?",
+            "Answer": "<curry>'s skin tone is light brown."
+        },
+        {
+            "Question": "How would you describe <curry> hairstyle?",
+            "Answer": "<curry> has short, closely-cropped hair."
+        },
+        {
+            "Question": "Does <curry> wear glasses or any accessories?",
+            "Answer": "<curry> is not wearing glasses or any accessories."
+        },
+        {
+            "Question": "How would you describe <curry>'s attire?",
+            "Answer": "<curry> is wearing a Golden State Warriors basketball jersey with the number 30 on it. The jersey is blue with yellow accents and features the team's logo. He is also wearing a white undershirt with long sleeves."
+        },
+        {
+            "Question": "Does <curry> have any distinctive facial features?",
+            "Answer": "<curry> has a distinctive beard."
+        },
+        {
+            "Question": "What is <curry> overall build or physique?",
+            "Answer": "<curry> has an athletic build with a lean and muscular physique."
+        },
+        {
+            "Question": "What is <curry> general expression or demeanor?",
+            "Answer": "<curry>'s general expression or demeanor appears focused and determined."
+        }
+    ],
+    "two_concept/concept/train/curry/8.jpg": [
+        {
+            "Question": "What is <curry> hair color?",
+            "Answer": "<curry>'s hair color is black."
+        },
+        {
+            "Question": "What color are <curry> eyes?",
+            "Answer": "I cannot determine the color of <curry>'s eyes from the image."
+        },
+        {
+            "Question": "Would you describe <curry>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<curry>'s physique can be described as athletic."
+        },
+        {
+            "Question": "What is <curry> skin tone?",
+            "Answer": "<curry>'s skin tone is medium."
+        },
+        {
+            "Question": "How would you describe <curry> hairstyle?",
+            "Answer": "<curry>'s hairstyle is short and closely cropped."
+        },
+        {
+            "Question": "Does <curry> wear glasses or any accessories?",
+            "Answer": "<curry> is wearing a cap and a wristband."
+        },
+        {
+            "Question": "How would you describe <curry>'s attire?",
+            "Answer": "<curry> is wearing a black t-shirt with \"2021-2022 CHAMPS\" and a basketball graphic on it, along with a white and blue cap that has \"NBA\" and \"21-22\" written on it."
+        },
+        {
+            "Question": "What is <curry> overall build or physique?",
+            "Answer": "<curry> has an athletic build."
+        },
+        {
+            "Question": "What is <curry> general expression or demeanor?",
+            "Answer": "<curry>'s general expression or demeanor appears celebratory and triumphant, as he is holding a trophy and making a gesture with his hand."
+        }
+    ],
+    "two_concept/concept/train/curry/9.jpg": [
+        {
+            "Question": "What is <curry> hair color?",
+            "Answer": "<curry>'s hair color is black."
+        },
+        {
+            "Question": "What color are <curry> eyes?",
+            "Answer": "I cannot determine the color of <curry>'s eyes from the image."
+        },
+        {
+            "Question": "Would you describe <curry>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<curry>'s physique is athletic."
+        },
+        {
+            "Question": "What is <curry> skin tone?",
+            "Answer": "<curry>'s skin tone is medium brown."
+        },
+        {
+            "Question": "How would you describe <curry> hairstyle?",
+            "Answer": "<curry>'s hairstyle is short and curly."
+        },
+        {
+            "Question": "Does <curry> wear glasses or any accessories?",
+            "Answer": "<curry> is wearing a blue wristband on his left wrist. He is not wearing glasses."
+        },
+        {
+            "Question": "How would you describe <curry>'s attire?",
+            "Answer": "<curry> is wearing a blue Golden State Warriors basketball jersey with yellow accents, featuring the team's logo and the Nike and Rakuten logos. He is also wearing matching blue basketball shorts with white and yellow stripes."
+        },
+        {
+            "Question": "What is <curry> overall build or physique?",
+            "Answer": "<curry> has a muscular and athletic build."
+        },
+        {
+            "Question": "What is <curry> general expression or demeanor?",
+            "Answer": "<curry>'s general expression or demeanor appears focused and determined, as indicated by his body language and the way he is clapping his hands."
+        }
+    ]
+}

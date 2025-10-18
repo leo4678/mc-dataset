@@ -1,0 +1,22 @@
+{
+    "two_concept/concept/test/meidui/0.png": {
+        "Human": "What is the emblem on <meidui>'s chest in the image?",
+        "AI": "The emblem on <meidui>'s chest is a large white star."
+    },
+    "two_concept/concept/test/meidui/1.png": {
+        "Human": "What is <meidui> holding in the image?",
+        "AI": "<meidui> is holding a shield in the image."
+    },
+    "two_concept/concept/test/meidui/2.png": {
+        "Human": "What is the distinctive feature of <meidui>'s costume in the image?",
+        "AI": "<meidui>'s costume features a prominent star emblem on the chest, which is a signature element of Captain America's outfit."
+    },
+    "two_concept/concept/test/meidui/3.png": {
+        "Human": "What is the distinctive feature of <meidui>'s costume in the image?",
+        "AI": "<meidui>'s costume features a prominent silver star on the chest, which is a distinctive element of Captain America's outfit."
+    },
+    "two_concept/concept/test/meidui/4.png": {
+        "Human": "What type of outfit is <meidui> wearing in the image?",
+        "AI": "<meidui> is wearing a dark, tactical suit with a harness, typical of Captain America's costume."
+    }
+}

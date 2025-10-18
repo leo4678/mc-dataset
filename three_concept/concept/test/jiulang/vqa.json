@@ -1,0 +1,22 @@
+{
+    "three_concept/concept/test/jiulang/0.png": {
+        "Human": "What type of headgear is <jiulang> wearing in the image?",
+        "AI": "<jiulang> is wearing a black hood with a metal forehead protector."
+    },
+    "three_concept/concept/test/jiulang/1.png": {
+        "Human": "What is the color of <jiulang>'s outfit in the image?",
+        "AI": "<jiulang> is wearing a black outfit in the image."
+    },
+    "three_concept/concept/test/jiulang/2.png": {
+        "Human": "What is <jiulang> doing with their hand in the image?",
+        "AI": "<jiulang> is making a hand sign, which is a common gesture used by ninjas in anime to perform techniques or communicate."
+    },
+    "three_concept/concept/test/jiulang/3.png": {
+        "Human": "What is the color of <jiulang>'s outfit in the image?",
+        "AI": "<jiulang> is wearing a black outfit."
+    },
+    "three_concept/concept/test/jiulang/4.png": {
+        "Human": "What is the expression on <jiulang>'s face in the image?",
+        "AI": "<jiulang> has an intense and determined expression on his face, with his teeth clenched and eyes focused."
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "two_concept/concept/test/xiaoxiong/0.png": {
+        "Human": "What is <xiaoxiong> holding in the image?",
+        "AI": "<xiaoxiong> is holding a pot of honey."
+    },
+    "two_concept/concept/test/xiaoxiong/1.png": {
+        "Human": "What is <xiaoxiong> doing in the image?",
+        "AI": "<xiaoxiong> is hanging from a tree branch while a butterfly is on their nose."
+    },
+    "two_concept/concept/test/xiaoxiong/2.png": {
+        "Human": "What color is the shirt that <xiaoxiong> is wearing?",
+        "AI": "<xiaoxiong> is wearing a red shirt."
+    },
+    "two_concept/concept/test/xiaoxiong/3.png": {
+        "Human": "What color is the shirt that <xiaoxiong> is wearing?",
+        "AI": "<xiaoxiong> is wearing a red shirt."
+    },
+    "two_concept/concept/test/xiaoxiong/4.png": {
+        "Human": "What is <xiaoxiong> riding in the image?",
+        "AI": "<xiaoxiong> is riding a toy train in the image."
+    }
+}

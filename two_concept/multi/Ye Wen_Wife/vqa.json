@@ -1,0 +1,72 @@
+{
+    "two_concept/multi/Ye Wen_Wife/0.png": [
+        {
+            "Human": "What is <Ye Wen> holding in the image?",
+            "AI": "<Ye Wen> is holding a piece of cloth."
+        },
+        {
+            "Human": "What is <Wife> wearing in the image?",
+            "AI": "<Wife> is wearing a beige coat over a dark outfit."
+        },
+        {
+            "Human": "What are <Ye Wen> and <Wife> doing in the image?",
+            "AI": "<Ye Wen> is holding a cloth, and <Wife> is sitting beside him."
+        }
+    ],
+    "two_concept/multi/Ye Wen_Wife/1.png": [
+        {
+            "Human": "What is <Ye Wen> wearing in the image?",
+            "AI": "<Ye Wen> is wearing a black traditional outfit."
+        },
+        {
+            "Human": "What is <Wife> wearing in the image?",
+            "AI": "<Wife> is wearing a white cardigan over a pink blouse."
+        },
+        {
+            "Human": "What are <Ye Wen> and <Wife> wearing in the image?",
+            "AI": "<Ye Wen> is wearing a black outfit, and <Wife> is wearing a white cardigan over a pink blouse."
+        }
+    ],
+    "two_concept/multi/Ye Wen_Wife/2.png": [
+        {
+            "Human": "What is <Ye Wen> holding in the image?",
+            "AI": "<Ye Wen> is holding a basket."
+        },
+        {
+            "Human": "What is <Wife> wearing in the image?",
+            "AI": "<Wife> is wearing a red jacket over a light-colored dress."
+        },
+        {
+            "Human": "What are <Ye Wen> and <Wife> wearing in the image?",
+            "AI": "<Ye Wen> is wearing a black outfit and holding a beige hat, while <Wife> is wearing a red jacket over a light-colored dress."
+        }
+    ],
+    "two_concept/multi/Ye Wen_Wife/3.png": [
+        {
+            "Human": "What is <Ye Wen> holding in the image?",
+            "AI": "<Ye Wen> is holding a newspaper."
+        },
+        {
+            "Human": "What is <Wife> wearing in the image?",
+            "AI": "<Wife> is wearing a green cardigan over a black and white polka dot blouse."
+        },
+        {
+            "Human": "What is <Ye Wen> holding in the image while sitting next to <Wife>?",
+            "AI": "<Ye Wen> is holding a newspaper while sitting next to <Wife>."
+        }
+    ],
+    "two_concept/multi/Ye Wen_Wife/4.png": [
+        {
+            "Human": "What is <Ye Wen> wearing in the image?",
+            "AI": "<Ye Wen> is wearing a long black robe."
+        },
+        {
+            "Human": "What is <Wife> wearing in the image?",
+            "AI": "<Wife> is wearing a black jacket, a white blouse, and a light-colored skirt."
+        },
+        {
+            "Human": "What are <Ye Wen> and <Wife> wearing in the image?",
+            "AI": "<Ye Wen> is wearing a long black traditional outfit, while <Wife> is wearing a black jacket over a light-colored dress."
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "two_concept/concept/test/HongXia/0.png": {
+        "Human": "What is <HongXia> doing in the image?",
+        "AI": "<HongXia> is drinking from a straw."
+    },
+    "two_concept/concept/test/HongXia/1.png": {
+        "Human": "What is the hair color of <HongXia> in the image?",
+        "AI": "<HongXia> has light blonde hair in the image."
+    },
+    "two_concept/concept/test/HongXia/2.png": {
+        "Human": "What color is <HongXia>'s hair?",
+        "AI": "<HongXia> has blonde hair."
+    },
+    "two_concept/concept/test/HongXia/3.png": {
+        "Human": "What is <HongXia> doing in the image?",
+        "AI": "<HongXia> is smiling and holding a finger to their lips."
+    },
+    "two_concept/concept/test/HongXia/4.png": {
+        "Human": "What color is <HongXia>'s hair?",
+        "AI": "<HongXia> has blonde hair."
+    }
+}

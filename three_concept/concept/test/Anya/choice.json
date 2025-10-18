@@ -1,0 +1,22 @@
+{
+    "three_concept/concept/test/Anya/0.jpg": {
+        "Human": "What is <Anya> wearing in the image? A. A blue dress; B. An orange shirt with a black skirt; C. A green jacket;",
+        "AI": "B"
+    },
+    "three_concept/concept/test/Anya/1.jpg": {
+        "Human": "What is <Anya> wearing on her head? A. A cap; B. A hat; C. A headband;",
+        "AI": "B"
+    },
+    "three_concept/concept/test/Anya/2.jpg": {
+        "Human": "What is the color of <Anya>'s eyes? A. Blue; B. Green; C. Brown;",
+        "AI": "B"
+    },
+    "three_concept/concept/test/Anya/3.jpg": {
+        "Human": "What is <Anya> holding in her hand? A. A book; B. A microphone; C. A toy;",
+        "AI": "B"
+    },
+    "three_concept/concept/test/Anya/4.jpg": {
+        "Human": "What accessory is <Anya> wearing on her head? A. Cat ears; B. Bow; C. Hat;",
+        "AI": "A"
+    }
+}

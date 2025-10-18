@@ -1,0 +1,72 @@
+{
+    "two_concept/multi/Modi_Rike/0.jpg": [
+        {
+            "Human": "What is <Modi> doing in the image?",
+            "AI": "<Modi> is standing next to a person with blue hair and a white lab coat."
+        },
+        {
+            "Human": "What is <Rike> wearing in the image?",
+            "AI": "<Rike> is wearing a white lab coat over a light blue shirt."
+        },
+        {
+            "Human": "What are <Rike> and <Modi> looking at in the image?",
+            "AI": "<Rike> and <Modi> are looking towards the right side of the image."
+        }
+    ],
+    "two_concept/multi/Modi_Rike/1.jpg": [
+        {
+            "Human": "What is <Modi> wearing in the image?",
+            "AI": "<Modi> is wearing a yellow shirt and blue pants."
+        },
+        {
+            "Human": "What is <Rike> wearing in the image?",
+            "AI": "<Rike> is wearing a white lab coat, a light blue shirt, brown pants, and black shoes."
+        },
+        {
+            "Human": "What is <Rike> doing in the image with <Modi>?",
+            "AI": "<Rike> is placing his hand on <Modi>'s shoulder while they stand in a field."
+        }
+    ],
+    "two_concept/multi/Modi_Rike/2.jpg": [
+        {
+            "Human": "What is <Modi> holding in the image?",
+            "AI": "<Modi> is holding a shovel."
+        },
+        {
+            "Human": "What is <Rike> doing in the image?",
+            "AI": "<Rike> is leaning against a wall with one leg crossed over the other."
+        },
+        {
+            "Human": "What are <Modi> and <Rike> doing in the image?",
+            "AI": "<Modi> is holding a shovel, and <Rike> is leaning against a wall with one leg crossed."
+        }
+    ],
+    "two_concept/multi/Modi_Rike/3.png": [
+        {
+            "Human": "What is <Modi> holding in the image?",
+            "AI": "<Modi> is holding a remote control."
+        },
+        {
+            "Human": "What is <Rike> wearing in the image?",
+            "AI": "<Rike> is wearing a white lab coat over a light blue shirt and brown pants."
+        },
+        {
+            "Human": "What is <Rike> wearing in the image?",
+            "AI": "<Rike> is wearing a white lab coat over a light blue shirt and brown pants."
+        }
+    ],
+    "two_concept/multi/Modi_Rike/4.jpg": [
+        {
+            "Human": "What is <Modi> wearing in the image?",
+            "AI": "<Modi> is wearing a yellow shirt."
+        },
+        {
+            "Human": "What is <Rike> wearing in the image?",
+            "AI": "<Rike> is wearing a white lab coat over a light blue shirt and brown pants."
+        },
+        {
+            "Human": "What are <Modi> and <Rike> wearing in the image?",
+            "AI": "<Modi> is wearing a yellow shirt, and <Rike> is wearing a white lab coat over a light blue shirt."
+        }
+    ]
+}

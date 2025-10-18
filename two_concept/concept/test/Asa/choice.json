@@ -1,0 +1,22 @@
+{
+    "two_concept/concept/test/Asa/0.png": {
+        "Human": "What is <Asa> doing in the image? A. Talking on the phone; B. Writing a letter; C. Reading a book;",
+        "AI": "A"
+    },
+    "two_concept/concept/test/Asa/1.png": {
+        "Human": "What is <Asa> standing in front of?  A. A red vintage car; B. A modern truck;",
+        "AI": "A"
+    },
+    "two_concept/concept/test/Asa/2.png": {
+        "Human": "What color is the coat that <Asa> is wearing?  A. Red; B. Blue; C. Green;",
+        "AI": "B"
+    },
+    "two_concept/concept/test/Asa/3.png": {
+        "Human": "What is <Asa> wearing in this image?  A. A striped suit with a brooch; B. A plain dress with a scarf; C. A polka dot shirt with a necklace;",
+        "AI": "A"
+    },
+    "two_concept/concept/test/Asa/4.png": {
+        "Human": "What color is the top that <Asa> is wearing?  A. Black; B. White; C. Red;",
+        "AI": "A"
+    }
+}

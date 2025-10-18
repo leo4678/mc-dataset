@@ -1,0 +1,22 @@
+{
+    "two_concept/concept/test/Thor/0.jpg": {
+        "Human": "What type of armor is <Thor> wearing in the image?",
+        "AI": "<Thor> is wearing a metallic armor with circular gold accents and a red cape."
+    },
+    "two_concept/concept/test/Thor/1.png": {
+        "Human": "What type of clothing is <Thor> wearing in the image?",
+        "AI": "<Thor> is wearing a fur-lined cloak with metallic armor pieces on his shoulders."
+    },
+    "two_concept/concept/test/Thor/2.jpg": {
+        "Human": "What color is <Thor>'s hair in the image?",
+        "AI": "<Thor> has long yellow hair in the image."
+    },
+    "two_concept/concept/test/Thor/3.jpg": {
+        "Human": "What type of clothing is <Thor> wearing in the image?",
+        "AI": "<Thor> is wearing a red jacket over a white shirt with a graphic design."
+    },
+    "two_concept/concept/test/Thor/4.jpg": {
+        "Human": "What type of clothing is <Thor> wearing in the image?",
+        "AI": "<Thor> is wearing a dark cloak over a red and silver outfit."
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "0.jpg": {
+        "<Hai>": "right",
+        "<Jun>": "left"
+    },
+    "1.jpg": {
+        "<Hai>": "right",
+        "<Jun>": "left"
+    },
+    "2.jpg": {
+        "<Hai>": "right",
+        "<Jun>": "left"
+    },
+    "3.jpg": {
+        "<Hai>": "left",
+        "<Jun>": "right"
+    },
+    "4.jpg": {
+        "<Hai>": "right",
+        "<Jun>": "left"
+    }
+}

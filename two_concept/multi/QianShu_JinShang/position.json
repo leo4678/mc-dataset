@@ -1,0 +1,22 @@
+{
+    "0.png": {
+        "<QianShu>": "left",
+        "<JinShang>": "right"
+    },
+    "1.png": {
+        "<QianShu>": "left",
+        "<JinShang>": "right"
+    },
+    "2.png": {
+        "<QianShu>": "right",
+        "<JinShang>": "left"
+    },
+    "3.png": {
+        "<QianShu>": "right",
+        "<JinShang>": "left"
+    },
+    "4.png": {
+        "<QianShu>": "right",
+        "<JinShang>": "left"
+    }
+}

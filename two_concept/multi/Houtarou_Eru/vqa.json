@@ -1,0 +1,72 @@
+{
+    "two_concept/multi/Houtarou_Eru/0.png": [
+        {
+            "Human": "What gesture is <Houtarou> making with his hand in the image?",
+            "AI": "<Houtarou> is making a peace sign with his hand in the image."
+        },
+        {
+            "Human": "How is <Eru> dressed in the image?",
+            "AI": "<Eru> is dressed in a school uniform with a white blouse and a navy blue skirt."
+        },
+        {
+            "Human": "What are <Houtarou> and <Eru> doing in the image?",
+            "AI": "<Houtarou> is making a peace sign with his fingers, and <Eru> is holding her fingers near her lips."
+        }
+    ],
+    "two_concept/multi/Houtarou_Eru/1.png": [
+        {
+            "Human": "What is <Houtarou> carrying in the image?",
+            "AI": "<Houtarou> is carrying a backpack."
+        },
+        {
+            "Human": "What is <Eru> carrying in the image?",
+            "AI": "<Eru> is carrying a book in her hands."
+        },
+        {
+            "Human": "What are <Houtarou> and <Eru> wearing in the image?",
+            "AI": "<Houtarou> is wearing a white shirt and dark pants while carrying a shoulder bag, and <Eru> is wearing a school uniform featuring a blouse and a skirt."
+        }
+    ],
+    "two_concept/multi/Houtarou_Eru/2.png": [
+        {
+            "Human": "What is <Houtarou>'s expression in the image?",
+            "AI": "<Houtarou> has a neutral expression in the image."
+        },
+        {
+            "Human": "What is <Eru> looking at in the image?",
+            "AI": "<Eru> appears to be looking at something off-screen to the right."
+        },
+        {
+            "Human": "What is the expression of <Houtarou> and <Eru> in the image?",
+            "AI": "<Houtarou> looks serious while <Eru> appears curious."
+        }
+    ],
+    "two_concept/multi/Houtarou_Eru/3.png": [
+        {
+            "Human": "What is <Houtarou> carrying in the image?",
+            "AI": "<Houtarou> is carrying a bag on his left shoulder."
+        },
+        {
+            "Human": "What is <Eru> holding in the image?",
+            "AI": "<Eru> is holding a folded blanket in the image."
+        },
+        {
+            "Human": "What are <Houtarou> and <Eru> carrying in the image?",
+            "AI": "<Houtarou> is carrying a bag while <Eru> is holding a pillow."
+        }
+    ],
+    "two_concept/multi/Houtarou_Eru/4.png": [
+        {
+            "Human": "What are <Houtarou> and the other person in the image wearing?",
+            "AI": "<Houtarou> is wearing a dark school uniform, while the other person is wearing a sailor-style school uniform."
+        },
+        {
+            "Human": "What type of clothing is <Eru> wearing?",
+            "AI": "<Eru> is wearing a school uniform consisting of a white blouse with a navy blue necktie and a pleated blue skirt."
+        },
+        {
+            "Human": "What kind of uniforms are <Houtarou> and <Eru> wearing in the image?",
+            "AI": "<Houtarou> is wearing a traditional black school uniform, and <Eru> is wearing a sailor-style school uniform with a navy blue skirt and a bow tie."
+        }
+    ]
+}

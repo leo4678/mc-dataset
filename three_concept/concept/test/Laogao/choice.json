@@ -1,0 +1,22 @@
+{
+    "three_concept/concept/test/Laogao/0.png": {
+        "Human": "What is <Laogao> wearing in the image? A. A striped sweater; B. A plain jacket; C. A checkered shirt;",
+        "AI": "A"
+    },
+    "three_concept/concept/test/Laogao/1.png": {
+        "Human": "What type of clothing is <Laogao> wearing? A. Striped sweater; B. Solid color jacket;",
+        "AI": "A"
+    },
+    "three_concept/concept/test/Laogao/2.png": {
+        "Human": "What is <Laogao> wearing over his shirt? A. A striped vest; B. A checkered vest; C. A diamond-patterned vest;",
+        "AI": "C"
+    },
+    "three_concept/concept/test/Laogao/3.png": {
+        "Human": "What color is <Laogao>'s shirt? A. Blue; B. Orange; C. Green;",
+        "AI": "B"
+    },
+    "three_concept/concept/test/Laogao/4.png": {
+        "Human": "What type of clothing is <Laogao> wearing? A. Casual T-shirt; B. Formal suit; C. Sports jacket;",
+        "AI": "B"
+    }
+}

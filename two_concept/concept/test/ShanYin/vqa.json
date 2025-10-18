@@ -1,0 +1,22 @@
+{
+    "two_concept/concept/test/ShanYin/0.png": {
+        "Human": "What kind of clothing is <ShanYin> wearing in the image?",
+        "AI": "<ShanYin> is wearing a plaid jacket, a grey t-shirt, and a multicolored scarf."
+    },
+    "two_concept/concept/test/ShanYin/1.png": {
+        "Human": "What is <ShanYin> wearing in this image?",
+        "AI": "<ShanYin> is wearing a black suit jacket and a white shirt."
+    },
+    "two_concept/concept/test/ShanYin/2.png": {
+        "Human": "What is <ShanYin> holding in their hand?",
+        "AI": "<ShanYin> is holding a smartphone in their hand."
+    },
+    "two_concept/concept/test/ShanYin/3.png": {
+        "Human": "What is <ShanYin> wearing in the image?",
+        "AI": "<ShanYin> is wearing a dark suit and a white shirt."
+    },
+    "two_concept/concept/test/ShanYin/4.png": {
+        "Human": "What object is <ShanYin> holding in the image?",
+        "AI": "<ShanYin> is holding a blue smartphone."
+    }
+}

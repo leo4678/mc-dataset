@@ -1,0 +1,22 @@
+{
+    "two_concept/concept/test/HouTeng/0.png": {
+        "Human": "What is <HouTeng> doing in the image?  A. Sleeping; B. Reading; C. Eating;",
+        "AI": "A"
+    },
+    "two_concept/concept/test/HouTeng/1.png": {
+        "Human": "What color is <HouTeng>'s hair?  A. Pink; B. Blue; C. Green;",
+        "AI": "A"
+    },
+    "two_concept/concept/test/HouTeng/2.png": {
+        "Human": "What color is <HouTeng>'s hair?  A. Pink; B. Blue; C. Green;",
+        "AI": "A"
+    },
+    "two_concept/concept/test/HouTeng/3.png": {
+        "Human": "What color is <HouTeng>'s hair?  A. Pink; B. Blue; C. Green;",
+        "AI": "A"
+    },
+    "two_concept/concept/test/HouTeng/4.png": {
+        "Human": "What is <HouTeng> wearing on their head?  A. A hat; B. A cardboard box; C. A helmet;",
+        "AI": "B"
+    }
+}

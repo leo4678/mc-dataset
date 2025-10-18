@@ -1,0 +1,22 @@
+{
+    "two_concept/concept/test/Rova/0.png": {
+        "Human": "What is the shape of the <Rova> in the image?",
+        "AI": "The <Rova> in the image is circular."
+    },
+    "two_concept/concept/test/Rova/1.png": {
+        "Human": "What is the color of the handle of the <Rova> harpoon?",
+        "AI": "The handle of the <Rova> harpoon is green with white wrapping."
+    },
+    "two_concept/concept/test/Rova/2.png": {
+        "Human": "What is the shape of the <Rova> in the image?",
+        "AI": "The <Rova> in the image is circular in shape."
+    },
+    "two_concept/concept/test/Rova/3.png": {
+        "Human": "What is the color of the <Rova> in the image?",
+        "AI": "The <Rova> is green in the image."
+    },
+    "two_concept/concept/test/Rova/4.png": {
+        "Human": "What is the shape of the <Rova> in the image?",
+        "AI": "The <Rova> in the image is circular in shape."
+    }
+}

@@ -1,0 +1,22 @@
+[
+    {
+        "question": "What are the genders of <yifei>, <zhangwei>, and <meijia>? A. girl, boy, girl. B. boy, girl, boy.",
+        "answer": "A"
+    },
+    {
+        "question": "Which roles often wear formal attire? A. <zhangwei> and <ziqiao>. B. <yifei> and <meijia>.",
+        "answer": "A"
+    },
+    {
+        "question": "Do <yifei> and <meijia> have long hair? A. Yes. B. No.",
+        "answer": "A"
+    },
+    {
+        "question": "Which roles are often seen in casual clothing? A. <zhangwei> and <ziqiao>. B. <yifei> and <meijia>.",
+        "answer": "B"
+    },
+    {
+        "question": "Who among <zhangwei> and <ziqiao> is often seen in a suit? A. <zhangwei>. B. <ziqiao>.",
+        "answer": "B"
+    }
+]

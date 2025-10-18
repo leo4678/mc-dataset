@@ -1,0 +1,152 @@
+{
+    "three_concept/multi/Harry_Hermione_Ron/0.png": [
+        {
+            "Human": "What is <Harry> wearing in the image?",
+            "AI": "<Harry> is wearing earmuffs and a brown robe."
+        },
+        {
+            "Human": "What is <Hermione> wearing in the image?",
+            "AI": "<Hermione> is wearing earmuffs and a brown cloak."
+        },
+        {
+            "Human": "What is <Ron> holding in the image?",
+            "AI": "<Ron> is holding a plant with a root that resembles a creature."
+        },
+        {
+            "Human": "What are <Harry> and <Hermione> wearing in the image?",
+            "AI": "<Harry> and <Hermione> are wearing earmuffs and brown robes."
+        },
+        {
+            "Human": "What are <Harry> and <Ron> wearing in the image?",
+            "AI": "<Harry> and <Ron> are wearing earmuffs and brown robes."
+        },
+        {
+            "Human": "What are <Hermione> and <Ron> holding in the image?",
+            "AI": "<Hermione> and <Ron> are holding a plant with large leaves and roots."
+        },
+        {
+            "Human": "What are <Harry>, <Hermione>, and <Ron> wearing on their heads in the image?",
+            "AI": "<Harry>, <Hermione>, and <Ron> are wearing earmuffs on their heads."
+        }
+    ],
+    "three_concept/multi/Harry_Hermione_Ron/1.png": [
+        {
+            "Human": "What is <Harry> wearing in the image?",
+            "AI": "<Harry> is wearing a white shirt, a striped tie, and a dark robe."
+        },
+        {
+            "Human": "What is <Hermione> wearing in the image?",
+            "AI": "<Hermione> is wearing a school uniform with a tie and a robe."
+        },
+        {
+            "Human": "What is <Ron> holding in the image?",
+            "AI": "<Ron> is holding a book."
+        },
+        {
+            "Human": "What are <Harry> and <Hermione> wearing in the image?",
+            "AI": "<Harry> and <Hermione> are wearing school uniforms with ties and robes."
+        },
+        {
+            "Human": "What are <Harry> and <Ron> wearing in the image?",
+            "AI": "<Harry> and <Ron> are wearing school uniforms with ties and robes."
+        },
+        {
+            "Human": "What are <Hermione> and <Ron> wearing in the image?",
+            "AI": "<Hermione> and <Ron> are wearing school uniforms with ties and robes."
+        },
+        {
+            "Human": "What are <Harry>, <Hermione>, and <Ron> wearing in the image?",
+            "AI": "<Harry>, <Hermione>, and <Ron> are wearing school uniforms with ties and robes."
+        }
+    ],
+    "three_concept/multi/Harry_Hermione_Ron/2.png": [
+        {
+            "Human": "What is <Harry> doing in the image?",
+            "AI": "<Harry> is sitting at a table in a library, looking at something off to the side."
+        },
+        {
+            "Human": "What is <Hermione> wearing in the image?",
+            "AI": "<Hermione> is wearing a pink zip-up sweater over a gray shirt."
+        },
+        {
+            "Human": "What is <Ron> holding in the image?",
+            "AI": "<Ron> is holding a golden egg."
+        },
+        {
+            "Human": "What are <Harry> and <Hermione> doing in the image?",
+            "AI": "<Harry> is sitting at a table with books, while <Hermione> is standing nearby in a library setting."
+        },
+        {
+            "Human": "What is <Ron> holding in the image while <Harry> is sitting?",
+            "AI": "<Ron> is holding a golden egg while <Harry> is sitting at the table."
+        },
+        {
+            "Human": "What is <Ron> holding in the image with <Hermione>?",
+            "AI": "<Ron> is holding a golden egg while standing next to <Hermione>."
+        },
+        {
+            "Human": "What are <Harry>, <Hermione>, and <Ron> doing in the library?",
+            "AI": "<Harry> is sitting at a table with books, <Hermione> is standing nearby, and <Ron> is holding a golden object."
+        }
+    ],
+    "three_concept/multi/Harry_Hermione_Ron/3.png": [
+        {
+            "Human": "What is <Harry> holding in the image?",
+            "AI": "<Harry> is holding a small animal, possibly a rat."
+        },
+        {
+            "Human": "What is <Hermione> wearing in the image?",
+            "AI": "<Hermione> is wearing a pink hoodie."
+        },
+        {
+            "Human": "What is <Ron> holding in the image?",
+            "AI": "<Ron> is holding a small animal in his hands."
+        },
+        {
+            "Human": "What are <Harry> and <Hermione> doing in the image?",
+            "AI": "<Harry> and <Hermione> are peeking around a corner, with <Harry> holding a small animal."
+        },
+        {
+            "Human": "What is <Ron> holding in the image while <Harry> is looking on?",
+            "AI": "<Ron> is holding a small animal, and <Harry> is looking on from the middle."
+        },
+        {
+            "Human": "What are <Hermione> and <Ron> doing in the image?",
+            "AI": "<Hermione> is peeking around a stone wall, and <Ron> is holding a small animal."
+        },
+        {
+            "Human": "What is <Ron> holding in the image with <Harry> and <Hermione>?",
+            "AI": "<Ron> is holding a small animal while <Harry> and <Hermione> are nearby."
+        }
+    ],
+    "three_concept/multi/Harry_Hermione_Ron/4.png": [
+        {
+            "Human": "What is <Harry> wearing in the image?",
+            "AI": "<Harry> is wearing a blue shirt with a dark jacket over it."
+        },
+        {
+            "Human": "What is <Hermione> wearing in the image?",
+            "AI": "<Hermione> is wearing a pink zip-up hoodie and jeans."
+        },
+        {
+            "Human": "What is <Ron> holding in the image?",
+            "AI": "<Ron> is holding a small animal in his hands."
+        },
+        {
+            "Human": "What are <Harry> and <Hermione> wearing in the image?",
+            "AI": "<Harry> is wearing a blue shirt with a dark jacket, and <Hermione> is wearing a pink hoodie with jeans."
+        },
+        {
+            "Human": "What is the setting where <Harry> and <Ron> are located?",
+            "AI": "<Harry> and <Ron> are in a dimly lit, rustic room with wooden walls and furniture."
+        },
+        {
+            "Human": "What is the setting where <Hermione> and <Ron> are located?",
+            "AI": "<Hermione> and <Ron> are in a dimly lit, rustic room with wooden walls and furniture."
+        },
+        {
+            "Human": "What are <Harry>, <Hermione>, and <Ron> doing in the image?",
+            "AI": "<Harry> and <Hermione> are standing together, while <Ron> is sitting and holding something in his hands."
+        }
+    ]
+}

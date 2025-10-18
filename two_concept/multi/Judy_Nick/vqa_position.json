@@ -1,0 +1,52 @@
+{
+    "two_concept/multi/Judy_Nick/0.png": [
+        {
+            "Human": "Where is <Judy> located in the photo? A. left B. right.",
+            "AI": "A"
+        },
+        {
+            "Human": "Where is <Nick> located in the photo? A. left B. right.",
+            "AI": "B"
+        }
+    ],
+    "two_concept/multi/Judy_Nick/1.png": [
+        {
+            "Human": "Where is <Judy> located in the photo? A. left B. right.",
+            "AI": "B"
+        },
+        {
+            "Human": "Where is <Nick> located in the photo? A. left B. right.",
+            "AI": "A"
+        }
+    ],
+    "two_concept/multi/Judy_Nick/2.png": [
+        {
+            "Human": "Where is <Judy> located in the photo? A. left B. right.",
+            "AI": "B"
+        },
+        {
+            "Human": "Where is <Nick> located in the photo? A. left B. right.",
+            "AI": "A"
+        }
+    ],
+    "two_concept/multi/Judy_Nick/3.png": [
+        {
+            "Human": "Where is <Judy> located in the photo? A. left B. right.",
+            "AI": "A"
+        },
+        {
+            "Human": "Where is <Nick> located in the photo? A. left B. right.",
+            "AI": "B"
+        }
+    ],
+    "two_concept/multi/Judy_Nick/4.png": [
+        {
+            "Human": "Where is <Judy> located in the photo? A. left B. right.",
+            "AI": "B"
+        },
+        {
+            "Human": "Where is <Nick> located in the photo? A. left B. right.",
+            "AI": "A"
+        }
+    ]
+}

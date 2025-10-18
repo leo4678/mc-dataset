@@ -1,0 +1,152 @@
+{
+    "three_concept/multi/Lynx_Nola_Roxy/0.png": [
+        {
+            "Human": "What is <Lynx> holding in the image? A.a sword. B.a shield. C.a book.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is the color of the handle of <Nola>? A.red. B.blue. C.green.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is the color of the <Roxy> logo on the character's shirt? A. Red. B. Yellow. C. Blue.",
+            "AI": "B"
+        },
+        {
+            "Human": "What is the color of the clothing worn by the character holding <Lynx> and <Nola>? A. Black with a yellow symbol. B. White with a red symbol. C. Blue with a green symbol.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is the color of the clothing worn by the character with <Lynx> and <Roxy>? A. Black with a yellow logo. B. White with a red logo. C. Blue with a green logo.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is the color of the handle of <Nola> in the image? A.red. B.blue. C.green.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is the color of the clothing worn by the character holding <Nola> and wearing <Lynx> with <Roxy> on it? A. Black. B. White. C. Red.",
+            "AI": "A"
+        }
+    ],
+    "three_concept/multi/Lynx_Nola_Roxy/1.png": [
+        {
+            "Human": "What is <Lynx> holding in the image? A.a sword. B.a book. C.a flower",
+            "AI": "A"
+        },
+        {
+            "Human": "What is the design on the sheath of <Nola>? A.crosses. B.stars. C.stripes",
+            "AI": "A"
+        },
+        {
+            "Human": "What is the prominent feature of the character associated with the <Roxy> logo in the image? A. A sword with a cross pattern. B. A floral tattoo on the chest. C. A red scarf around the neck.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is the setting around <Lynx> and <Nola>? A. A snowy landscape. B. A cherry blossom garden. C. A desert scene.",
+            "AI": "B"
+        },
+        {
+            "Human": "What is the pattern on the clothing of the character wearing <Lynx> and <Roxy>? A. floral design. B. skull and crossbones. C. geometric shapes.",
+            "AI": "B"
+        },
+        {
+            "Human": "What is the background setting in the image featuring <Nola> and <Roxy>? A. A snowy landscape. B. A cherry blossom garden. C. A desert scene.",
+            "AI": "B"
+        },
+        {
+            "Human": "What is the setting or environment around <Lynx>, <Nola>, and <Roxy>? A. a snowy landscape. B. a cherry blossom garden. C. a desert scene.",
+            "AI": "B"
+        }
+    ],
+    "three_concept/multi/Lynx_Nola_Roxy/2.png": [
+        {
+            "Human": "What is the design on the clothing of the figure wearing <Lynx>? A. A skull with a smile. B. A dragon. C. A star pattern.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is the color of the handle of <Nola>? A.red. B.blue. C.green.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is the prominent feature of the <Roxy> logo in the image? A. A smiling skull. B. A star. C. A heart.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is the design on the clothing of the character holding <Lynx> and <Nola>? A. A skull and crossbones. B. A smiley face with a cross. C. A dragon pattern.",
+            "AI": "B"
+        },
+        {
+            "Human": "What is the design on the clothing of <Lynx> and <Roxy>? A.crosses and skulls. B.stars and stripes. C.flowers and leaves.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is the color of the handle of <Nola> in the image? A.red. B.blue. C.green.",
+            "AI": "A"
+        },
+        {
+            "Human": "Which object is prominently displayed on the clothing in the image? A.<Lynx>. B.<Nola>. C.<Roxy>",
+            "AI": "C"
+        }
+    ],
+    "three_concept/multi/Lynx_Nola_Roxy/3.png": [
+        {
+            "Human": "What is <Lynx> holding in the image? A.a sword. B.a book. C.a shield.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is the design on the handle of <Nola>? A.crosses. B.stars. C.stripes",
+            "AI": "A"
+        },
+        {
+            "Human": "What is the pattern on the hat of the character associated with <Roxy>? A. Stripes. B. Polka dots. C. Animal print.",
+            "AI": "C"
+        },
+        {
+            "Human": "What is <Lynx> and <Nola> associated with in the image? A.a pirate theme. B.a futuristic theme. C.a medieval theme.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is the pattern on <Lynx>'s hat? A.spots. B.stripes. C.checkered",
+            "AI": "A"
+        },
+        {
+            "Human": "What is the design on the handle of <Nola> in the image? A.crosses. B.stars. C.stripes",
+            "AI": "A"
+        },
+        {
+            "Human": "What is the pattern on <Lynx> in the image? A.spots. B.stripes. C.checkered",
+            "AI": "A"
+        }
+    ],
+    "three_concept/multi/Lynx_Nola_Roxy/4.png": [
+        {
+            "Human": "What is <Lynx> holding in the image? A.a sword. B.a shield. C.a book.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is the color of the sheath of <Nola>? A.blue with white crosses. B.red with black stripes. C.green with yellow dots.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is <Roxy> holding in the image? A.a sword. B.a shield. C.a book.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is the color scheme of <Lynx> and <Nola> in the image? A.black and white. B.red and gold. C.blue and silver.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is the color of the clothing worn by the character with <Lynx> and <Roxy>? A.black. B.white. C.blue.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is the color of the sheath of <Nola> in the image? A.blue with white crosses. B.red with black stripes. C.green with yellow dots.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is the color scheme of <Lynx>, <Nola>, and <Roxy> in the image? A.black and white. B.red and gold. C.blue and silver.",
+            "AI": "A"
+        }
+    ]
+}

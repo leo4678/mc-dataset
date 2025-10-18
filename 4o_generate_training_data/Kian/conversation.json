@@ -1,0 +1,422 @@
+{
+    "two_concept/two_concept/concept/train/Kian/0.png": [
+        {
+            "Question": "What color is <Kian>?",
+            "Answer": "<Kian> is red."
+        },
+        {
+            "Question": "What shape does <Kian> have?",
+            "Answer": "<Kian> has a round bead shape."
+        },
+        {
+            "Question": "What is the overall vibe of <Kian>?",
+            "Answer": "The overall vibe of <Kian> is bold and striking, with large, vibrant red beads that create a strong visual impact."
+        },
+        {
+            "Question": "What material is <Kian> made of?",
+            "Answer": "The material of <Kian> cannot be determined from the image alone, as it is an anime style necklace and the image does not provide specific material details."
+        },
+        {
+            "Question": "What size is this <Kian>?",
+            "Answer": "The beads of <Kian> are large, roughly the size of a person's fist."
+        },
+        {
+            "Question": "Does <Kian> have any patterns or markings?",
+            "Answer": "<Kian> does not have any patterns or markings; it consists of plain, round beads."
+        },
+        {
+            "Question": "What type of <Kian> is this subject?",
+            "Answer": "<Kian> is a large, red bead necklace."
+        },
+        {
+            "Question": "Does <Kian> have any distinctive features or details?",
+            "Answer": "<Kian> is a necklace composed of large, round beads, which are a distinctive feature of its anime style."
+        },
+        {
+            "Question": "What's <Kian> general texture like?",
+            "Answer": "<Kian> has a smooth and glossy texture."
+        },
+        {
+            "Question": "How would you describe <Kian> overall appearance?",
+            "Answer": "<Kian> is a necklace composed of large, round beads, giving it a bold and distinctive anime style appearance."
+        }
+    ],
+    "two_concept/two_concept/concept/train/Kian/1.png": [
+        {
+            "Question": "What color is <Kian>?",
+            "Answer": "<Kian> is red."
+        },
+        {
+            "Question": "What shape does <Kian> have?",
+            "Answer": "<Kian> has a round bead shape."
+        },
+        {
+            "Question": "What is the overall vibe of <Kian>?",
+            "Answer": "<Kian> has a bold and striking vibe, characterized by large, round beads that create a strong visual impact."
+        },
+        {
+            "Question": "What material is <Kian> made of?",
+            "Answer": "The material of <Kian> cannot be determined from the image alone."
+        },
+        {
+            "Question": "What size is this <Kian>?",
+            "Answer": "The <Kian> necklace is large, with oversized beads."
+        },
+        {
+            "Question": "Does <Kian> have any patterns or markings?",
+            "Answer": "<Kian> does not have any patterns or markings; it consists of plain, round beads."
+        },
+        {
+            "Question": "What type of <Kian> is this subject?",
+            "Answer": "This <Kian> is a large, round bead necklace."
+        },
+        {
+            "Question": "Does <Kian> have any distinctive features or details?",
+            "Answer": "<Kian> is a necklace with large, round, red beads."
+        },
+        {
+            "Question": "What's <Kian> general texture like?",
+            "Answer": "<Kian> has a smooth and glossy texture."
+        },
+        {
+            "Question": "How would you describe <Kian> overall appearance?",
+            "Answer": "<Kian> is a necklace composed of large, round beads with a glossy finish, arranged closely together around the neck."
+        }
+    ],
+    "two_concept/two_concept/concept/train/Kian/2.png": [
+        {
+            "Question": "What color is <Kian>?",
+            "Answer": "<Kian> is red."
+        },
+        {
+            "Question": "What shape does <Kian> have?",
+            "Answer": "<Kian> has a round bead shape."
+        },
+        {
+            "Question": "What is the overall vibe of <Kian>?",
+            "Answer": "The overall vibe of <Kian> is bold and vibrant, with a playful and eye-catching design."
+        },
+        {
+            "Question": "What material is <Kian> made of?",
+            "Answer": "The material of <Kian> cannot be determined from the image alone."
+        },
+        {
+            "Question": "What size is this <Kian>?",
+            "Answer": "The beads of <Kian> are medium-sized."
+        },
+        {
+            "Question": "Does <Kian> have any patterns or markings?",
+            "Answer": "<Kian> does not have any patterns or markings; it consists of plain, round beads."
+        },
+        {
+            "Question": "What type of <Kian> is this subject?",
+            "Answer": "<Kian> is a red beaded necklace."
+        },
+        {
+            "Question": "Does <Kian> have any distinctive features or details?",
+            "Answer": "<Kian> is a necklace made of round, red beads."
+        },
+        {
+            "Question": "What's <Kian> general texture like?",
+            "Answer": "<Kian> has a smooth and glossy texture."
+        },
+        {
+            "Question": "How would you describe <Kian> overall appearance?",
+            "Answer": "<Kian> is a necklace composed of round, red beads, giving it a bold and vibrant appearance."
+        }
+    ],
+    "two_concept/two_concept/concept/train/Kian/3.png": [
+        {
+            "Question": "What color is <Kian>?",
+            "Answer": "<Kian> is purple."
+        },
+        {
+            "Question": "What shape does <Kian> have?",
+            "Answer": "<Kian> has a round bead shape."
+        },
+        {
+            "Question": "What is the overall vibe of <Kian>?",
+            "Answer": "The overall vibe of <Kian> is bold and striking, with large, glossy beads that give it a powerful and dynamic appearance."
+        },
+        {
+            "Question": "What material is <Kian> made of?",
+            "Answer": "<Kian> appears to be made of glossy, polished beads, likely resembling plastic or glass."
+        },
+        {
+            "Question": "What size is this <Kian>?",
+            "Answer": "The size of <Kian> is large, with beads that are prominently visible and substantial in size."
+        },
+        {
+            "Question": "Does <Kian> have any patterns or markings?",
+            "Answer": "<Kian> does not have any patterns or markings; it consists of plain, round beads."
+        },
+        {
+            "Question": "What type of <Kian> is this subject?",
+            "Answer": "<Kian> is a beaded necklace with large, glossy, purple beads."
+        },
+        {
+            "Question": "Does <Kian> have any distinctive features or details?",
+            "Answer": "<Kian> is a necklace composed of large, glossy, purple beads."
+        },
+        {
+            "Question": "What's <Kian> general texture like?",
+            "Answer": "<Kian> has a smooth and glossy texture."
+        },
+        {
+            "Question": "How would you describe <Kian> overall appearance?",
+            "Answer": "<Kian> is a necklace composed of large, glossy, purple beads."
+        }
+    ],
+    "two_concept/two_concept/concept/train/Kian/4.png": [
+        {
+            "Question": "What color is <Kian>?",
+            "Answer": "<Kian> is red."
+        },
+        {
+            "Question": "What shape does <Kian> have?",
+            "Answer": "<Kian> has a round bead shape."
+        },
+        {
+            "Question": "What is the overall vibe of <Kian>?",
+            "Answer": "The overall vibe of <Kian> is bold and striking, with large, prominent beads that give it a distinctive and eye-catching appearance."
+        },
+        {
+            "Question": "What material is <Kian> made of?",
+            "Answer": "The material of <Kian> is not discernible from the image alone."
+        },
+        {
+            "Question": "What size is this <Kian>?",
+            "Answer": "The beads of <Kian> are large and prominent."
+        },
+        {
+            "Question": "Does <Kian> have any patterns or markings?",
+            "Answer": "<Kian> does not have any patterns or markings; it consists of plain, round beads."
+        },
+        {
+            "Question": "What type of <Kian> is this subject?",
+            "Answer": "<Kian> is a large, round bead necklace."
+        },
+        {
+            "Question": "Does <Kian> have any distinctive features or details?",
+            "Answer": "<Kian> is a necklace with large, round beads that are a deep red color, giving it a bold and distinctive appearance."
+        },
+        {
+            "Question": "What's <Kian> general texture like?",
+            "Answer": "<Kian> has a smooth and glossy texture."
+        },
+        {
+            "Question": "How would you describe <Kian> overall appearance?",
+            "Answer": "<Kian> is a necklace composed of large, round beads with a glossy finish, arranged closely together around the neck."
+        }
+    ],
+    "two_concept/two_concept/concept/train/Kian/5.png": [
+        {
+            "Question": "What color is <Kian>?",
+            "Answer": "<Kian> is brown."
+        },
+        {
+            "Question": "What shape does <Kian> have?",
+            "Answer": "<Kian> has a round bead shape."
+        },
+        {
+            "Question": "What is the overall vibe of <Kian>?",
+            "Answer": "The overall vibe of <Kian> is bold and traditional, with a classic anime style featuring large, round beads."
+        },
+        {
+            "Question": "What material is <Kian> made of?",
+            "Answer": "The material of <Kian> cannot be determined from the image alone."
+        },
+        {
+            "Question": "What size is this <Kian>?",
+            "Answer": "The beads of <Kian> are large and prominent."
+        },
+        {
+            "Question": "Does <Kian> have any patterns or markings?",
+            "Answer": "<Kian> does not have any patterns or markings; it consists of plain beads."
+        },
+        {
+            "Question": "What type of <Kian> is this subject?",
+            "Answer": "The <Kian> is a beaded necklace."
+        },
+        {
+            "Question": "Does <Kian> have any distinctive features or details?",
+            "Answer": "<Kian> is a necklace made of large, round beads."
+        },
+        {
+            "Question": "What's <Kian> general texture like?",
+            "Answer": "<Kian> has a smooth and glossy texture."
+        },
+        {
+            "Question": "How would you describe <Kian> overall appearance?",
+            "Answer": "<Kian> is a necklace composed of large, round beads, giving it a bold and distinctive anime style appearance."
+        }
+    ],
+    "two_concept/two_concept/concept/train/Kian/6.png": [
+        {
+            "Question": "What color is <Kian>?",
+            "Answer": "<Kian> is red."
+        },
+        {
+            "Question": "What shape does <Kian> have?",
+            "Answer": "<Kian> is in the shape of large, round beads."
+        },
+        {
+            "Question": "What is the overall vibe of <Kian>?",
+            "Answer": "The overall vibe of <Kian> is bold and striking, with large, vibrant red beads creating a dramatic and eye-catching appearance."
+        },
+        {
+            "Question": "What material is <Kian> made of?",
+            "Answer": "<Kian> appears to be made of a glossy, polished material resembling red beads, possibly plastic or resin."
+        },
+        {
+            "Question": "What size is this <Kian>?",
+            "Answer": "The <Kian> necklace is large, with beads that are prominently sized, each approximately the size of a small fruit like a cherry or grape."
+        },
+        {
+            "Question": "Does <Kian> have any patterns or markings?",
+            "Answer": "<Kian> does not have any patterns or markings; it consists of plain, round beads."
+        },
+        {
+            "Question": "What type of <Kian> is this subject?",
+            "Answer": "<Kian> is a large, red bead necklace in an anime style."
+        },
+        {
+            "Question": "Does <Kian> have any distinctive features or details?",
+            "Answer": "<Kian> is a necklace with large, round, red beads, giving it a bold and distinctive appearance."
+        },
+        {
+            "Question": "What's <Kian> general texture like?",
+            "Answer": "<Kian> has a smooth and glossy texture, resembling polished beads."
+        },
+        {
+            "Question": "How would you describe <Kian> overall appearance?",
+            "Answer": "<Kian> is a large, bold necklace composed of round, red beads, giving it a striking and distinctive anime style appearance."
+        }
+    ],
+    "two_concept/two_concept/concept/train/Kian/7.png": [
+        {
+            "Question": "What color is <Kian>?",
+            "Answer": "<Kian> is red."
+        },
+        {
+            "Question": "What shape does <Kian> have?",
+            "Answer": "<Kian> has a round bead shape."
+        },
+        {
+            "Question": "What is the overall vibe of <Kian>?",
+            "Answer": "The overall vibe of <Kian> is bold and striking, with its large, round red beads creating a distinctive and eye-catching appearance."
+        },
+        {
+            "Question": "What material is <Kian> made of?",
+            "Answer": "The material of <Kian> cannot be determined from the image alone."
+        },
+        {
+            "Question": "What size is this <Kian>?",
+            "Answer": "The size of <Kian> is large, with each bead being prominently sized and noticeable around the neck."
+        },
+        {
+            "Question": "Does <Kian> have any patterns or markings?",
+            "Answer": "<Kian> does not have any patterns or markings; it consists of plain, round beads."
+        },
+        {
+            "Question": "What type of <Kian> is this subject?",
+            "Answer": "<Kian> is a red beaded necklace."
+        },
+        {
+            "Question": "Does <Kian> have any distinctive features or details?",
+            "Answer": "<Kian> is a necklace composed of large, round red beads."
+        },
+        {
+            "Question": "What's <Kian> general texture like?",
+            "Answer": "<Kian> has a smooth and glossy texture."
+        },
+        {
+            "Question": "How would you describe <Kian> overall appearance?",
+            "Answer": "<Kian> is a necklace composed of large, round red beads."
+        }
+    ],
+    "two_concept/two_concept/concept/train/Kian/8.png": [
+        {
+            "Question": "What color is <Kian>?",
+            "Answer": "<Kian> is red."
+        },
+        {
+            "Question": "What shape does <Kian> have?",
+            "Answer": "<Kian> has a round bead shape."
+        },
+        {
+            "Question": "What is the overall vibe of <Kian>?",
+            "Answer": "<Kian> has a bold and striking vibe, characterized by its large, round red beads that give it a distinctive and eye-catching appearance."
+        },
+        {
+            "Question": "What material is <Kian> made of?",
+            "Answer": "The material of <Kian> cannot be determined from the image alone."
+        },
+        {
+            "Question": "What size is this <Kian>?",
+            "Answer": "The beads of <Kian> are large and prominent."
+        },
+        {
+            "Question": "Does <Kian> have any patterns or markings?",
+            "Answer": "<Kian> does not have any patterns or markings; it consists of plain, round beads."
+        },
+        {
+            "Question": "What type of <Kian> is this subject?",
+            "Answer": "<Kian> is a red beaded necklace."
+        },
+        {
+            "Question": "Does <Kian> have any distinctive features or details?",
+            "Answer": "<Kian> is a necklace made of large, round red beads."
+        },
+        {
+            "Question": "What's <Kian> general texture like?",
+            "Answer": "<Kian> has a smooth and glossy texture."
+        },
+        {
+            "Question": "How would you describe <Kian> overall appearance?",
+            "Answer": "<Kian> is a necklace composed of large, round red beads, giving it a bold and striking appearance."
+        }
+    ],
+    "two_concept/two_concept/concept/train/Kian/9.png": [
+        {
+            "Question": "What color is <Kian>?",
+            "Answer": "<Kian> is red."
+        },
+        {
+            "Question": "What shape does <Kian> have?",
+            "Answer": "<Kian> has a round bead shape."
+        },
+        {
+            "Question": "What is the overall vibe of <Kian>?",
+            "Answer": "<Kian> has a bold and vibrant vibe, characterized by its large, glossy red beads that create a striking and energetic appearance."
+        },
+        {
+            "Question": "What material is <Kian> made of?",
+            "Answer": "The material of <Kian> cannot be determined from the image alone."
+        },
+        {
+            "Question": "What size is this <Kian>?",
+            "Answer": "The beads of <Kian> are large and prominently sized."
+        },
+        {
+            "Question": "Does <Kian> have any patterns or markings?",
+            "Answer": "<Kian> does not have any patterns or markings; it consists of plain, round beads."
+        },
+        {
+            "Question": "What type of <Kian> is this subject?",
+            "Answer": "<Kian> is a red beaded necklace."
+        },
+        {
+            "Question": "Does <Kian> have any distinctive features or details?",
+            "Answer": "<Kian> is a necklace made of large, round red beads."
+        },
+        {
+            "Question": "What's <Kian> general texture like?",
+            "Answer": "<Kian> has a smooth and glossy texture."
+        },
+        {
+            "Question": "How would you describe <Kian> overall appearance?",
+            "Answer": "<Kian> is a necklace composed of large, round, red beads, giving it a bold and striking appearance."
+        }
+    ]
+}

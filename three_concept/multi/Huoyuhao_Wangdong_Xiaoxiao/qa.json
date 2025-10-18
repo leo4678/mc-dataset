@@ -1,0 +1,22 @@
+[
+    {
+        "question": "What are the hair colors of <Huoyuhao> and <Wangdong> respectively? A.Black, Blue. B.Blue, Green",
+        "answer": "A"
+    },
+    {
+        "question": "Are <Huoyuhao>, <Wangdong>, and <Xiaoxiao> humans or animals? A.Humans. B.Animals",
+        "answer": "A"
+    },
+    {
+        "question": "What are the genders of <Huoyuhao>, <Wangdong>, and <Xiaoxiao> respectively? A.Boy, Boy, Girl. B.Girl, Boy, Boy",
+        "answer": "A"
+    },
+    {
+        "question": "Which characters often wear ornate clothing? A.<Huoyuhao> and <Xiaoxiao>. B.<Wangdong> and <Xiaoxiao>",
+        "answer": "B"
+    },
+    {
+        "question": "Do <Wangdong> and <Xiaoxiao> have similar hair colors? A.Yes. B.No",
+        "answer": "B"
+    }
+]

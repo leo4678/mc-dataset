@@ -1,0 +1,312 @@
+{
+    "three_concept/multi/haimianbaobao_paidaxing_zhangyuge_shandi/0.png": [
+        {
+            "Human": "What is <haimianbaobao> doing in the image?",
+            "AI": "<haimianbaobao> is standing and smiling with friends."
+        },
+        {
+            "Human": "What is <paidaxing> doing in the image?",
+            "AI": "<paidaxing> is standing and smiling with friends."
+        },
+        {
+            "Human": "What is <zhangyuge> doing in the image?",
+            "AI": "<zhangyuge> is standing and smiling with friends."
+        },
+        {
+            "Human": "What is <shandi> wearing in the image?",
+            "AI": "<shandi> is wearing a white space suit with a flower on the helmet."
+        },
+        {
+            "Human": "What are <haimianbaobao> and <paidaxing> doing in the image?",
+            "AI": "<haimianbaobao> and <paidaxing> are standing together and smiling."
+        },
+        {
+            "Human": "What are <haimianbaobao> and <zhangyuge> doing in the image?",
+            "AI": "<haimianbaobao> and <zhangyuge> are standing together and smiling."
+        },
+        {
+            "Human": "What are <haimianbaobao> and <shandi> wearing in the image?",
+            "AI": "<haimianbaobao> is wearing brown square pants and a white shirt, while <shandi> is wearing a white space suit with a pink flower on the helmet."
+        },
+        {
+            "Human": "What are <paidaxing> and <zhangyuge> doing in the image?",
+            "AI": "<paidaxing> and <zhangyuge> are standing together and smiling."
+        },
+        {
+            "Human": "What are <paidaxing> and <shandi> doing in the image?",
+            "AI": "<paidaxing> and <shandi> are standing together with their friends, smiling happily."
+        },
+        {
+            "Human": "What are <zhangyuge> and <shandi> doing in the image?",
+            "AI": "<zhangyuge> and <shandi> are standing together with their friends, smiling happily."
+        },
+        {
+            "Human": "What are <haimianbaobao>, <paidaxing>, and <zhangyuge> doing in the image?",
+            "AI": "<haimianbaobao>, <paidaxing>, and <zhangyuge> are standing together and smiling."
+        },
+        {
+            "Human": "What are <haimianbaobao>, <paidaxing>, and <shandi> doing in the image?",
+            "AI": "<haimianbaobao>, <paidaxing>, and <shandi> are standing together and smiling at the camera."
+        },
+        {
+            "Human": "What are <haimianbaobao>, <zhangyuge>, and <shandi> doing in the image?",
+            "AI": "<haimianbaobao>, <zhangyuge>, and <shandi> are standing together and smiling."
+        },
+        {
+            "Human": "What are <paidaxing>, <zhangyuge>, and <shandi> doing in the image?",
+            "AI": "<paidaxing>, <zhangyuge>, and <shandi> are standing together and smiling in the image."
+        },
+        {
+            "Human": "What are <haimianbaobao>, <paidaxing>, <zhangyuge>, and <shandi> doing in the image?",
+            "AI": "<haimianbaobao>, <paidaxing>, <zhangyuge>, and <shandi> are standing together and smiling at the camera."
+        }
+    ],
+    "three_concept/multi/haimianbaobao_paidaxing_zhangyuge_shandi/1.png": [
+        {
+            "Human": "What is <haimianbaobao> wearing in the image?",
+            "AI": "<haimianbaobao> is wearing brown square pants and a red tie."
+        },
+        {
+            "Human": "What is <paidaxing> wearing in the image?",
+            "AI": "<paidaxing> is wearing green shorts with purple patterns."
+        },
+        {
+            "Human": "What is <zhangyuge> wearing in the image?",
+            "AI": "<zhangyuge> is wearing a brown shirt."
+        },
+        {
+            "Human": "What is <shandi> wearing in the image?",
+            "AI": "<shandi> is wearing a white space suit with a pink flower on the helmet."
+        },
+        {
+            "Human": "What are <haimianbaobao> and <paidaxing> doing in the image?",
+            "AI": "<haimianbaobao> and <paidaxing> are standing together and smiling."
+        },
+        {
+            "Human": "What are <haimianbaobao> and <zhangyuge> wearing in the image?",
+            "AI": "<haimianbaobao> is wearing brown shorts and a red tie, while <zhangyuge> is wearing a brown shirt."
+        },
+        {
+            "Human": "What are <haimianbaobao> and <shandi> wearing in the image?",
+            "AI": "<haimianbaobao> is wearing brown square pants and a red tie, while <shandi> is wearing a white space suit with a pink flower on the helmet."
+        },
+        {
+            "Human": "What are <paidaxing> and <zhangyuge> wearing in the image?",
+            "AI": "<paidaxing> is wearing green shorts with purple patterns, and <zhangyuge> is wearing a brown shirt."
+        },
+        {
+            "Human": "What are <paidaxing> and <shandi> wearing in the image?",
+            "AI": "<paidaxing> is wearing green shorts with purple patterns, and <shandi> is wearing a white space suit with a pink flower on the helmet."
+        },
+        {
+            "Human": "What are <zhangyuge> and <shandi> wearing in the image?",
+            "AI": "<zhangyuge> is wearing a brown shirt, and <shandi> is wearing a white space suit with a pink flower on the helmet."
+        },
+        {
+            "Human": "What are <haimianbaobao>, <paidaxing>, and <zhangyuge> doing in the image?",
+            "AI": "<haimianbaobao>, <paidaxing>, and <zhangyuge> are standing together and smiling."
+        },
+        {
+            "Human": "What are <haimianbaobao>, <paidaxing>, and <shandi> doing in the image?",
+            "AI": "<haimianbaobao>, <paidaxing>, and <shandi> are standing together and smiling."
+        },
+        {
+            "Human": "What are <haimianbaobao>, <zhangyuge>, and <shandi> wearing in the image?",
+            "AI": "<haimianbaobao> is wearing brown shorts and a red tie, <zhangyuge> is wearing a brown shirt, and <shandi> is wearing a white spacesuit with a pink flower on the helmet."
+        },
+        {
+            "Human": "What is the background pattern behind <paidaxing>, <zhangyuge>, and <shandi>?",
+            "AI": "The background pattern behind <paidaxing>, <zhangyuge>, and <shandi> features various flower shapes."
+        },
+        {
+            "Human": "What are <haimianbaobao>, <paidaxing>, <zhangyuge>, and <shandi> doing in the image?",
+            "AI": "<haimianbaobao>, <paidaxing>, <zhangyuge>, and <shandi> are standing together and smiling."
+        }
+    ],
+    "three_concept/multi/haimianbaobao_paidaxing_zhangyuge_shandi/2.png": [
+        {
+            "Human": "What is <haimianbaobao> wearing in the image?",
+            "AI": "<haimianbaobao> is wearing brown square pants and a red tie."
+        },
+        {
+            "Human": "What is <paidaxing> doing in the image?",
+            "AI": "<paidaxing> is standing and smiling with friends."
+        },
+        {
+            "Human": "What is <zhangyuge> doing in the image?",
+            "AI": "<zhangyuge> is standing with arms crossed."
+        },
+        {
+            "Human": "What is <shandi> wearing in the image?",
+            "AI": "<shandi> is wearing a white suit with a helmet."
+        },
+        {
+            "Human": "What are <haimianbaobao> and <paidaxing> doing in the image?",
+            "AI": "<haimianbaobao> and <paidaxing> are standing together and smiling."
+        },
+        {
+            "Human": "What are <haimianbaobao> and <zhangyuge> doing in the image?",
+            "AI": "<haimianbaobao> and <zhangyuge> are standing together with their friends in a grassy area."
+        },
+        {
+            "Human": "What are <haimianbaobao> and <shandi> wearing in the image?",
+            "AI": "<haimianbaobao> is wearing brown square pants and a red tie, while <shandi> is wearing a white suit with a helmet."
+        },
+        {
+            "Human": "What are <paidaxing> and <zhangyuge> doing in the image?",
+            "AI": "<paidaxing> and <zhangyuge> are standing together with their friends."
+        },
+        {
+            "Human": "What are <paidaxing> and <shandi> doing in the image?",
+            "AI": "<paidaxing> and <shandi> are standing together with their friends in a cheerful setting."
+        },
+        {
+            "Human": "What are <zhangyuge> and <shandi> doing in the image?",
+            "AI": "<zhangyuge> and <shandi> are standing together with their friends in a cheerful setting."
+        },
+        {
+            "Human": "What are <haimianbaobao>, <paidaxing>, and <zhangyuge> doing in the image?",
+            "AI": "<haimianbaobao>, <paidaxing>, and <zhangyuge> are standing together and smiling in the image."
+        },
+        {
+            "Human": "What are <haimianbaobao>, <paidaxing>, and <shandi> doing in the image?",
+            "AI": "<haimianbaobao>, <paidaxing>, and <shandi> are standing together and smiling in the image."
+        },
+        {
+            "Human": "What are <haimianbaobao>, <zhangyuge>, and <shandi> doing in the image?",
+            "AI": "<haimianbaobao>, <zhangyuge>, and <shandi> are standing together and smiling in the image."
+        },
+        {
+            "Human": "What are <paidaxing>, <zhangyuge>, and <shandi> doing in the image?",
+            "AI": "<paidaxing>, <zhangyuge>, and <shandi> are standing together and smiling in the image."
+        },
+        {
+            "Human": "What are <haimianbaobao>, <paidaxing>, <zhangyuge>, and <shandi> doing in the image?",
+            "AI": "<haimianbaobao>, <paidaxing>, <zhangyuge>, and <shandi> are standing together and smiling in the image."
+        }
+    ],
+    "three_concept/multi/haimianbaobao_paidaxing_zhangyuge_shandi/3.png": [
+        {
+            "Human": "What is <haimianbaobao> wearing on their head in the image?",
+            "AI": "<haimianbaobao> is wearing a Santa hat."
+        },
+        {
+            "Human": "What is <paidaxing> wearing in the image?",
+            "AI": "<paidaxing> is wearing a white spacesuit with an acorn emblem."
+        },
+        {
+            "Human": "What is <zhangyuge> wearing on their head in the image?",
+            "AI": "<zhangyuge> is wearing a Santa hat."
+        },
+        {
+            "Human": "What is <shandi> wearing in the image?",
+            "AI": "<shandi> is wearing a white spacesuit with a helmet."
+        },
+        {
+            "Human": "What festive accessory are <haimianbaobao> and <paidaxing> wearing?",
+            "AI": "<haimianbaobao> and <paidaxing> are wearing Santa hats."
+        },
+        {
+            "Human": "What are <haimianbaobao> and <zhangyuge> wearing on their heads?",
+            "AI": "<haimianbaobao> and <zhangyuge> are wearing red Santa hats on their heads."
+        },
+        {
+            "Human": "What are <haimianbaobao> and <shandi> wearing on their heads?",
+            "AI": "<haimianbaobao> and <shandi> are wearing Santa hats."
+        },
+        {
+            "Human": "What are <paidaxing> and <zhangyuge> wearing on their heads?",
+            "AI": "<paidaxing> and <zhangyuge> are wearing Santa hats."
+        },
+        {
+            "Human": "What are <paidaxing> and <shandi> wearing on their heads?",
+            "AI": "<paidaxing> and <shandi> are wearing Santa hats."
+        },
+        {
+            "Human": "What are <zhangyuge> and <shandi> wearing on their heads?",
+            "AI": "<zhangyuge> and <shandi> are wearing Santa hats."
+        },
+        {
+            "Human": "What festive accessory are <haimianbaobao>, <paidaxing>, and <zhangyuge> wearing?",
+            "AI": "<haimianbaobao>, <paidaxing>, and <zhangyuge> are wearing Santa hats."
+        },
+        {
+            "Human": "What festive accessory are <haimianbaobao>, <paidaxing>, and <shandi> wearing?",
+            "AI": "<haimianbaobao>, <paidaxing>, and <shandi> are wearing Santa hats."
+        },
+        {
+            "Human": "What festive accessory are <haimianbaobao>, <zhangyuge>, and <shandi> wearing?",
+            "AI": "<haimianbaobao>, <zhangyuge>, and <shandi> are wearing Santa hats."
+        },
+        {
+            "Human": "What festive accessory are <paidaxing>, <zhangyuge>, and <shandi> wearing?",
+            "AI": "<paidaxing>, <zhangyuge>, and <shandi> are wearing Santa hats."
+        },
+        {
+            "Human": "What festive accessory are <haimianbaobao>, <paidaxing>, <zhangyuge>, and <shandi> wearing?",
+            "AI": "<haimianbaobao>, <paidaxing>, <zhangyuge>, and <shandi> are all wearing Santa hats."
+        }
+    ],
+    "three_concept/multi/haimianbaobao_paidaxing_zhangyuge_shandi/4.png": [
+        {
+            "Human": "What is <haimianbaobao> doing in the image?",
+            "AI": "<haimianbaobao> is standing with a cheerful expression and raising one arm."
+        },
+        {
+            "Human": "What is <paidaxing> wearing in the image?",
+            "AI": "<paidaxing> is wearing yellow shorts with a purple pattern."
+        },
+        {
+            "Human": "What is <zhangyuge> doing in the image?",
+            "AI": "<zhangyuge> is standing with a cheerful expression."
+        },
+        {
+            "Human": "What is <shandi> wearing in the image?",
+            "AI": "<shandi> is wearing a white suit with a helmet and a pink flower on it."
+        },
+        {
+            "Human": "What are <haimianbaobao> and <paidaxing> doing in the image?",
+            "AI": "<haimianbaobao> and <paidaxing> are posing happily with their friends."
+        },
+        {
+            "Human": "What are <haimianbaobao> and <zhangyuge> doing in the image?",
+            "AI": "<haimianbaobao> and <zhangyuge> are posing happily with their friends."
+        },
+        {
+            "Human": "What are <haimianbaobao> and <shandi> doing in the image?",
+            "AI": "<haimianbaobao> and <shandi> are posing happily with their friends."
+        },
+        {
+            "Human": "What are <paidaxing> and <zhangyuge> doing in the image?",
+            "AI": "<paidaxing> and <zhangyuge> are standing together with happy expressions."
+        },
+        {
+            "Human": "What are <paidaxing> and <shandi> doing in the image?",
+            "AI": "<paidaxing> and <shandi> are happily posing together with their friends."
+        },
+        {
+            "Human": "What are <zhangyuge> and <shandi> doing in the image?",
+            "AI": "<zhangyuge> and <shandi> are posing happily with their friends."
+        },
+        {
+            "Human": "What are <haimianbaobao>, <paidaxing>, and <zhangyuge> doing in the image?",
+            "AI": "<haimianbaobao>, <paidaxing>, and <zhangyuge> are posing together happily."
+        },
+        {
+            "Human": "What are <haimianbaobao>, <paidaxing>, and <shandi> doing in the image?",
+            "AI": "<haimianbaobao>, <paidaxing>, and <shandi> are posing happily together."
+        },
+        {
+            "Human": "What are <haimianbaobao>, <zhangyuge>, and <shandi> doing in the image?",
+            "AI": "<haimianbaobao>, <zhangyuge>, and <shandi> are posing happily together."
+        },
+        {
+            "Human": "What are <paidaxing>, <zhangyuge>, and <shandi> doing in the image?",
+            "AI": "<paidaxing>, <zhangyuge>, and <shandi> are posing happily together."
+        },
+        {
+            "Human": "What are <haimianbaobao>, <paidaxing>, <zhangyuge>, and <shandi> doing in the image?",
+            "AI": "<haimianbaobao>, <paidaxing>, <zhangyuge>, and <shandi> are posing happily together."
+        }
+    ]
+}

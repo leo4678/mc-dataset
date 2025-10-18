@@ -1,0 +1,52 @@
+{
+    "two_concept/multi/Tongren_Yasina/0.png": [
+        {
+            "Human": "Where is <Tongren> located in the photo? A. left B. right.",
+            "AI": "A"
+        },
+        {
+            "Human": "Where is <Yasina> located in the photo? A. left B. right.",
+            "AI": "B"
+        }
+    ],
+    "two_concept/multi/Tongren_Yasina/1.png": [
+        {
+            "Human": "Where is <Tongren> located in the photo? A. left B. right.",
+            "AI": "A"
+        },
+        {
+            "Human": "Where is <Yasina> located in the photo? A. left B. right.",
+            "AI": "B"
+        }
+    ],
+    "two_concept/multi/Tongren_Yasina/2.png": [
+        {
+            "Human": "Where is <Tongren> located in the photo? A. left B. right.",
+            "AI": "B"
+        },
+        {
+            "Human": "Where is <Yasina> located in the photo? A. left B. right.",
+            "AI": "A"
+        }
+    ],
+    "two_concept/multi/Tongren_Yasina/3.png": [
+        {
+            "Human": "Where is <Tongren> located in the photo? A. left B. right.",
+            "AI": "A"
+        },
+        {
+            "Human": "Where is <Yasina> located in the photo? A. left B. right.",
+            "AI": "B"
+        }
+    ],
+    "two_concept/multi/Tongren_Yasina/4.png": [
+        {
+            "Human": "Where is <Tongren> located in the photo? A. left B. right.",
+            "AI": "A"
+        },
+        {
+            "Human": "Where is <Yasina> located in the photo? A. left B. right.",
+            "AI": "B"
+        }
+    ]
+}

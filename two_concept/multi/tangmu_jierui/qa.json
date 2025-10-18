@@ -1,0 +1,22 @@
+[
+    {
+        "question": "Are both <tangmu> and <jierui> animals or humans? A. animal. B. human",
+        "answer": "A"
+    },
+    {
+        "question": "What are the genders of <tangmu> and <jierui> respectively? A. boy, boy. B. girl, girl",
+        "answer": "A"
+    },
+    {
+        "question": "What are the fur colors of <tangmu> and <jierui> respectively? A. grey, brown. B. brown, grey",
+        "answer": "A"
+    },
+    {
+        "question": "What type of clothing accessory does <tangmu> and <jierui> often wear? A. Scarf, Hat. B. Hat, Scarf",
+        "answer": "A"
+    },
+    {
+        "question": "Do <tangmu> and <jierui> often wear glasses? A. Yes. B. No",
+        "answer": "B"
+    }
+]

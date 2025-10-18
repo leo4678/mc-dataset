@@ -1,0 +1,312 @@
+{
+    "three_concept/multi/jiulang_mayi_wuya_shanjiaoyu/0.png": [
+        {
+            "Human": "What is <jiulang> doing in the image? A.Controlling giant puppets. B.Fighting with a sword. C.Meditating in a forest.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is the color of <mayi>'s horns in the image? A.red. B.blue. C.green.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is the color of <wuya> in the image? A.brown. B.green. C.blue.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is the primary color of <shanjiaoyu> in the image? A.brown. B.green. C.blue.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is the position of <jiulang> in relation to <mayi> in the image? A.on top of <mayi>. B.behind <mayi>. C.in front of <mayi>",
+            "AI": "A"
+        },
+        {
+            "Human": "What is the posture of <jiulang> and <wuya> in the image? A.<jiulang> is standing on <wuya>. B.<jiulang> is sitting on <wuya>. C.<jiulang> is flying above <wuya>.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is the posture of <jiulang> on <shanjiaoyu>? A.standing confidently. B.sitting relaxed. C.lying down.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is the distinguishing feature of <mayi> and <wuya> in the image? A.<mayi> has two horns and <wuya> has three eyes. B.<mayi> has three eyes and <wuya> has two horns.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is the position of <mayi> and <shanjiaoyu> in the image? A.<mayi> is on the left and <shanjiaoyu> is on the right. B.<mayi> is on the right and <shanjiaoyu> is on the left.",
+            "AI": "B"
+        },
+        {
+            "Human": "What is the position of <wuya> and <shanjiaoyu> in the image? A.<wuya> is on the left and <shanjiaoyu> is on the right. B.<wuya> is on the right and <shanjiaoyu> is on the left.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is the position of <jiulang> in relation to <mayi> and <wuya>? A.between <mayi> and <wuya>. B.behind <mayi> and <wuya>. C.in front of <mayi> and <wuya>.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is the position of <jiulang> in relation to <mayi> and <shanjiaoyu>? A.on top of <mayi> and <shanjiaoyu>. B.behind <mayi> and <shanjiaoyu>. C.in front of <mayi> and <shanjiaoyu>.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is the posture of <jiulang> in the image with <wuya> and <shanjiaoyu>? A.sitting calmly. B.standing with arms outstretched. C.lying down.",
+            "AI": "B"
+        },
+        {
+            "Human": "Which puppet is <mayi> in the image? A.The one with two horns. B.The one with three eyes. C.The mount.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is the position of <jiulang> in relation to <mayi>, <wuya>, and <shanjiaoyu>? A.Standing on <shanjiaoyu> and holding <mayi> and <wuya>. B.Sitting on <mayi> and holding <wuya> and <shanjiaoyu>. C.Standing on <wuya> and holding <mayi> and <shanjiaoyu>.",
+            "AI": "A"
+        }
+    ],
+    "three_concept/multi/jiulang_mayi_wuya_shanjiaoyu/1.png": [
+        {
+            "Human": "What is the dominant color of <jiulang>'s outfit in the image? A.black. B.red. C.blue.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is the color of the horns on <mayi>? A.red. B.blue. C.green.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is the position of <wuya> in the image? A.at the top. B.in the middle. C.at the bottom.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is the dominant color of <shanjiaoyu> in the image? A.black. B.red. C.blue.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is the position of <jiulang> in relation to <mayi> in the image? A.above. B.below. C.beside",
+            "AI": "B"
+        },
+        {
+            "Human": "What is the position of <jiulang> in the image? A.at the top. B.in the center. C.at the bottom",
+            "AI": "B"
+        },
+        {
+            "Human": "What is the position of <jiulang> in relation to <shanjiaoyu> in the image? A.in front of <shanjiaoyu>. B.behind <shanjiaoyu>. C.beside <shanjiaoyu>.",
+            "AI": "A"
+        },
+        {
+            "Human": "Which puppet has two horns in the image, <mayi> or <wuya>? A.<mayi>. B.<wuya>",
+            "AI": "A"
+        },
+        {
+            "Human": "What is the position of <mayi> and <shanjiaoyu> in the image? A.<mayi> is at the top and <shanjiaoyu> is at the bottom. B.<mayi> is at the bottom and <shanjiaoyu> is at the top.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is the position of <wuya> and <shanjiaoyu> in the image? A.<wuya> is at the top and <shanjiaoyu> is at the bottom. B.<wuya> is at the bottom and <shanjiaoyu> is at the top.",
+            "AI": "A"
+        },
+        {
+            "Human": "Which character in the image is positioned at the top with red horns? A.<jiulang> B.<mayi> C.<wuya>",
+            "AI": "B"
+        },
+        {
+            "Human": "What is the position of <jiulang> in relation to <mayi> and <shanjiaoyu> in the image? A.<jiulang> is in front of <mayi> and <shanjiaoyu>. B.<jiulang> is behind <mayi> and <shanjiaoyu>. C.<jiulang> is beside <mayi> and <shanjiaoyu>.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is the position of <jiulang> in relation to <wuya> and <shanjiaoyu>? A.in front of both. B.behind both. C.between them",
+            "AI": "A"
+        },
+        {
+            "Human": "Which character in the image is <mayi>, <wuya>, and <shanjiaoyu>? A.<mayi> is the one with two horns, <wuya> is the one with three eyes, and <shanjiaoyu> is the mount. B.<mayi> is the one with three eyes, <wuya> is the mount, and <shanjiaoyu> is the one with two horns. C.<mayi> is the mount, <wuya> is the one with two horns, and <shanjiaoyu> is the one with three eyes.",
+            "AI": "A"
+        },
+        {
+            "Human": "Which character is positioned at the top of the image? A.<jiulang> B.<mayi> C.<shanjiaoyu>",
+            "AI": "C"
+        }
+    ],
+    "three_concept/multi/jiulang_mayi_wuya_shanjiaoyu/2.png": [
+        {
+            "Human": "What is the primary color of <jiulang>'s outfit in the image? A. Black. B. Red. C. Blue.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is the distinctive feature of <mayi> in the image? A.two horns. B.wings. C.tail",
+            "AI": "A"
+        },
+        {
+            "Human": "What is the unique feature of <wuya> in the image? A.Three eyes. B.Four arms. C.Two heads.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is the primary color of <shanjiaoyu> in the image? A. Brown. B. Green. C. Blue.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is the setting of the background where <jiulang> and <mayi> are located? A. desert village. B. snowy mountain. C. dense forest.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is the setting of the background where <jiulang> and <wuya> are located? A. desert village. B. snowy mountain. C. dense forest.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is the position of <jiulang> in relation to <shanjiaoyu> in the image? A.Standing on top of <shanjiaoyu>. B.Sitting beside <shanjiaoyu>. C.Flying above <shanjiaoyu>.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is the distinguishing feature of <mayi> and <wuya> in the image? A.<mayi> has two horns and <wuya> has three eyes. B.<mayi> has three eyes and <wuya> has two horns.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is the position of <mayi> and <shanjiaoyu> in the image? A.<mayi> is on the left and <shanjiaoyu> is on the right. B.<mayi> is on the right and <shanjiaoyu> is on the left.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is the position of <wuya> in relation to <shanjiaoyu> in the image? A.above <shanjiaoyu>. B.below <shanjiaoyu>. C.beside <shanjiaoyu>.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is the unique feature of <wuya> in the image? A.two horns. B.three eyes. C.four arms.",
+            "AI": "B"
+        },
+        {
+            "Human": "What is the position of <jiulang>, <mayi>, and <shanjiaoyu> in the image? A.<jiulang> is standing on <shanjiaoyu> while <mayi> is flying. B.<jiulang> is flying, <mayi> is standing on <shanjiaoyu>. C.<jiulang> and <mayi> are both standing on <shanjiaoyu>.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is the position of <jiulang>, <wuya>, and <shanjiaoyu> in the image? A. <jiulang> is on the left, <wuya> is in the center, and <shanjiaoyu> is on the right. B. <jiulang> is in the center, <wuya> is on the left, and <shanjiaoyu> is on the right. C. <jiulang> is on the right, <wuya> is in the center, and <shanjiaoyu> is on the left.",
+            "AI": "B"
+        },
+        {
+            "Human": "Which character in the image is depicted with two horns? A. <mayi> B. <wuya> C. <shanjiaoyu>",
+            "AI": "A"
+        },
+        {
+            "Human": "What is the position of <jiulang> in relation to <mayi>, <wuya>, and <shanjiaoyu>? A.Standing in front of them. B.Standing behind them. C.Standing beside them.",
+            "AI": "A"
+        }
+    ],
+    "three_concept/multi/jiulang_mayi_wuya_shanjiaoyu/3.png": [
+        {
+            "Human": "What is the color of the scarf worn by <jiulang>? A.red. B.blue. C.green.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is the color of the horns on <mayi>? A.red. B.blue. C.green.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is the distinctive feature of <wuya> in the image? A.Three eyes. B.Two horns. C.Four arms.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is the distinctive feature of <shanjiaoyu> in the image? A. Red horns. B. Blue eyes. C. Green scales.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is the color of the horns on <mayi> in the image? A.red. B.blue. C.green.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is the position of <jiulang> in relation to <wuya> in the image? A.behind <wuya>. B.in front of <wuya>. C.beside <wuya>.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is the position of <jiulang> in relation to <shanjiaoyu> in the image? A.Standing in front of <shanjiaoyu>. B.Standing behind <shanjiaoyu>. C.Standing beside <shanjiaoyu>.",
+            "AI": "B"
+        },
+        {
+            "Human": "Which puppet has two horns in the image, <mayi> or <wuya>? A.<mayi>. B.<wuya>",
+            "AI": "A"
+        },
+        {
+            "Human": "What is the expression of <mayi> and <shanjiaoyu> in the image? A.angry. B.calm. C.excited",
+            "AI": "A"
+        },
+        {
+            "Human": "What is the distinctive feature of <wuya> and <shanjiaoyu> in the image? A.<wuya> has three eyes and <shanjiaoyu> has horns. B.<wuya> has horns and <shanjiaoyu> has three eyes.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is the position of <jiulang> in relation to <mayi> and <wuya>? A.in front of them. B.behind them. C.beside them.",
+            "AI": "B"
+        },
+        {
+            "Human": "What is the position of <jiulang> in relation to <mayi> and <shanjiaoyu> in the image? A. In front of them. B. Behind them. C. Between them.",
+            "AI": "B"
+        },
+        {
+            "Human": "What is the position of <jiulang> in relation to <wuya> and <shanjiaoyu>? A. In front of them. B. Behind them. C. Above them.",
+            "AI": "B"
+        },
+        {
+            "Human": "Which puppet has three eyes in the image? A.<mayi> B.<wuya> C.<shanjiaoyu>",
+            "AI": "B"
+        },
+        {
+            "Human": "Which character in the image has three eyes? A.<jiulang> B.<mayi> C.<wuya>",
+            "AI": "C"
+        }
+    ],
+    "three_concept/multi/jiulang_mayi_wuya_shanjiaoyu/4.png": [
+        {
+            "Human": "What is the color of <jiulang>'s outfit in the image? A.black. B.white. C.red.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is the color of the background behind <mayi>? A.blue and green. B.red and yellow. C.purple and orange.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is the color of the background behind <wuya>? A.blue and green. B.red and yellow. C.purple and orange.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is the color scheme of the background behind <shanjiaoyu>? A.blue and green. B.red and yellow. C.purple and orange.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is the color of the background behind <jiulang> and <mayi>? A.blue and green. B.red and yellow. C.purple and orange.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is the color of the background behind <jiulang> and <wuya>? A.blue and green. B.red and yellow. C.purple and orange.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is the color of the background behind <jiulang> and <shanjiaoyu>? A.blue and green. B.red and yellow. C.purple and orange.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is the background color behind <mayi> and <wuya>? A.blue and green. B.red and yellow. C.purple and orange.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is the color of the background behind <mayi> and <shanjiaoyu>? A.blue and green. B.red and yellow. C.purple and orange.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is the color of the background behind <wuya> and <shanjiaoyu>? A.blue and green. B.red and yellow. C.purple and orange.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is the color of the background behind <jiulang>, <mayi>, and <wuya>? A. Blue and green. B. Red and yellow. C. Black and white.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is the color of the background behind <jiulang>, <mayi>, and <shanjiaoyu>? A.blue and green. B.red and yellow. C.purple and orange.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is the color of the background behind <jiulang>, <wuya>, and <shanjiaoyu>? A.blue and green. B.red and yellow. C.purple and orange.",
+            "AI": "A"
+        },
+        {
+            "Human": "Which character in the image has two horns? A.<mayi> B.<wuya> C.<shanjiaoyu>",
+            "AI": "A"
+        },
+        {
+            "Human": "What is the color of the background behind <jiulang>, <mayi>, <wuya>, and <shanjiaoyu>? A.blue and green. B.red and yellow. C.purple and orange.",
+            "AI": "A"
+        }
+    ]
+}

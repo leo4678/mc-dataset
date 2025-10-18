@@ -1,0 +1,72 @@
+{
+    "two_concept/multi/Jack_Rose/0.png": [
+        {
+            "Human": "What type of clothing is <Jack> wearing? A. T-shirt B. Shirt with suspenders C. Jacket",
+            "AI": "B"
+        },
+        {
+            "Human": "What is the hair color of <Rose>? A. Blonde B. Brown C. Black",
+            "AI": "B"
+        },
+        {
+            "Human": "What color is <Rose>'s hair? A. Blonde B. Brown C. Red",
+            "AI": "C"
+        }
+    ],
+    "two_concept/multi/Jack_Rose/1.png": [
+        {
+            "Human": "What type of event is <Jack> attending in the image? A. Wedding. B. Formal party. C. Casual gathering.",
+            "AI": "B"
+        },
+        {
+            "Human": "What type of jewelry is <Rose> wearing in the image? A. Necklace and earrings. B. Bracelet and ring.",
+            "AI": "A"
+        },
+        {
+            "Human": "What type of event are <Jack> and <Rose> attending? A. A wedding. B. A formal party. C. A casual gathering.",
+            "AI": "B"
+        }
+    ],
+    "two_concept/multi/Jack_Rose/2.png": [
+        {
+            "Human": "What is <Jack> wearing in the image? A. A white shirt with a vest. B. A black jacket. C. A red coat.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is <Rose> wearing in the image? A. A white and gold dress. B. A blue and silver dress.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is <Rose> wearing in the image? A. A white and gold dress. B. A blue and silver dress.",
+            "AI": "A"
+        }
+    ],
+    "two_concept/multi/Jack_Rose/3.png": [
+        {
+            "Human": "What is <Jack> wearing in the image? A. A suit. B. A robe. C. A jacket.",
+            "AI": "B"
+        },
+        {
+            "Human": "What is the hair color of <Rose>? A. Blonde B. Red C. Black",
+            "AI": "B"
+        },
+        {
+            "Human": "What is the hair color of <Jack> and <Rose>? A.<Jack> has blonde hair and <Rose> has red hair. B.<Jack> has black hair and <Rose> has brown hair. C.<Jack> has brown hair and <Rose> has blonde hair.",
+            "AI": "A"
+        }
+    ],
+    "two_concept/multi/Jack_Rose/4.png": [
+        {
+            "Human": "What is the hair color of <Jack>? A.blonde. B.brown. C.black",
+            "AI": "B"
+        },
+        {
+            "Human": "What color is <Rose>'s hair? A. Blonde B. Red C. Black",
+            "AI": "B"
+        },
+        {
+            "Human": "What is the hair color of <Rose>? A.blonde. B.red. C.black",
+            "AI": "B"
+        }
+    ]
+}

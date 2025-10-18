@@ -1,0 +1,32 @@
+{
+    "0.jpg": {
+        "<zhongtangxi>": "left",
+        "<sanchengmeiqin>": "middle left",
+        "<jiubuliulang>": "middle right",
+        "<donghailinxizi>": "right"
+    },
+    "1.jpg": {
+        "<zhongtangxi>": null,
+        "<sanchengmeiqin>": "middle",
+        "<jiubuliulang>": "left",
+        "<donghailinxizi>": "right"
+    },
+    "2.jpg": {
+        "<zhongtangxi>": "right",
+        "<sanchengmeiqin>": "middle",
+        "<jiubuliulang>": "left",
+        "<donghailinxizi>": null
+    },
+    "3.jpg": {
+        "<zhongtangxi>": "right",
+        "<sanchengmeiqin>": "middle",
+        "<jiubuliulang>": "left",
+        "<donghailinxizi>": null
+    },
+    "4.jpg": {
+        "<zhongtangxi>": "left",
+        "<sanchengmeiqin>": "middle left",
+        "<jiubuliulang>": "middle right",
+        "<donghailinxizi>": "right"
+    }
+}

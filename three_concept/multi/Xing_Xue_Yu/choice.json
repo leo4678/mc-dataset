@@ -1,0 +1,152 @@
+{
+    "three_concept/multi/Xing_Xue_Yu/0.png": [
+        {
+            "Human": "What is <Xing> wearing in the image? A.a black and white outfit. B.a red and blue outfit.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is <Xue> wearing in the image? A.a black dress with a white collar. B.a red sweater. C.a blue jacket",
+            "AI": "A"
+        },
+        {
+            "Human": "What is <Yu> wearing in the image? A.a white shirt. B.a black and white outfit.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is the color of the clothing worn by <Xing> and <Xue>? A.black and white. B.red and blue. C.green and yellow.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is the color of the clothing worn by <Xing> and <Yu>? A.black and white. B.red and blue. C.green and yellow.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is the color of <Xue>'s clothing? A.black. B.white. C.red",
+            "AI": "A"
+        },
+        {
+            "Human": "What is the color of the clothing worn by <Xing>, <Xue>, and <Yu>? A.black and white. B.red and blue. C.green and yellow.",
+            "AI": "A"
+        }
+    ],
+    "three_concept/multi/Xing_Xue_Yu/1.png": [
+        {
+            "Human": "What is <Xing> wearing in the image? A.white t-shirt. B.red t-shirt. C.green t-shirt.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is <Xue> wearing in the image? A.red shirt. B.blue shirt. C.green shirt.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is <Yu> doing in the image? A.sitting on the couch. B.standing by the table.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is the color of the shirt worn by <Xing> and <Xue>? A.white and red. B.blue and green. C.black and yellow.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is the color of the shirt worn by <Xing>? A.white. B.red. C.green",
+            "AI": "A"
+        },
+        {
+            "Human": "What is the color of the shirt worn by <Xue>? A.red. B.blue. C.green",
+            "AI": "A"
+        },
+        {
+            "Human": "What is the main color of the shirt worn by <Xing>, <Xue>, and <Yu>? A.White. B.Red. C.Green and blue stripes.",
+            "AI": "A"
+        }
+    ],
+    "three_concept/multi/Xing_Xue_Yu/2.png": [
+        {
+            "Human": "What color is <Xing>'s shirt? A.orange. B.green. C.blue",
+            "AI": "A"
+        },
+        {
+            "Human": "What color is <Xue>'s shirt? A.green. B.blue. C.red.",
+            "AI": "A"
+        },
+        {
+            "Human": "What color is <Yu>'s shirt? A.white. B.green. C.orange",
+            "AI": "A"
+        },
+        {
+            "Human": "What color is <Xing>'s shirt? A.orange. B.green. C.blue",
+            "AI": "A"
+        },
+        {
+            "Human": "What color is the shirt of <Xing> and <Yu>? A.orange and white. B.green and blue. C.red and yellow.",
+            "AI": "A"
+        },
+        {
+            "Human": "What color is <Xue>'s shirt? A.green. B.blue. C.red",
+            "AI": "A"
+        },
+        {
+            "Human": "What color is the clothing of <Xing>, <Xue>, and <Yu>? A.orange, yellow, white. B.red, green, blue. C.black, pink, gray.",
+            "AI": "A"
+        }
+    ],
+    "three_concept/multi/Xing_Xue_Yu/3.png": [
+        {
+            "Human": "What is <Xing> wearing in the image? A.a black and white sweater. B.a blue jacket. C.a red shirt.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is <Xue> wearing in the image? A.a blue sweater. B.a red jacket.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is <Yu> doing in the image? A.posing with arms outstretched. B.sitting quietly.",
+            "AI": "A"
+        },
+        {
+            "Human": "What are <Xing> and <Xue> doing in the image? A.posing with arms outstretched. B.sitting quietly. C.running.",
+            "AI": "A"
+        },
+        {
+            "Human": "What are <Xing> and <Yu> doing in the image? A.posing with arms outstretched. B.sitting quietly.",
+            "AI": "A"
+        },
+        {
+            "Human": "What are <Xue> and <Yu> doing in the image? A.dancing. B.playing a game. C.reading a book.",
+            "AI": "A"
+        },
+        {
+            "Human": "What are <Xing>, <Xue>, and <Yu> doing in the image? A.dancing. B.playing a game. C.sitting quietly.",
+            "AI": "A"
+        }
+    ],
+    "three_concept/multi/Xing_Xue_Yu/4.png": [
+        {
+            "Human": "What is <Xing> wearing in the image? A.pink shirt. B.blue jacket. C.green sweater.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is <Xue> wearing in the image? A.pink shirt. B.blue shirt. C.white shirt",
+            "AI": "A"
+        },
+        {
+            "Human": "What is <Yu> wearing in the image? A.pink shirt. B.blue shirt. C.green shirt.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is <Xing> wearing in the image? A.pink shirt. B.blue jacket. C.green sweater.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is <Xing> wearing in the image? A.pink shirt. B.blue jacket. C.green sweater.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is <Yu> wearing in the image? A.a pink shirt. B.a blue shirt. C.a black shirt",
+            "AI": "A"
+        },
+        {
+            "Human": "What is <Xing> wearing in the image? A.pink shirt. B.blue jacket. C.green sweater.",
+            "AI": "A"
+        }
+    ]
+}

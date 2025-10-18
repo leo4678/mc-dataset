@@ -1,0 +1,72 @@
+{
+    "two_concept/multi/Chen Shi_Zhao Guohui/0.png": [
+        {
+            "Human": "What traditional clothing is <Chen Shi> wearing?",
+            "AI": "<Chen Shi> is wearing a traditional hat, a dark maroon top, and a long white dress."
+        },
+        {
+            "Human": "What is <Zhao Guohui> wearing in the image?",
+            "AI": "<Zhao Guohui> is wearing a green dress and light-colored shoes."
+        },
+        {
+            "Human": "What are <Chen Shi> and <Zhao Guohui> wearing in the image?",
+            "AI": "<Chen Shi> is wearing traditional attire with a hat, and <Zhao Guohui> is wearing a green dress."
+        }
+    ],
+    "two_concept/multi/Chen Shi_Zhao Guohui/1.png": [
+        {
+            "Human": "What color is the traditional outfit that <Chen Shi> is wearing in the image?",
+            "AI": "<Chen Shi> is wearing a maroon traditional outfit."
+        },
+        {
+            "Human": "What clothing is <Zhao Guohui> wearing in the image?",
+            "AI": "<Zhao Guohui> is wearing a green traditional Chinese outfit in the image."
+        },
+        {
+            "Human": "What type of clothing are <Chen Shi> and <Zhao Guohui> wearing in the image?",
+            "AI": "<Chen Shi> is wearing a red traditional outfit, while <Zhao Guohui> is wearing a green traditional outfit."
+        }
+    ],
+    "two_concept/multi/Chen Shi_Zhao Guohui/2.png": [
+        {
+            "Human": "What type of clothing is <Chen Shi> wearing in the image?",
+            "AI": "<Chen Shi> is wearing traditional clothing and a hat."
+        },
+        {
+            "Human": "What is the outfit of <Zhao Guohui> in the image?",
+            "AI": "<Zhao Guohui> is wearing a red traditional dress with floral patterns."
+        },
+        {
+            "Human": "What is the attire of <Chen Shi> and <Zhao Guohui> in the image?",
+            "AI": "<Chen Shi> is wearing a traditional light blue outfit and a straw hat, while <Zhao Guohui> is wearing a red cheongsam with floral patterns."
+        }
+    ],
+    "two_concept/multi/Chen Shi_Zhao Guohui/3.png": [
+        {
+            "Human": "What is <Chen Shi> doing in the image?",
+            "AI": "<Chen Shi> is rowing a boat."
+        },
+        {
+            "Human": "What type of clothing is <Zhao Guohui> wearing in the image?",
+            "AI": "<Zhao Guohui> is wearing a traditional Chinese dress, also known as a cheongsam or qipao, in the image."
+        },
+        {
+            "Human": "What are <Chen Shi> and <Zhao Guohui> doing in the image?",
+            "AI": "<Chen Shi> is rowing a boat, while <Zhao Guohui> is sitting beside him."
+        }
+    ],
+    "two_concept/multi/Chen Shi_Zhao Guohui/4.png": [
+        {
+            "Human": "What is <Chen Shi> wearing in the image?",
+            "AI": "<Chen Shi> is wearing a traditional Chinese garment."
+        },
+        {
+            "Human": "What type of clothing is <Zhao Guohui> wearing in the image?",
+            "AI": "<Zhao Guohui> is wearing a traditional Chinese outfit with a high collar and toggle buttons."
+        },
+        {
+            "Human": "What kind of outfit is <Chen Shi> wearing in the image?",
+            "AI": "<Chen Shi> is wearing a traditional Chinese jacket in the image."
+        }
+    ]
+}

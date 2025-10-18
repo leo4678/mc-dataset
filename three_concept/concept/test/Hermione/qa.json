@@ -1,0 +1,22 @@
+[
+    {
+        "question": "What is <Hermione>'s hair color? A.Brown.  B.Black",
+        "answer": "A"
+    },
+    {
+        "question": "What type of clothing does <Hermione> often wear? A.Robes.  B.Armor",
+        "answer": "A"
+    },
+    {
+        "question": "Is <Hermione> a student or a teacher? A.Student.  B.Teacher",
+        "answer": "A"
+    },
+    {
+        "question": "What is <Hermione>'s gender? A.Boy.  B.Girl",
+        "answer": "B"
+    },
+    {
+        "question": "Does <Hermione> have curly or straight hair? A.Curly.  B.Straight",
+        "answer": "A"
+    }
+]

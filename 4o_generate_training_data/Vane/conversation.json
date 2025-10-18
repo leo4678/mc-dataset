@@ -1,0 +1,422 @@
+{
+    "three_concept/three_concept/concept/train/Vane/0.png": [
+        {
+            "Question": "What color is <Vane>?",
+            "Answer": "<Vane> is yellow and orange."
+        },
+        {
+            "Question": "What shape does <Vane> have?",
+            "Answer": "<Vane> has a circular shape with orange petal-like extensions around it."
+        },
+        {
+            "Question": "What is the overall vibe of <Vane>?",
+            "Answer": "<Vane> has a cheerful and playful vibe, with its bright yellow and orange colors and a smiling face."
+        },
+        {
+            "Question": "What material is <Vane> made of?",
+            "Answer": "<Vane> appears to be made of a smooth, solid material resembling painted metal or plastic."
+        },
+        {
+            "Question": "What size is this <Vane>?",
+            "Answer": "The size of <Vane> is large, as it is a prominent feature on the front of a ship."
+        },
+        {
+            "Question": "Does <Vane> have any patterns or markings?",
+            "Answer": "<Vane> has orange petal-like extensions with black line markings."
+        },
+        {
+            "Question": "What type of <Vane> is this subject?",
+            "Answer": "This <Vane> is a stylized anime figurehead resembling a lion's face with a sun-like mane, featuring yellow and orange colors."
+        },
+        {
+            "Question": "Does <Vane> have any distinctive features or details?",
+            "Answer": "<Vane> has a distinctive design with a round, yellow face resembling a bear, large black eyes, and an orange mane-like structure surrounding its face."
+        },
+        {
+            "Question": "What's <Vane> general texture like?",
+            "Answer": "<Vane> has a smooth and glossy texture."
+        },
+        {
+            "Question": "How would you describe <Vane> overall appearance?",
+            "Answer": "<Vane> has a round, yellow face with large, expressive eyes and a small, brown nose. It is surrounded by orange, petal-like structures, giving it a sun-like appearance."
+        }
+    ],
+    "three_concept/three_concept/concept/train/Vane/1.png": [
+        {
+            "Question": "What color is <Vane>?",
+            "Answer": "<Vane> is yellow and orange."
+        },
+        {
+            "Question": "What shape does <Vane> have?",
+            "Answer": "<Vane> has a fish-like shape with a round head, prominent fins, and a streamlined body."
+        },
+        {
+            "Question": "What is the overall vibe of <Vane>?",
+            "Answer": "<Vane> has a playful and whimsical vibe, with its bright yellow and orange colors and anime-style design."
+        },
+        {
+            "Question": "What material is <Vane> made of?",
+            "Answer": "<Vane> appears to be made of a combination of metal and synthetic materials, typical of a biotechnical creature design."
+        },
+        {
+            "Question": "What size is this <Vane>?",
+            "Answer": "The <Vane> is small in size, resembling a decorative figure on the side of a ship."
+        },
+        {
+            "Question": "Does <Vane> have any patterns or markings?",
+            "Answer": "<Vane> has a pattern of orange stripes on its yellow head."
+        },
+        {
+            "Question": "What type of <Vane> is this subject?",
+            "Answer": "This <Vane> is a decorative figurehead resembling a lion's head with a mane, in yellow and orange colors, attached to a ship's bow."
+        },
+        {
+            "Question": "Does <Vane> have any distinctive features or details?",
+            "Answer": "<Vane> has a distinctive anime style head with a yellow face and orange, fin-like structures resembling hair or a mane. It also features a smiling expression and is part of a biotechnical creature with bone-like limbs."
+        },
+        {
+            "Question": "What's <Vane> general texture like?",
+            "Answer": "<Vane> has a smooth and shiny texture, with a sleek, metallic appearance."
+        },
+        {
+            "Question": "How would you describe <Vane> overall appearance?",
+            "Answer": "<Vane> has a vibrant anime style appearance with a yellow and orange color scheme, featuring a head resembling a fish with a smiling face and prominent fin-like structures."
+        }
+    ],
+    "three_concept/three_concept/concept/train/Vane/2.png": [
+        {
+            "Question": "What color is <Vane>?",
+            "Answer": "<Vane> is yellow and orange."
+        },
+        {
+            "Question": "What shape does <Vane> have?",
+            "Answer": "<Vane> has a circular shape with orange petal-like extensions and a face resembling a sun."
+        },
+        {
+            "Question": "What is the overall vibe of <Vane>?",
+            "Answer": "<Vane> has a cheerful and playful vibe, with its bright yellow and orange colors and a sun-like design."
+        },
+        {
+            "Question": "What material is <Vane> made of?",
+            "Answer": "<Vane> appears to be made of wood and metal."
+        },
+        {
+            "Question": "What size is this <Vane>?",
+            "Answer": "The size of <Vane> is not directly discernible from the image alone, as there is no reference for scale."
+        },
+        {
+            "Question": "Does <Vane> have any patterns or markings?",
+            "Answer": "<Vane> has a circular face with a simple design, featuring a yellow color and orange petal-like extensions, but no distinct patterns or markings."
+        },
+        {
+            "Question": "What type of <Vane> is this subject?",
+            "Answer": "This <Vane> is a decorative figurehead resembling a sun with a smiling face, featuring yellow and orange colors."
+        },
+        {
+            "Question": "Does <Vane> have any distinctive features or details?",
+            "Answer": "<Vane> has a distinctive sun-like face with a yellow center and orange rays, resembling a lion's mane, and is adorned with white bone-like structures."
+        },
+        {
+            "Question": "What's <Vane> general texture like?",
+            "Answer": "<Vane> has a smooth and shiny texture, resembling a polished surface."
+        },
+        {
+            "Question": "How would you describe <Vane> overall appearance?",
+            "Answer": "<Vane> has a round, sun-like face with a yellow center and orange, petal-like extensions. It features large, circular eyes and a small, round nose, giving it a cheerful and animated expression. The design is complemented by white bone-like structures extending from the sides."
+        }
+    ],
+    "three_concept/three_concept/concept/train/Vane/3.png": [
+        {
+            "Question": "What color is <Vane>?",
+            "Answer": "<Vane> is yellow and orange."
+        },
+        {
+            "Question": "What shape does <Vane> have?",
+            "Answer": "<Vane> has a circular shape with petal-like extensions resembling a sunflower."
+        },
+        {
+            "Question": "What is the overall vibe of <Vane>?",
+            "Answer": "<Vane> has a cheerful and playful vibe, with its bright yellow and orange colors and a smiling face."
+        },
+        {
+            "Question": "What material is <Vane> made of?",
+            "Answer": "<Vane> appears to be made of a smooth, shiny material resembling plastic or metal."
+        },
+        {
+            "Question": "What size is this <Vane>?",
+            "Answer": "The size of <Vane> is relatively large, as it is prominently featured on the front of a ship, suggesting it is a significant and noticeable part of the vessel's design."
+        },
+        {
+            "Question": "Does <Vane> have any patterns or markings?",
+            "Answer": "<Vane> has a simple design with no distinct patterns or markings, featuring a yellow face with a white snout and orange petal-like extensions."
+        },
+        {
+            "Question": "What type of <Vane> is this subject?",
+            "Answer": "This <Vane> is a decorative figurehead resembling a lion's face with a sun-like mane, typically found on the ship Thousand Sunny from the anime One Piece."
+        },
+        {
+            "Question": "Does <Vane> have any distinctive features or details?",
+            "Answer": "<Vane> has a distinctive sun-like design with a yellow face, orange petal-like extensions, and a smiling expression. It is positioned above a crossbones symbol."
+        },
+        {
+            "Question": "What's <Vane> general texture like?",
+            "Answer": "<Vane> has a smooth and shiny texture."
+        },
+        {
+            "Question": "How would you describe <Vane> overall appearance?",
+            "Answer": "<Vane> has a round, yellow face with a cheerful expression, featuring large eyes and a small mouth. It is surrounded by orange, petal-like structures, resembling a sun or flower, and is set against a background with a crossbones motif."
+        }
+    ],
+    "three_concept/three_concept/concept/train/Vane/4.png": [
+        {
+            "Question": "What color is <Vane>?",
+            "Answer": "<Vane> is yellow and orange."
+        },
+        {
+            "Question": "What shape does <Vane> have?",
+            "Answer": "<Vane> has a round shape with sun-like rays extending outward."
+        },
+        {
+            "Question": "What is the overall vibe of <Vane>?",
+            "Answer": "<Vane> has a playful and cheerful vibe, with its bright yellow and orange colors and a smiling face."
+        },
+        {
+            "Question": "What material is <Vane> made of?",
+            "Answer": "<Vane> appears to be made of a hard, smooth material, likely fiberglass or plastic, given its shiny surface and structural design."
+        },
+        {
+            "Question": "What size is this <Vane>?",
+            "Answer": "The <Vane> is large, as it is part of a ship's figurehead, prominently displayed at the front of the vessel."
+        },
+        {
+            "Question": "Does <Vane> have any patterns or markings?",
+            "Answer": "<Vane> has a simple design with no distinct patterns or markings, featuring a smooth yellow and orange surface with large, round eyes and a small nose."
+        },
+        {
+            "Question": "What type of <Vane> is this subject?",
+            "Answer": "This <Vane> is a figurehead of a ship, designed in an anime style with a sun-like appearance, featuring yellow and orange colors."
+        },
+        {
+            "Question": "Does <Vane> have any distinctive features or details?",
+            "Answer": "<Vane> has a distinctive sun-like design with a round yellow face, large black eyes, a small nose, and orange triangular rays extending outward, resembling a sunburst."
+        },
+        {
+            "Question": "What's <Vane> general texture like?",
+            "Answer": "<Vane>'s general texture is smooth and shiny, resembling a polished surface."
+        },
+        {
+            "Question": "How would you describe <Vane> overall appearance?",
+            "Answer": "<Vane> has a bright and cheerful appearance, featuring a large, round yellow face with big, expressive eyes and a small nose. It is surrounded by orange, sun-like rays, giving it a vibrant and lively look."
+        }
+    ],
+    "three_concept/three_concept/concept/train/Vane/5.png": [
+        {
+            "Question": "What color is <Vane>?",
+            "Answer": "<Vane> is yellow and orange."
+        },
+        {
+            "Question": "What shape does <Vane> have?",
+            "Answer": "<Vane> has a circular shape with orange, petal-like extensions radiating outward."
+        },
+        {
+            "Question": "What is the overall vibe of <Vane>?",
+            "Answer": "<Vane> has a cheerful and whimsical vibe, with its bright yellow and orange colors and a smiling face."
+        },
+        {
+            "Question": "What material is <Vane> made of?",
+            "Answer": "The image does not provide enough detail to determine the specific material <Vane> is made of."
+        },
+        {
+            "Question": "What size is this <Vane>?",
+            "Answer": "The size of <Vane> cannot be determined from the image alone, as there is no reference for scale."
+        },
+        {
+            "Question": "Does <Vane> have any patterns or markings?",
+            "Answer": "<Vane> has a circular face with a simple smile and two black eyes, surrounded by orange petal-like structures."
+        },
+        {
+            "Question": "What type of <Vane> is this subject?",
+            "Answer": "This <Vane> is a stylized sun-like face with a circular yellow center and orange triangular rays, resembling a cheerful anime-style emblem."
+        },
+        {
+            "Question": "Does <Vane> have any distinctive features or details?",
+            "Answer": "<Vane> has a sun-like face with a circular yellow center and orange triangular rays extending outward, resembling a sunburst pattern."
+        },
+        {
+            "Question": "What's <Vane> general texture like?",
+            "Answer": "<Vane> has a smooth and shiny texture."
+        },
+        {
+            "Question": "How would you describe <Vane> overall appearance?",
+            "Answer": "<Vane> has a circular face with a smiling expression, surrounded by orange, petal-like structures resembling a sunburst, and is predominantly yellow and orange in color."
+        }
+    ],
+    "three_concept/three_concept/concept/train/Vane/6.png": [
+        {
+            "Question": "What color is <Vane>?",
+            "Answer": "<Vane> is yellow and orange."
+        },
+        {
+            "Question": "What shape does <Vane> have?",
+            "Answer": "<Vane> has a round shape with a sun-like appearance, featuring a yellow face and orange petal-like extensions."
+        },
+        {
+            "Question": "What is the overall vibe of <Vane>?",
+            "Answer": "The overall vibe of <Vane> is cheerful and playful, with its bright yellow and orange colors and a smiling expression."
+        },
+        {
+            "Question": "What material is <Vane> made of?",
+            "Answer": "<Vane> appears to be made of wood and metal."
+        },
+        {
+            "Question": "What size is this <Vane>?",
+            "Answer": "The <Vane> appears to be large, as it is part of a ship's figurehead."
+        },
+        {
+            "Question": "Does <Vane> have any patterns or markings?",
+            "Answer": "<Vane> has a simple design without any distinct patterns or markings."
+        },
+        {
+            "Question": "What type of <Vane> is this subject?",
+            "Answer": "This <Vane> is a figurehead resembling a lion, characterized by its anime style and yellow and orange colors."
+        },
+        {
+            "Question": "Does <Vane> have any distinctive features or details?",
+            "Answer": "<Vane> has a distinctive design with a yellow face and orange mane-like features resembling a sun. It also has a playful expression and is part of a larger structure with a red and gold color scheme, featuring crossbones."
+        },
+        {
+            "Question": "What's <Vane> general texture like?",
+            "Answer": "<Vane> has a smooth and shiny texture, resembling a polished surface."
+        },
+        {
+            "Question": "How would you describe <Vane> overall appearance?",
+            "Answer": "<Vane> has a vibrant and cheerful appearance, featuring a round yellow face with a wide smile and large eyes. It is adorned with orange, petal-like structures around its head, resembling a sun or flower, and is set against a backdrop of red and gold elements with white bone-like structures."
+        }
+    ],
+    "three_concept/three_concept/concept/train/Vane/7.png": [
+        {
+            "Question": "What color is <Vane>?",
+            "Answer": "<Vane> is yellow and orange."
+        },
+        {
+            "Question": "What shape does <Vane> have?",
+            "Answer": "<Vane> has a circular shape with a lion-like face and orange triangular spikes radiating outward."
+        },
+        {
+            "Question": "What is the overall vibe of <Vane>?",
+            "Answer": "The overall vibe of <Vane> is playful and cheerful, with its bright yellow and orange colors and a smiling face."
+        },
+        {
+            "Question": "What material is <Vane> made of?",
+            "Answer": "<Vane> appears to be made of a smooth, shiny material resembling metal or plastic."
+        },
+        {
+            "Question": "What size is this <Vane>?",
+            "Answer": "The size of <Vane> cannot be determined from the image alone, as there is no reference for scale."
+        },
+        {
+            "Question": "Does <Vane> have any patterns or markings?",
+            "Answer": "<Vane> does not have any distinct patterns or markings; it features a smooth yellow and orange color scheme."
+        },
+        {
+            "Question": "What type of <Vane> is this subject?",
+            "Answer": "This is a figurehead type of <Vane>, resembling a lion's head with a sun-like design in yellow and orange colors."
+        },
+        {
+            "Question": "Does <Vane> have any distinctive features or details?",
+            "Answer": "<Vane> has a distinctive lion-like face with a yellow and orange color scheme, featuring a mane made of pointed orange spikes and a circular metallic frame with bolts."
+        },
+        {
+            "Question": "What's <Vane> general texture like?",
+            "Answer": "<Vane> has a smooth and glossy texture."
+        },
+        {
+            "Question": "How would you describe <Vane> overall appearance?",
+            "Answer": "<Vane> has a vibrant and playful appearance, featuring a yellow and orange color scheme with a sun-like design. It has a round face with a smiling expression, large black eyes, and orange spikes radiating outward, resembling sun rays."
+        }
+    ],
+    "three_concept/three_concept/concept/train/Vane/8.png": [
+        {
+            "Question": "What color is <Vane>?",
+            "Answer": "<Vane> is yellow and orange."
+        },
+        {
+            "Question": "What shape does <Vane> have?",
+            "Answer": "<Vane> has a spherical shape with protruding orange spikes and a circular base."
+        },
+        {
+            "Question": "What is the overall vibe of <Vane>?",
+            "Answer": "The overall vibe of <Vane> is playful and vibrant, with its bright yellow and orange colors and anime-style design."
+        },
+        {
+            "Question": "What material is <Vane> made of?",
+            "Answer": "<Vane> appears to be made of a smooth, glossy plastic material."
+        },
+        {
+            "Question": "What size is this <Vane>?",
+            "Answer": "The size of <Vane> cannot be determined from the image alone as there is no reference for scale."
+        },
+        {
+            "Question": "Does <Vane> have any patterns or markings?",
+            "Answer": "<Vane> does not have any distinct patterns or markings; it is primarily yellow with orange spikes."
+        },
+        {
+            "Question": "What type of <Vane> is this subject?",
+            "Answer": "This <Vane> is a stylized, anime-inspired head of a biotechnical creature with a yellow and orange color scheme, featuring a circular design with protruding spikes."
+        },
+        {
+            "Question": "Does <Vane> have any distinctive features or details?",
+            "Answer": "<Vane> has a distinctive anime style with a yellow head, orange spikes, and a circular metallic frame with bolts."
+        },
+        {
+            "Question": "What's <Vane> general texture like?",
+            "Answer": "<Vane> has a smooth and glossy texture."
+        },
+        {
+            "Question": "How would you describe <Vane> overall appearance?",
+            "Answer": "<Vane> has a vibrant anime style appearance with a yellow head and orange spiky features, resembling a biotechnical creature."
+        }
+    ],
+    "three_concept/three_concept/concept/train/Vane/9.png": [
+        {
+            "Question": "What color is <Vane>?",
+            "Answer": "<Vane> is yellow and orange."
+        },
+        {
+            "Question": "What shape does <Vane> have?",
+            "Answer": "<Vane> has a circular shape with a smiling face, surrounded by petal-like structures in yellow and orange colors."
+        },
+        {
+            "Question": "What is the overall vibe of <Vane>?",
+            "Answer": "<Vane> has a cheerful and playful vibe, with its bright yellow and orange colors and a big smiling face."
+        },
+        {
+            "Question": "What material is <Vane> made of?",
+            "Answer": "<Vane> appears to be made of a stylized, cartoonish design, likely representing a fictional or digital material rather than a real-world substance."
+        },
+        {
+            "Question": "What size is this <Vane>?",
+            "Answer": "The image does not provide a reference for scale, so the size of <Vane> cannot be determined from the image alone."
+        },
+        {
+            "Question": "Does <Vane> have any patterns or markings?",
+            "Answer": "<Vane> has a pattern of alternating yellow and orange petal-like shapes with black lines on the orange sections."
+        },
+        {
+            "Question": "What type of <Vane> is this subject?",
+            "Answer": "This <Vane> is a stylized sun-like emblem with a smiling face, featuring yellow and orange colors, resembling a sunflower with petal-like extensions."
+        },
+        {
+            "Question": "Does <Vane> have any distinctive features or details?",
+            "Answer": "<Vane> has a distinctive smiling face with a circular yellow head, large black eyes, and a prominent white smile. It is surrounded by orange, leaf-like structures resembling petals, and is set against a background featuring a crossbones design."
+        },
+        {
+            "Question": "What's <Vane> general texture like?",
+            "Answer": "<Vane> has a smooth and glossy texture, with a vibrant yellow and orange color scheme."
+        },
+        {
+            "Question": "How would you describe <Vane> overall appearance?",
+            "Answer": "<Vane> has a circular, smiling face with a bright yellow color and large black eyes. It is surrounded by orange, leaf-like structures that resemble petals, giving it a sun-like appearance. The design is completed with a background featuring a circular pattern and crossed bones."
+        }
+    ]
+}

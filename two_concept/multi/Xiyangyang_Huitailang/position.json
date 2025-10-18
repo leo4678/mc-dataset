@@ -1,0 +1,22 @@
+{
+    "0.jpg": {
+        "<Xiyangyang>": "right",
+        "<Huitailang>": "left"
+    },
+    "1.jpg": {
+        "<Xiyangyang>": "left",
+        "<Huitailang>": "right"
+    },
+    "2.jpg": {
+        "<Xiyangyang>": "right",
+        "<Huitailang>": "left"
+    },
+    "3.jpg": {
+        "<Xiyangyang>": "left",
+        "<Huitailang>": "right"
+    },
+    "4.jpg": {
+        "<Xiyangyang>": "right",
+        "<Huitailang>": "left"
+    }
+}

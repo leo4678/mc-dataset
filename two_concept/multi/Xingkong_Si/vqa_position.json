@@ -1,0 +1,52 @@
+{
+    "two_concept/multi/Xingkong_Si/0.png": [
+        {
+            "Human": "Where is <Xingkong> located in the photo? A. left B. right.",
+            "AI": "B"
+        },
+        {
+            "Human": "Where is <Si> located in the photo? A. left B. right.",
+            "AI": "A"
+        }
+    ],
+    "two_concept/multi/Xingkong_Si/1.png": [
+        {
+            "Human": "Where is <Xingkong> located in the photo? A. left B. right.",
+            "AI": "A"
+        },
+        {
+            "Human": "Where is <Si> located in the photo? A. left B. right.",
+            "AI": "B"
+        }
+    ],
+    "two_concept/multi/Xingkong_Si/2.png": [
+        {
+            "Human": "Where is <Xingkong> located in the photo? A. left B. right.",
+            "AI": "A"
+        },
+        {
+            "Human": "Where is <Si> located in the photo? A. left B. right.",
+            "AI": "B"
+        }
+    ],
+    "two_concept/multi/Xingkong_Si/3.png": [
+        {
+            "Human": "Where is <Xingkong> located in the photo? A. left B. right.",
+            "AI": "B"
+        },
+        {
+            "Human": "Where is <Si> located in the photo? A. left B. right.",
+            "AI": "A"
+        }
+    ],
+    "two_concept/multi/Xingkong_Si/4.png": [
+        {
+            "Human": "Where is <Xingkong> located in the photo? A. left B. right.",
+            "AI": "B"
+        },
+        {
+            "Human": "Where is <Si> located in the photo? A. left B. right.",
+            "AI": "A"
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+[
+    {
+        "question": "Are both <Baiyin> and <Huiye> humans or animals? A. Humans. B. Animals",
+        "answer": "A"
+    },
+    {
+        "question": "What are the genders of <Baiyin> and <Huiye> respectively? A. Boy, Girl. B. Girl, Boy",
+        "answer": "A"
+    },
+    {
+        "question": "What are the hair colors of <Baiyin> and <Huiye> respectively? A. Blonde, Black. B. Black, Blonde",
+        "answer": "A"
+    },
+    {
+        "question": "What type of clothing do <Baiyin> and <Huiye> often wear? A. Uniform, Dress. B. Casual, Formal",
+        "answer": "A"
+    },
+    {
+        "question": "Do <Baiyin> and <Huiye> often wear accessories like ribbons? A. Yes. B. No",
+        "answer": "A"
+    }
+]

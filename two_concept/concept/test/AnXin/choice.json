@@ -1,0 +1,22 @@
+{
+    "two_concept/concept/test/AnXin/0.png": {
+        "Human": "What type of clothing is <AnXin> wearing?  A. A fur-collared jacket; B. A leather jacket; C. A wool coat;",
+        "AI": "A"
+    },
+    "two_concept/concept/test/AnXin/1.png": {
+        "Human": "What type of shirt is <AnXin> wearing under the jacket?  A. T-shirt;  B. Collared shirt;  C. Sweater;",
+        "AI": "B"
+    },
+    "two_concept/concept/test/AnXin/2.png": {
+        "Human": "What uniform is <AnXin> wearing?  A. Police uniform; B. Military uniform; C. Firefighter uniform;",
+        "AI": "A"
+    },
+    "two_concept/concept/test/AnXin/3.png": {
+        "Human": "What type of clothing is <AnXin> wearing?  A. Suit; B. Denim jacket;",
+        "AI": "B"
+    },
+    "two_concept/concept/test/AnXin/4.png": {
+        "Human": "What is <AnXin> wearing in the image?  A. A police uniform; B. A sports uniform;",
+        "AI": "A"
+    }
+}

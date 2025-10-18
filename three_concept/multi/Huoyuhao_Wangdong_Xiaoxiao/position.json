@@ -1,0 +1,27 @@
+{
+    "0.jpg": {
+        "<Huoyuhao>": "middle",
+        "<Wangdong>": "left",
+        "<Xiaoxiao>": "right"
+    },
+    "1.jpg": {
+        "<Huoyuhao>": "middle",
+        "<Wangdong>": "right",
+        "<Xiaoxiao>": "left"
+    },
+    "2.jpg": {
+        "<Huoyuhao>": "middle",
+        "<Wangdong>": "right",
+        "<Xiaoxiao>": "left"
+    },
+    "3.jpg": {
+        "<Huoyuhao>": "right",
+        "<Wangdong>": "left",
+        "<Xiaoxiao>": "middle"
+    },
+    "4.jpg": {
+        "<Huoyuhao>": "right",
+        "<Wangdong>": "left",
+        "<Xiaoxiao>": "middle"
+    }
+}

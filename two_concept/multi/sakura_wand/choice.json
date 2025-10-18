@@ -1,0 +1,72 @@
+{
+    "two_concept/multi/sakura_wand/0.jpg": [
+        {
+            "Human": "What is <sakura> holding in the image? A.a book. B.a magical staff. C.a sword",
+            "AI": "B"
+        },
+        {
+            "Human": "What is the color of the <wand> held by the character in the image? A.pink. B.blue. C.green.",
+            "AI": "A"
+        },
+        {
+            "Human": "What color is the dress <sakura> is wearing while holding the <wand>? A.pink. B.blue. C.green.",
+            "AI": "A"
+        }
+    ],
+    "two_concept/multi/sakura_wand/1.jpg": [
+        {
+            "Human": "What accessory is <sakura> holding in the image? A.a magic wand. B.a sword. C.a book",
+            "AI": "A"
+        },
+        {
+            "Human": "What is the color of the <wand> held by the character in the image? A.pink. B.blue. C.green.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is <sakura> holding in the image? A.<wand>. B.a book. C.a sword",
+            "AI": "A"
+        }
+    ],
+    "two_concept/multi/sakura_wand/2.jpg": [
+        {
+            "Human": "What color is <sakura>'s hair in the image? A.yellow. B.brown. C.black",
+            "AI": "B"
+        },
+        {
+            "Human": "What is the color of the <wand> held by the character in the image? A.pink. B.blue. C.green.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is <sakura> holding in the image? A.<wand>. B.a book. C.a sword",
+            "AI": "A"
+        }
+    ],
+    "two_concept/multi/sakura_wand/3.png": [
+        {
+            "Human": "What is <sakura> holding in the image? A.a magic wand. B.a bouquet of flowers. C.a book",
+            "AI": "A"
+        },
+        {
+            "Human": "What is the primary color of the <wand> in the image? A.pink. B.blue. C.green.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is <sakura> holding in the image? A.<wand>. B.a book. C.a flower",
+            "AI": "A"
+        }
+    ],
+    "two_concept/multi/sakura_wand/4.jpg": [
+        {
+            "Human": "What is <sakura> holding in the image? A.a sword. B.a staff. C.a book.",
+            "AI": "B"
+        },
+        {
+            "Human": "What is the color of the <wand> in the image? A.pink. B.blue. C.green.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is <sakura> holding in the image? A.<wand>. B.a book. C.a sword",
+            "AI": "A"
+        }
+    ]
+}

@@ -1,0 +1,422 @@
+{
+    "three_concept/concept/train/Yor/0.jpg": [
+        {
+            "Question": "What is <Yor> hair color?",
+            "Answer": "<Yor>'s hair color is dark green."
+        },
+        {
+            "Question": "What color are <Yor> eyes?",
+            "Answer": "I can't determine the eye color from the image."
+        },
+        {
+            "Question": "Would you describe <Yor>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<Yor>'s physique appears slim."
+        },
+        {
+            "Question": "What is <Yor> skin tone?",
+            "Answer": "<Yor>'s skin tone is light."
+        },
+        {
+            "Question": "How would you describe <Yor> hairstyle?",
+            "Answer": "<Yor>'s hairstyle is long and straight, with a headband and some hair framing the face."
+        },
+        {
+            "Question": "Does <Yor> wear glasses or any accessories?",
+            "Answer": "<Yor> is wearing a headband as an accessory."
+        },
+        {
+            "Question": "How would you describe <Yor>'s attire?",
+            "Answer": "<Yor>'s attire is a high-collared, buttoned coat with long sleeves."
+        },
+        {
+            "Question": "Does <Yor> have any distinctive facial features?",
+            "Answer": "I can't determine any distinctive facial features for <Yor> due to the blurred face."
+        },
+        {
+            "Question": "What is <Yor> overall build or physique?",
+            "Answer": "<Yor> has a slender and tall build."
+        },
+        {
+            "Question": "What is <Yor> general expression or demeanor?",
+            "Answer": "<Yor> has a composed and poised demeanor."
+        }
+    ],
+    "three_concept/concept/train/Yor/1.jpg": [
+        {
+            "Question": "What is <Yor> hair color?",
+            "Answer": "<Yor>'s hair color is black."
+        },
+        {
+            "Question": "What color are <Yor> eyes?",
+            "Answer": "<Yor>'s eyes are closed in the image."
+        },
+        {
+            "Question": "Would you describe <Yor>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<Yor>'s physique is slim."
+        },
+        {
+            "Question": "What is <Yor> skin tone?",
+            "Answer": "<Yor>'s skin tone is fair."
+        },
+        {
+            "Question": "How would you describe <Yor> hairstyle?",
+            "Answer": "<Yor>'s hairstyle is long, straight, and features bangs that cover her forehead. She is also wearing a headband."
+        },
+        {
+            "Question": "Does <Yor> wear glasses or any accessories?",
+            "Answer": "<Yor> is wearing a headband as an accessory."
+        },
+        {
+            "Question": "How would you describe <Yor>'s attire?",
+            "Answer": "<Yor> is wearing a pink long-sleeve top with buttons at the neckline."
+        },
+        {
+            "Question": "Does <Yor> have any distinctive facial features?",
+            "Answer": "<Yor> has closed eyes and a neutral expression."
+        },
+        {
+            "Question": "What is <Yor> overall build or physique?",
+            "Answer": "<Yor> has a slender and tall build."
+        },
+        {
+            "Question": "What is <Yor> general expression or demeanor?",
+            "Answer": "<Yor> has a calm and composed expression."
+        }
+    ],
+    "three_concept/concept/train/Yor/2.jpg": [
+        {
+            "Question": "What is <Yor> hair color?",
+            "Answer": "<Yor>'s hair color is dark green."
+        },
+        {
+            "Question": "What color are <Yor> eyes?",
+            "Answer": "<Yor>'s eyes are red."
+        },
+        {
+            "Question": "Would you describe <Yor>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<Yor>'s physique appears slim."
+        },
+        {
+            "Question": "What is <Yor> skin tone?",
+            "Answer": "<Yor> has a light skin tone."
+        },
+        {
+            "Question": "How would you describe <Yor> hairstyle?",
+            "Answer": "<Yor>'s hairstyle is long and straight with bangs, and she wears a headband."
+        },
+        {
+            "Question": "Does <Yor> wear glasses or any accessories?",
+            "Answer": "<Yor> is wearing a headband and earrings, but no glasses."
+        },
+        {
+            "Question": "How would you describe <Yor>'s attire?",
+            "Answer": "<Yor> is wearing a pink top with button details and a headband."
+        },
+        {
+            "Question": "Does <Yor> have any distinctive facial features?",
+            "Answer": "<Yor> has large red eyes and a small mouth, which are distinctive features in the anime style."
+        },
+        {
+            "Question": "What is <Yor> overall build or physique?",
+            "Answer": "<Yor> has a slender and athletic build."
+        },
+        {
+            "Question": "What is <Yor> general expression or demeanor?",
+            "Answer": "<Yor> has a surprised or determined expression."
+        }
+    ],
+    "three_concept/concept/train/Yor/3.jpg": [
+        {
+            "Question": "What is <Yor> hair color?",
+            "Answer": "<Yor>'s hair color is black."
+        },
+        {
+            "Question": "What color are <Yor> eyes?",
+            "Answer": "<Yor>'s eyes are red."
+        },
+        {
+            "Question": "Would you describe <Yor>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<Yor>'s physique appears slim."
+        },
+        {
+            "Question": "What is <Yor> skin tone?",
+            "Answer": "I'm unable to determine the skin tone of <Yor> from the image."
+        },
+        {
+            "Question": "How would you describe <Yor> hairstyle?",
+            "Answer": "<Yor>'s hairstyle is long and straight with bangs, and she is wearing a headband."
+        },
+        {
+            "Question": "Does <Yor> wear glasses or any accessories?",
+            "Answer": "<Yor> is wearing a headband and earrings. She is not wearing glasses."
+        },
+        {
+            "Question": "How would you describe <Yor>'s attire?",
+            "Answer": "<Yor> is wearing a red off-the-shoulder top."
+        },
+        {
+            "Question": "Does <Yor> have any distinctive facial features?",
+            "Answer": "<Yor> has red eyes and is blushing."
+        },
+        {
+            "Question": "What is <Yor> overall build or physique?",
+            "Answer": "<Yor> has a slender and athletic build."
+        },
+        {
+            "Question": "What is <Yor> general expression or demeanor?",
+            "Answer": "<Yor> has a cheerful and happy expression."
+        }
+    ],
+    "three_concept/concept/train/Yor/4.jpg": [
+        {
+            "Question": "What is <Yor> hair color?",
+            "Answer": "<Yor>'s hair color is black."
+        },
+        {
+            "Question": "What color are <Yor> eyes?",
+            "Answer": "I can't determine the eye color from the image."
+        },
+        {
+            "Question": "Would you describe <Yor>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<Yor>'s physique appears slim."
+        },
+        {
+            "Question": "What is <Yor> skin tone?",
+            "Answer": "<Yor>'s skin tone is light."
+        },
+        {
+            "Question": "How would you describe <Yor> hairstyle?",
+            "Answer": "<Yor>'s hairstyle is long and straight, with a headband accessory."
+        },
+        {
+            "Question": "Does <Yor> wear glasses or any accessories?",
+            "Answer": "<Yor> is wearing a headband as an accessory."
+        },
+        {
+            "Question": "How would you describe <Yor>'s attire?",
+            "Answer": "<Yor> is wearing a red off-shoulder dress with a white headband."
+        },
+        {
+            "Question": "Does <Yor> have any distinctive facial features?",
+            "Answer": "I can't determine any distinctive facial features of <Yor> due to the blurred face."
+        },
+        {
+            "Question": "What is <Yor> overall build or physique?",
+            "Answer": "<Yor> has a slender and elegant build."
+        },
+        {
+            "Question": "What is <Yor> general expression or demeanor?",
+            "Answer": "<Yor> has a calm and composed demeanor."
+        }
+    ],
+    "three_concept/concept/train/Yor/5.jpg": [
+        {
+            "Question": "What is <Yor> hair color?",
+            "Answer": "<Yor>'s hair color is black."
+        },
+        {
+            "Question": "What color are <Yor> eyes?",
+            "Answer": "I can't determine the eye color from the image."
+        },
+        {
+            "Question": "Would you describe <Yor>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<Yor>'s physique appears slim."
+        },
+        {
+            "Question": "What is <Yor> skin tone?",
+            "Answer": "I can't determine <Yor>'s skin tone from the image."
+        },
+        {
+            "Question": "How would you describe <Yor> hairstyle?",
+            "Answer": "<Yor>'s hairstyle is long, straight, and dark, with a headband and decorative hair accessories."
+        },
+        {
+            "Question": "Does <Yor> wear glasses or any accessories?",
+            "Answer": "<Yor> is wearing a headband and earrings."
+        },
+        {
+            "Question": "How would you describe <Yor>'s attire?",
+            "Answer": "<Yor> is wearing a green outfit with a white headband and gold earrings."
+        },
+        {
+            "Question": "Does <Yor> have any distinctive facial features?",
+            "Answer": "I can't determine <Yor>'s facial features due to the blur."
+        },
+        {
+            "Question": "What is <Yor> overall build or physique?",
+            "Answer": "<Yor> has a slender and graceful build."
+        },
+        {
+            "Question": "What is <Yor> general expression or demeanor?",
+            "Answer": "<Yor> has a calm and composed demeanor."
+        }
+    ],
+    "three_concept/concept/train/Yor/6.jpg": [
+        {
+            "Question": "What is <Yor> hair color?",
+            "Answer": "<Yor>'s hair color is black."
+        },
+        {
+            "Question": "What color are <Yor> eyes?",
+            "Answer": "I can't determine the eye color from the image."
+        },
+        {
+            "Question": "Would you describe <Yor>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<Yor>'s physique appears slim."
+        },
+        {
+            "Question": "What is <Yor> skin tone?",
+            "Answer": "<Yor>'s skin tone is light."
+        },
+        {
+            "Question": "How would you describe <Yor> hairstyle?",
+            "Answer": "<Yor>'s hairstyle is long, straight, and dark, with a headband accessory."
+        },
+        {
+            "Question": "Does <Yor> wear glasses or any accessories?",
+            "Answer": "<Yor> is wearing a headband as an accessory."
+        },
+        {
+            "Question": "How would you describe <Yor>'s attire?",
+            "Answer": "<Yor> is wearing a red off-the-shoulder sweater and a headband."
+        },
+        {
+            "Question": "Does <Yor> have any distinctive facial features?",
+            "Answer": "I can't determine any distinctive facial features of <Yor> from the image."
+        },
+        {
+            "Question": "What is <Yor> overall build or physique?",
+            "Answer": "<Yor> has a slender and fit physique."
+        },
+        {
+            "Question": "What is <Yor> general expression or demeanor?",
+            "Answer": "<Yor> has a gentle and calm demeanor, holding a small gift box."
+        }
+    ],
+    "three_concept/concept/train/Yor/7.jpg": [
+        {
+            "Question": "What is <Yor> hair color?",
+            "Answer": "<Yor>'s hair color is black."
+        },
+        {
+            "Question": "What color are <Yor> eyes?",
+            "Answer": "I can't determine the eye color from the image."
+        },
+        {
+            "Question": "Would you describe <Yor>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<Yor>'s physique appears slim."
+        },
+        {
+            "Question": "What is <Yor> skin tone?",
+            "Answer": "<Yor>'s skin tone is light."
+        },
+        {
+            "Question": "How would you describe <Yor> hairstyle?",
+            "Answer": "<Yor>'s hairstyle is long, straight, and dark, with a headband."
+        },
+        {
+            "Question": "Does <Yor> wear glasses or any accessories?",
+            "Answer": "<Yor> is wearing a headband and a ring."
+        },
+        {
+            "Question": "How would you describe <Yor>'s attire?",
+            "Answer": "<Yor> is wearing a white long-sleeve shirt with a collar and a headband. She also has a ring on her finger."
+        },
+        {
+            "Question": "Does <Yor> have any distinctive facial features?",
+            "Answer": "I can't determine any distinctive facial features of <Yor> from the image."
+        },
+        {
+            "Question": "What is <Yor> overall build or physique?",
+            "Answer": "<Yor> has a slender and elegant build."
+        },
+        {
+            "Question": "What is <Yor> general expression or demeanor?",
+            "Answer": "<Yor> has a composed and elegant demeanor, with hands clasped together in a gentle manner."
+        }
+    ],
+    "three_concept/concept/train/Yor/8.jpg": [
+        {
+            "Question": "What is <Yor> hair color?",
+            "Answer": "<Yor>'s hair color is black."
+        },
+        {
+            "Question": "What color are <Yor> eyes?",
+            "Answer": "I can't determine the eye color from the image."
+        },
+        {
+            "Question": "Would you describe <Yor>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<Yor>'s physique is slim."
+        },
+        {
+            "Question": "What is <Yor> skin tone?",
+            "Answer": "<Yor>'s skin tone is light."
+        },
+        {
+            "Question": "How would you describe <Yor> hairstyle?",
+            "Answer": "<Yor>'s hairstyle is long, straight, and dark, with a headband accessory."
+        },
+        {
+            "Question": "Does <Yor> wear glasses or any accessories?",
+            "Answer": "<Yor> is wearing a headband as an accessory."
+        },
+        {
+            "Question": "How would you describe <Yor>'s attire?",
+            "Answer": "<Yor> is wearing a white top with a heart-shaped pendant necklace."
+        },
+        {
+            "Question": "Does <Yor> have any distinctive facial features?",
+            "Answer": "I can't determine any distinctive facial features of <Yor> from the image."
+        },
+        {
+            "Question": "What is <Yor> overall build or physique?",
+            "Answer": "<Yor> has a slender and elegant build."
+        },
+        {
+            "Question": "What is <Yor> general expression or demeanor?",
+            "Answer": "<Yor> has a calm and composed demeanor."
+        }
+    ],
+    "three_concept/concept/train/Yor/9.jpg": [
+        {
+            "Question": "What is <Yor> hair color?",
+            "Answer": "<Yor>'s hair color is black."
+        },
+        {
+            "Question": "What color are <Yor> eyes?",
+            "Answer": "I can't determine the eye color from the image."
+        },
+        {
+            "Question": "Would you describe <Yor>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<Yor>'s physique appears slim."
+        },
+        {
+            "Question": "What is <Yor> skin tone?",
+            "Answer": "<Yor>'s skin tone is light."
+        },
+        {
+            "Question": "How would you describe <Yor> hairstyle?",
+            "Answer": "<Yor>'s hairstyle is long and straight, with a headband."
+        },
+        {
+            "Question": "Does <Yor> wear glasses or any accessories?",
+            "Answer": "<Yor> is wearing a headband as an accessory."
+        },
+        {
+            "Question": "How would you describe <Yor>'s attire?",
+            "Answer": "<Yor> is wearing a green vest over a white collared shirt, with a name tag on the vest."
+        },
+        {
+            "Question": "Does <Yor> have any distinctive facial features?",
+            "Answer": "I can't determine any distinctive facial features for <Yor> from the image."
+        },
+        {
+            "Question": "What is <Yor> overall build or physique?",
+            "Answer": "<Yor> has a slender build."
+        },
+        {
+            "Question": "What is <Yor> general expression or demeanor?",
+            "Answer": "<Yor> has a calm and composed demeanor."
+        }
+    ]
+}

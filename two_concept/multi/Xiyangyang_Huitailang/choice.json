@@ -1,0 +1,72 @@
+{
+    "two_concept/multi/Xiyangyang_Huitailang/0.jpg": [
+        {
+            "Human": "What is <Xiyangyang> wearing in the image? A. A space suit. B. A pirate costume.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is <Huitailang> wearing on his head? A. A hat. B. A helmet.",
+            "AI": "A"
+        },
+        {
+            "Human": "What are <Xiyangyang> and <Huitailang> wearing? A. Casual clothes. B. Space suits. C. School uniforms.",
+            "AI": "B"
+        }
+    ],
+    "two_concept/multi/Xiyangyang_Huitailang/1.jpg": [
+        {
+            "Human": "What is <Xiyangyang> wearing in the image? A. A spacesuit. B. A pirate costume.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is <Huitailang> holding in the image? A. A book. B. A device. C. A toy.",
+            "AI": "B"
+        },
+        {
+            "Human": "What is <Huitailang> holding in the image? A. A book. B. A device. C. A toy.",
+            "AI": "B"
+        }
+    ],
+    "two_concept/multi/Xiyangyang_Huitailang/2.jpg": [
+        {
+            "Human": "What is <Xiyangyang> wearing in the image? A. A spacesuit. B. A pirate costume.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is <Huitailang> wearing in the image? A. A space suit. B. A pirate costume.",
+            "AI": "A"
+        },
+        {
+            "Human": "What are <Xiyangyang> and <Huitailang> wearing in the image? A. Casual clothes. B. Space suits. C. School uniforms.",
+            "AI": "B"
+        }
+    ],
+    "two_concept/multi/Xiyangyang_Huitailang/3.jpg": [
+        {
+            "Human": "What is <Xiyangyang> wearing in the image? A. A spacesuit. B. A superhero costume.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is <Huitailang> wearing in the image? A. A space suit. B. A pirate costume.",
+            "AI": "A"
+        },
+        {
+            "Human": "What are <Xiyangyang> and <Huitailang> wearing in the image? A. Casual clothes. B. Space suits. C. School uniforms.",
+            "AI": "B"
+        }
+    ],
+    "two_concept/multi/Xiyangyang_Huitailang/4.jpg": [
+        {
+            "Human": "What is <Xiyangyang> wearing in the image? A. A space suit. B. A pirate costume.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is <Huitailang> wearing in the image? A. A spacesuit. B. A pirate costume.",
+            "AI": "A"
+        },
+        {
+            "Human": "What are <Xiyangyang> and <Huitailang> wearing in the image? A. Casual clothes. B. Space suits. C. School uniforms.",
+            "AI": "B"
+        }
+    ]
+}

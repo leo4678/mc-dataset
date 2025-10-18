@@ -1,0 +1,22 @@
+{
+    "0.png": {
+        "<Tommy>": "right",
+        "<Grace>": "left"
+    },
+    "1.png": {
+        "<Tommy>": "right",
+        "<Grace>": "left"
+    },
+    "2.png": {
+        "<Tommy>": "left",
+        "<Grace>": "right"
+    },
+    "3.png": {
+        "<Tommy>": "left",
+        "<Grace>": "right"
+    },
+    "4.png": {
+        "<Tommy>": "left",
+        "<Grace>": "right"
+    }
+}

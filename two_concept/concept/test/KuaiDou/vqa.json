@@ -1,0 +1,22 @@
+{
+    "two_concept/concept/test/KuaiDou/0.png": {
+        "Human": "What accessory is <KuaiDou> wearing on his face?",
+        "AI": "<KuaiDou> is wearing a monocle on his face."
+    },
+    "two_concept/concept/test/KuaiDou/1.png": {
+        "Human": "What color is <KuaiDou>'s hat in the image?",
+        "AI": "<KuaiDou>'s hat is white with a blue band."
+    },
+    "two_concept/concept/test/KuaiDou/2.png": {
+        "Human": "What color is the tie that <KuaiDou> is wearing?",
+        "AI": "Red"
+    },
+    "two_concept/concept/test/KuaiDou/3.png": {
+        "Human": "What is <KuaiDou> holding in the image?",
+        "AI": "<KuaiDou> is holding a gun in the image."
+    },
+    "two_concept/concept/test/KuaiDou/4.png": {
+        "Human": "What accessory is <KuaiDou> wearing on his left ear?",
+        "AI": "<KuaiDou> is wearing a monocle on his left ear."
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "two_concept/concept/test/Ye Wen/0.png": {
+        "Human": "What type of clothing is <Ye Wen> wearing?  A. A suit; B. Traditional Chinese attire;",
+        "AI": "B"
+    },
+    "two_concept/concept/test/Ye Wen/1.png": {
+        "Human": "What is <Ye Wen> doing in the image?  A. Reading a book; B. Practicing martial arts; C. Eating a meal;",
+        "AI": "B"
+    },
+    "two_concept/concept/test/Ye Wen/2.png": {
+        "Human": "What is the position of <Ye Wen> in the image?  A. Standing; B. Lying down;",
+        "AI": "B"
+    },
+    "two_concept/concept/test/Ye Wen/3.png": {
+        "Human": "What is the character <Ye Wen> wearing in this scene?  A. A suit; B. A tank top;",
+        "AI": "A"
+    },
+    "two_concept/concept/test/Ye Wen/4.png": {
+        "Human": "What is <Ye Wen> holding in the image?  A. A sword; B. A stick; C. A chain;",
+        "AI": "B"
+    }
+}

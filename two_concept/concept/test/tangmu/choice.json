@@ -1,0 +1,22 @@
+{
+    "two_concept/concept/test/tangmu/0.jpg": {
+        "Human": "What is the expression on <tangmu>'s face?  A. Happy; B. Angry; C. Sad;",
+        "AI": "B"
+    },
+    "two_concept/concept/test/tangmu/1.jpg": {
+        "Human": "What color are <tangmu>'s eyes?  A. Green; B. Blue; C. Brown;",
+        "AI": "A"
+    },
+    "two_concept/concept/test/tangmu/2.jpg": {
+        "Human": "What is <tangmu> doing in the image?  A. Running; B. Throwing a punch; C. Sleeping;",
+        "AI": "B"
+    },
+    "two_concept/concept/test/tangmu/3.jpg": {
+        "Human": "What is <tangmu> holding in the image?  A. A book; B. A newspaper; C. A magazine;",
+        "AI": "B"
+    },
+    "two_concept/concept/test/tangmu/4.jpg": {
+        "Human": "What is the expression on <tangmu>'s face?  A. Happy; B. Angry; C. Sad;",
+        "AI": "B"
+    }
+}

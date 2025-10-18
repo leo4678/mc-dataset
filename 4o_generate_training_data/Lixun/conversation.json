@@ -1,0 +1,422 @@
+{
+    "three_concept/concept/train/Lixun/0.png": [
+        {
+            "Question": "What is <Lixun> hair color?",
+            "Answer": "<Lixun>'s hair color is black."
+        },
+        {
+            "Question": "What color are <Lixun> eyes?",
+            "Answer": "I can't determine the eye color of <Lixun> from the image."
+        },
+        {
+            "Question": "Would you describe <Lixun>'s physique as athletic, slim, or otherwise?",
+            "Answer": "I can't determine <Lixun>'s physique from this image."
+        },
+        {
+            "Question": "What is <Lixun> skin tone?",
+            "Answer": "I'm sorry, I can't determine <Lixun>'s skin tone from the image."
+        },
+        {
+            "Question": "How would you describe <Lixun> hairstyle?",
+            "Answer": "<Lixun>'s hairstyle is short and neatly trimmed on the sides and back."
+        },
+        {
+            "Question": "Does <Lixun> wear glasses or any accessories?",
+            "Answer": "<Lixun> is not wearing glasses or any accessories."
+        },
+        {
+            "Question": "How would you describe <Lixun>'s attire?",
+            "Answer": "<Lixun> is wearing a dark-colored collared shirt."
+        },
+        {
+            "Question": "Does <Lixun> have any distinctive facial features?",
+            "Answer": "I can't determine any distinctive facial features for <Lixun> from the visible part of the image."
+        },
+        {
+            "Question": "What is <Lixun> overall build or physique?",
+            "Answer": "I'm unable to determine <Lixun>'s overall build or physique from the image provided."
+        },
+        {
+            "Question": "What is <Lixun> general expression or demeanor?",
+            "Answer": "I can't determine <Lixun>'s expression or demeanor from the image."
+        }
+    ],
+    "three_concept/concept/train/Lixun/1.png": [
+        {
+            "Question": "What is <Lixun> hair color?",
+            "Answer": "<Lixun>'s hair color is dark."
+        },
+        {
+            "Question": "What color are <Lixun> eyes?",
+            "Answer": "I can't determine the eye color of <Lixun> from the image."
+        },
+        {
+            "Question": "Would you describe <Lixun>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<Lixun>'s physique appears to be slim."
+        },
+        {
+            "Question": "What is <Lixun> skin tone?",
+            "Answer": "I'm unable to determine <Lixun>'s skin tone from the image."
+        },
+        {
+            "Question": "How would you describe <Lixun> hairstyle?",
+            "Answer": "<Lixun>'s hairstyle is short and closely cropped."
+        },
+        {
+            "Question": "Does <Lixun> wear glasses or any accessories?",
+            "Answer": "<Lixun> is not wearing glasses or any accessories."
+        },
+        {
+            "Question": "How would you describe <Lixun>'s attire?",
+            "Answer": "<Lixun> is wearing a dark, oversized jacket with a hood."
+        },
+        {
+            "Question": "Does <Lixun> have any distinctive facial features?",
+            "Answer": "I can't determine any distinctive facial features for <Lixun>."
+        },
+        {
+            "Question": "What is <Lixun> overall build or physique?",
+            "Answer": "<Lixun> has a medium build."
+        },
+        {
+            "Question": "What is <Lixun> general expression or demeanor?",
+            "Answer": "<Lixun> appears to have a relaxed demeanor, with hands in pockets and wearing a casual jacket."
+        }
+    ],
+    "three_concept/concept/train/Lixun/2.png": [
+        {
+            "Question": "What is <Lixun> hair color?",
+            "Answer": "<Lixun>'s hair color is blonde."
+        },
+        {
+            "Question": "What color are <Lixun> eyes?",
+            "Answer": "I can't determine the eye color of <Lixun> from the image."
+        },
+        {
+            "Question": "Would you describe <Lixun>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<Lixun>'s physique appears slim."
+        },
+        {
+            "Question": "What is <Lixun> skin tone?",
+            "Answer": "I'm unable to determine <Lixun>'s skin tone from the image."
+        },
+        {
+            "Question": "How would you describe <Lixun> hairstyle?",
+            "Answer": "<Lixun>'s hairstyle is short and blonde."
+        },
+        {
+            "Question": "Does <Lixun> wear glasses or any accessories?",
+            "Answer": "<Lixun> is not wearing glasses or any accessories."
+        },
+        {
+            "Question": "How would you describe <Lixun>'s attire?",
+            "Answer": "<Lixun> is wearing a dark-colored top."
+        },
+        {
+            "Question": "Does <Lixun> have any distinctive facial features?",
+            "Answer": "I can't determine any distinctive facial features for <Lixun> from the image."
+        },
+        {
+            "Question": "What is <Lixun> overall build or physique?",
+            "Answer": "<Lixun> has a slim build."
+        },
+        {
+            "Question": "What is <Lixun> general expression or demeanor?",
+            "Answer": "I can't determine <Lixun>'s expression or demeanor."
+        }
+    ],
+    "three_concept/concept/train/Lixun/3.png": [
+        {
+            "Question": "What is <Lixun> hair color?",
+            "Answer": "<Lixun>'s hair color is blonde."
+        },
+        {
+            "Question": "What color are <Lixun> eyes?",
+            "Answer": "I can't determine the eye color of <Lixun> from the image."
+        },
+        {
+            "Question": "Would you describe <Lixun>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<Lixun>'s physique appears slim."
+        },
+        {
+            "Question": "What is <Lixun> skin tone?",
+            "Answer": "I'm sorry, I can't determine <Lixun>'s skin tone from the image."
+        },
+        {
+            "Question": "How would you describe <Lixun> hairstyle?",
+            "Answer": "<Lixun>'s hairstyle is short and blonde with a slightly tousled look."
+        },
+        {
+            "Question": "Does <Lixun> wear glasses or any accessories?",
+            "Answer": "<Lixun> is wearing a necklace."
+        },
+        {
+            "Question": "How would you describe <Lixun>'s attire?",
+            "Answer": "<Lixun> is wearing a white collared shirt."
+        },
+        {
+            "Question": "Does <Lixun> have any distinctive facial features?",
+            "Answer": "I can't determine any distinctive facial features for <Lixun> from the image."
+        },
+        {
+            "Question": "What is <Lixun> overall build or physique?",
+            "Answer": "<Lixun> has a medium build."
+        },
+        {
+            "Question": "What is <Lixun> general expression or demeanor?",
+            "Answer": "<Lixun> appears to be focused and attentive, likely engaged in a task at the computer."
+        }
+    ],
+    "three_concept/concept/train/Lixun/4.png": [
+        {
+            "Question": "What is <Lixun> hair color?",
+            "Answer": "<Lixun>'s hair color is blonde."
+        },
+        {
+            "Question": "What color are <Lixun> eyes?",
+            "Answer": "I can't determine the eye color from the image."
+        },
+        {
+            "Question": "Would you describe <Lixun>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<Lixun>'s physique appears slim."
+        },
+        {
+            "Question": "What is <Lixun> skin tone?",
+            "Answer": "I'm unable to determine <Lixun>'s skin tone from the image."
+        },
+        {
+            "Question": "How would you describe <Lixun> hairstyle?",
+            "Answer": "<Lixun>'s hairstyle is short and blonde."
+        },
+        {
+            "Question": "Does <Lixun> wear glasses or any accessories?",
+            "Answer": "<Lixun> is wearing a necklace and carrying a bag. There are no visible glasses."
+        },
+        {
+            "Question": "How would you describe <Lixun>'s attire?",
+            "Answer": "<Lixun> is wearing a dark jacket over a black shirt, paired with jeans. They are carrying a black bag and wearing a necklace."
+        },
+        {
+            "Question": "Does <Lixun> have any distinctive facial features?",
+            "Answer": "I can't determine any distinctive facial features of <Lixun> from the image."
+        },
+        {
+            "Question": "What is <Lixun> overall build or physique?",
+            "Answer": "<Lixun> has a medium build."
+        },
+        {
+            "Question": "What is <Lixun> general expression or demeanor?",
+            "Answer": "<Lixun> has a casual and relaxed demeanor, wearing a jacket and carrying a bag."
+        }
+    ],
+    "three_concept/concept/train/Lixun/5.png": [
+        {
+            "Question": "What is <Lixun> hair color?",
+            "Answer": "<Lixun>'s hair color is blonde."
+        },
+        {
+            "Question": "What color are <Lixun> eyes?",
+            "Answer": "I can't determine the eye color of <Lixun> from the image."
+        },
+        {
+            "Question": "Would you describe <Lixun>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<Lixun>'s physique appears slim."
+        },
+        {
+            "Question": "What is <Lixun> skin tone?",
+            "Answer": "I'm unable to determine <Lixun>'s skin tone from the image."
+        },
+        {
+            "Question": "How would you describe <Lixun> hairstyle?",
+            "Answer": "<Lixun>'s hairstyle is short and blonde with a slightly tousled texture."
+        },
+        {
+            "Question": "Does <Lixun> wear glasses or any accessories?",
+            "Answer": "<Lixun> is wearing a necklace."
+        },
+        {
+            "Question": "How would you describe <Lixun>'s attire?",
+            "Answer": "<Lixun> is wearing a black top with a striped cuff and a necklace."
+        },
+        {
+            "Question": "Does <Lixun> have any distinctive facial features?",
+            "Answer": "I can't determine any distinctive facial features of <Lixun> from the image."
+        },
+        {
+            "Question": "What is <Lixun> overall build or physique?",
+            "Answer": "<Lixun> has a slender build."
+        },
+        {
+            "Question": "What is <Lixun> general expression or demeanor?",
+            "Answer": "I can't determine <Lixun>'s expression or demeanor from the image."
+        }
+    ],
+    "three_concept/concept/train/Lixun/6.png": [
+        {
+            "Question": "What is <Lixun> hair color?",
+            "Answer": "<Lixun>'s hair color is dark brown."
+        },
+        {
+            "Question": "What color are <Lixun> eyes?",
+            "Answer": "I can't determine the color of <Lixun>'s eyes from the image."
+        },
+        {
+            "Question": "Would you describe <Lixun>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<Lixun>'s physique appears to be slim."
+        },
+        {
+            "Question": "What is <Lixun> skin tone?",
+            "Answer": "I'm unable to determine <Lixun>'s skin tone from the image."
+        },
+        {
+            "Question": "How would you describe <Lixun> hairstyle?",
+            "Answer": "<Lixun>'s hairstyle is short and neatly trimmed."
+        },
+        {
+            "Question": "Does <Lixun> wear glasses or any accessories?",
+            "Answer": "<Lixun> is not wearing glasses or any accessories."
+        },
+        {
+            "Question": "How would you describe <Lixun>'s attire?",
+            "Answer": "<Lixun> is wearing a dark hoodie under a green jacket with a corduroy collar."
+        },
+        {
+            "Question": "Does <Lixun> have any distinctive facial features?",
+            "Answer": "I can't determine any distinctive facial features for <Lixun> from the image."
+        },
+        {
+            "Question": "What is <Lixun> overall build or physique?",
+            "Answer": "<Lixun> has a medium build."
+        },
+        {
+            "Question": "What is <Lixun> general expression or demeanor?",
+            "Answer": "<Lixun> appears to have a casual demeanor, wearing a hoodie and jacket."
+        }
+    ],
+    "three_concept/concept/train/Lixun/7.png": [
+        {
+            "Question": "What is <Lixun> hair color?",
+            "Answer": "<Lixun>'s hair color is blonde."
+        },
+        {
+            "Question": "What color are <Lixun> eyes?",
+            "Answer": "I can't determine the eye color of <Lixun> from the image."
+        },
+        {
+            "Question": "Would you describe <Lixun>'s physique as athletic, slim, or otherwise?",
+            "Answer": "I can't determine <Lixun>'s physique from the image provided."
+        },
+        {
+            "Question": "What is <Lixun> skin tone?",
+            "Answer": "I'm unable to determine <Lixun>'s skin tone from the image."
+        },
+        {
+            "Question": "How would you describe <Lixun> hairstyle?",
+            "Answer": "<Lixun>'s hairstyle is short and blonde with a slightly tousled look."
+        },
+        {
+            "Question": "Does <Lixun> wear glasses or any accessories?",
+            "Answer": "<Lixun> is not wearing glasses or any accessories."
+        },
+        {
+            "Question": "How would you describe <Lixun>'s attire?",
+            "Answer": "<Lixun> is wearing a white collared shirt."
+        },
+        {
+            "Question": "Does <Lixun> have any distinctive facial features?",
+            "Answer": "I can't determine any distinctive facial features for <Lixun> from the image."
+        },
+        {
+            "Question": "What is <Lixun> overall build or physique?",
+            "Answer": "I'm unable to determine <Lixun>'s overall build or physique from the image provided."
+        },
+        {
+            "Question": "What is <Lixun> general expression or demeanor?",
+            "Answer": "I can't determine <Lixun>'s expression or demeanor."
+        }
+    ],
+    "three_concept/concept/train/Lixun/8.png": [
+        {
+            "Question": "What is <Lixun> hair color?",
+            "Answer": "<Lixun>'s hair color is black."
+        },
+        {
+            "Question": "What color are <Lixun> eyes?",
+            "Answer": "I can't determine the eye color of <Lixun> from the image."
+        },
+        {
+            "Question": "Would you describe <Lixun>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<Lixun>'s physique appears to be slim."
+        },
+        {
+            "Question": "What is <Lixun> skin tone?",
+            "Answer": "I can't determine <Lixun>'s skin tone from the image."
+        },
+        {
+            "Question": "How would you describe <Lixun> hairstyle?",
+            "Answer": "<Lixun>'s hairstyle is a short buzz cut."
+        },
+        {
+            "Question": "Does <Lixun> wear glasses or any accessories?",
+            "Answer": "<Lixun> is not wearing glasses or any accessories."
+        },
+        {
+            "Question": "How would you describe <Lixun>'s attire?",
+            "Answer": "<Lixun> is wearing a dark jacket over a black shirt."
+        },
+        {
+            "Question": "Does <Lixun> have any distinctive facial features?",
+            "Answer": "I can't determine any distinctive facial features of <Lixun> from the image."
+        },
+        {
+            "Question": "What is <Lixun> overall build or physique?",
+            "Answer": "<Lixun> has a slim build."
+        },
+        {
+            "Question": "What is <Lixun> general expression or demeanor?",
+            "Answer": "<Lixun> has a calm and composed demeanor."
+        }
+    ],
+    "three_concept/concept/train/Lixun/9.png": [
+        {
+            "Question": "What is <Lixun> hair color?",
+            "Answer": "<Lixun>'s hair color is black."
+        },
+        {
+            "Question": "What color are <Lixun> eyes?",
+            "Answer": "I can't determine the eye color of <Lixun> from the image."
+        },
+        {
+            "Question": "Would you describe <Lixun>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<Lixun>'s physique appears slim."
+        },
+        {
+            "Question": "What is <Lixun> skin tone?",
+            "Answer": "I'm unable to determine <Lixun>'s skin tone from the image."
+        },
+        {
+            "Question": "How would you describe <Lixun> hairstyle?",
+            "Answer": "<Lixun>'s hairstyle is short and neatly trimmed."
+        },
+        {
+            "Question": "Does <Lixun> wear glasses or any accessories?",
+            "Answer": "<Lixun> is not wearing glasses or any accessories."
+        },
+        {
+            "Question": "How would you describe <Lixun>'s attire?",
+            "Answer": "<Lixun> is wearing a dark suit with a black shirt."
+        },
+        {
+            "Question": "Does <Lixun> have any distinctive facial features?",
+            "Answer": "I can't determine any distinctive facial features for <Lixun> from the visible parts of the image."
+        },
+        {
+            "Question": "What is <Lixun> overall build or physique?",
+            "Answer": "<Lixun> has a slim build."
+        },
+        {
+            "Question": "What is <Lixun> general expression or demeanor?",
+            "Answer": "<Lixun> has a formal and composed demeanor."
+        }
+    ]
+}

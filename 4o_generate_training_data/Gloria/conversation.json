@@ -1,0 +1,422 @@
+{
+    "three_concept/concept/train/Gloria/0.png": [
+        {
+            "Question": "What is <Gloria> hair color?",
+            "Answer": "<Gloria> does not have any hair."
+        },
+        {
+            "Question": "What color are <Gloria> eyes?",
+            "Answer": "<Gloria>'s eyes are brown."
+        },
+        {
+            "Question": "Would you describe <Gloria>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<Gloria>'s physique is otherwise; she appears robust and sturdy."
+        },
+        {
+            "Question": "What is <Gloria> skin tone?",
+            "Answer": "<Gloria>'s skin tone is a light brown."
+        },
+        {
+            "Question": "How would you describe <Gloria> hairstyle?",
+            "Answer": "<Gloria> has a short hairstyle with two small tufts on top."
+        },
+        {
+            "Question": "Does <Gloria> wear glasses or any accessories?",
+            "Answer": "<Gloria> is not wearing glasses or any accessories."
+        },
+        {
+            "Question": "How would you describe <Gloria>'s attire?",
+            "Answer": "<Gloria> is not wearing any attire."
+        },
+        {
+            "Question": "Does <Gloria> have any distinctive facial features?",
+            "Answer": "<Gloria> has large eyes with long eyelashes and a wide mouth."
+        },
+        {
+            "Question": "What is <Gloria> overall build or physique?",
+            "Answer": "<Gloria> has a large and rounded physique."
+        },
+        {
+            "Question": "What is <Gloria> general expression or demeanor?",
+            "Answer": "<Gloria> has a cheerful and happy expression."
+        }
+    ],
+    "three_concept/concept/train/Gloria/1.png": [
+        {
+            "Question": "What is <Gloria> hair color?",
+            "Answer": "<Gloria> does not have any hair."
+        },
+        {
+            "Question": "What color are <Gloria> eyes?",
+            "Answer": "<Gloria>'s eyes are white with black pupils."
+        },
+        {
+            "Question": "Would you describe <Gloria>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<Gloria>'s physique is otherwise, characterized by a round and robust build."
+        },
+        {
+            "Question": "What is <Gloria> skin tone?",
+            "Answer": "<Gloria>'s skin tone is gray."
+        },
+        {
+            "Question": "How would you describe <Gloria> hairstyle?",
+            "Answer": "<Gloria> doesn't have any hair."
+        },
+        {
+            "Question": "Does <Gloria> wear glasses or any accessories?",
+            "Answer": "<Gloria> is not wearing glasses or any accessories."
+        },
+        {
+            "Question": "How would you describe <Gloria>'s attire?",
+            "Answer": "<Gloria> is not wearing any attire."
+        },
+        {
+            "Question": "Does <Gloria> have any distinctive facial features?",
+            "Answer": "<Gloria> has large, expressive eyes and a wide snout."
+        },
+        {
+            "Question": "What is <Gloria> overall build or physique?",
+            "Answer": "<Gloria> has a large and round physique."
+        },
+        {
+            "Question": "What is <Gloria> general expression or demeanor?",
+            "Answer": "<Gloria> appears surprised or startled."
+        }
+    ],
+    "three_concept/concept/train/Gloria/2.png": [
+        {
+            "Question": "What is <Gloria> hair color?",
+            "Answer": "<Gloria> has no visible hair."
+        },
+        {
+            "Question": "What color are <Gloria> eyes?",
+            "Answer": "<Gloria>'s eyes are white with black pupils."
+        },
+        {
+            "Question": "Would you describe <Gloria>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<Gloria>'s physique is not athletic or slim; it is more robust and rounded."
+        },
+        {
+            "Question": "What is <Gloria> skin tone?",
+            "Answer": "<Gloria>'s skin tone is gray."
+        },
+        {
+            "Question": "How would you describe <Gloria> hairstyle?",
+            "Answer": "<Gloria> has a short hairstyle with two small tufts on top."
+        },
+        {
+            "Question": "Does <Gloria> wear glasses or any accessories?",
+            "Answer": "<Gloria> is not wearing glasses or any accessories."
+        },
+        {
+            "Question": "How would you describe <Gloria>'s attire?",
+            "Answer": "<Gloria> is not wearing any attire."
+        },
+        {
+            "Question": "Does <Gloria> have any distinctive facial features?",
+            "Answer": "<Gloria> has large eyes with long eyelashes and a wide snout."
+        },
+        {
+            "Question": "What is <Gloria> overall build or physique?",
+            "Answer": "<Gloria> has a large and rounded build."
+        },
+        {
+            "Question": "What is <Gloria> general expression or demeanor?",
+            "Answer": "<Gloria> has a concerned or thoughtful expression."
+        }
+    ],
+    "three_concept/concept/train/Gloria/3.png": [
+        {
+            "Question": "What is <Gloria> hair color?",
+            "Answer": "<Gloria>'s hair is brown with some green leaves in it."
+        },
+        {
+            "Question": "What color are <Gloria> eyes?",
+            "Answer": "<Gloria>'s eyes are white with black pupils."
+        },
+        {
+            "Question": "Would you describe <Gloria>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<Gloria>'s physique is otherwise; she appears to have a fuller, rounded body shape."
+        },
+        {
+            "Question": "What is <Gloria> skin tone?",
+            "Answer": "<Gloria>'s skin tone is a light brown."
+        },
+        {
+            "Question": "How would you describe <Gloria> hairstyle?",
+            "Answer": "<Gloria>'s hairstyle is adorned with seaweed, giving it a wild and beachy look."
+        },
+        {
+            "Question": "Does <Gloria> wear glasses or any accessories?",
+            "Answer": "<Gloria> is wearing starfish as a top and has seaweed in her hair. She is not wearing glasses."
+        },
+        {
+            "Question": "How would you describe <Gloria>'s attire?",
+            "Answer": "<Gloria> is wearing starfish as a top and a crab as a bottom accessory."
+        },
+        {
+            "Question": "Does <Gloria> have any distinctive facial features?",
+            "Answer": "I can't identify or describe facial features of characters."
+        },
+        {
+            "Question": "What is <Gloria> overall build or physique?",
+            "Answer": "<Gloria> has a large and round physique."
+        },
+        {
+            "Question": "What is <Gloria> general expression or demeanor?",
+            "Answer": "<Gloria> appears confident and relaxed."
+        }
+    ],
+    "three_concept/concept/train/Gloria/4.png": [
+        {
+            "Question": "What is <Gloria> hair color?",
+            "Answer": "<Gloria> does not have any visible hair."
+        },
+        {
+            "Question": "What color are <Gloria> eyes?",
+            "Answer": "<Gloria>'s eyes are brown."
+        },
+        {
+            "Question": "Would you describe <Gloria>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<Gloria>'s physique is not athletic or slim; it is more robust and rounded."
+        },
+        {
+            "Question": "What is <Gloria> skin tone?",
+            "Answer": "<Gloria>'s skin tone is a light gray."
+        },
+        {
+            "Question": "How would you describe <Gloria> hairstyle?",
+            "Answer": "<Gloria> has a small tuft of hair on top of her head."
+        },
+        {
+            "Question": "Does <Gloria> wear glasses or any accessories?",
+            "Answer": "<Gloria> is not wearing glasses or any accessories."
+        },
+        {
+            "Question": "How would you describe <Gloria>'s attire?",
+            "Answer": "<Gloria> is not wearing any attire."
+        },
+        {
+            "Question": "Does <Gloria> have any distinctive facial features?",
+            "Answer": "<Gloria> has large eyes with long eyelashes and a wide, rounded snout."
+        },
+        {
+            "Question": "What is <Gloria> overall build or physique?",
+            "Answer": "<Gloria> has a large and robust build."
+        },
+        {
+            "Question": "What is <Gloria> general expression or demeanor?",
+            "Answer": "<Gloria> has a relaxed and content expression."
+        }
+    ],
+    "three_concept/concept/train/Gloria/5.png": [
+        {
+            "Question": "What is <Gloria> hair color?",
+            "Answer": "<Gloria> does not have any hair."
+        },
+        {
+            "Question": "What color are <Gloria> eyes?",
+            "Answer": "<Gloria>'s eyes are brown."
+        },
+        {
+            "Question": "Would you describe <Gloria>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<Gloria>'s physique is otherwise; she appears round and robust."
+        },
+        {
+            "Question": "What is <Gloria> skin tone?",
+            "Answer": "<Gloria>'s skin tone is gray."
+        },
+        {
+            "Question": "How would you describe <Gloria> hairstyle?",
+            "Answer": "<Gloria> doesn't have any hair."
+        },
+        {
+            "Question": "Does <Gloria> wear glasses or any accessories?",
+            "Answer": "<Gloria> is not wearing glasses or any accessories."
+        },
+        {
+            "Question": "How would you describe <Gloria>'s attire?",
+            "Answer": "<Gloria> is not wearing any attire."
+        },
+        {
+            "Question": "Does <Gloria> have any distinctive facial features?",
+            "Answer": "<Gloria> has large eyes and prominent eyebrows."
+        },
+        {
+            "Question": "What is <Gloria> overall build or physique?",
+            "Answer": "<Gloria> has a round and robust build."
+        },
+        {
+            "Question": "What is <Gloria> general expression or demeanor?",
+            "Answer": "<Gloria> has a surprised or startled expression."
+        }
+    ],
+    "three_concept/concept/train/Gloria/6.png": [
+        {
+            "Question": "What is <Gloria> hair color?",
+            "Answer": "<Gloria>'s hair color is brown."
+        },
+        {
+            "Question": "What color are <Gloria> eyes?",
+            "Answer": "<Gloria>'s eyes are brown."
+        },
+        {
+            "Question": "Would you describe <Gloria>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<Gloria>'s physique is best described as robust."
+        },
+        {
+            "Question": "What is <Gloria> skin tone?",
+            "Answer": "<Gloria>'s skin tone is gray."
+        },
+        {
+            "Question": "How would you describe <Gloria> hairstyle?",
+            "Answer": "<Gloria> has small, short ears with no distinct hairstyle."
+        },
+        {
+            "Question": "Does <Gloria> wear glasses or any accessories?",
+            "Answer": "<Gloria> is not wearing glasses or any accessories."
+        },
+        {
+            "Question": "How would you describe <Gloria>'s attire?",
+            "Answer": "<Gloria> is not wearing any attire."
+        },
+        {
+            "Question": "Does <Gloria> have any distinctive facial features?",
+            "Answer": "<Gloria> has large, expressive eyes and a wide snout."
+        },
+        {
+            "Question": "What is <Gloria> overall build or physique?",
+            "Answer": "<Gloria> has a large and rounded physique."
+        },
+        {
+            "Question": "What is <Gloria> general expression or demeanor?",
+            "Answer": "<Gloria> has a calm and slightly bored expression."
+        }
+    ],
+    "three_concept/concept/train/Gloria/7.png": [
+        {
+            "Question": "What is <Gloria> hair color?",
+            "Answer": "<Gloria> does not have hair; she is a hippopotamus character."
+        },
+        {
+            "Question": "What color are <Gloria> eyes?",
+            "Answer": "<Gloria>'s eyes are brown."
+        },
+        {
+            "Question": "Would you describe <Gloria>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<Gloria>'s physique is best described as robust."
+        },
+        {
+            "Question": "What is <Gloria> skin tone?",
+            "Answer": "<Gloria>'s skin tone is a medium brown."
+        },
+        {
+            "Question": "How would you describe <Gloria> hairstyle?",
+            "Answer": "<Gloria>'s hairstyle is short and sleek."
+        },
+        {
+            "Question": "Does <Gloria> wear glasses or any accessories?",
+            "Answer": "<Gloria> is not wearing glasses or any accessories."
+        },
+        {
+            "Question": "How would you describe <Gloria>'s attire?",
+            "Answer": "<Gloria> is not wearing any attire."
+        },
+        {
+            "Question": "Does <Gloria> have any distinctive facial features?",
+            "Answer": "<Gloria> has expressive eyes and a prominent snout."
+        },
+        {
+            "Question": "What is <Gloria> overall build or physique?",
+            "Answer": "<Gloria> has a robust and sturdy build."
+        },
+        {
+            "Question": "What is <Gloria> general expression or demeanor?",
+            "Answer": "<Gloria> has a relaxed and content expression."
+        }
+    ],
+    "three_concept/concept/train/Gloria/8.png": [
+        {
+            "Question": "What is <Gloria> hair color?",
+            "Answer": "<Gloria> does not have hair."
+        },
+        {
+            "Question": "What color are <Gloria> eyes?",
+            "Answer": "<Gloria>'s eyes are blue."
+        },
+        {
+            "Question": "Would you describe <Gloria>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<Gloria>'s physique is otherwise, as she is a hippopotamus."
+        },
+        {
+            "Question": "What is <Gloria> skin tone?",
+            "Answer": "<Gloria>'s skin tone is gray."
+        },
+        {
+            "Question": "How would you describe <Gloria> hairstyle?",
+            "Answer": "<Gloria> has small ears with no distinct hairstyle."
+        },
+        {
+            "Question": "Does <Gloria> wear glasses or any accessories?",
+            "Answer": "<Gloria> is not wearing glasses or any accessories."
+        },
+        {
+            "Question": "How would you describe <Gloria>'s attire?",
+            "Answer": "<Gloria> is not wearing any attire."
+        },
+        {
+            "Question": "Does <Gloria> have any distinctive facial features?",
+            "Answer": "<Gloria> has prominent eyelashes and expressive eyebrows."
+        },
+        {
+            "Question": "What is <Gloria> overall build or physique?",
+            "Answer": "<Gloria> has a large and robust build typical of a hippopotamus."
+        },
+        {
+            "Question": "What is <Gloria> general expression or demeanor?",
+            "Answer": "<Gloria> has a calm and slightly skeptical expression."
+        }
+    ],
+    "three_concept/concept/train/Gloria/9.png": [
+        {
+            "Question": "What is <Gloria> hair color?",
+            "Answer": "<Gloria> does not have any hair."
+        },
+        {
+            "Question": "What color are <Gloria> eyes?",
+            "Answer": "<Gloria>'s eyes are brown."
+        },
+        {
+            "Question": "Would you describe <Gloria>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<Gloria>'s physique is best described as robust."
+        },
+        {
+            "Question": "What is <Gloria> skin tone?",
+            "Answer": "<Gloria>'s skin tone is gray."
+        },
+        {
+            "Question": "How would you describe <Gloria> hairstyle?",
+            "Answer": "<Gloria> has a short hairstyle with two small tufts on top of her head."
+        },
+        {
+            "Question": "Does <Gloria> wear glasses or any accessories?",
+            "Answer": "<Gloria> is not wearing glasses or any accessories."
+        },
+        {
+            "Question": "How would you describe <Gloria>'s attire?",
+            "Answer": "<Gloria> is not wearing any attire."
+        },
+        {
+            "Question": "Does <Gloria> have any distinctive facial features?",
+            "Answer": "<Gloria> has large eyes and a wide mouth."
+        },
+        {
+            "Question": "What is <Gloria> overall build or physique?",
+            "Answer": "<Gloria> has a round and robust build."
+        },
+        {
+            "Question": "What is <Gloria> general expression or demeanor?",
+            "Answer": "<Gloria> has a relaxed and slightly amused expression."
+        }
+    ]
+}

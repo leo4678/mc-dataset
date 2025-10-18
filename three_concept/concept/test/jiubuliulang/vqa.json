@@ -1,0 +1,22 @@
+{
+    "three_concept/concept/test/jiubuliulang/0.png": {
+        "Human": "What is <jiubuliulang> wearing in the image?",
+        "AI": "<jiubuliulang> is wearing a dark suit with a white shirt and a black tie."
+    },
+    "three_concept/concept/test/jiubuliulang/1.png": {
+        "Human": "What color is the shirt that <jiubuliulang> is wearing?",
+        "AI": "<jiubuliulang> is wearing a pink shirt with a star design."
+    },
+    "three_concept/concept/test/jiubuliulang/2.png": {
+        "Human": "What type of clothing is <jiubuliulang> wearing in the image?",
+        "AI": "<jiubuliulang> is wearing a brown shirt under a gray jacket."
+    },
+    "three_concept/concept/test/jiubuliulang/3.png": {
+        "Human": "What is <jiubuliulang> holding in the image?",
+        "AI": "<jiubuliulang> is holding a yellow folder in the image."
+    },
+    "three_concept/concept/test/jiubuliulang/4.png": {
+        "Human": "What is <jiubuliulang> wearing in the image?",
+        "AI": "<jiubuliulang> is wearing a black suit with a white shirt and a black tie."
+    }
+}

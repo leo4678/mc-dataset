@@ -1,0 +1,22 @@
+[
+    {
+        "question": "What is <Harry> holding in his hand? A.Wand.  B.Sword",
+        "answer": "A"
+    },
+    {
+        "question": "What is the primary color of <Harry>'s school uniform tie? A.Red and gold.  B.Blue and silver",
+        "answer": "A"
+    },
+    {
+        "question": "Does <Harry> wear glasses? A.Yes.  B.No",
+        "answer": "A"
+    },
+    {
+        "question": "What is <Harry>'s hair color? A.Black.  B.Blonde",
+        "answer": "A"
+    },
+    {
+        "question": "What type of clothing is <Harry> wearing in the formal event? A.Tuxedo.  B.Robe",
+        "answer": "A"
+    }
+]

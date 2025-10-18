@@ -1,0 +1,22 @@
+{
+    "three_concept/concept/test/Lynx/0.png": {
+        "Human": "What is the pattern on the <Lynx> hat? \n A. Stripes; \n B. Spots; \n C. Checkered;\n",
+        "AI": "B"
+    },
+    "three_concept/concept/test/Lynx/1.png": {
+        "Human": "What is the pattern on the <Lynx>? \n A. Stripes; \n B. Polka dots; \n C. Checkered;\n",
+        "AI": "B"
+    },
+    "three_concept/concept/test/Lynx/2.png": {
+        "Human": "What is the pattern on the <Lynx> hat? \n A. Stripes; \n B. Spots; \n C. Checkered;\n",
+        "AI": "B"
+    },
+    "three_concept/concept/test/Lynx/3.png": {
+        "Human": "What is the pattern on the <Lynx>? \n A. Stripes; \n B. Spots; \n C. Checkered;\n",
+        "AI": "B"
+    },
+    "three_concept/concept/test/Lynx/4.png": {
+        "Human": "What pattern is present on the <Lynx> hat? \n A. Stripes; \n B. Spots; \n C. Checkered;",
+        "AI": "B"
+    }
+}

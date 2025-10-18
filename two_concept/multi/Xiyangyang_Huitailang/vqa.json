@@ -1,0 +1,72 @@
+{
+    "two_concept/multi/Xiyangyang_Huitailang/0.jpg": [
+        {
+            "Human": "What is <Xiyangyang> wearing in the image?",
+            "AI": "<Xiyangyang> is wearing a white and blue spacesuit with a badge on the chest."
+        },
+        {
+            "Human": "What is <Huitailang> wearing in the image?",
+            "AI": "<Huitailang> is wearing a patched hat and a space suit."
+        },
+        {
+            "Human": "What are <Xiyangyang> and <Huitailang> looking at in the image?",
+            "AI": "<Xiyangyang> and <Huitailang> are looking up at something in the image."
+        }
+    ],
+    "two_concept/multi/Xiyangyang_Huitailang/1.jpg": [
+        {
+            "Human": "What is <Xiyangyang> holding in the image?",
+            "AI": "<Xiyangyang> is holding a device with buttons and a screen."
+        },
+        {
+            "Human": "What is <Huitailang> holding in the image?",
+            "AI": "<Huitailang> is holding a device with buttons and a screen."
+        },
+        {
+            "Human": "What is <Huitailang> holding in the image with <Xiyangyang>?",
+            "AI": "<Huitailang> is holding a device in the image with <Xiyangyang>."
+        }
+    ],
+    "two_concept/multi/Xiyangyang_Huitailang/2.jpg": [
+        {
+            "Human": "What is <Xiyangyang> wearing in the image?",
+            "AI": "<Xiyangyang> is wearing a blue and white spacesuit."
+        },
+        {
+            "Human": "What is <Huitailang> wearing in the image?",
+            "AI": "<Huitailang> is wearing a space suit with pink accents and a patched hat."
+        },
+        {
+            "Human": "What are <Xiyangyang> and <Huitailang> wearing in the image?",
+            "AI": "<Xiyangyang> is wearing a blue astronaut suit, and <Huitailang> is wearing a white spacesuit with pink accents."
+        }
+    ],
+    "two_concept/multi/Xiyangyang_Huitailang/3.jpg": [
+        {
+            "Human": "What is the expression on <Xiyangyang>'s face in the image?",
+            "AI": "<Xiyangyang> looks surprised and determined."
+        },
+        {
+            "Human": "What is the expression on <Huitailang>'s face?",
+            "AI": "<Huitailang> has a surprised expression on his face."
+        },
+        {
+            "Human": "What are <Xiyangyang> and <Huitailang> wearing in the image?",
+            "AI": "<Xiyangyang> is wearing a space suit with a blue collar, and <Huitailang> is wearing a space suit with a purple collar and a patched hat."
+        }
+    ],
+    "two_concept/multi/Xiyangyang_Huitailang/4.jpg": [
+        {
+            "Human": "What is <Xiyangyang> wearing in the image?",
+            "AI": "<Xiyangyang> is wearing a white and blue spacesuit with gloves and boots."
+        },
+        {
+            "Human": "What is <Huitailang> wearing in the image?",
+            "AI": "<Huitailang> is wearing a patched hat and a spacesuit."
+        },
+        {
+            "Human": "What are <Xiyangyang> and <Huitailang> wearing in the image?",
+            "AI": "<Xiyangyang> is wearing a white and blue spacesuit, while <Huitailang> is wearing a grey spacesuit with a red patch on his hat."
+        }
+    ]
+}

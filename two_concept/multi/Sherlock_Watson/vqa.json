@@ -1,0 +1,72 @@
+{
+    "two_concept/multi/Sherlock_Watson/0.png": [
+        {
+            "Human": "Where is <Sherlock> standing in the image?",
+            "AI": "<Sherlock> is standing outside the window of a diner."
+        },
+        {
+            "Human": "What is <Watson> doing in the image?",
+            "AI": "<Watson> is sitting at a table and drinking from a cup."
+        },
+        {
+            "Human": "What is <Watson> doing in the image while <Sherlock> is standing outside?",
+            "AI": "<Watson> is sitting inside a diner and drinking from a cup while <Sherlock> is standing outside looking in through the window."
+        }
+    ],
+    "two_concept/multi/Sherlock_Watson/1.png": [
+        {
+            "Human": "What are <Sherlock> and the person next to him holding in the image?",
+            "AI": "<Sherlock> and the person next to him are holding grey hats."
+        },
+        {
+            "Human": "What is <Watson> holding in the image?",
+            "AI": "<Watson> is holding a gray hat."
+        },
+        {
+            "Human": "What are <Sherlock> and <Watson> holding in the image?",
+            "AI": "<Sherlock> and <Watson> are holding grey top hats."
+        }
+    ],
+    "two_concept/multi/Sherlock_Watson/2.png": [
+        {
+            "Human": "What is <Sherlock> doing in the image?",
+            "AI": "<Sherlock> is running through a dimly lit tunnel."
+        },
+        {
+            "Human": "What are <Watson> and the other person doing in the image?",
+            "AI": "<Watson> and the other person are running through a dimly lit tunnel."
+        },
+        {
+            "Human": "What are <Sherlock> and <Watson> doing in the image?",
+            "AI": "<Sherlock> and <Watson> are running through a dimly lit tunnel."
+        }
+    ],
+    "two_concept/multi/Sherlock_Watson/3.png": [
+        {
+            "Human": "What is written in red text in the image with <Sherlock>?",
+            "AI": "The red text in the image with <Sherlock> says 'Fire on Fire'."
+        },
+        {
+            "Human": "What is written in red text in the image with <Watson>?",
+            "AI": "The red text in the image with <Watson> says 'fire on fire'."
+        },
+        {
+            "Human": "What is written in red text in the image with <Sherlock> and <Watson>?",
+            "AI": "The red text in the image with <Sherlock> and <Watson> says 'Fire on Fire'."
+        }
+    ],
+    "two_concept/multi/Sherlock_Watson/4.png": [
+        {
+            "Human": "What is the address behind <Sherlock> in the image?",
+            "AI": "The address behind <Sherlock> is 221B."
+        },
+        {
+            "Human": "What is the address behind <Watson> in the image?",
+            "AI": "The address behind <Watson> is 221B."
+        },
+        {
+            "Human": "What are <Sherlock> and <Watson> wearing in the image?",
+            "AI": "<Sherlock> is wearing a dark coat and a blue scarf, while <Watson> is wearing a dark jacket over a collared shirt."
+        }
+    ]
+}

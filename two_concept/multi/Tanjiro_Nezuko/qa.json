@@ -1,0 +1,22 @@
+[
+    {
+        "question": "Are both <Tanjiro> and <Nezuko> humans or animals? A. Humans. B. Animals",
+        "answer": "A"
+    },
+    {
+        "question": "What are the genders of <Tanjiro> and <Nezuko> respectively? A. Boy, Girl. B. Girl, Boy",
+        "answer": "A"
+    },
+    {
+        "question": "What are the hair colors of <Tanjiro> and <Nezuko> respectively? A. Black, Red. B. Red, Black",
+        "answer": "B"
+    },
+    {
+        "question": "What type of clothing do <Tanjiro> and <Nezuko> often wear? A. Traditional, Modern. B. Both Traditional",
+        "answer": "B"
+    },
+    {
+        "question": "Do <Tanjiro> and <Nezuko> have any distinctive accessories? A. Earrings and Bamboo. B. Glasses and Hat",
+        "answer": "A"
+    }
+]

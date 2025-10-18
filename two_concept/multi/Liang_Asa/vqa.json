@@ -1,0 +1,72 @@
+{
+    "two_concept/multi/Liang_Asa/0.png": [
+        {
+            "Human": "What is <Liang> wearing in the image?",
+            "AI": "<Liang> is wearing a gray suit with a white shirt and a dark patterned tie."
+        },
+        {
+            "Human": "What is <Asa> wearing in the image?",
+            "AI": "<Asa> is wearing a patterned dress with a purple cardigan."
+        },
+        {
+            "Human": "What are <Liang> and <Asa> wearing in the image?",
+            "AI": "<Liang> is wearing a light-colored suit with a dark tie, and <Asa> is wearing a patterned dress with a purple cardigan."
+        }
+    ],
+    "two_concept/multi/Liang_Asa/1.png": [
+        {
+            "Human": "What is <Liang> wearing in the image?",
+            "AI": "<Liang> is wearing a blue suit with a tie."
+        },
+        {
+            "Human": "What is the clothing style of <Asa> in the image?",
+            "AI": "<Asa> is wearing a decorative jacket with a patterned design."
+        },
+        {
+            "Human": "Where are <Liang> and <Asa> seated?",
+            "AI": "<Liang> and <Asa> are seated at a conference table with a microphone in front of them."
+        }
+    ],
+    "two_concept/multi/Liang_Asa/2.png": [
+        {
+            "Human": "What is <Liang> wearing in the image?",
+            "AI": "<Liang> is wearing a beige pinstriped suit with a tie."
+        },
+        {
+            "Human": "What is <Asa> wearing in the image?",
+            "AI": "<Asa> is wearing a dark pinstripe jacket with a brooch and a pearl necklace."
+        },
+        {
+            "Human": "What are <Liang> and <Asa> wearing in the image?",
+            "AI": "<Liang> is wearing a light-colored pinstripe suit with a tie, while <Asa> is wearing a dark-colored pinstripe outfit with a necklace and a brooch."
+        }
+    ],
+    "two_concept/multi/Liang_Asa/3.png": [
+        {
+            "Human": "What is the outerwear that <Liang> is wearing in the image?",
+            "AI": "<Liang> is wearing a dark jacket with light-colored patches on the sleeves."
+        },
+        {
+            "Human": "What color is <Asa>'s outfit?",
+            "AI": "<Asa> is wearing a blue outfit."
+        },
+        {
+            "Human": "What color clothing is <Asa> wearing compared to <Liang>?",
+            "AI": "<Asa> is wearing a blue coat, whereas <Liang> is wearing a dark jacket with green sleeves."
+        }
+    ],
+    "two_concept/multi/Liang_Asa/4.png": [
+        {
+            "Human": "What is <Liang> wearing on his head in the image?",
+            "AI": "<Liang> is wearing a white hard hat."
+        },
+        {
+            "Human": "What is <Asa> holding in the image?",
+            "AI": "<Asa> is holding binoculars."
+        },
+        {
+            "Human": "What items are <Liang> and <Asa> holding in the image?",
+            "AI": "<Liang> and <Asa> are both holding binoculars."
+        }
+    ]
+}

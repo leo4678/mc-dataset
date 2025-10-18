@@ -1,0 +1,22 @@
+{
+    "0.jpg": {
+        "<Chuhuoluo>": "left",
+        "<Shenzhenyi>": "right"
+    },
+    "1.jpg": {
+        "<Chuhuoluo>": "left",
+        "<Shenzhenyi>": "right"
+    },
+    "2.jpg": {
+        "<Chuhuoluo>": "left",
+        "<Shenzhenyi>": "right"
+    },
+    "3.jpg": {
+        "<Chuhuoluo>": "right",
+        "<Shenzhenyi>": "left"
+    },
+    "4.jpg": {
+        "<Chuhuoluo>": "left",
+        "<Shenzhenyi>": "right"
+    }
+}

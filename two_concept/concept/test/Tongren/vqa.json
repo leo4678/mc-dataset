@@ -1,0 +1,22 @@
+{
+    "two_concept/concept/test/Tongren/0.png": {
+        "Human": "What type of outfit is <Tongren> wearing in the image?",
+        "AI": "<Tongren> is wearing a black, futuristic outfit with a high collar and various straps and buckles."
+    },
+    "two_concept/concept/test/Tongren/1.png": {
+        "Human": "What type of clothing is <Tongren> wearing in the image?",
+        "AI": "<Tongren> is wearing a long black coat with matching black pants and boots."
+    },
+    "two_concept/concept/test/Tongren/2.png": {
+        "Human": "What is <Tongren> wearing in the image?",
+        "AI": "<Tongren> is wearing a black outfit with white accents."
+    },
+    "two_concept/concept/test/Tongren/3.png": {
+        "Human": "What is <Tongren> holding in their hand?",
+        "AI": "<Tongren> is holding a staff in their hand."
+    },
+    "two_concept/concept/test/Tongren/4.png": {
+        "Human": "What color is <Tongren>'s hair in the image?",
+        "AI": "<Tongren>'s hair is black."
+    }
+}

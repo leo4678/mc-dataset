@@ -1,0 +1,22 @@
+{
+    "three_concept/concept/test/Roxy/0.png": {
+        "Human": "What is the primary color used in the background of the <Roxy> logo?",
+        "AI": "The primary color used in the background of the <Roxy> logo is yellow."
+    },
+    "three_concept/concept/test/Roxy/1.png": {
+        "Human": "What is the design style of the <Roxy> logo in the image?",
+        "AI": "The <Roxy> logo in the image is designed in an anime style, featuring a stylized skull with a wide grin and crossbones, set against a camouflage background."
+    },
+    "three_concept/concept/test/Roxy/2.png": {
+        "Human": "What is the main design feature of the <Roxy> logo in the image?",
+        "AI": "The main design feature of the <Roxy> logo is a stylized skull with large circular eyes and vertical stripes resembling teeth."
+    },
+    "three_concept/concept/test/Roxy/3.png": {
+        "Human": "What is the primary color scheme of the <Roxy> logo?",
+        "AI": "The primary color scheme of the <Roxy> logo is yellow and black."
+    },
+    "three_concept/concept/test/Roxy/4.png": {
+        "Human": "What is the color scheme of the <Roxy> logo in the image?",
+        "AI": "The <Roxy> logo in the image features a gold color on a black background."
+    }
+}

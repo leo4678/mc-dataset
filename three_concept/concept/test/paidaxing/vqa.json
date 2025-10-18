@@ -1,0 +1,22 @@
+{
+    "three_concept/concept/test/paidaxing/0.png": {
+        "Human": "What color are <paidaxing>'s shorts in the image?",
+        "AI": "<paidaxing>'s shorts are green with purple patterns."
+    },
+    "three_concept/concept/test/paidaxing/1.png": {
+        "Human": "What is <paidaxing> carrying on his back?",
+        "AI": "<paidaxing> is carrying a large backpack with a rolled-up sleeping bag on top."
+    },
+    "three_concept/concept/test/paidaxing/2.png": {
+        "Human": "What activity is <paidaxing> doing in the image?",
+        "AI": "<paidaxing> is climbing a rope in the image."
+    },
+    "three_concept/concept/test/paidaxing/3.png": {
+        "Human": "What is <paidaxing> drinking in the image?",
+        "AI": "<paidaxing> is drinking a pink slushie from a cup with a straw."
+    },
+    "three_concept/concept/test/paidaxing/4.png": {
+        "Human": "What color are <paidaxing>'s shorts in the image?",
+        "AI": "<paidaxing>'s shorts are green with purple flowers in the image."
+    }
+}

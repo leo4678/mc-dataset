@@ -1,0 +1,22 @@
+{
+    "two_concept/concept/test/Houtarou/0.png": {
+        "Human": "What color is <Houtarou>'s hair in the image?",
+        "AI": "<Houtarou>'s hair is dark brown in the image."
+    },
+    "two_concept/concept/test/Houtarou/1.png": {
+        "Human": "What is the background setting in the image featuring <Houtarou>?",
+        "AI": "The background setting in the image featuring <Houtarou> is a brick wall."
+    },
+    "two_concept/concept/test/Houtarou/2.png": {
+        "Human": "What is <Houtarou> holding in the image?",
+        "AI": "<Houtarou> is holding a sign with his name on it."
+    },
+    "two_concept/concept/test/Houtarou/3.png": {
+        "Human": "What is the color of <Houtarou>'s hair in the image?",
+        "AI": "<Houtarou> has dark brown hair."
+    },
+    "two_concept/concept/test/Houtarou/4.png": {
+        "Human": "What is <Houtarou> doing in this image?",
+        "AI": "<Houtarou> is saluting or shading his eyes."
+    }
+}

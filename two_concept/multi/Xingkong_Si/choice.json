@@ -1,0 +1,72 @@
+{
+    "two_concept/multi/Xingkong_Si/0.png": [
+        {
+            "Human": "What color is <Xingkong>'s hoodie? A. Green B. Blue C. Red",
+            "AI": "A"
+        },
+        {
+            "Human": "What color is <Si>'s apron? A. Blue B. Pink C. Green",
+            "AI": "B"
+        },
+        {
+            "Human": "What color is <Si>'s apron? A. Blue B. Pink C. Green",
+            "AI": "B"
+        }
+    ],
+    "two_concept/multi/Xingkong_Si/1.png": [
+        {
+            "Human": "What is <Xingkong> wearing in the image? A. A blue hoodie and blue pants. B. A red shirt and black pants.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is <Si> doing in the image? A.Standing. B.Sitting on a bench.",
+            "AI": "B"
+        },
+        {
+            "Human": "What is <Si> doing in the image? A.Standing. B.Sitting on a bench. C.Running.",
+            "AI": "B"
+        }
+    ],
+    "two_concept/multi/Xingkong_Si/2.png": [
+        {
+            "Human": "What is <Xingkong> wearing in the image? A. A green hoodie. B. A white shirt. C. A black jacket.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is <Si> doing in the image? A. Sitting on the bed. B. Standing by the door.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is the expression of <Xingkong> and <Si> in the image? A. Both are smiling. B. <Xingkong> looks shy and <Si> looks serious. C. Both are angry.",
+            "AI": "B"
+        }
+    ],
+    "two_concept/multi/Xingkong_Si/3.png": [
+        {
+            "Human": "What is the hair color of <Xingkong>? A. Pink. B. Purple.",
+            "AI": "B"
+        },
+        {
+            "Human": "What is the hair color of <Si>? A. Pink. B. Blue. C. Green.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is the hair color of <Si>? A. Pink. B. Blue.",
+            "AI": "A"
+        }
+    ],
+    "two_concept/multi/Xingkong_Si/4.png": [
+        {
+            "Human": "What color is <Xingkong>'s hair? A. Purple B. Red C. Blue",
+            "AI": "A"
+        },
+        {
+            "Human": "What color is <Si>'s hair? A. Pink. B. Blue. C. Green.",
+            "AI": "A"
+        },
+        {
+            "Human": "What color is <Si>'s hair? A. Pink. B. Purple. C. Green.",
+            "AI": "A"
+        }
+    ]
+}

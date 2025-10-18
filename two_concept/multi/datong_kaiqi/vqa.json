@@ -1,0 +1,72 @@
+{
+    "two_concept/multi/datong_kaiqi/0.jpg": [
+        {
+            "Human": "What is <datong> wearing in the image?",
+            "AI": "<datong> is wearing a brown and gray sweater with glasses."
+        },
+        {
+            "Human": "What is <kaiqi> wearing in the image?",
+            "AI": "<kaiqi> is wearing a brown hooded garment."
+        },
+        {
+            "Human": "What are <datong> and <kaiqi> wearing in the image?",
+            "AI": "<datong> is wearing a brown and gray sweater, while <kaiqi> is wearing a brown hooded garment."
+        }
+    ],
+    "two_concept/multi/datong_kaiqi/1.jpg": [
+        {
+            "Human": "What is <datong> wearing in the image?",
+            "AI": "<datong> is wearing a grey hoodie and a black cap."
+        },
+        {
+            "Human": "What is <kaiqi> wearing in the image?",
+            "AI": "<kaiqi> is wearing a plaid shirt over a black top."
+        },
+        {
+            "Human": "What are <datong> and <kaiqi> wearing in the image?",
+            "AI": "<datong> is wearing a grey hoodie and a cap, while <kaiqi> is wearing a plaid shirt over a black top."
+        }
+    ],
+    "two_concept/multi/datong_kaiqi/2.jpg": [
+        {
+            "Human": "What is <datong> wearing in the image?",
+            "AI": "<datong> is wearing a gray hoodie and a black cap."
+        },
+        {
+            "Human": "What is <kaiqi> doing in the image?",
+            "AI": "<kaiqi> is shaking hands with someone."
+        },
+        {
+            "Human": "What are <datong> and <kaiqi> doing in the image?",
+            "AI": "<datong> and <kaiqi> are shaking hands."
+        }
+    ],
+    "two_concept/multi/datong_kaiqi/3.jpg": [
+        {
+            "Human": "What is <datong> wearing in the image?",
+            "AI": "<datong> is wearing a blue shirt and a gray hoodie."
+        },
+        {
+            "Human": "What is <kaiqi> wearing in the image?",
+            "AI": "<kaiqi> is wearing a black sleeveless top."
+        },
+        {
+            "Human": "What are <datong> and <kaiqi> wearing in the image?",
+            "AI": "<datong> is wearing a blue shirt with a light gray jacket, and <kaiqi> is wearing a black sleeveless top."
+        }
+    ],
+    "two_concept/multi/datong_kaiqi/4.jpg": [
+        {
+            "Human": "What is <datong> wearing in the image?",
+            "AI": "<datong> is wearing a dark-colored outfit with a scarf and a hat."
+        },
+        {
+            "Human": "What is <kaiqi> wearing in the image?",
+            "AI": "<kaiqi> is wearing a pink traditional dress with black trim and floral embroidery."
+        },
+        {
+            "Human": "What are <datong> and <kaiqi> wearing in the image?",
+            "AI": "<datong> is wearing a dark outfit with a scarf and a hat, while <kaiqi> is wearing a pink traditional dress with a name tag."
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "three_concept/concept/test/LiKe/0.png": {
+        "Human": "What is <LiKe> holding in the image?",
+        "AI": "<LiKe> is holding a spinning top-like object with a transparent sphere around it."
+    },
+    "three_concept/concept/test/LiKe/1.jpg": {
+        "Human": "What is <LiKe> holding in the image?",
+        "AI": "<LiKe> is holding a bowl of food with various ingredients."
+    },
+    "three_concept/concept/test/LiKe/2.png": {
+        "Human": "What is <LiKe> holding on their shoulder?",
+        "AI": "<LiKe> is holding a small creature on their shoulder."
+    },
+    "three_concept/concept/test/LiKe/3.png": {
+        "Human": "What is <LiKe> wearing on their head?",
+        "AI": "<LiKe> is wearing a hat with a brim."
+    },
+    "three_concept/concept/test/LiKe/4.png": {
+        "Human": "What is <LiKe> wearing in the image?",
+        "AI": "<LiKe> is wearing a brown jacket with a red clip and a dark shirt underneath."
+    }
+}

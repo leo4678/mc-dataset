@@ -1,0 +1,22 @@
+{
+    "three_concept/concept/test/LiKe/0.png": {
+        "Human": "What is <LiKe> holding in the image? A. A book; B. A spinning top; C. A lantern;",
+        "AI": "B"
+    },
+    "three_concept/concept/test/LiKe/1.jpg": {
+        "Human": "What is <LiKe> holding in the image? A. A bowl of soup; B. A book; C. A flower bouquet;",
+        "AI": "A"
+    },
+    "three_concept/concept/test/LiKe/2.png": {
+        "Human": "What is <LiKe> wearing on their head? A. A hat; B. A headband; C. A helmet;",
+        "AI": "A"
+    },
+    "three_concept/concept/test/LiKe/3.png": {
+        "Human": "What is <LiKe> holding in the image? A. A pink glove; B. A blue hat; C. A red scarf;",
+        "AI": "A"
+    },
+    "three_concept/concept/test/LiKe/4.png": {
+        "Human": "What is <LiKe> wearing in the image? A. A red jacket; B. A brown jacket; C. A blue jacket;",
+        "AI": "B"
+    }
+}

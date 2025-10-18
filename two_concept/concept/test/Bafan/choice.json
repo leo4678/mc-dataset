@@ -1,0 +1,22 @@
+{
+    "two_concept/concept/test/Bafan/0.png": {
+        "Human": "What type of clothing is <Bafan> wearing?  A. Casual wear; B. School uniform; C. Sports attire;",
+        "AI": "B"
+    },
+    "two_concept/concept/test/Bafan/1.png": {
+        "Human": "What is <Bafan> wearing in the image? A. Casual clothes;B. School uniform;",
+        "AI": "B"
+    },
+    "two_concept/concept/test/Bafan/2.png": {
+        "Human": "What is the expression on <Bafan>'s face? A. Happy; B. Disinterested; C. Angry;",
+        "AI": "B"
+    },
+    "two_concept/concept/test/Bafan/3.png": {
+        "Human": "What is <Bafan> carrying on their shoulder?  A. A backpack; B. A duffel bag;",
+        "AI": "A"
+    },
+    "two_concept/concept/test/Bafan/4.png": {
+        "Human": "What is <Bafan> wearing?  A. A school uniform; B. Casual clothes; C. A sports jersey;",
+        "AI": "A"
+    }
+}

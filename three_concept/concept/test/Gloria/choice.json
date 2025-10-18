@@ -1,0 +1,22 @@
+{
+    "three_concept/concept/test/Gloria/0.png": {
+        "Human": "What is <Gloria> holding in the image? A. A gift; B. A cake; C. A balloon;",
+        "AI": "B"
+    },
+    "three_concept/concept/test/Gloria/1.png": {
+        "Human": "What is <Gloria> doing in the image? A. Dancing; B. Standing; C. Sleeping;",
+        "AI": "B"
+    },
+    "three_concept/concept/test/Gloria/2.png": {
+        "Human": "What is <Gloria> doing in the image? A. Swimming in a pool; B. Walking in a park; C. Eating food;",
+        "AI": "A"
+    },
+    "three_concept/concept/test/Gloria/3.png": {
+        "Human": "What is <Gloria> doing in the image? A. Dancing; B. Leaning on a railing; C. Sleeping;",
+        "AI": "B"
+    },
+    "three_concept/concept/test/Gloria/4.png": {
+        "Human": "What is <Gloria> doing in the image? A. Sleeping; B. Relaxing; C. Running;",
+        "AI": "B"
+    }
+}

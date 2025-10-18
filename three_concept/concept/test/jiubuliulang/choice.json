@@ -1,0 +1,22 @@
+{
+    "three_concept/concept/test/jiubuliulang/0.png": {
+        "Human": "What is <jiubuliulang> wearing in the image? A. A casual shirt; B. A suit and tie; C. A hoodie;",
+        "AI": "B"
+    },
+    "three_concept/concept/test/jiubuliulang/1.png": {
+        "Human": "What color is the shirt worn by <jiubuliulang>? A. Blue; B. Red; C. Green;",
+        "AI": "B"
+    },
+    "three_concept/concept/test/jiubuliulang/2.png": {
+        "Human": "What type of clothing is <jiubuliulang> wearing? A. A suit; B. A jacket; C. A sweater;",
+        "AI": "B"
+    },
+    "three_concept/concept/test/jiubuliulang/3.png": {
+        "Human": "What is <jiubuliulang> wearing in the image? A. A lab coat and gloves; B. A suit and tie; C. A casual t-shirt;",
+        "AI": "A"
+    },
+    "three_concept/concept/test/jiubuliulang/4.png": {
+        "Human": "What is <jiubuliulang> wearing in the image? A. A casual shirt; B. A suit and tie; C. A hoodie;",
+        "AI": "B"
+    }
+}

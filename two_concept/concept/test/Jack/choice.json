@@ -1,0 +1,22 @@
+{
+    "two_concept/concept/test/Jack/0.png": {
+        "Human": "What is <Jack> wearing in the image?  A. A black shirt with suspenders; B. A white t-shirt; C. A blue jacket;",
+        "AI": "A"
+    },
+    "two_concept/concept/test/Jack/1.png": {
+        "Human": "What type of hairstyle does <Jack> have in the image?  A. Curly; B. Slicked back;",
+        "AI": "B"
+    },
+    "two_concept/concept/test/Jack/2.png": {
+        "Human": "What color is <Jack>'s hair?  A. Black; B. Brown; C. Blonde;",
+        "AI": "A"
+    },
+    "two_concept/concept/test/Jack/3.png": {
+        "Human": "What is <Jack> wearing in the image?  A. A black jacket; B. A brown jacket; C. A grey jacket;",
+        "AI": "A"
+    },
+    "two_concept/concept/test/Jack/4.png": {
+        "Human": "What is <Jack> wearing in the image?  A. A brown jacket; B. A white shirt; C. A black coat;",
+        "AI": "A"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "three_concept/concept/test/Marty/0.png": {
+        "Human": "What is <Marty> doing in the image? A. Running; B. Standing still; C. Jumping;",
+        "AI": "A"
+    },
+    "three_concept/concept/test/Marty/1.png": {
+        "Human": "What is <Marty> doing in the image? A. Dancing; B. Sleeping; C. Eating;",
+        "AI": "A"
+    },
+    "three_concept/concept/test/Marty/2.png": {
+        "Human": "What is the background setting in the image with <Marty>? A. A cityscape; B. A beach at sunset; C. A snowy mountain;",
+        "AI": "B"
+    },
+    "three_concept/concept/test/Marty/3.png": {
+        "Human": "What is <Marty> holding in the image? A. A fishing rod; B. A walking stick; C. A sword;",
+        "AI": "A"
+    },
+    "three_concept/concept/test/Marty/4.png": {
+        "Human": "What is <Marty> doing in the image? A. Running on the beach; B. Standing on the beach; C. Swimming in the ocean;",
+        "AI": "B"
+    }
+}

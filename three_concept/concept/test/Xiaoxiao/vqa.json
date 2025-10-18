@@ -1,0 +1,22 @@
+{
+    "three_concept/concept/test/Xiaoxiao/0.jpg": {
+        "Human": "What gesture is <Xiaoxiao> making in the image?",
+        "AI": "<Xiaoxiao> is making a peace sign with her hand."
+    },
+    "three_concept/concept/test/Xiaoxiao/1.jpg": {
+        "Human": "What is the color of <Xiaoxiao>'s hair in the image?",
+        "AI": "<Xiaoxiao> has green hair in the image."
+    },
+    "three_concept/concept/test/Xiaoxiao/2.jpg": {
+        "Human": "What type of accessory is <Xiaoxiao> wearing in her hair?",
+        "AI": "<Xiaoxiao> is wearing a decorative hairpin with beads in her hair."
+    },
+    "three_concept/concept/test/Xiaoxiao/3.jpg": {
+        "Human": "What is the color of <Xiaoxiao>'s hair in the image?",
+        "AI": "<Xiaoxiao> has green hair in the image."
+    },
+    "three_concept/concept/test/Xiaoxiao/4.jpg": {
+        "Human": "What is <Xiaoxiao> holding in the image?",
+        "AI": "<Xiaoxiao> is holding a book with a green and silver cover."
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "three_concept/concept/test/zhangwei/0.png": {
+        "Human": "What type of accessory is <zhangwei> wearing on his suit?",
+        "AI": "<zhangwei> is wearing a floral boutonniere on his suit."
+    },
+    "three_concept/concept/test/zhangwei/1.png": {
+        "Human": "What type of jacket is <zhangwei> wearing in the image?",
+        "AI": "<zhangwei> is wearing a white Adidas jacket with a hood."
+    },
+    "three_concept/concept/test/zhangwei/2.png": {
+        "Human": "What type of accessory is <zhangwei> wearing with his shirt?",
+        "AI": "<zhangwei> is wearing a bow tie with his shirt."
+    },
+    "three_concept/concept/test/zhangwei/3.png": {
+        "Human": "What type of accessory is <zhangwei> wearing with his suit?",
+        "AI": "<zhangwei> is wearing a floral bow tie with his suit."
+    },
+    "three_concept/concept/test/zhangwei/4.png": {
+        "Human": "What type of clothing is <zhangwei> wearing in the image?",
+        "AI": "<zhangwei> is wearing a gray shirt."
+    }
+}

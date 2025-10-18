@@ -1,0 +1,52 @@
+{
+    "two_concept/multi/tangmu_jierui/0.jpg": [
+        {
+            "Human": "Where is <tangmu> located in the photo? A. left B. right.",
+            "AI": "B"
+        },
+        {
+            "Human": "Where is <jierui> located in the photo? A. left B. right.",
+            "AI": "A"
+        }
+    ],
+    "two_concept/multi/tangmu_jierui/1.jpg": [
+        {
+            "Human": "Where is <tangmu> located in the photo? A. left B. right.",
+            "AI": "A"
+        },
+        {
+            "Human": "Where is <jierui> located in the photo? A. left B. right.",
+            "AI": "B"
+        }
+    ],
+    "two_concept/multi/tangmu_jierui/2.jpg": [
+        {
+            "Human": "Where is <tangmu> located in the photo? A. left B. right.",
+            "AI": "A"
+        },
+        {
+            "Human": "Where is <jierui> located in the photo? A. left B. right.",
+            "AI": "B"
+        }
+    ],
+    "two_concept/multi/tangmu_jierui/3.jpg": [
+        {
+            "Human": "Where is <tangmu> located in the photo? A. left B. right.",
+            "AI": "A"
+        },
+        {
+            "Human": "Where is <jierui> located in the photo? A. left B. right.",
+            "AI": "B"
+        }
+    ],
+    "two_concept/multi/tangmu_jierui/4.jpg": [
+        {
+            "Human": "Where is <tangmu> located in the photo? A. left B. right.",
+            "AI": "A"
+        },
+        {
+            "Human": "Where is <jierui> located in the photo? A. left B. right.",
+            "AI": "B"
+        }
+    ]
+}

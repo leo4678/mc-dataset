@@ -1,0 +1,22 @@
+{
+    "two_concept/concept/test/Shenzhenyi/0.jpg": {
+        "Human": "What color is the outfit that <Shenzhenyi> is wearing in the image?",
+        "AI": "<Shenzhenyi> is wearing a blue outfit with gold accents."
+    },
+    "two_concept/concept/test/Shenzhenyi/1.jpg": {
+        "Human": "What color is <Shenzhenyi>'s clothing in the image?",
+        "AI": "<Shenzhenyi>'s clothing is primarily blue in the image."
+    },
+    "two_concept/concept/test/Shenzhenyi/2.jpg": {
+        "Human": "What color is <Shenzhenyi>'s hair in the image?",
+        "AI": "<Shenzhenyi>'s hair is blue."
+    },
+    "two_concept/concept/test/Shenzhenyi/3.jpg": {
+        "Human": "What kind of clothing is <Shenzhenyi> wearing in the image?",
+        "AI": "<Shenzhenyi> is wearing a traditional outfit with a blue and white color scheme and intricate patterns on the sleeves."
+    },
+    "two_concept/concept/test/Shenzhenyi/4.jpg": {
+        "Human": "What is the color of <Shenzhenyi>'s hair?",
+        "AI": "<Shenzhenyi> has blue hair."
+    }
+}

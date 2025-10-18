@@ -1,0 +1,72 @@
+{
+    "two_concept/multi/Chuhuoluo_Shenzhenyi/0.jpg": [
+        {
+            "Human": "What is the outfit of <Chuhuoluo> in the image?",
+            "AI": "<Chuhuoluo> is wearing a light blue robe with intricate designs and a high collar."
+        },
+        {
+            "Human": "What is the attire of <Shenzhenyi> in the image?",
+            "AI": "<Shenzhenyi> is wearing a red and white dress with gold accents."
+        },
+        {
+            "Human": "What are <Chuhuoluo> and <Shenzhenyi> wearing in the image?",
+            "AI": "<Chuhuoluo> is wearing a light blue robe with geometric patterns, while <Shenzhenyi> is wearing a red and white outfit with gold accessories."
+        }
+    ],
+    "two_concept/multi/Chuhuoluo_Shenzhenyi/1.jpg": [
+        {
+            "Human": "What type of clothing is <Chuhuoluo> wearing in the image?",
+            "AI": "<Chuhuoluo> is wearing a red and white outfit with decorative armor pieces and red shoes."
+        },
+        {
+            "Human": "What is the role of <Shenzhenyi> in the image?",
+            "AI": "<Shenzhenyi> is sitting on a large throne-like chair, indicating a position of authority or importance."
+        },
+        {
+            "Human": "What are the outfits of <Chuhuoluo> and <Shenzhenyi> in the image?",
+            "AI": "<Chuhuoluo> is wearing a red and white outfit with red shoes, while <Shenzhenyi> is wearing a blue and white robe, sitting in a chair."
+        }
+    ],
+    "two_concept/multi/Chuhuoluo_Shenzhenyi/2.jpg": [
+        {
+            "Human": "What type of outfit is <Chuhuoluo> wearing in the image?",
+            "AI": "<Chuhuoluo> is wearing a white, sleeveless outfit with a decorative choker."
+        },
+        {
+            "Human": "What kind of clothing is <Shenzhenyi> wearing in the image?",
+            "AI": "<Shenzhenyi> is wearing a traditional robe with shades of blue and intricate designs."
+        },
+        {
+            "Human": "What types of clothes are <Chuhuoluo> and <Shenzhenyi> wearing?",
+            "AI": "<Chuhuoluo> is wearing a white dress with decorative hair accessories, and <Shenzhenyi> is dressed in traditional blue and white robes."
+        }
+    ],
+    "two_concept/multi/Chuhuoluo_Shenzhenyi/3.jpg": [
+        {
+            "Human": "What is <Chuhuoluo> doing in the image?",
+            "AI": "<Chuhuoluo> is holding hands with another character, with fire-like energy surrounding them."
+        },
+        {
+            "Human": "What is <Shenzhenyi> wearing in the image?",
+            "AI": "<Shenzhenyi> is wearing a blue and gray robe with a belt featuring gold accents."
+        },
+        {
+            "Human": "What are <Chuhuoluo> and <Shenzhenyi> doing in the image?",
+            "AI": "<Chuhuoluo> and <Shenzhenyi> are holding hands, and there is a magical aura around them."
+        }
+    ],
+    "two_concept/multi/Chuhuoluo_Shenzhenyi/4.jpg": [
+        {
+            "Human": "What is <Chuhuoluo> wearing in the image?",
+            "AI": "<Chuhuoluo> is wearing a red and gold outfit with ornate accessories."
+        },
+        {
+            "Human": "What colors are prominent in the clothing of <Shenzhenyi>?",
+            "AI": "<Shenzhenyi>'s clothing prominently features blue and white colors."
+        },
+        {
+            "Human": "What kind of clothing are <Chuhuoluo> and <Shenzhenyi> wearing?",
+            "AI": "<Chuhuoluo> is wearing a red and gold outfit with intricate patterns, while <Shenzhenyi> is dressed in a blue and white robe."
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+[
+    {
+        "question": "What is <GaoQiQiang>'s gender? A. Male B. Female",
+        "answer": "A"
+    },
+    {
+        "question": "What type of clothing does <GaoQiQiang> often wear? A. Casual B. Formal",
+        "answer": "B"
+    },
+    {
+        "question": "Does <GaoQiQiang> have short or long hair? A. Short B. Long",
+        "answer": "A"
+    },
+    {
+        "question": "What is a common accessory worn by <GaoQiQiang>? A. Watch B. Hat",
+        "answer": "A"
+    },
+    {
+        "question": "What is the predominant color of <GaoQiQiang>'s outfits? A. Blue B. Black",
+        "answer": "B"
+    }
+]

@@ -1,0 +1,22 @@
+{
+    "two_concept/concept/test/mingren/0.png": {
+        "Human": "What is the facial expression of <mingren> in the image? \n A. Smiling; \n B. Frowning; \n C. Neutral;",
+        "AI": "A"
+    },
+    "two_concept/concept/test/mingren/1.png": {
+        "Human": "What is the color of <mingren>'s hair? \n A. Yellow; \n B. Black; \n C. Brown;",
+        "AI": "A"
+    },
+    "two_concept/concept/test/mingren/2.png": {
+        "Human": "What is the color of <mingren>'s hair? \n A. Black; \n B. Yellow; \n C. Brown;",
+        "AI": "B"
+    },
+    "two_concept/concept/test/mingren/3.png": {
+        "Human": "What is the color of <mingren>'s hair? \n A. Black; \n B. Yellow; \n C. Brown;",
+        "AI": "B"
+    },
+    "two_concept/concept/test/mingren/4.png": {
+        "Human": "What is the expression on <mingren>'s face in the image? \n A. Smiling; \n B. Frowning; \n C. Neutral;",
+        "AI": "A"
+    }
+}

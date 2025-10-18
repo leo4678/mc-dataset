@@ -1,0 +1,72 @@
+{
+    "two_concept/multi/Jack_Rose/0.png": [
+        {
+            "Human": "What is <Jack> wearing in the image?",
+            "AI": "<Jack> is wearing a white shirt with suspenders."
+        },
+        {
+            "Human": "What is the hair color of <Rose> in the image?",
+            "AI": "<Rose> has curly brown hair."
+        },
+        {
+            "Human": "What type of clothing are <Jack> and <Rose> wearing in the image?",
+            "AI": "<Jack> is wearing a white shirt with suspenders, and <Rose> has curly hair and is wearing a white outfit."
+        }
+    ],
+    "two_concept/multi/Jack_Rose/1.png": [
+        {
+            "Human": "What is <Jack> wearing in the image?",
+            "AI": "<Jack> is wearing a black suit with a white shirt."
+        },
+        {
+            "Human": "What type of hairstyle does <Rose> have in the image?",
+            "AI": "<Rose> has curly red hair styled up."
+        },
+        {
+            "Human": "What kind of event are <Jack> and <Rose> attending?",
+            "AI": "<Jack> and <Rose> are attending a formal event, likely a ball or a gala, as indicated by their elegant attire and the background setting."
+        }
+    ],
+    "two_concept/multi/Jack_Rose/2.png": [
+        {
+            "Human": "What is <Jack> wearing in the image?",
+            "AI": "<Jack> is wearing a dark jacket over a white shirt."
+        },
+        {
+            "Human": "What is <Rose> wearing in the image?",
+            "AI": "<Rose> is wearing a white and gold dress with intricate embroidery."
+        },
+        {
+            "Human": "What are <Jack> and <Rose> doing in the image?",
+            "AI": "<Jack> and <Rose> are sitting and having a conversation on the deck of a ship."
+        }
+    ],
+    "two_concept/multi/Jack_Rose/3.png": [
+        {
+            "Human": "What is <Jack> wearing in the image?",
+            "AI": "<Jack> is wearing a dark jacket over a light-colored shirt."
+        },
+        {
+            "Human": "What is <Rose> wearing in the image?",
+            "AI": "<Rose> is wearing a white dress."
+        },
+        {
+            "Human": "What are <Jack> and <Rose> doing in the image?",
+            "AI": "<Jack> and <Rose> are embracing each other."
+        }
+    ],
+    "two_concept/multi/Jack_Rose/4.png": [
+        {
+            "Human": "What is the hair color of <Jack> in the image?",
+            "AI": "<Jack> has light brown hair with blonde highlights."
+        },
+        {
+            "Human": "What is the hair color of <Rose> in the image?",
+            "AI": "<Rose> has red curly hair."
+        },
+        {
+            "Human": "What is the hair color of <Jack> and <Rose> in the image?",
+            "AI": "<Jack> has brown hair with highlights, and <Rose> has long, curly red hair."
+        }
+    ]
+}

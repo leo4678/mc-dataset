@@ -1,0 +1,22 @@
+{
+    "two_concept/concept/test/Xiyangyang/0.jpg": {
+        "Human": "What is <Xiyangyang> wearing in the image?  A. A spacesuit; B. A superhero costume;",
+        "AI": "A"
+    },
+    "two_concept/concept/test/Xiyangyang/1.jpg": {
+        "Human": "What is <Xiyangyang> wearing?  A. A spacesuit; B. A pirate costume;",
+        "AI": "A"
+    },
+    "two_concept/concept/test/Xiyangyang/2.jpg": {
+        "Human": "What is <Xiyangyang> holding in the image?  A. A book; B. A device; C. A flower;",
+        "AI": "B"
+    },
+    "two_concept/concept/test/Xiyangyang/3.jpg": {
+        "Human": "What is <Xiyangyang> wearing in the image?  A. A spacesuit; B. A pirate costume;",
+        "AI": "A"
+    },
+    "two_concept/concept/test/Xiyangyang/4.jpg": {
+        "Human": "What is the expression on <Xiyangyang>'s face?  A. Happy; B. Sad; C. Surprised;",
+        "AI": "C"
+    }
+}

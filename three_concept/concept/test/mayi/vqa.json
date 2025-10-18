@@ -1,0 +1,22 @@
+{
+    "three_concept/concept/test/mayi/0.png": {
+        "Human": "What is the shape of <mayi>'s body in the image?",
+        "AI": "<mayi> has a barrel-shaped body in the image."
+    },
+    "three_concept/concept/test/mayi/1.png": {
+        "Human": "What is the unique feature of <mayi> in the image?",
+        "AI": "<mayi> has a barrel-shaped body with multiple jointed limbs resembling a spider."
+    },
+    "three_concept/concept/test/mayi/2.png": {
+        "Human": "What is the shape of <mayi> in the image?",
+        "AI": "<mayi> is shaped like a barrel with multiple spider-like legs extending from it."
+    },
+    "three_concept/concept/test/mayi/3.png": {
+        "Human": "What is the texture of <mayi>'s body in the image?",
+        "AI": "<mayi>'s body has a wooden texture with visible cracks and a rough, worn appearance."
+    },
+    "three_concept/concept/test/mayi/4.png": {
+        "Human": "What distinctive feature does <mayi> have on its head?",
+        "AI": "<mayi> has two red horns on its head."
+    }
+}

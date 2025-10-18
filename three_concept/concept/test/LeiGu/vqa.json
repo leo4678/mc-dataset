@@ -1,0 +1,22 @@
+{
+    "three_concept/concept/test/LeiGu/0.png": {
+        "Human": "What unique feature does <LeiGu>'s helmet have in the image?",
+        "AI": "<LeiGu>'s helmet has a large, round lens on one side."
+    },
+    "three_concept/concept/test/LeiGu/1.png": {
+        "Human": "What emotion is <LeiGu> expressing in the image?",
+        "AI": "<LeiGu> is expressing sadness, as indicated by the tears in their eyes."
+    },
+    "three_concept/concept/test/LeiGu/2.png": {
+        "Human": "What is <LeiGu> wearing on their head in the image?",
+        "AI": "<LeiGu> is wearing a helmet with a cracked lens on their head in the image."
+    },
+    "three_concept/concept/test/LeiGu/3.png": {
+        "Human": "What is the expression on <LeiGu>'s face in the image?",
+        "AI": "<LeiGu> has an excited or determined expression on their face."
+    },
+    "three_concept/concept/test/LeiGu/4.png": {
+        "Human": "What is <LeiGu> wearing on their head?",
+        "AI": "<LeiGu> is wearing a helmet with a large lens on it."
+    }
+}

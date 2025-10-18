@@ -1,0 +1,22 @@
+{
+    "two_concept/concept/test/Si/0.png": {
+        "Human": "What is the expression on <Si>'s face in the image?",
+        "AI": "<Si> has a serious and slightly annoyed expression on their face."
+    },
+    "two_concept/concept/test/Si/1.png": {
+        "Human": "What is the expression on <Si>'s face in the image?",
+        "AI": "<Si> has a slightly confused or concerned expression on her face."
+    },
+    "two_concept/concept/test/Si/2.png": {
+        "Human": "What color are <Si>'s eyes in the image?",
+        "AI": "<Si>'s eyes are red in the image."
+    },
+    "two_concept/concept/test/Si/3.png": {
+        "Human": "What is the hair color of <Si> in the image?",
+        "AI": "<Si> has pink hair in the image."
+    },
+    "two_concept/concept/test/Si/4.png": {
+        "Human": "What is <Si> wearing in the image?",
+        "AI": "<Si> is wearing pink pajamas with a purple collar."
+    }
+}

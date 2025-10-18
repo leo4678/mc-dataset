@@ -1,0 +1,22 @@
+[
+    {
+        "question": "What color is <KuaiDou>'s suit? A.White. B.Black",
+        "answer": "A"
+    },
+    {
+        "question": "What accessory does <KuaiDou> wear on his eye? A.Monocle. B.Sunglasses",
+        "answer": "A"
+    },
+    {
+        "question": "What type of hat does <KuaiDou> wear? A.Top hat. B.Baseball cap",
+        "answer": "A"
+    },
+    {
+        "question": "What color is <KuaiDou>'s tie? A.Red. B.Blue",
+        "answer": "A"
+    },
+    {
+        "question": "Does <KuaiDou> have a cape? A.Yes. B.No",
+        "answer": "A"
+    }
+]

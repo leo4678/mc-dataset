@@ -1,0 +1,22 @@
+{
+    "two_concept/concept/test/Modi/0.jpg": {
+        "Human": "What is the expression on <Modi>'s face in the image?",
+        "AI": "<Modi> has a shocked and scared expression on his face in the image."
+    },
+    "two_concept/concept/test/Modi/1.jpg": {
+        "Human": "What is the expression on <Modi>'s face in the image?",
+        "AI": "<Modi> has a worried or concerned expression on his face."
+    },
+    "two_concept/concept/test/Modi/2.jpg": {
+        "Human": "What color is <Modi>'s shirt in the image?",
+        "AI": "<Modi>'s shirt is yellow."
+    },
+    "two_concept/concept/test/Modi/3.jpg": {
+        "Human": "What is <Modi> doing in this image?",
+        "AI": "<Modi> is standing inside a room with his arms outstretched, looking towards the open door."
+    },
+    "two_concept/concept/test/Modi/4.jpg": {
+        "Human": "What color is the outfit that <Modi> is wearing in the image?",
+        "AI": "<Modi> is wearing a white outfit in the image."
+    }
+}

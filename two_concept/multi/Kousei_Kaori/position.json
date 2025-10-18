@@ -1,0 +1,22 @@
+{
+    "0.png": {
+        "<Kousei>": "left",
+        "<Kaori>": "right"
+    },
+    "1.png": {
+        "<Kousei>": "left",
+        "<Kaori>": "right"
+    },
+    "2.png": {
+        "<Kousei>": "left",
+        "<Kaori>": "right"
+    },
+    "3.png": {
+        "<Kousei>": "right",
+        "<Kaori>": "left"
+    },
+    "4.png": {
+        "<Kousei>": "left",
+        "<Kaori>": "right"
+    }
+}

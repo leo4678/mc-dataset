@@ -1,0 +1,22 @@
+[
+    {
+        "question": "Are both <Bafan> and <Xuezhixia> humans or animals? A. Humans. B. Animals",
+        "answer": "A"
+    },
+    {
+        "question": "What are the genders of <Bafan> and <Xuezhixia> respectively? A. Boy, Girl. B. Girl, Boy",
+        "answer": "A"
+    },
+    {
+        "question": "What is the hair color of <Bafan> and <Xuezhixia> respectively? A. Black, Black. B. Brown, Black",
+        "answer": "A"
+    },
+    {
+        "question": "What type of clothing do <Bafan> and <Xuezhixia> often wear? A. School uniform. B. Casual wear",
+        "answer": "A"
+    },
+    {
+        "question": "Do <Bafan> and <Xuezhixia> have long or short hair respectively? A. Short, Long. B. Long, Short",
+        "answer": "A"
+    }
+]

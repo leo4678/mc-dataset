@@ -1,0 +1,72 @@
+{
+    "two_concept/multi/Shaoyu_Tianming/0.jpg": [
+        {
+            "Human": "What is the hairstyle of <Shaoyu> in the image?",
+            "AI": "<Shaoyu> has long, dark hair styled with volume at the top."
+        },
+        {
+            "Human": "What is <Tianming> wearing in the image?",
+            "AI": "<Tianming> is wearing a blue outfit with a green pendant necklace."
+        },
+        {
+            "Human": "What are the hairstyles of <Shaoyu> and <Tianming>?",
+            "AI": "<Shaoyu> has long, layered hair with a voluminous top, while <Tianming> has short, straight hair with a simple style."
+        }
+    ],
+    "two_concept/multi/Shaoyu_Tianming/1.jpg": [
+        {
+            "Human": "What is <Shaoyu> wearing in the image?",
+            "AI": "<Shaoyu> is wearing a blue robe."
+        },
+        {
+            "Human": "What is <Tianming> wearing in the image?",
+            "AI": "<Tianming> is wearing a green and blue outfit with a scarf."
+        },
+        {
+            "Human": "What are <Shaoyu> and <Tianming> wearing in the image?",
+            "AI": "<Shaoyu> is wearing a blue robe, while <Tianming> is wearing a green and yellow checkered outfit with a blue scarf."
+        }
+    ],
+    "two_concept/multi/Shaoyu_Tianming/2.jpg": [
+        {
+            "Human": "What is <Shaoyu> wearing in the image?",
+            "AI": "<Shaoyu> is wearing a purple robe with a black and white armband."
+        },
+        {
+            "Human": "What is <Tianming> wearing in the image?",
+            "AI": "<Tianming> is wearing a green and yellow plaid shawl over a brown outfit."
+        },
+        {
+            "Human": "What are <Shaoyu> and <Tianming> wearing in the image?",
+            "AI": "<Shaoyu> is wearing a purple robe with a black and white armband, while <Tianming> is wearing a green and yellow outfit with a blue scarf."
+        }
+    ],
+    "two_concept/multi/Shaoyu_Tianming/3.jpg": [
+        {
+            "Human": "What is <Shaoyu> holding in the image?",
+            "AI": "<Shaoyu> is holding a sword."
+        },
+        {
+            "Human": "What is <Tianming> wearing in the image?",
+            "AI": "<Tianming> is wearing a yellow plaid outfit with a blue scarf."
+        },
+        {
+            "Human": "What are <Shaoyu> and <Tianming> wearing in the image?",
+            "AI": "<Shaoyu> is wearing a purple outfit with a sword on his back, while <Tianming> is wearing a yellow plaid outfit with a blue scarf."
+        }
+    ],
+    "two_concept/multi/Shaoyu_Tianming/4.jpg": [
+        {
+            "Human": "What are the colors of <Shaoyu>'s clothes?",
+            "AI": "<Shaoyu> is wearing a purple top and white pants with purple patterns."
+        },
+        {
+            "Human": "What are <Tianming> and the other character wearing in the image?",
+            "AI": "<Tianming> is wearing a yellow outfit with a green sash, while the other character is wearing a purple outfit with white and black accents."
+        },
+        {
+            "Human": "What are <Shaoyu> and <Tianming> wearing in the image?",
+            "AI": "<Shaoyu> is wearing a purple outfit with white and black details, while <Tianming> is wearing a yellow and green outfit with brown pants."
+        }
+    ]
+}

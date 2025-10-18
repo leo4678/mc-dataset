@@ -1,0 +1,22 @@
+{
+    "two_concept/concept/test/QianShu/0.png": {
+        "Human": "What color is <QianShu>'s hair?  A. Black; B. White; C. Brown;",
+        "AI": "B"
+    },
+    "two_concept/concept/test/QianShu/1.png": {
+        "Human": "What is <QianShu> holding in the image?  A. A gun; B. A microphone; C. A flashlight;",
+        "AI": "A"
+    },
+    "two_concept/concept/test/QianShu/2.png": {
+        "Human": "What color is <QianShu>'s jacket?  A. Red;  B. Blue;  C. Green;",
+        "AI": "A"
+    },
+    "two_concept/concept/test/QianShu/3.png": {
+        "Human": "What color is the ribbon in <QianShu>'s hair?  A. Red; B. Blue; C. Green;",
+        "AI": "A"
+    },
+    "two_concept/concept/test/QianShu/4.png": {
+        "Human": "What is <QianShu> holding in their hand?  A. A book; B. A phone; C. A cup;",
+        "AI": "B"
+    }
+}

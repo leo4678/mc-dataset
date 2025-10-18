@@ -1,0 +1,72 @@
+{
+    "two_concept/multi/james_curry/0.jpg": [
+        {
+            "Human": "What teams are <james> and the other player representing in the image?",
+            "AI": "<james> is representing the Lakers, and the other player is representing the Golden State Warriors."
+        },
+        {
+            "Human": "What teams are <curry> and the other player representing in the image?",
+            "AI": "<curry> is representing the Golden State Warriors, and the other player is representing the Los Angeles Lakers."
+        },
+        {
+            "Human": "What teams are <james> and <curry> playing for in the image?",
+            "AI": "<james> is playing for the Lakers, and <curry> is playing for the Golden State Warriors."
+        }
+    ],
+    "two_concept/multi/james_curry/1.jpg": [
+        {
+            "Human": "What is <james> wearing in the image?",
+            "AI": "<james> is wearing a yellow All-Star basketball uniform."
+        },
+        {
+            "Human": "What is <curry> wearing in the image?",
+            "AI": "<curry> is wearing a yellow All-Star basketball uniform with the number 30 on it."
+        },
+        {
+            "Human": "What are <james> and <curry> wearing in the image?",
+            "AI": "<james> and <curry> are wearing yellow All-Star basketball uniforms."
+        }
+    ],
+    "two_concept/multi/james_curry/2.jpg": [
+        {
+            "Human": "What is <james> doing in the image?",
+            "AI": "<james> is playing defense during a basketball game."
+        },
+        {
+            "Human": "What is <curry> doing in the image?",
+            "AI": "<curry> is attempting a basketball shot."
+        },
+        {
+            "Human": "What are <james> and <curry> doing in the image?",
+            "AI": "<james> is defending while <curry> is attempting a shot."
+        }
+    ],
+    "two_concept/multi/james_curry/3.jpg": [
+        {
+            "Human": "What is <james> wearing in the image?",
+            "AI": "<james> is wearing a blue USA basketball jersey with the number 6 on it."
+        },
+        {
+            "Human": "What is <curry> wearing in the image?",
+            "AI": "<curry> is wearing a USA basketball jersey with the number 4."
+        },
+        {
+            "Human": "What are <james> and <curry> wearing in the image?",
+            "AI": "<james> and <curry> are wearing USA basketball jerseys."
+        }
+    ],
+    "two_concept/multi/james_curry/4.jpg": [
+        {
+            "Human": "What team is <james> playing for in the image?",
+            "AI": "<james> is playing for the Lakers."
+        },
+        {
+            "Human": "What teams are <curry> and the other player representing in the image?",
+            "AI": "<curry> is representing the Golden State Warriors, and the other player is representing the Los Angeles Lakers."
+        },
+        {
+            "Human": "What teams are <james> and <curry> representing in the image?",
+            "AI": "<james> is representing the Lakers, and <curry> is representing the Golden State Warriors."
+        }
+    ]
+}

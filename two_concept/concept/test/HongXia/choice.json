@@ -1,0 +1,22 @@
+{
+    "two_concept/concept/test/HongXia/0.png": {
+        "Human": "What is <HongXia> doing in the image?  A. Drinking a beverage; B. Eating a snack; C. Reading a book;",
+        "AI": "B"
+    },
+    "two_concept/concept/test/HongXia/1.png": {
+        "Human": "What is the hair color of <HongXia>?  A. Black; B. Blonde; C. Brown;",
+        "AI": "B"
+    },
+    "two_concept/concept/test/HongXia/2.png": {
+        "Human": "What color is <HongXia>'s skirt?  A. Blue; B. Red; C. Green;",
+        "AI": "A"
+    },
+    "two_concept/concept/test/HongXia/3.png": {
+        "Human": "What is <HongXia> doing in the image?  A. Laughing; B. Crying; C. Sleeping;",
+        "AI": "A"
+    },
+    "two_concept/concept/test/HongXia/4.png": {
+        "Human": "What color is <HongXia>'s hair?  A. Black; B. Blonde; C. Brown;",
+        "AI": "B"
+    }
+}

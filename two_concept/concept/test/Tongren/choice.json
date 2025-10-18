@@ -1,0 +1,22 @@
+{
+    "two_concept/concept/test/Tongren/0.png": {
+        "Human": "What color is <Tongren>'s outfit?  A. Black; B. White; C. Red;",
+        "AI": "A"
+    },
+    "two_concept/concept/test/Tongren/1.png": {
+        "Human": "What is <Tongren> holding in the image?  A. A sword; B. A shield; C. A bow;",
+        "AI": "A"
+    },
+    "two_concept/concept/test/Tongren/2.png": {
+        "Human": "What is <Tongren> holding in the image?  A. A sword; B. A gun; C. A book;",
+        "AI": "B"
+    },
+    "two_concept/concept/test/Tongren/3.png": {
+        "Human": "What is <Tongren> holding in the image?  A. A sword; B. A staff; C. A spear;",
+        "AI": "C"
+    },
+    "two_concept/concept/test/Tongren/4.png": {
+        "Human": "What color is <Tongren>'s hair?  A. Black; B. Brown; C. Blonde;",
+        "AI": "A"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "two_concept/concept/test/Chuhuoluo/0.jpg": {
+        "Human": "What accessory is <Chuhuoluo> wearing in her hair?  A. Flower hairpin; B. Feathers;",
+        "AI": "A"
+    },
+    "two_concept/concept/test/Chuhuoluo/1.jpg": {
+        "Human": "What color is <Chuhuoluo>'s hair in the image?  A. Black; B. Brown; C. Blonde;",
+        "AI": "B"
+    },
+    "two_concept/concept/test/Chuhuoluo/2.jpg": {
+        "Human": "What color is <Chuhuoluo>'s outfit? A. Blue and white;B. Red and purple;C. Green and black;",
+        "AI": "B"
+    },
+    "two_concept/concept/test/Chuhuoluo/3.jpg": {
+        "Human": "What color is the pendant worn by <Chuhuoluo>?  A. Red; B. Blue; C. Green;",
+        "AI": "B"
+    },
+    "two_concept/concept/test/Chuhuoluo/4.jpg": {
+        "Human": "What color is the gemstone on <Chuhuoluo>'s accessory?  A. Red; B. Blue; C. Green;",
+        "AI": "B"
+    }
+}

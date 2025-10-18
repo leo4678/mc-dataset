@@ -1,0 +1,22 @@
+{
+    "two_concept/concept/test/jierui/0.jpg": {
+        "Human": "What is the expression on <jierui>'s face?  A. Happy; B. Sad; C. Angry;",
+        "AI": "A"
+    },
+    "two_concept/concept/test/jierui/1.jpg": {
+        "Human": "What is <jierui> doing in the image?  A. Laughing; B. Sticking out their tongue; C. Sleeping;",
+        "AI": "B"
+    },
+    "two_concept/concept/test/jierui/2.jpg": {
+        "Human": "What is <jierui> holding in the image?  A. A piece of cheese; B. A piece of bread;",
+        "AI": "A"
+    },
+    "two_concept/concept/test/jierui/3.jpg": {
+        "Human": "What is the posture of <jierui> in the image?  A. Standing with one arm raised; B. Sitting down;",
+        "AI": "A"
+    },
+    "two_concept/concept/test/jierui/4.jpg": {
+        "Human": "What is <jierui> wearing on their head?  A. A graduation cap; B. A dunce cap;",
+        "AI": "B"
+    }
+}

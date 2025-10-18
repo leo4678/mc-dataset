@@ -1,0 +1,22 @@
+{
+    "two_concept/concept/test/AnXin/0.png": {
+        "Human": "What type of outerwear is <AnXin> wearing in the image?",
+        "AI": "<AnXin> is wearing a black coat with a fur collar."
+    },
+    "two_concept/concept/test/AnXin/1.png": {
+        "Human": "What type of jacket is <AnXin> wearing in the picture?",
+        "AI": "<AnXin> is wearing a dark blue jacket with a hood in the picture."
+    },
+    "two_concept/concept/test/AnXin/2.png": {
+        "Human": "What kind of uniform is <AnXin> wearing in the image?",
+        "AI": "<AnXin> is wearing a police uniform in the image."
+    },
+    "two_concept/concept/test/AnXin/3.png": {
+        "Human": "What kind of jacket is <AnXin> wearing in the image?",
+        "AI": "<AnXin> is wearing a dark-colored jacket over a lighter-colored shirt."
+    },
+    "two_concept/concept/test/AnXin/4.png": {
+        "Human": "What type of uniform is <AnXin> wearing in the image?",
+        "AI": "<AnXin> is wearing a police uniform with a tie and shoulder insignias."
+    }
+}

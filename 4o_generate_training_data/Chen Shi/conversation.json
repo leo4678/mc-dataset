@@ -1,0 +1,422 @@
+{
+    "two_concept/concept/train/Chen Shi/0.png": [
+        {
+            "Question": "What is <Chen Shi> hair color?",
+            "Answer": "<Chen Shi>'s hair color is black."
+        },
+        {
+            "Question": "What color are <Chen Shi> eyes?",
+            "Answer": "I cannot determine the color of <Chen Shi>'s eyes from the image."
+        },
+        {
+            "Question": "Would you describe <Chen Shi>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<Chen Shi>'s physique appears to be slim."
+        },
+        {
+            "Question": "What is <Chen Shi> skin tone?",
+            "Answer": "<Chen Shi>'s skin tone appears to be medium."
+        },
+        {
+            "Question": "How would you describe <Chen Shi> hairstyle?",
+            "Answer": "<Chen Shi> is wearing a wide-brimmed straw hat, making it difficult to see the hairstyle."
+        },
+        {
+            "Question": "Does <Chen Shi> wear glasses or any accessories?",
+            "Answer": "<Chen Shi> is wearing a wide-brimmed hat."
+        },
+        {
+            "Question": "How would you describe <Chen Shi>'s attire?",
+            "Answer": "<Chen Shi> is wearing a wide-brimmed straw hat and a denim shirt with a dark apron over it."
+        },
+        {
+            "Question": "Does <Chen Shi> have any distinctive facial features?",
+            "Answer": "I cannot determine any distinctive facial features of <Chen Shi> from the image provided."
+        },
+        {
+            "Question": "What is <Chen Shi> overall build or physique?",
+            "Answer": "<Chen Shi> has a medium build and is wearing a wide-brimmed hat and a shirt with suspenders."
+        },
+        {
+            "Question": "What is <Chen Shi> general expression or demeanor?",
+            "Answer": "<Chen Shi> has a calm and neutral demeanor."
+        }
+    ],
+    "two_concept/concept/train/Chen Shi/1.png": [
+        {
+            "Question": "What is <Chen Shi> hair color?",
+            "Answer": "<Chen Shi>'s hair color is black."
+        },
+        {
+            "Question": "What color are <Chen Shi> eyes?",
+            "Answer": "I cannot determine the color of <Chen Shi>'s eyes from the image."
+        },
+        {
+            "Question": "Would you describe <Chen Shi>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<Chen Shi>'s physique can be described as athletic."
+        },
+        {
+            "Question": "What is <Chen Shi> skin tone?",
+            "Answer": "<Chen Shi>'s skin tone is light."
+        },
+        {
+            "Question": "How would you describe <Chen Shi> hairstyle?",
+            "Answer": "<Chen Shi>'s hairstyle is short and neatly combed."
+        },
+        {
+            "Question": "Does <Chen Shi> wear glasses or any accessories?",
+            "Answer": "<Chen Shi> does not wear glasses or any accessories."
+        },
+        {
+            "Question": "How would you describe <Chen Shi>'s attire?",
+            "Answer": "<Chen Shi> is wearing a traditional dark-colored martial arts outfit with white cuffs."
+        },
+        {
+            "Question": "Does <Chen Shi> have any distinctive facial features?",
+            "Answer": "I cannot determine any distinctive facial features of <Chen Shi> from the image provided."
+        },
+        {
+            "Question": "What is <Chen Shi> overall build or physique?",
+            "Answer": "<Chen Shi> has a lean and athletic build."
+        },
+        {
+            "Question": "What is <Chen Shi> general expression or demeanor?",
+            "Answer": "<Chen Shi> has a serious and focused demeanor, holding a weapon in a ready stance."
+        }
+    ],
+    "two_concept/concept/train/Chen Shi/2.png": [
+        {
+            "Question": "What is <Chen Shi> hair color?",
+            "Answer": "<Chen Shi>'s hair color is black."
+        },
+        {
+            "Question": "What color are <Chen Shi> eyes?",
+            "Answer": "I cannot determine the color of <Chen Shi>'s eyes from the image."
+        },
+        {
+            "Question": "Would you describe <Chen Shi>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<Chen Shi>'s physique appears to be slim."
+        },
+        {
+            "Question": "What is <Chen Shi> skin tone?",
+            "Answer": "<Chen Shi> has a medium skin tone."
+        },
+        {
+            "Question": "How would you describe <Chen Shi> hairstyle?",
+            "Answer": "<Chen Shi>'s hairstyle is short and neatly combed to the side."
+        },
+        {
+            "Question": "Does <Chen Shi> wear glasses or any accessories?",
+            "Answer": "<Chen Shi> is wearing a bow tie as an accessory."
+        },
+        {
+            "Question": "How would you describe <Chen Shi>'s attire?",
+            "Answer": "<Chen Shi> is wearing a plaid suit with a white shirt and a red bow tie with white polka dots."
+        },
+        {
+            "Question": "Does <Chen Shi> have any distinctive facial features?",
+            "Answer": "I cannot determine <Chen Shi>'s distinctive facial features from the image provided."
+        },
+        {
+            "Question": "What is <Chen Shi> overall build or physique?",
+            "Answer": "<Chen Shi> has a slender build."
+        },
+        {
+            "Question": "What is <Chen Shi> general expression or demeanor?",
+            "Answer": "<Chen Shi> has a formal and composed demeanor, indicated by his attire which includes a plaid suit and a bow tie."
+        }
+    ],
+    "two_concept/concept/train/Chen Shi/3.png": [
+        {
+            "Question": "What is <Chen Shi> hair color?",
+            "Answer": "<Chen Shi>'s hair color is black."
+        },
+        {
+            "Question": "What color are <Chen Shi> eyes?",
+            "Answer": "I cannot determine the color of <Chen Shi>'s eyes from the image."
+        },
+        {
+            "Question": "Would you describe <Chen Shi>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<Chen Shi>'s physique appears to be slim."
+        },
+        {
+            "Question": "What is <Chen Shi> skin tone?",
+            "Answer": "<Chen Shi>'s skin tone is light to medium."
+        },
+        {
+            "Question": "How would you describe <Chen Shi> hairstyle?",
+            "Answer": "<Chen Shi>'s hairstyle is short and neatly combed to the side."
+        },
+        {
+            "Question": "Does <Chen Shi> wear glasses or any accessories?",
+            "Answer": "<Chen Shi> does not wear glasses or any accessories."
+        },
+        {
+            "Question": "How would you describe <Chen Shi>'s attire?",
+            "Answer": "<Chen Shi> is wearing a maroon long-sleeve shirt."
+        },
+        {
+            "Question": "Does <Chen Shi> have any distinctive facial features?",
+            "Answer": "I cannot determine any distinctive facial features of <Chen Shi> from the image."
+        },
+        {
+            "Question": "What is <Chen Shi> overall build or physique?",
+            "Answer": "<Chen Shi> has a medium build."
+        },
+        {
+            "Question": "What is <Chen Shi> general expression or demeanor?",
+            "Answer": "<Chen Shi> appears to have a calm and relaxed demeanor."
+        }
+    ],
+    "two_concept/concept/train/Chen Shi/4.png": [
+        {
+            "Question": "What is <Chen Shi> hair color?",
+            "Answer": "<Chen Shi>'s hair color is dark brown."
+        },
+        {
+            "Question": "What color are <Chen Shi> eyes?",
+            "Answer": "The image does not provide a clear view of <Chen Shi>'s eyes, so their color cannot be determined."
+        },
+        {
+            "Question": "Would you describe <Chen Shi>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<Chen Shi>'s physique appears to be athletic."
+        },
+        {
+            "Question": "What is <Chen Shi> skin tone?",
+            "Answer": "<Chen Shi>'s skin tone is light brown."
+        },
+        {
+            "Question": "How would you describe <Chen Shi> hairstyle?",
+            "Answer": "<Chen Shi>'s hairstyle is short and closely cropped around the ears."
+        },
+        {
+            "Question": "Does <Chen Shi> wear glasses or any accessories?",
+            "Answer": "<Chen Shi> is not wearing glasses or any accessories."
+        },
+        {
+            "Question": "How would you describe <Chen Shi>'s attire?",
+            "Answer": "<Chen Shi> is wearing a white collared shirt under a dark-colored jacket."
+        },
+        {
+            "Question": "Does <Chen Shi> have any distinctive facial features?",
+            "Answer": "<Chen Shi> has a mole on the left side of the neck."
+        },
+        {
+            "Question": "What is <Chen Shi> overall build or physique?",
+            "Answer": "<Chen Shi> has a slender neck and a visible jawline."
+        },
+        {
+            "Question": "What is <Chen Shi> general expression or demeanor?",
+            "Answer": "The image does not provide enough information to determine <Chen Shi>'s general expression or demeanor."
+        }
+    ],
+    "two_concept/concept/train/Chen Shi/5.png": [
+        {
+            "Question": "What is <Chen Shi> hair color?",
+            "Answer": "<Chen Shi>'s hair color is black."
+        },
+        {
+            "Question": "What color are <Chen Shi> eyes?",
+            "Answer": "I cannot determine the color of <Chen Shi>'s eyes from the image."
+        },
+        {
+            "Question": "Would you describe <Chen Shi>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<Chen Shi>'s physique appears to be slim."
+        },
+        {
+            "Question": "What is <Chen Shi> skin tone?",
+            "Answer": "<Chen Shi>'s skin tone is light."
+        },
+        {
+            "Question": "How would you describe <Chen Shi> hairstyle?",
+            "Answer": "<Chen Shi>'s hairstyle is neatly combed and parted to the side."
+        },
+        {
+            "Question": "Does <Chen Shi> wear glasses or any accessories?",
+            "Answer": "<Chen Shi> is wearing a bow tie."
+        },
+        {
+            "Question": "How would you describe <Chen Shi>'s attire?",
+            "Answer": "<Chen Shi> is wearing a plaid suit jacket, a white dress shirt, a burgundy vest, and a burgundy bow tie with white polka dots."
+        },
+        {
+            "Question": "Does <Chen Shi> have any distinctive facial features?",
+            "Answer": "I cannot determine any distinctive facial features of <Chen Shi> from the image provided."
+        },
+        {
+            "Question": "What is <Chen Shi> overall build or physique?",
+            "Answer": "<Chen Shi> has a medium build."
+        },
+        {
+            "Question": "What is <Chen Shi> general expression or demeanor?",
+            "Answer": "<Chen Shi> has a formal and composed demeanor, indicated by his attire, which includes a plaid suit and a bow tie."
+        }
+    ],
+    "two_concept/concept/train/Chen Shi/6.png": [
+        {
+            "Question": "What is <Chen Shi> hair color?",
+            "Answer": "<Chen Shi>'s hair color is black."
+        },
+        {
+            "Question": "What color are <Chen Shi> eyes?",
+            "Answer": "I don't know what color <Chen Shi>'s eyes are."
+        },
+        {
+            "Question": "Would you describe <Chen Shi>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<Chen Shi>'s physique appears to be slim."
+        },
+        {
+            "Question": "What is <Chen Shi> skin tone?",
+            "Answer": "<Chen Shi>'s skin tone is light."
+        },
+        {
+            "Question": "How would you describe <Chen Shi> hairstyle?",
+            "Answer": "<Chen Shi>'s hairstyle is short and neatly combed back."
+        },
+        {
+            "Question": "Does <Chen Shi> wear glasses or any accessories?",
+            "Answer": "<Chen Shi> does not wear glasses or any accessories."
+        },
+        {
+            "Question": "How would you describe <Chen Shi>'s attire?",
+            "Answer": "<Chen Shi> is wearing a dark-colored jacket."
+        },
+        {
+            "Question": "Does <Chen Shi> have any distinctive facial features?",
+            "Answer": "I cannot determine any distinctive facial features of <Chen Shi> from the image provided."
+        },
+        {
+            "Question": "What is <Chen Shi> overall build or physique?",
+            "Answer": "<Chen Shi> has a lean and athletic build."
+        },
+        {
+            "Question": "What is <Chen Shi> general expression or demeanor?",
+            "Answer": "<Chen Shi> has a focused and determined demeanor, holding a sword in a ready stance."
+        }
+    ],
+    "two_concept/concept/train/Chen Shi/7.png": [
+        {
+            "Question": "What is <Chen Shi> hair color?",
+            "Answer": "<Chen Shi>'s hair color is black."
+        },
+        {
+            "Question": "What color are <Chen Shi> eyes?",
+            "Answer": "I cannot determine the color of <Chen Shi>'s eyes from the image."
+        },
+        {
+            "Question": "Would you describe <Chen Shi>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<Chen Shi>'s physique can be described as slim."
+        },
+        {
+            "Question": "What is <Chen Shi> skin tone?",
+            "Answer": "<Chen Shi>'s skin tone is light."
+        },
+        {
+            "Question": "How would you describe <Chen Shi> hairstyle?",
+            "Answer": "<Chen Shi>'s hairstyle is short and neatly trimmed."
+        },
+        {
+            "Question": "Does <Chen Shi> wear glasses or any accessories?",
+            "Answer": "<Chen Shi> does not wear glasses or any accessories."
+        },
+        {
+            "Question": "How would you describe <Chen Shi>'s attire?",
+            "Answer": "<Chen Shi> is wearing a black t-shirt."
+        },
+        {
+            "Question": "Does <Chen Shi> have any distinctive facial features?",
+            "Answer": "I cannot determine any distinctive facial features for <Chen Shi> based on the provided image."
+        },
+        {
+            "Question": "What is <Chen Shi> overall build or physique?",
+            "Answer": "<Chen Shi> has a medium build and is wearing a black t-shirt."
+        },
+        {
+            "Question": "What is <Chen Shi> general expression or demeanor?",
+            "Answer": "<Chen Shi> has a neutral and relaxed demeanor."
+        }
+    ],
+    "two_concept/concept/train/Chen Shi/8.jpg": [
+        {
+            "Question": "What is <Chen Shi> hair color?",
+            "Answer": "<Chen Shi>'s hair color is black."
+        },
+        {
+            "Question": "What color are <Chen Shi> eyes?",
+            "Answer": "I cannot determine the color of <Chen Shi>'s eyes from the image."
+        },
+        {
+            "Question": "Would you describe <Chen Shi>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<Chen Shi>'s physique can be described as slim."
+        },
+        {
+            "Question": "What is <Chen Shi> skin tone?",
+            "Answer": "<Chen Shi>'s skin tone appears to be light to medium."
+        },
+        {
+            "Question": "How would you describe <Chen Shi> hairstyle?",
+            "Answer": "<Chen Shi>'s hairstyle is short and neatly combed to the side."
+        },
+        {
+            "Question": "Does <Chen Shi> wear glasses or any accessories?",
+            "Answer": "<Chen Shi> is not wearing glasses or any visible accessories."
+        },
+        {
+            "Question": "How would you describe <Chen Shi>'s attire?",
+            "Answer": "<Chen Shi> is wearing a dark pinstripe suit with a white dress shirt and a patterned tie. He is also holding a cigar."
+        },
+        {
+            "Question": "Does <Chen Shi> have any distinctive facial features?",
+            "Answer": "I don't know."
+        },
+        {
+            "Question": "What is <Chen Shi> overall build or physique?",
+            "Answer": "<Chen Shi> has a medium to athletic build, dressed in a well-fitted suit."
+        },
+        {
+            "Question": "What is <Chen Shi> general expression or demeanor?",
+            "Answer": "<Chen Shi> has a composed and confident demeanor, dressed in a formal suit and holding a cigar."
+        }
+    ],
+    "two_concept/concept/train/Chen Shi/9.png": [
+        {
+            "Question": "What is <Chen Shi> hair color?",
+            "Answer": "<Chen Shi>'s hair color is black."
+        },
+        {
+            "Question": "What color are <Chen Shi> eyes?",
+            "Answer": "I don't know what color <Chen Shi>'s eyes are."
+        },
+        {
+            "Question": "Would you describe <Chen Shi>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<Chen Shi>'s physique can be described as slim."
+        },
+        {
+            "Question": "What is <Chen Shi> skin tone?",
+            "Answer": "<Chen Shi>'s skin tone is medium."
+        },
+        {
+            "Question": "How would you describe <Chen Shi> hairstyle?",
+            "Answer": "<Chen Shi>'s hairstyle is short and neatly trimmed."
+        },
+        {
+            "Question": "Does <Chen Shi> wear glasses or any accessories?",
+            "Answer": "<Chen Shi> is not wearing glasses or any accessories."
+        },
+        {
+            "Question": "How would you describe <Chen Shi>'s attire?",
+            "Answer": "<Chen Shi> is wearing a beige suit jacket draped over his shoulders, with his chest partially exposed and wrapped in bandages. He is also wearing matching beige trousers."
+        },
+        {
+            "Question": "Does <Chen Shi> have any distinctive facial features?",
+            "Answer": "I don't know."
+        },
+        {
+            "Question": "What is <Chen Shi> overall build or physique?",
+            "Answer": "<Chen Shi> has a lean and fit build."
+        },
+        {
+            "Question": "What is <Chen Shi> general expression or demeanor?",
+            "Answer": "<Chen Shi> has a calm and composed demeanor, sitting relaxed with a cup in hand, despite having a bandaged chest and arm in a sling."
+        }
+    ]
+}

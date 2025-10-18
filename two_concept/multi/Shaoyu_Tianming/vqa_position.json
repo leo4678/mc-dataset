@@ -1,0 +1,52 @@
+{
+    "two_concept/multi/Shaoyu_Tianming/0.jpg": [
+        {
+            "Human": "Where is <Shaoyu> located in the photo? A. left B. right.",
+            "AI": "A"
+        },
+        {
+            "Human": "Where is <Tianming> located in the photo? A. left B. right.",
+            "AI": "B"
+        }
+    ],
+    "two_concept/multi/Shaoyu_Tianming/1.jpg": [
+        {
+            "Human": "Where is <Shaoyu> located in the photo? A. left B. right.",
+            "AI": "B"
+        },
+        {
+            "Human": "Where is <Tianming> located in the photo? A. left B. right.",
+            "AI": "A"
+        }
+    ],
+    "two_concept/multi/Shaoyu_Tianming/2.jpg": [
+        {
+            "Human": "Where is <Shaoyu> located in the photo? A. left B. right.",
+            "AI": "A"
+        },
+        {
+            "Human": "Where is <Tianming> located in the photo? A. left B. right.",
+            "AI": "B"
+        }
+    ],
+    "two_concept/multi/Shaoyu_Tianming/3.jpg": [
+        {
+            "Human": "Where is <Shaoyu> located in the photo? A. left B. right.",
+            "AI": "B"
+        },
+        {
+            "Human": "Where is <Tianming> located in the photo? A. left B. right.",
+            "AI": "A"
+        }
+    ],
+    "two_concept/multi/Shaoyu_Tianming/4.jpg": [
+        {
+            "Human": "Where is <Shaoyu> located in the photo? A. left B. right.",
+            "AI": "A"
+        },
+        {
+            "Human": "Where is <Tianming> located in the photo? A. left B. right.",
+            "AI": "B"
+        }
+    ]
+}

@@ -1,0 +1,312 @@
+{
+    "three_concept/multi/jiulang_mayi_wuya_shanjiaoyu/0.png": [
+        {
+            "Human": "What is <jiulang> doing in the image?",
+            "AI": "<jiulang> is controlling two large puppet-like creatures."
+        },
+        {
+            "Human": "What is the position of <mayi> in the image?",
+            "AI": "<mayi> is on the right side of the image, with two horns and a mechanical appearance."
+        },
+        {
+            "Human": "What is the position of <wuya> in the image?",
+            "AI": "<wuya> is the puppet on the right side of the image with three eyes and horns."
+        },
+        {
+            "Human": "What is the primary color of <shanjiaoyu> in the image?",
+            "AI": "The primary color of <shanjiaoyu> is brown."
+        },
+        {
+            "Human": "What is the position of <jiulang> in relation to <mayi> in the image?",
+            "AI": "<jiulang> is standing on top of <mayi>."
+        },
+        {
+            "Human": "What is the position of <jiulang> and <wuya> in the image?",
+            "AI": "<jiulang> is standing on top of <wuya>."
+        },
+        {
+            "Human": "What is the posture of <jiulang> while riding <shanjiaoyu> in the image?",
+            "AI": "<jiulang> is standing with arms outstretched, balancing on <shanjiaoyu>."
+        },
+        {
+            "Human": "Which puppet in the image is <mayi> and which is <wuya>?",
+            "AI": "<mayi> is the puppet with two horns on the right, and <wuya> is the puppet with three eyes on the left."
+        },
+        {
+            "Human": "What is the position of <mayi> and <shanjiaoyu> in the image?",
+            "AI": "<mayi> is on the right with two horns, and <shanjiaoyu> is on the left with a large mouth and sharp teeth."
+        },
+        {
+            "Human": "What is the position of <wuya> and <shanjiaoyu> in the image?",
+            "AI": "<wuya> is on the left side, and <shanjiaoyu> is on the right side of the image."
+        },
+        {
+            "Human": "What is the position of <jiulang> in relation to <mayi> and <wuya> in the image?",
+            "AI": "<jiulang> is standing in the center, with <mayi> on the left and <wuya> on the right."
+        },
+        {
+            "Human": "What is the position of <jiulang> in relation to <mayi> and <shanjiaoyu> in the image?",
+            "AI": "<jiulang> is standing on top of <shanjiaoyu> and holding <mayi>."
+        },
+        {
+            "Human": "What is the position of <jiulang> in relation to <wuya> and <shanjiaoyu> in the image?",
+            "AI": "<jiulang> is standing on top of <wuya> and <shanjiaoyu>."
+        },
+        {
+            "Human": "Which puppet is <mayi>, <wuya>, and which is the mount <shanjiaoyu> in the image?",
+            "AI": "<mayi> is the puppet with two horns on the right, <wuya> is the puppet with three eyes on the left, and <shanjiaoyu> is the mount in the center."
+        },
+        {
+            "Human": "What is the position of <jiulang> in relation to <mayi>, <wuya>, and <shanjiaoyu> in the image?",
+            "AI": "<jiulang> is standing on top of <shanjiaoyu> while holding <mayi> and <wuya> on either side."
+        }
+    ],
+    "three_concept/multi/jiulang_mayi_wuya_shanjiaoyu/1.png": [
+        {
+            "Human": "What is the position of <jiulang> in the image?",
+            "AI": "<jiulang> is positioned in the center of the image, performing a hand sign."
+        },
+        {
+            "Human": "What is the position of <mayi> in the image?",
+            "AI": "<mayi> is positioned at the top center of the image, towering over the other figures."
+        },
+        {
+            "Human": "Where is <wuya> located in the image?",
+            "AI": "<wuya> is located at the top center of the image, above the other characters."
+        },
+        {
+            "Human": "What is the position of <shanjiaoyu> in the image?",
+            "AI": "<shanjiaoyu> is positioned at the top of the image, towering over the other characters."
+        },
+        {
+            "Human": "What is the position of <jiulang> and <mayi> in the image?",
+            "AI": "<jiulang> is in the center of the image, while <mayi> is positioned at the top with two horns."
+        },
+        {
+            "Human": "What is the position of <jiulang> and <wuya> in the image?",
+            "AI": "<jiulang> is in the center of the image, while <wuya> is on the right side."
+        },
+        {
+            "Human": "What is the position of <jiulang> in relation to <shanjiaoyu> in the image?",
+            "AI": "<jiulang> is positioned in front of <shanjiaoyu> in the image."
+        },
+        {
+            "Human": "What is the position of <mayi> and <wuya> in the image?",
+            "AI": "<mayi> is positioned at the top center with two horns, while <wuya> is at the bottom left with three eyes."
+        },
+        {
+            "Human": "What is the position of <mayi> and <shanjiaoyu> in the image?",
+            "AI": "<mayi> is positioned at the top center with two horns, while <shanjiaoyu> is not distinctly visible in the image."
+        },
+        {
+            "Human": "What is the position of <wuya> and <shanjiaoyu> in the image?",
+            "AI": "<wuya> is positioned at the top center with three eyes, while <shanjiaoyu> is the large creature behind the group."
+        },
+        {
+            "Human": "What is the position of <jiulang>, <mayi>, and <wuya> in the image?",
+            "AI": "<jiulang> is in the center, <mayi> is on the left, and <wuya> is on the right in the image."
+        },
+        {
+            "Human": "What is the position of <jiulang>, <mayi>, and <shanjiaoyu> in the image?",
+            "AI": "<jiulang> is in the center, <mayi> is the large figure with horns at the top, and <shanjiaoyu> is the mount-like figure at the bottom."
+        },
+        {
+            "Human": "What is the position of <jiulang>, <wuya>, and <shanjiaoyu> in the image?",
+            "AI": "<jiulang> is in the center, <wuya> is at the top, and <shanjiaoyu> is at the bottom of the image."
+        },
+        {
+            "Human": "Which character in the image is depicted with two horns, three eyes, and as a mount?",
+            "AI": "<mayi> is depicted with two horns, <wuya> with three eyes, and <shanjiaoyu> as a mount."
+        },
+        {
+            "Human": "What is the position of <jiulang> in relation to <mayi>, <wuya>, and <shanjiaoyu> in the image?",
+            "AI": "<jiulang> is positioned in the center, with <mayi> and <wuya> in front of him, and <shanjiaoyu> towering behind him."
+        }
+    ],
+    "three_concept/multi/jiulang_mayi_wuya_shanjiaoyu/2.png": [
+        {
+            "Human": "What is the posture of <jiulang> in the image?",
+            "AI": "<jiulang> is standing with arms extended, controlling puppets with chakra strings."
+        },
+        {
+            "Human": "What is the distinctive feature of <mayi> in the image?",
+            "AI": "<mayi> is an anime style puppet with two horns and multiple arms."
+        },
+        {
+            "Human": "What is the position of <wuya> in the image?",
+            "AI": "<wuya> is flying in the air on the left side of the image."
+        },
+        {
+            "Human": "What is the position of <shanjiaoyu> in the image?",
+            "AI": "<shanjiaoyu> is positioned in the center of the image, being used as a mount by the character standing on it."
+        },
+        {
+            "Human": "What is the position of <jiulang> and <mayi> in the image?",
+            "AI": "<jiulang> is standing in the center, controlling <mayi> with chakra strings."
+        },
+        {
+            "Human": "What is the position of <jiulang> and <wuya> in the image?",
+            "AI": "<jiulang> is standing in the center, controlling <wuya> with chakra strings."
+        },
+        {
+            "Human": "What is the position of <jiulang> and <shanjiaoyu> in the image?",
+            "AI": "<jiulang> is standing on top of <shanjiaoyu> in the center of the image."
+        },
+        {
+            "Human": "What is the position of <mayi> and <wuya> in the image?",
+            "AI": "<mayi> is on the right side with two horns, and <wuya> is on the left side with three eyes."
+        },
+        {
+            "Human": "What is the position of <mayi> and <shanjiaoyu> in the image?",
+            "AI": "<mayi> is positioned on the right side of the image, while <shanjiaoyu> is located in the center, serving as a mount."
+        },
+        {
+            "Human": "What is the position of <wuya> and <shanjiaoyu> in the image?",
+            "AI": "<wuya> is flying in the air with multiple arms extended, while <shanjiaoyu> is positioned on the ground beneath <wuya>."
+        },
+        {
+            "Human": "What is the position of <jiulang>, <mayi>, and <wuya> in the image?",
+            "AI": "<jiulang> is standing in the center, <mayi> is on the left with two horns, and <wuya> is on the right with three eyes."
+        },
+        {
+            "Human": "What is the position of <jiulang>, <mayi>, and <shanjiaoyu> in the image?",
+            "AI": "<jiulang> is standing in the center, <mayi> is on the left side, and <shanjiaoyu> is beneath <jiulang> as a mount."
+        },
+        {
+            "Human": "What is the position of <jiulang>, <wuya>, and <shanjiaoyu> in the image?",
+            "AI": "<jiulang> is standing in the center, <wuya> is flying on the left and right, and <shanjiaoyu> is positioned below <jiulang>."
+        },
+        {
+            "Human": "What unique features distinguish <mayi>, <wuya>, and <shanjiaoyu> in the image?",
+            "AI": "<mayi> is an anime style puppet with two horns, <wuya> is an anime style puppet with three eyes, and <shanjiaoyu> is an anime style mount with a large, armored body and sharp claws."
+        },
+        {
+            "Human": "What is the position of <jiulang>, <mayi>, <wuya>, and <shanjiaoyu> in the image?",
+            "AI": "<jiulang> is standing in the center, <mayi> is on the right with two horns, <wuya> is on the left with three eyes, and <shanjiaoyu> is the mount beneath <jiulang>."
+        }
+    ],
+    "three_concept/multi/jiulang_mayi_wuya_shanjiaoyu/3.png": [
+        {
+            "Human": "What is the role of <jiulang> in the image?",
+            "AI": "<jiulang> is controlling large puppets as a ninja."
+        },
+        {
+            "Human": "What is the distinctive feature of <mayi> in the image?",
+            "AI": "<mayi> has two prominent red horns."
+        },
+        {
+            "Human": "What is the distinctive feature of <wuya> in the image?",
+            "AI": "<wuya> has three eyes and a puppet-like appearance."
+        },
+        {
+            "Human": "What is the expression or appearance of <shanjiaoyu> in the image?",
+            "AI": "<shanjiaoyu> has a fierce and intimidating appearance with large eyes and a horned head."
+        },
+        {
+            "Human": "What is the position of <jiulang> in relation to <mayi> in the image?",
+            "AI": "<jiulang> is standing in the center with arms raised, surrounded by <mayi> puppets."
+        },
+        {
+            "Human": "What is the position of <jiulang> in relation to <wuya> in the image?",
+            "AI": "<jiulang> is standing in the center with arms raised, surrounded by <wuya> puppets."
+        },
+        {
+            "Human": "What is the posture of <jiulang> and <shanjiaoyu> in the image?",
+            "AI": "<jiulang> is standing with arms raised, while <shanjiaoyu> is positioned around <jiulang> with a menacing appearance."
+        },
+        {
+            "Human": "What is the position of <mayi> and <wuya> in the image?",
+            "AI": "<mayi> is on the left side with two horns, and <wuya> is on the right side with three eyes."
+        },
+        {
+            "Human": "What is the position of <mayi> and <shanjiaoyu> in the image?",
+            "AI": "<mayi> is on the left side with two horns, and <shanjiaoyu> is on the right side with a wide-open mouth."
+        },
+        {
+            "Human": "What is the position of <wuya> and <shanjiaoyu> in the image?",
+            "AI": "<wuya> is on the right side of the image, and <shanjiaoyu> is on the left side of the image."
+        },
+        {
+            "Human": "What is the position of <jiulang>, <mayi>, and <wuya> in the image?",
+            "AI": "<jiulang> is in the center, <mayi> is on the left with two horns, and <wuya> is on the right with three eyes."
+        },
+        {
+            "Human": "What is the position of <jiulang>, <mayi>, and <shanjiaoyu> in the image?",
+            "AI": "<jiulang> is in the center, <mayi> is on the left, and <shanjiaoyu> is on the right."
+        },
+        {
+            "Human": "What is the position of <jiulang>, <wuya>, and <shanjiaoyu> in the image?",
+            "AI": "<jiulang> is in the center, <wuya> is on the right, and <shanjiaoyu> is on the left."
+        },
+        {
+            "Human": "What is the position of <mayi>, <wuya>, and <shanjiaoyu> in the image?",
+            "AI": "<mayi> is on the left with two horns, <wuya> is on the right with three eyes, and <shanjiaoyu> is at the bottom as a mount."
+        },
+        {
+            "Human": "What is the position of <jiulang> in relation to <mayi>, <wuya>, and <shanjiaoyu> in the image?",
+            "AI": "<jiulang> is standing in the center with <mayi> and <wuya> on either side, while <shanjiaoyu> is in the foreground."
+        }
+    ],
+    "three_concept/multi/jiulang_mayi_wuya_shanjiaoyu/4.png": [
+        {
+            "Human": "What is the distinctive feature of <jiulang>'s outfit in the image?",
+            "AI": "<jiulang> is wearing a black ninja outfit with a red backpack and has claw-like extensions on the feet."
+        },
+        {
+            "Human": "What is the position of <mayi> in the image?",
+            "AI": "<mayi> is positioned in the center of the image, with two other figures in the background."
+        },
+        {
+            "Human": "What is the background color scheme behind <wuya> in the image?",
+            "AI": "The background color scheme behind <wuya> is a combination of blue and green."
+        },
+        {
+            "Human": "What is the color scheme of the background behind <shanjiaoyu> in the image?",
+            "AI": "The background behind <shanjiaoyu> is divided into blue and green sections."
+        },
+        {
+            "Human": "What is the position of <jiulang> and <mayi> in the image?",
+            "AI": "<jiulang> is in the center foreground, while <mayi> is in the background on the left and right sides."
+        },
+        {
+            "Human": "What is the position of <jiulang> and <wuya> in the image?",
+            "AI": "<jiulang> is in the center foreground, while <wuya> is in the background with three eyes visible."
+        },
+        {
+            "Human": "What is the posture of <jiulang> and the appearance of <shanjiaoyu> in the image?",
+            "AI": "<jiulang> is standing with arms extended, and <shanjiaoyu> has a large, grinning mouth with sharp teeth and a rugged appearance."
+        },
+        {
+            "Human": "What is the position of <mayi> and <wuya> in the image?",
+            "AI": "<mayi> is on the left side with two horns, and <wuya> is on the right side with three eyes."
+        },
+        {
+            "Human": "What is the position of <mayi> and <shanjiaoyu> in the image?",
+            "AI": "<mayi> is on the left side of the image, and <shanjiaoyu> is on the right side of the image."
+        },
+        {
+            "Human": "What is the position of <wuya> and <shanjiaoyu> in the image?",
+            "AI": "<wuya> is on the left side of the image, while <shanjiaoyu> is on the right side."
+        },
+        {
+            "Human": "What is the position of <jiulang> in relation to <mayi> and <wuya> in the image?",
+            "AI": "<jiulang> is standing in the foreground, with <mayi> on the left and <wuya> on the right in the background."
+        },
+        {
+            "Human": "What is the position of <jiulang>, <mayi>, and <shanjiaoyu> in the image?",
+            "AI": "<jiulang> is in the center, <mayi> is on the left, and <shanjiaoyu> is on the right."
+        },
+        {
+            "Human": "What is the position of <jiulang>, <wuya>, and <shanjiaoyu> in the image?",
+            "AI": "<jiulang> is in the center foreground, <wuya> is on the left, and <shanjiaoyu> is on the right in the background."
+        },
+        {
+            "Human": "What is the position of <mayi>, <wuya>, and <shanjiaoyu> in the image?",
+            "AI": "<mayi> is on the left with two horns, <wuya> is in the center with three eyes, and <shanjiaoyu> is on the right as a mount."
+        },
+        {
+            "Human": "What is the position and action of <jiulang> in relation to <mayi>, <wuya>, and <shanjiaoyu> in the image?",
+            "AI": "<jiulang> is standing in the center with arms extended, controlling <mayi> and <wuya> in the background, while <shanjiaoyu> is positioned to the right with a wide grin."
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "two_concept/multi/Baiyin_Huiye/0.png": [
+        {
+            "Human": "Where is <Baiyin> seated in the image?",
+            "AI": "<Baiyin> is seated on a green couch towards the right side of the image."
+        },
+        {
+            "Human": "What are the two figures in the image doing?",
+            "AI": "<Huiye> is standing next to the sofa while the figure on the right is sitting on the sofa."
+        },
+        {
+            "Human": "What are the outfits of <Baiyin> and <Huiye> in the image?",
+            "AI": "<Baiyin> is wearing a black traditional school uniform and <Huiye> is wearing a black dress with a white collar and cuffs."
+        }
+    ],
+    "two_concept/multi/Baiyin_Huiye/1.png": [
+        {
+            "Human": "What is <Baiyin> holding or wearing in the image?",
+            "AI": "<Baiyin> is wearing a black outfit with gold accents."
+        },
+        {
+            "Human": "What is <Huiye> holding in the image?",
+            "AI": "<Huiye> is holding a plate."
+        },
+        {
+            "Human": "What are <Baiyin> and <Huiye> holding in the image?",
+            "AI": "While <Baiyin> appears to be empty-handed, <Huiye> is holding a white plate."
+        }
+    ],
+    "two_concept/multi/Baiyin_Huiye/2.png": [
+        {
+            "Human": "What is the expression on <Baiyin>'s face?",
+            "AI": "<Baiyin> looks worried or concerned."
+        },
+        {
+            "Human": "How does <Huiye> appear to be feeling in the image?",
+            "AI": "<Huiye> appears to be concerned and slightly worried."
+        },
+        {
+            "Human": "What is the expression of <Huiye> in the image?",
+            "AI": "<Huiye> appears to be concerned or worried with a small sweat drop on her face."
+        }
+    ],
+    "two_concept/multi/Baiyin_Huiye/3.png": [
+        {
+            "Human": "What is the clothing style of <Baiyin> in the image?",
+            "AI": "<Baiyin> is wearing a black uniform with a gold rope detail."
+        },
+        {
+            "Human": "What does <Huiye> have tied to her hair?",
+            "AI": "<Huiye> has a large red ribbon tied to her hair."
+        },
+        {
+            "Human": "What are <Baiyin> and <Huiye> doing in the image?",
+            "AI": "<Baiyin> and <Huiye> are clasping each other's hands."
+        }
+    ],
+    "two_concept/multi/Baiyin_Huiye/4.png": [
+        {
+            "Human": "What is <Baiyin>'s expression in the image?",
+            "AI": "<Baiyin> looks surprised and worried."
+        },
+        {
+            "Human": "What is the expression on <Huiye>'s face in the image?",
+            "AI": "<Huiye> looks surprised and concerned, with a drop of sweat on their face and wide eyes."
+        },
+        {
+            "Human": "What is <Baiyin>'s expression and posture in the image?",
+            "AI": "<Baiyin> looks shocked and is sweating, with a concerned expression on his face."
+        }
+    ]
+}

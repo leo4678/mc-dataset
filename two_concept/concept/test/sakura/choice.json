@@ -1,0 +1,22 @@
+{
+    "two_concept/concept/test/sakura/0.jpg": {
+        "Human": "What is the color of <sakura>'s eyes in the image? \n A. Blue; \n B. Green; \n C. Brown;",
+        "AI": "B"
+    },
+    "two_concept/concept/test/sakura/1.jpg": {
+        "Human": "What color is the crown that <sakura> is wearing? \n A. Gold with a red heart; \n B. Silver with a blue heart; \n C. Bronze with a green heart;\n",
+        "AI": "A"
+    },
+    "two_concept/concept/test/sakura/2.jpg": {
+        "Human": "What color is the dress <sakura> is wearing? \n A. Pink; \n B. White; \n C. Blue;",
+        "AI": "B"
+    },
+    "two_concept/concept/test/sakura/3.jpg": {
+        "Human": "What color is <sakura>'s hair in the image? \n A. Yellow; \n B. Brown; \n C. Black;",
+        "AI": "B"
+    },
+    "two_concept/concept/test/sakura/4.jpg": {
+        "Human": "What color is the crown that <sakura> is wearing? \n A. Yellow; \n B. Pink; \n C. Blue;",
+        "AI": "A"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "three_concept/concept/test/Hermione/0.png": {
+        "Human": "What is <Hermione> wearing around her neck?",
+        "AI": "<Hermione> is wearing a maroon and gold scarf around her neck."
+    },
+    "three_concept/concept/test/Hermione/1.png": {
+        "Human": "What is <Hermione> wearing in the image?",
+        "AI": "<Hermione> is wearing a pink hoodie."
+    },
+    "three_concept/concept/test/Hermione/2.png": {
+        "Human": "What type of shirt is <Hermione> wearing in the image?",
+        "AI": "<Hermione> is wearing a pink and white striped polo shirt."
+    },
+    "three_concept/concept/test/Hermione/3.png": {
+        "Human": "What type of clothing is <Hermione> wearing in the image?",
+        "AI": "<Hermione> is wearing a beige jacket over a pink shirt."
+    },
+    "three_concept/concept/test/Hermione/4.png": {
+        "Human": "What is <Hermione> wearing in the image?",
+        "AI": "<Hermione> is wearing a white shirt with a tie that has red and gold stripes."
+    }
+}

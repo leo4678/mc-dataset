@@ -1,0 +1,22 @@
+{
+    "two_concept/concept/test/Judy/0.png": {
+        "Human": "What is <Judy> holding in the image?  A. A can of soda; B. A can of Fox Away spray;",
+        "AI": "B"
+    },
+    "two_concept/concept/test/Judy/1.png": {
+        "Human": "What is <Judy> holding in her right hand?  A. A carrot-shaped object; B. A flashlight;",
+        "AI": "A"
+    },
+    "two_concept/concept/test/Judy/2.png": {
+        "Human": "What is <Judy> selling in the image?  A. Apples; B. Carrots;",
+        "AI": "B"
+    },
+    "two_concept/concept/test/Judy/3.png": {
+        "Human": "What is <Judy> wearing in the image?  A. A red checkered shirt; B. A blue jacket; C. A green dress;",
+        "AI": "A"
+    },
+    "two_concept/concept/test/Judy/4.png": {
+        "Human": "What is the expression on <Judy>'s face in the image?  A. Happy; B. Sad; C. Angry;",
+        "AI": "B"
+    }
+}

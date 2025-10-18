@@ -1,0 +1,22 @@
+{
+    "three_concept/concept/test/shandi/0.png": {
+        "Human": "What is <shandi> wearing on their head? A. A helmet with a flower; B. A cowboy hat; C. A baseball cap;",
+        "AI": "A"
+    },
+    "three_concept/concept/test/shandi/1.png": {
+        "Human": "What is <shandi> wearing on their head? A. A helmet with a flower; B. A baseball cap; C. A cowboy hat;",
+        "AI": "A"
+    },
+    "three_concept/concept/test/shandi/2.png": {
+        "Human": "What is <shandi> wearing on their head? A. A helmet with a flower; B. A cowboy hat; C. A baseball cap;",
+        "AI": "A"
+    },
+    "three_concept/concept/test/shandi/3.png": {
+        "Human": "What is <shandi> wearing on their head? A. A helmet with a flower; B. A cowboy hat; C. A baseball cap;",
+        "AI": "A"
+    },
+    "three_concept/concept/test/shandi/4.png": {
+        "Human": "What is <shandi> wearing in the image? A. A spacesuit; B. A swimsuit; C. A tuxedo;",
+        "AI": "A"
+    }
+}

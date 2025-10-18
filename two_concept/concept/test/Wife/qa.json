@@ -1,0 +1,22 @@
+[
+    {
+        "question": "What type of clothing does <Wife> typically wear? A. Modern dresses. B. Traditional attire.",
+        "answer": "B"
+    },
+    {
+        "question": "What is the primary color of <Wife>'s clothing? A. Bright colors. B. Neutral tones.",
+        "answer": "B"
+    },
+    {
+        "question": "Does <Wife> wear any accessories? A. Yes. B. No.",
+        "answer": "A"
+    },
+    {
+        "question": "What is the style of <Wife>'s hair? A. Short and curly. B. Long and straight.",
+        "answer": "A"
+    },
+    {
+        "question": "What is the general setting where <Wife> is seen? A. Urban. B. Rural.",
+        "answer": "A"
+    }
+]

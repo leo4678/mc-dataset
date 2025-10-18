@@ -1,0 +1,22 @@
+{
+    "two_concept/concept/test/Baiyin/0.png": {
+        "Human": "What is <Baiyin> wearing in the image?",
+        "AI": "<Baiyin> is wearing a blue jacket with a hooded sweatshirt underneath."
+    },
+    "two_concept/concept/test/Baiyin/1.png": {
+        "Human": "What color is the jacket that <Baiyin> is wearing?",
+        "AI": "<Baiyin> is wearing a blue jacket."
+    },
+    "two_concept/concept/test/Baiyin/2.png": {
+        "Human": "What is the expression on <Baiyin>'s face in the image?",
+        "AI": "<Baiyin> has a smirk on his face."
+    },
+    "two_concept/concept/test/Baiyin/3.png": {
+        "Human": "What is the expression on <Baiyin>'s face in the image?",
+        "AI": "<Baiyin> has a joyful and somewhat triumphant expression on his face."
+    },
+    "two_concept/concept/test/Baiyin/4.png": {
+        "Human": "What color is <Baiyin>'s hair?",
+        "AI": "<Baiyin>'s hair is blonde."
+    }
+}

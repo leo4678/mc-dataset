@@ -1,0 +1,22 @@
+[
+    {
+        "question": "What is <QinZi>'s hair color? A.Black.  B.Brown",
+        "answer": "B"
+    },
+    {
+        "question": "What is <QinZi>'s eye color? A.Blue.  B.Green",
+        "answer": "A"
+    },
+    {
+        "question": "What type of clothing does <QinZi> often wear? A.School uniform.  B.Sportswear",
+        "answer": "A"
+    },
+    {
+        "question": "Does <QinZi> have long or short hair? A.Long.  B.Short",
+        "answer": "A"
+    },
+    {
+        "question": "What accessory is <QinZi> wearing in one of the images? A.Goggles.  B.Hat",
+        "answer": "A"
+    }
+]

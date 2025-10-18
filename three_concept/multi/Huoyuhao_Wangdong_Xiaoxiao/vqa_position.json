@@ -1,0 +1,72 @@
+{
+    "three_concept/multi/Huoyuhao_Wangdong_Xiaoxiao/0.jpg": [
+        {
+            "Human": "Where is <Huoyuhao> located in the photo? A. left B. middle C. right.",
+            "AI": "B"
+        },
+        {
+            "Human": "Where is <Wangdong> located in the photo? A. left B. middle C. right.",
+            "AI": "A"
+        },
+        {
+            "Human": "Where is <Xiaoxiao> located in the photo? A. left B. middle C. right.",
+            "AI": "C"
+        }
+    ],
+    "three_concept/multi/Huoyuhao_Wangdong_Xiaoxiao/1.jpg": [
+        {
+            "Human": "Where is <Huoyuhao> located in the photo? A. left B. middle C. right.",
+            "AI": "B"
+        },
+        {
+            "Human": "Where is <Wangdong> located in the photo? A. left B. middle C. right.",
+            "AI": "C"
+        },
+        {
+            "Human": "Where is <Xiaoxiao> located in the photo? A. left B. middle C. right.",
+            "AI": "A"
+        }
+    ],
+    "three_concept/multi/Huoyuhao_Wangdong_Xiaoxiao/2.jpg": [
+        {
+            "Human": "Where is <Huoyuhao> located in the photo? A. left B. middle C. right.",
+            "AI": "B"
+        },
+        {
+            "Human": "Where is <Wangdong> located in the photo? A. left B. middle C. right.",
+            "AI": "C"
+        },
+        {
+            "Human": "Where is <Xiaoxiao> located in the photo? A. left B. middle C. right.",
+            "AI": "A"
+        }
+    ],
+    "three_concept/multi/Huoyuhao_Wangdong_Xiaoxiao/3.jpg": [
+        {
+            "Human": "Where is <Huoyuhao> located in the photo? A. left B. middle C. right.",
+            "AI": "C"
+        },
+        {
+            "Human": "Where is <Wangdong> located in the photo? A. left B. middle C. right.",
+            "AI": "A"
+        },
+        {
+            "Human": "Where is <Xiaoxiao> located in the photo? A. left B. middle C. right.",
+            "AI": "B"
+        }
+    ],
+    "three_concept/multi/Huoyuhao_Wangdong_Xiaoxiao/4.jpg": [
+        {
+            "Human": "Where is <Huoyuhao> located in the photo? A. left B. middle C. right.",
+            "AI": "C"
+        },
+        {
+            "Human": "Where is <Wangdong> located in the photo? A. left B. middle C. right.",
+            "AI": "A"
+        },
+        {
+            "Human": "Where is <Xiaoxiao> located in the photo? A. left B. middle C. right.",
+            "AI": "B"
+        }
+    ]
+}

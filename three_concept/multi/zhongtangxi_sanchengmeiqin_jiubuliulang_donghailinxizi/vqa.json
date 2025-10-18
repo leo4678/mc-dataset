@@ -1,0 +1,216 @@
+{
+    "three_concept/multi/zhongtangxi_sanchengmeiqin_jiubuliulang_donghailinxizi/0.jpg": [
+        {
+            "Human": "What is <zhongtangxi> wearing in the image?",
+            "AI": "<zhongtangxi> is wearing a gray long-sleeve shirt and light-colored pants."
+        },
+        {
+            "Human": "What is <sanchengmeiqin> wearing in the image?",
+            "AI": "<sanchengmeiqin> is wearing a white coat and jeans."
+        },
+        {
+            "Human": "What gesture is <jiubuliulang> making in the image?",
+            "AI": "<jiubuliulang> is making a cross-arm gesture."
+        },
+        {
+            "Human": "What is <donghailinxizi> doing in the image?",
+            "AI": "<donghailinxizi> is sitting on a couch with their arms crossed in front of them."
+        },
+        {
+            "Human": "What are <zhongtangxi> and <sanchengmeiqin> wearing in the image?",
+            "AI": "<zhongtangxi> is wearing a gray shirt and light-colored pants, while <sanchengmeiqin> is wearing a white coat and jeans."
+        },
+        {
+            "Human": "What are <zhongtangxi> and <jiubuliulang> doing in the image?",
+            "AI": "<zhongtangxi> is sitting with hands on their lap, while <jiubuliulang> is making a gesture with crossed arms."
+        },
+        {
+            "Human": "What are <zhongtangxi> and <donghailinxizi> doing in the image?",
+            "AI": "<zhongtangxi> is sitting with hands on their lap, while <donghailinxizi> is making a gesture with crossed arms."
+        },
+        {
+            "Human": "What are <sanchengmeiqin> and <jiubuliulang> doing with their arms in the image?",
+            "AI": "<sanchengmeiqin> is sitting with hands on their lap, while <jiubuliulang> is crossing their arms in front."
+        },
+        {
+            "Human": "What are <sanchengmeiqin> and <donghailinxizi> doing with their hands?",
+            "AI": "<sanchengmeiqin> is sitting with hands on their lap, while <donghailinxizi> is making a gesture with crossed arms."
+        },
+        {
+            "Human": "What gesture are <jiubuliulang> and <donghailinxizi> making in the image?",
+            "AI": "<jiubuliulang> and <donghailinxizi> are both making a crossing arm gesture."
+        },
+        {
+            "Human": "What are <zhongtangxi>, <sanchengmeiqin>, and <jiubuliulang> doing with their hands?",
+            "AI": "<zhongtangxi> is resting their hands on their lap, <sanchengmeiqin> has their hands clasped, and <jiubuliulang> is making an 'X' gesture with their arms."
+        },
+        {
+            "Human": "What are <zhongtangxi>, <sanchengmeiqin>, and <donghailinxizi> doing with their hands?",
+            "AI": "<zhongtangxi> is resting their hands on their lap, <sanchengmeiqin> has their hands clasped, and <donghailinxizi> is making a gesture with crossed arms."
+        },
+        {
+            "Human": "What are <zhongtangxi>, <jiubuliulang>, and <donghailinxizi> doing with their hands?",
+            "AI": "<zhongtangxi> is sitting with hands on lap, <jiubuliulang> is crossing arms in front, and <donghailinxizi> is making a gesture with one arm raised."
+        },
+        {
+            "Human": "What gesture is <jiubuliulang> making in the image?",
+            "AI": "<jiubuliulang> is making an 'X' gesture with his arms."
+        },
+        {
+            "Human": "What are <zhongtangxi>, <sanchengmeiqin>, <jiubuliulang>, and <donghailinxizi> doing with their hands in the image?",
+            "AI": "<zhongtangxi> is resting their hands on their lap, <sanchengmeiqin> has their hands clasped, <jiubuliulang> is making an 'X' with their arms, and <donghailinxizi> is also making an 'X' with their arms."
+        }
+    ],
+    "three_concept/multi/zhongtangxi_sanchengmeiqin_jiubuliulang_donghailinxizi/1.jpg": [
+        {
+            "Human": "What is <sanchengmeiqin> doing in the image?",
+            "AI": "<sanchengmeiqin> is gesturing with their hands."
+        },
+        {
+            "Human": "What is <jiubuliulang> doing in the image?",
+            "AI": "<jiubuliulang> is holding hands with someone on the right."
+        },
+        {
+            "Human": "What is <donghailinxizi> doing in the image?",
+            "AI": "<donghailinxizi> is extending their arm towards the person on the left."
+        },
+        {
+            "Human": "What activity are <sanchengmeiqin> and <jiubuliulang> participating in?",
+            "AI": "<sanchengmeiqin> and <jiubuliulang> are engaged in a team-building exercise involving arm coordination."
+        },
+        {
+            "Human": "What activity are <sanchengmeiqin> and <donghailinxizi> participating in?",
+            "AI": "<sanchengmeiqin> and <donghailinxizi> are engaged in a team-building exercise involving arm coordination."
+        },
+        {
+            "Human": "What are <jiubuliulang> and <donghailinxizi> doing in the image?",
+            "AI": "<jiubuliulang> and <donghailinxizi> are holding each other's arms in the image."
+        },
+        {
+            "Human": "What activity are <sanchengmeiqin>, <jiubuliulang>, and <donghailinxizi> engaged in?",
+            "AI": "<sanchengmeiqin> is gesturing with hands while <jiubuliulang> and <donghailinxizi> are holding each other's arms."
+        }
+    ],
+    "three_concept/multi/zhongtangxi_sanchengmeiqin_jiubuliulang_donghailinxizi/2.jpg": [
+        {
+            "Human": "What is <zhongtangxi> wearing in the image?",
+            "AI": "<zhongtangxi> is wearing a black outfit with a green shirt underneath and beige shoes."
+        },
+        {
+            "Human": "What is <sanchengmeiqin> wearing in the image?",
+            "AI": "<sanchengmeiqin> is wearing a light green top and black pants."
+        },
+        {
+            "Human": "What is <jiubuliulang> wearing in the image?",
+            "AI": "<jiubuliulang> is wearing a black outfit with white text on the pants and black shoes."
+        },
+        {
+            "Human": "What are <zhongtangxi> and <sanchengmeiqin> wearing in the image?",
+            "AI": "<zhongtangxi> is wearing a black outfit with beige shoes, and <sanchengmeiqin> is wearing a light green top with black pants and blue shoes."
+        },
+        {
+            "Human": "What are <zhongtangxi> and <jiubuliulang> wearing on their feet?",
+            "AI": "<zhongtangxi> is wearing beige sneakers, and <jiubuliulang> is wearing black and white sneakers."
+        },
+        {
+            "Human": "What are <sanchengmeiqin> and <jiubuliulang> wearing in the image?",
+            "AI": "<sanchengmeiqin> is wearing a light green shirt and black pants, while <jiubuliulang> is wearing a dark outfit with white sneakers."
+        },
+        {
+            "Human": "What are <zhongtangxi>, <sanchengmeiqin>, and <jiubuliulang> wearing on their feet?",
+            "AI": "<zhongtangxi> is wearing beige sneakers, <sanchengmeiqin> is wearing blue sneakers, and <jiubuliulang> is wearing black and white sneakers."
+        }
+    ],
+    "three_concept/multi/zhongtangxi_sanchengmeiqin_jiubuliulang_donghailinxizi/3.jpg": [
+        {
+            "Human": "What is <zhongtangxi> wearing in the image?",
+            "AI": "<zhongtangxi> is wearing a light-colored long-sleeve shirt with a sweater tied around the waist."
+        },
+        {
+            "Human": "What is <sanchengmeiqin> wearing in the image?",
+            "AI": "<sanchengmeiqin> is wearing a white lab coat."
+        },
+        {
+            "Human": "What is <jiubuliulang> wearing in the image?",
+            "AI": "<jiubuliulang> is wearing a dark blue outfit with a logo on it."
+        },
+        {
+            "Human": "What are <zhongtangxi> and <sanchengmeiqin> wearing in the image?",
+            "AI": "<zhongtangxi> is wearing a light-colored shirt with a sweater tied around the waist, and <sanchengmeiqin> is wearing a white lab coat."
+        },
+        {
+            "Human": "What are <zhongtangxi> and <jiubuliulang> wearing in the image?",
+            "AI": "<zhongtangxi> is wearing a light gray shirt with a sweater tied around the waist, and <jiubuliulang> is wearing a dark blue outfit with a logo on it."
+        },
+        {
+            "Human": "What are <sanchengmeiqin> and <jiubuliulang> wearing in the image?",
+            "AI": "<sanchengmeiqin> is wearing a white lab coat, and <jiubuliulang> is wearing a dark blue outfit."
+        },
+        {
+            "Human": "What are <zhongtangxi>, <sanchengmeiqin>, and <jiubuliulang> wearing in the image?",
+            "AI": "<zhongtangxi> is wearing a light-colored shirt with a sweater tied around the waist, <sanchengmeiqin> is in a white lab coat, and <jiubuliulang> is wearing a dark jumpsuit."
+        }
+    ],
+    "three_concept/multi/zhongtangxi_sanchengmeiqin_jiubuliulang_donghailinxizi/4.jpg": [
+        {
+            "Human": "What is <zhongtangxi> wearing in the image?",
+            "AI": "<zhongtangxi> is wearing a light gray outfit with a long-sleeve shirt and pants."
+        },
+        {
+            "Human": "What is <sanchengmeiqin> wearing in the image?",
+            "AI": "<sanchengmeiqin> is wearing a white coat over casual clothing."
+        },
+        {
+            "Human": "What is <jiubuliulang> wearing in the image?",
+            "AI": "<jiubuliulang> is wearing a dark blue jumpsuit with a logo on it."
+        },
+        {
+            "Human": "What is <donghailinxizi> wearing in the image?",
+            "AI": "<donghailinxizi> is wearing a blue coat over a yellow top and a blue skirt."
+        },
+        {
+            "Human": "What are <zhongtangxi> and <sanchengmeiqin> wearing in the image?",
+            "AI": "<zhongtangxi> is wearing a light gray outfit, while <sanchengmeiqin> is wearing a white coat."
+        },
+        {
+            "Human": "What are <zhongtangxi> and <jiubuliulang> wearing in the image?",
+            "AI": "<zhongtangxi> is wearing a light gray outfit, while <jiubuliulang> is wearing a dark blue jumpsuit."
+        },
+        {
+            "Human": "What are <zhongtangxi> and <donghailinxizi> wearing in the image?",
+            "AI": "<zhongtangxi> is wearing a light gray outfit, while <donghailinxizi> is wearing a blue coat over a yellow top and blue skirt."
+        },
+        {
+            "Human": "What are <sanchengmeiqin> and <jiubuliulang> wearing in the image?",
+            "AI": "<sanchengmeiqin> is wearing a white coat, and <jiubuliulang> is wearing a dark blue jumpsuit."
+        },
+        {
+            "Human": "What are <sanchengmeiqin> and <donghailinxizi> wearing in the image?",
+            "AI": "<sanchengmeiqin> is wearing a white coat, and <donghailinxizi> is wearing a dark blue coat over a yellow top and blue skirt."
+        },
+        {
+            "Human": "What are <jiubuliulang> and <donghailinxizi> wearing in the image?",
+            "AI": "<jiubuliulang> is wearing a dark blue jumpsuit, and <donghailinxizi> is wearing a blue skirt with a yellow top and a dark blue coat."
+        },
+        {
+            "Human": "What are <zhongtangxi>, <sanchengmeiqin>, and <jiubuliulang> wearing in the image?",
+            "AI": "<zhongtangxi> is wearing a light gray outfit, <sanchengmeiqin> is in a white coat, and <jiubuliulang> is in a dark blue jumpsuit."
+        },
+        {
+            "Human": "What are <zhongtangxi>, <sanchengmeiqin>, and <donghailinxizi> wearing in the image?",
+            "AI": "<zhongtangxi> is wearing a light gray outfit, <sanchengmeiqin> is in a white coat, and <donghailinxizi> is wearing a dark blue coat with a yellow top and blue skirt."
+        },
+        {
+            "Human": "What are <zhongtangxi>, <jiubuliulang>, and <donghailinxizi> wearing in the image?",
+            "AI": "<zhongtangxi> is wearing a light gray outfit, <jiubuliulang> is in a dark blue jumpsuit, and <donghailinxizi> is wearing a blue skirt with a dark coat."
+        },
+        {
+            "Human": "What are <sanchengmeiqin>, <jiubuliulang>, and <donghailinxizi> wearing in the image?",
+            "AI": "<sanchengmeiqin> is wearing a white coat, <jiubuliulang> is in a dark blue jumpsuit, and <donghailinxizi> is wearing a blue coat over a yellow top and blue skirt."
+        },
+        {
+            "Human": "What are <zhongtangxi>, <sanchengmeiqin>, <jiubuliulang>, and <donghailinxizi> wearing in the image?",
+            "AI": "<zhongtangxi> is wearing a light gray outfit, <sanchengmeiqin> is in a white coat, <jiubuliulang> is in a dark blue jumpsuit, and <donghailinxizi> is wearing a dark blue coat with a yellow top and blue skirt."
+        }
+    ]
+}

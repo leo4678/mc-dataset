@@ -1,0 +1,152 @@
+{
+    "three_concept/multi/Huoyuhao_Wangdong_Xiaoxiao/0.jpg": [
+        {
+            "Human": "What is the color of <Huoyuhao>'s outfit? A.blue. B.red. C.green.",
+            "AI": "A"
+        },
+        {
+            "Human": "What color is <Wangdong>'s outfit? A.blue. B.red. C.green.",
+            "AI": "A"
+        },
+        {
+            "Human": "What color is <Xiaoxiao>'s hair? A.green. B.blue. C.purple.",
+            "AI": "A"
+        },
+        {
+            "Human": "What color is the outfit of <Huoyuhao> and <Wangdong>? A.blue and gray. B.red and black. C.green and yellow.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is the main color of <Huoyuhao>'s outfit? A.blue. B.red. C.green.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is the color of <Wangdong>'s outfit? A.blue. B.red. C.green.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is the main color of <Wangdong>'s outfit? A.blue. B.red. C.green.",
+            "AI": "A"
+        }
+    ],
+    "three_concept/multi/Huoyuhao_Wangdong_Xiaoxiao/1.jpg": [
+        {
+            "Human": "What is <Huoyuhao> wearing in the image? A.armor. B.a suit with intricate designs. C.casual clothes",
+            "AI": "B"
+        },
+        {
+            "Human": "What color is <Wangdong>'s outfit in the image? A.blue. B.red. C.green.",
+            "AI": "A"
+        },
+        {
+            "Human": "What color is <Xiaoxiao>'s hair? A.green. B.blue. C.purple.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is the color of the clothing worn by <Huoyuhao> and <Wangdong>? A.green and blue. B.gray and blue. C.red and black.",
+            "AI": "B"
+        },
+        {
+            "Human": "What is the color of <Huoyuhao>'s outfit? A.blue. B.green. C.gray",
+            "AI": "C"
+        },
+        {
+            "Human": "What is the color of the outfits worn by <Wangdong> and <Xiaoxiao>? A.blue and green. B.red and yellow. C.black and white.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is the color of the clothing worn by <Huoyuhao>, <Wangdong>, and <Xiaoxiao>? A.green, blue, and gray. B.gray, blue, and green. C.blue, gray, and green.",
+            "AI": "B"
+        }
+    ],
+    "three_concept/multi/Huoyuhao_Wangdong_Xiaoxiao/2.jpg": [
+        {
+            "Human": "What is the background setting behind <Huoyuhao>? A.library. B.classroom. C.garden",
+            "AI": "B"
+        },
+        {
+            "Human": "What is the hair color of <Wangdong>? A.green. B.blue. C.black.",
+            "AI": "B"
+        },
+        {
+            "Human": "What is the color of <Xiaoxiao>'s hair? A.green. B.blue. C.purple",
+            "AI": "A"
+        },
+        {
+            "Human": "What is the background setting behind <Huoyuhao> and <Wangdong>? A.classroom. B.forest. C.beach.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is the background setting behind <Huoyuhao> and <Xiaoxiao>? A.classroom. B.forest. C.beach.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is the hair color of <Wangdong> and <Xiaoxiao>? A.green and blue. B.red and yellow. C.black and brown.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is the background setting behind <Huoyuhao>, <Wangdong>, and <Xiaoxiao>? A.classroom. B.forest. C.beach.",
+            "AI": "A"
+        }
+    ],
+    "three_concept/multi/Huoyuhao_Wangdong_Xiaoxiao/3.jpg": [
+        {
+            "Human": "What is <Huoyuhao> wearing in the image? A.armor. B.casual clothes. C.robe with a belt",
+            "AI": "C"
+        },
+        {
+            "Human": "What color is <Wangdong>'s outfit? A.blue. B.green. C.red.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is the color of <Xiaoxiao>'s outfit? A.green and gold. B.red and silver. C.blue and white.",
+            "AI": "A"
+        },
+        {
+            "Human": "What type of clothing are <Huoyuhao> and <Wangdong> wearing? A.casual attire. B.fantasy-themed outfits. C.sportswear",
+            "AI": "B"
+        },
+        {
+            "Human": "What type of clothing are <Huoyuhao> and <Xiaoxiao> wearing? A.casual attire. B.fantasy-themed outfits. C.sportswear",
+            "AI": "B"
+        },
+        {
+            "Human": "What color is the outfit of <Wangdong>? A.blue. B.green. C.red",
+            "AI": "A"
+        },
+        {
+            "Human": "What is the color of <Wangdong>'s outfit? A.blue. B.green. C.red.",
+            "AI": "A"
+        }
+    ],
+    "three_concept/multi/Huoyuhao_Wangdong_Xiaoxiao/4.jpg": [
+        {
+            "Human": "What is the color of <Huoyuhao>'s hair? A.blue. B.green. C.black",
+            "AI": "C"
+        },
+        {
+            "Human": "What is the hair color of <Wangdong>? A.blue and pink. B.green. C.black",
+            "AI": "A"
+        },
+        {
+            "Human": "What is the hair color of <Xiaoxiao>? A.green. B.blue. C.purple.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is the hair color of <Huoyuhao> and <Wangdong>? A.<Huoyuhao> has blue hair and <Wangdong> has green hair. B.<Huoyuhao> has dark hair and <Wangdong> has blue and pink hair. C.<Huoyuhao> has green hair and <Wangdong> has dark hair.",
+            "AI": "B"
+        },
+        {
+            "Human": "What is the hair color of <Huoyuhao> and <Xiaoxiao>? A.blue and green. B.purple and red. C.black and brown.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is the hair color of <Wangdong> and <Xiaoxiao>? A.blue and green. B.pink and yellow. C.black and red.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is the hair color of <Wangdong>, <Xiaoxiao>, and <Huoyuhao>? A.blue and pink, green, and black. B.red, yellow, and brown. C.purple, orange, and white.",
+            "AI": "A"
+        }
+    ]
+}

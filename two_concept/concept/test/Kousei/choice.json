@@ -1,0 +1,22 @@
+{
+    "two_concept/concept/test/Kousei/0.png": {
+        "Human": "What is <Kousei> holding in his hand?  A. A book; B. A phone; C. A pen;",
+        "AI": "B"
+    },
+    "two_concept/concept/test/Kousei/1.png": {
+        "Human": "What is <Kousei> wearing around his neck?  A. A tie; B. A scarf; C. A necklace;",
+        "AI": "A"
+    },
+    "two_concept/concept/test/Kousei/2.png": {
+        "Human": "What is <Kousei> doing in the image?  A. Playing the piano; B. Reading a book; C. Sleeping;",
+        "AI": "A"
+    },
+    "two_concept/concept/test/Kousei/3.png": {
+        "Human": "What color is <Kousei>'s hair?  A. Blue; B. Green; C. Red;",
+        "AI": "A"
+    },
+    "two_concept/concept/test/Kousei/4.png": {
+        "Human": "What is the color of <Kousei>'s hair?  A. Black; B. Blonde; C. Brown;",
+        "AI": "A"
+    }
+}

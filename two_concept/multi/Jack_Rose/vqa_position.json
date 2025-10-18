@@ -1,0 +1,52 @@
+{
+    "two_concept/multi/Jack_Rose/0.png": [
+        {
+            "Human": "Where is <Jack> located in the photo? A. left B. right.",
+            "AI": "B"
+        },
+        {
+            "Human": "Where is <Rose> located in the photo? A. left B. right.",
+            "AI": "A"
+        }
+    ],
+    "two_concept/multi/Jack_Rose/1.png": [
+        {
+            "Human": "Where is <Jack> located in the photo? A. left B. right.",
+            "AI": "B"
+        },
+        {
+            "Human": "Where is <Rose> located in the photo? A. left B. right.",
+            "AI": "A"
+        }
+    ],
+    "two_concept/multi/Jack_Rose/2.png": [
+        {
+            "Human": "Where is <Jack> located in the photo? A. left B. right.",
+            "AI": "B"
+        },
+        {
+            "Human": "Where is <Rose> located in the photo? A. left B. right.",
+            "AI": "A"
+        }
+    ],
+    "two_concept/multi/Jack_Rose/3.png": [
+        {
+            "Human": "Where is <Jack> located in the photo? A. left B. right.",
+            "AI": "A"
+        },
+        {
+            "Human": "Where is <Rose> located in the photo? A. left B. right.",
+            "AI": "B"
+        }
+    ],
+    "two_concept/multi/Jack_Rose/4.png": [
+        {
+            "Human": "Where is <Jack> located in the photo? A. left B. right.",
+            "AI": "A"
+        },
+        {
+            "Human": "Where is <Rose> located in the photo? A. left B. right.",
+            "AI": "B"
+        }
+    ]
+}

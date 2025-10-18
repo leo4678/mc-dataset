@@ -1,0 +1,22 @@
+{
+    "three_concept/concept/test/NaNaQi/0.png": {
+        "Human": "What is <NaNaQi> holding in the image?",
+        "AI": "<NaNaQi> is holding a small plush toy."
+    },
+    "three_concept/concept/test/NaNaQi/1.png": {
+        "Human": "What kind of headgear is <NaNaQi> wearing in the image?",
+        "AI": "<NaNaQi> is wearing a large, animal-like headgear with ears and a snout."
+    },
+    "three_concept/concept/test/NaNaQi/2.png": {
+        "Human": "What is the expression on <NaNaQi>'s face in the image?",
+        "AI": "<NaNaQi> has a mischievous expression on their face."
+    },
+    "three_concept/concept/test/NaNaQi/3.png": {
+        "Human": "What kind of expression does <NaNaQi> have in the image?",
+        "AI": "<NaNaQi> has a slightly annoyed or pouty expression in the image."
+    },
+    "three_concept/concept/test/NaNaQi/4.png": {
+        "Human": "What kind of expression does <NaNaQi> have in the image?",
+        "AI": "<NaNaQi> has a calm and slightly curious expression in the image."
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "two_concept/concept/test/xiaozhu/0.png": {
+        "Human": "What is <xiaozhu> wearing in the image?",
+        "AI": "<xiaozhu> is wearing a pink and purple striped outfit."
+    },
+    "two_concept/concept/test/xiaozhu/1.png": {
+        "Human": "What is <xiaozhu> doing in the image?",
+        "AI": "<xiaozhu> is happily skipping in the image."
+    },
+    "two_concept/concept/test/xiaozhu/2.png": {
+        "Human": "What is <xiaozhu> holding in the image?",
+        "AI": "<xiaozhu> is holding an apple with a worm in it."
+    },
+    "two_concept/concept/test/xiaozhu/3.png": {
+        "Human": "What color are the ears of <xiaozhu> in the image?",
+        "AI": "The ears of <xiaozhu> are pink."
+    },
+    "two_concept/concept/test/xiaozhu/4.png": {
+        "Human": "What color are the ears of <xiaozhu> in the image?",
+        "AI": "The ears of <xiaozhu> are pink."
+    }
+}

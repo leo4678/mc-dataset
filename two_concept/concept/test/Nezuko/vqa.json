@@ -1,0 +1,22 @@
+{
+    "two_concept/concept/test/Nezuko/0.png": {
+        "Human": "What is <Nezuko> wearing in her hair?",
+        "AI": "<Nezuko> is wearing a pink ribbon in her hair."
+    },
+    "two_concept/concept/test/Nezuko/1.png": {
+        "Human": "What color is <Nezuko>'s hair in the image?",
+        "AI": "<Nezuko>'s hair is black."
+    },
+    "two_concept/concept/test/Nezuko/2.png": {
+        "Human": "What is <Nezuko> wearing on her mouth?",
+        "AI": "<Nezuko> is wearing a green bamboo muzzle on her mouth."
+    },
+    "two_concept/concept/test/Nezuko/3.png": {
+        "Human": "What color is <Nezuko>'s hair ribbon in the image?",
+        "AI": "<Nezuko>'s hair ribbon is pink."
+    },
+    "two_concept/concept/test/Nezuko/4.png": {
+        "Human": "What color is the ribbon in <Nezuko>'s hair?",
+        "AI": "The ribbon in <Nezuko>'s hair is pink."
+    }
+}

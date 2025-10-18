@@ -1,0 +1,22 @@
+{
+    "three_concept/concept/test/zhangwei/0.png": {
+        "Human": "What accessory is <zhangwei> wearing on his suit? A. A bow tie; B. A necktie; C. A scarf;",
+        "AI": "A"
+    },
+    "three_concept/concept/test/zhangwei/1.png": {
+        "Human": "What type of clothing is <zhangwei> wearing? A. A formal suit; B. A casual jacket; C. A sports jersey;",
+        "AI": "B"
+    },
+    "three_concept/concept/test/zhangwei/2.png": {
+        "Human": "What is <zhangwei> wearing around the neck? A. A tie; B. A bow tie; C. A scarf;",
+        "AI": "B"
+    },
+    "three_concept/concept/test/zhangwei/3.png": {
+        "Human": "What accessory is <zhangwei> wearing on his suit? A. A tie; B. A bow tie; C. A scarf;",
+        "AI": "B"
+    },
+    "three_concept/concept/test/zhangwei/4.png": {
+        "Human": "What color is <zhangwei>'s shirt? A. Blue; B. Gray; C. White;",
+        "AI": "B"
+    }
+}

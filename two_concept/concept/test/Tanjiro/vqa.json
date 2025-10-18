@@ -1,0 +1,22 @@
+{
+    "two_concept/concept/test/Tanjiro/0.png": {
+        "Human": "What color is <Tanjiro>'s hair in the image?",
+        "AI": "<Tanjiro>'s hair is dark red with black highlights."
+    },
+    "two_concept/concept/test/Tanjiro/1.png": {
+        "Human": "What color is the scarf that <Tanjiro> is wearing in the image?",
+        "AI": "<Tanjiro> is wearing a blue scarf in the image."
+    },
+    "two_concept/concept/test/Tanjiro/2.png": {
+        "Human": "What type of clothing is <Tanjiro> wearing in the image?",
+        "AI": "<Tanjiro> is wearing a green and black checkered haori over a dark brown outfit."
+    },
+    "two_concept/concept/test/Tanjiro/3.png": {
+        "Human": "What pattern is on <Tanjiro>'s haori in the image?",
+        "AI": "<Tanjiro>'s haori has a green and black checkered pattern."
+    },
+    "two_concept/concept/test/Tanjiro/4.png": {
+        "Human": "What is <Tanjiro> holding in his hand?",
+        "AI": "<Tanjiro> is holding a sword in his hand."
+    }
+}

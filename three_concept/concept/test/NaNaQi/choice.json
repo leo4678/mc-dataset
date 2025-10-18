@@ -1,0 +1,22 @@
+{
+    "three_concept/concept/test/NaNaQi/0.png": {
+        "Human": "What is <NaNaQi> holding in the image? A. A book; B. A plush toy; C. A sandwich;",
+        "AI": "C"
+    },
+    "three_concept/concept/test/NaNaQi/1.png": {
+        "Human": "What is <NaNaQi> wearing on their head? A. A helmet; B. A hood; C. A crown;",
+        "AI": "B"
+    },
+    "three_concept/concept/test/NaNaQi/2.png": {
+        "Human": "What is the expression on <NaNaQi>'s face? A. Happy; B. Mischievous; C. Sad;",
+        "AI": "B"
+    },
+    "three_concept/concept/test/NaNaQi/3.png": {
+        "Human": "What is <NaNaQi> wearing on their head? A. A helmet; B. A hat; C. An animal-themed hood;",
+        "AI": "C"
+    },
+    "three_concept/concept/test/NaNaQi/4.png": {
+        "Human": "What is <NaNaQi> wearing on their head? A. A helmet; B. A hat with ears; C. A crown;",
+        "AI": "B"
+    }
+}

@@ -1,0 +1,72 @@
+{
+    "two_concept/multi/QianShu_JinShang/0.png": [
+        {
+            "Human": "What is the hair color of <QianShu> in the image?",
+            "AI": "<QianShu> has light blonde hair."
+        },
+        {
+            "Human": "What is <JinShang> wearing on their face?",
+            "AI": "<JinShang> is wearing a bandage on their face."
+        },
+        {
+            "Human": "What is the expression on <QianShu>'s face while talking to <JinShang>?",
+            "AI": "<QianShu> has a cheerful and happy expression while talking to <JinShang>."
+        }
+    ],
+    "two_concept/multi/QianShu_JinShang/1.png": [
+        {
+            "Human": "What activity is <QianShu> participating in?",
+            "AI": "<QianShu> is playing a video game."
+        },
+        {
+            "Human": "What activity is <JinShang> engaged in?",
+            "AI": "<JinShang> is playing a video game."
+        },
+        {
+            "Human": "What activity are <QianShu> and <JinShang> engaged in?",
+            "AI": "<QianShu> and <JinShang> are playing video games together."
+        }
+    ],
+    "two_concept/multi/QianShu_JinShang/2.png": [
+        {
+            "Human": "What color is the outfit of <QianShu>?",
+            "AI": "<QianShu> is wearing a red outfit."
+        },
+        {
+            "Human": "What color is the uniform of <JinShang>?",
+            "AI": "<JinShang> is wearing a dark blue uniform."
+        },
+        {
+            "Human": "What are <QianShu> and <JinShang> wearing in the image?",
+            "AI": "<QianShu> is wearing a red outfit with a blue bow, while <JinShang> is wearing a dark outfit with a blue tie."
+        }
+    ],
+    "two_concept/multi/QianShu_JinShang/3.png": [
+        {
+            "Human": "What is the expression on <QianShu>'s face?",
+            "AI": "<QianShu> has a thoughtful expression on her face."
+        },
+        {
+            "Human": "What is the expression on <JinShang>'s face?",
+            "AI": "<JinShang> has a thoughtful expression on her face."
+        },
+        {
+            "Human": "What is the expression on <JinShang>'s face?",
+            "AI": "<JinShang> has a thoughtful expression on her face."
+        }
+    ],
+    "two_concept/multi/QianShu_JinShang/4.png": [
+        {
+            "Human": "What is the hair color of <QianShu> in the image?",
+            "AI": "<QianShu> has blonde hair."
+        },
+        {
+            "Human": "What is <JinShang> wearing in the image?",
+            "AI": "<JinShang> is wearing a blue and black outfit with a yellow collar."
+        },
+        {
+            "Human": "What is the hair color of <QianShu> in the image?",
+            "AI": "<QianShu> has blonde hair."
+        }
+    ]
+}

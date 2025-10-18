@@ -1,0 +1,422 @@
+{
+    "three_concept/concept/train/Marty/0.png": [
+        {
+            "Question": "What is <Marty> hair color?",
+            "Answer": "<Marty>'s hair is black and white, matching his zebra stripes."
+        },
+        {
+            "Question": "What color are <Marty> eyes?",
+            "Answer": "<Marty>'s eyes are white with black pupils."
+        },
+        {
+            "Question": "Would you describe <Marty>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<Marty>'s physique is slim."
+        },
+        {
+            "Question": "What is <Marty> skin tone?",
+            "Answer": "<Marty>'s skin tone is black and white striped."
+        },
+        {
+            "Question": "How would you describe <Marty> hairstyle?",
+            "Answer": "<Marty>'s hairstyle features a short, upright mane with a distinctive striped pattern."
+        },
+        {
+            "Question": "Does <Marty> wear glasses or any accessories?",
+            "Answer": "<Marty> is not wearing glasses or any accessories."
+        },
+        {
+            "Question": "How would you describe <Marty>'s attire?",
+            "Answer": "<Marty> is not wearing any attire."
+        },
+        {
+            "Question": "Does <Marty> have any distinctive facial features?",
+            "Answer": "<Marty> has large, expressive eyes and a long snout."
+        },
+        {
+            "Question": "What is <Marty> overall build or physique?",
+            "Answer": "<Marty> has a slender and athletic build."
+        },
+        {
+            "Question": "What is <Marty> general expression or demeanor?",
+            "Answer": "<Marty> has an excited and animated expression."
+        }
+    ],
+    "three_concept/concept/train/Marty/1.png": [
+        {
+            "Question": "What is <Marty> hair color?",
+            "Answer": "<Marty>'s hair is black and white, matching his zebra stripes."
+        },
+        {
+            "Question": "What color are <Marty> eyes?",
+            "Answer": "<Marty>'s eyes are white with black pupils."
+        },
+        {
+            "Question": "Would you describe <Marty>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<Marty>'s physique is slim."
+        },
+        {
+            "Question": "What is <Marty> skin tone?",
+            "Answer": "<Marty>'s skin tone is black and white striped."
+        },
+        {
+            "Question": "How would you describe <Marty> hairstyle?",
+            "Answer": "<Marty>'s hairstyle is a mohawk made of black and white stripes, matching his zebra pattern."
+        },
+        {
+            "Question": "Does <Marty> wear glasses or any accessories?",
+            "Answer": "<Marty> does not wear glasses or any accessories."
+        },
+        {
+            "Question": "How would you describe <Marty>'s attire?",
+            "Answer": "<Marty> is not wearing any attire."
+        },
+        {
+            "Question": "Does <Marty> have any distinctive facial features?",
+            "Answer": "<Marty> has large, expressive eyes and a prominent snout."
+        },
+        {
+            "Question": "What is <Marty> overall build or physique?",
+            "Answer": "<Marty> has a slender and agile build."
+        },
+        {
+            "Question": "What is <Marty> general expression or demeanor?",
+            "Answer": "<Marty> has a surprised or concerned expression."
+        }
+    ],
+    "three_concept/concept/train/Marty/2.png": [
+        {
+            "Question": "What is <Marty> hair color?",
+            "Answer": "<Marty>'s hair is black and white, matching his zebra stripes."
+        },
+        {
+            "Question": "What color are <Marty> eyes?",
+            "Answer": "<Marty>'s eyes are white with black pupils."
+        },
+        {
+            "Question": "Would you describe <Marty>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<Marty>'s physique is slim."
+        },
+        {
+            "Question": "What is <Marty> skin tone?",
+            "Answer": "<Marty>'s skin tone is black and white striped."
+        },
+        {
+            "Question": "How would you describe <Marty> hairstyle?",
+            "Answer": "<Marty>'s hairstyle is a short, upright mane with black and white stripes."
+        },
+        {
+            "Question": "Does <Marty> wear glasses or any accessories?",
+            "Answer": "<Marty> is wearing a bow tie as an accessory."
+        },
+        {
+            "Question": "How would you describe <Marty>'s attire?",
+            "Answer": "<Marty> is wearing a bow tie."
+        },
+        {
+            "Question": "Does <Marty> have any distinctive facial features?",
+            "Answer": "<Marty> has large, expressive eyes and a long, narrow snout."
+        },
+        {
+            "Question": "What is <Marty> overall build or physique?",
+            "Answer": "<Marty> has a slender and elongated build."
+        },
+        {
+            "Question": "What is <Marty> general expression or demeanor?",
+            "Answer": "<Marty> appears to have a surprised or concerned expression."
+        }
+    ],
+    "three_concept/concept/train/Marty/3.png": [
+        {
+            "Question": "What is <Marty> hair color?",
+            "Answer": "<Marty>'s hair is black and white, matching his zebra stripes."
+        },
+        {
+            "Question": "What color are <Marty> eyes?",
+            "Answer": "<Marty>'s eyes are white with black pupils."
+        },
+        {
+            "Question": "Would you describe <Marty>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<Marty>'s physique is slim."
+        },
+        {
+            "Question": "What is <Marty> skin tone?",
+            "Answer": "<Marty>'s skin tone is black and white striped."
+        },
+        {
+            "Question": "How would you describe <Marty> hairstyle?",
+            "Answer": "<Marty>'s hairstyle features a short, upright mane with distinctive black and white stripes."
+        },
+        {
+            "Question": "Does <Marty> wear glasses or any accessories?",
+            "Answer": "<Marty> is not wearing glasses or any accessories."
+        },
+        {
+            "Question": "How would you describe <Marty>'s attire?",
+            "Answer": "<Marty> is not wearing any attire."
+        },
+        {
+            "Question": "Does <Marty> have any distinctive facial features?",
+            "Answer": "<Marty> has large, expressive eyes and a wide smile."
+        },
+        {
+            "Question": "What is <Marty> overall build or physique?",
+            "Answer": "<Marty> has a slender and athletic build."
+        },
+        {
+            "Question": "What is <Marty> general expression or demeanor?",
+            "Answer": "<Marty> has a cheerful and lively expression."
+        }
+    ],
+    "three_concept/concept/train/Marty/4.png": [
+        {
+            "Question": "What is <Marty> hair color?",
+            "Answer": "<Marty>'s hair is black and white, matching his zebra stripes."
+        },
+        {
+            "Question": "What color are <Marty> eyes?",
+            "Answer": "<Marty>'s eyes are white with black pupils."
+        },
+        {
+            "Question": "Would you describe <Marty>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<Marty>'s physique is slim."
+        },
+        {
+            "Question": "What is <Marty> skin tone?",
+            "Answer": "<Marty>'s skin tone is black and white striped."
+        },
+        {
+            "Question": "How would you describe <Marty> hairstyle?",
+            "Answer": "<Marty>'s hairstyle features a short, upright mane with a distinctive black and white striped pattern."
+        },
+        {
+            "Question": "Does <Marty> wear glasses or any accessories?",
+            "Answer": "<Marty> does not wear glasses or any accessories."
+        },
+        {
+            "Question": "How would you describe <Marty>'s attire?",
+            "Answer": "<Marty> is not wearing any attire; he is a zebra with black and white stripes."
+        },
+        {
+            "Question": "Does <Marty> have any distinctive facial features?",
+            "Answer": "<Marty> has large, expressive eyes and a prominent snout."
+        },
+        {
+            "Question": "What is <Marty> overall build or physique?",
+            "Answer": "<Marty> has a slender and agile build."
+        },
+        {
+            "Question": "What is <Marty> general expression or demeanor?",
+            "Answer": "<Marty> has a surprised or curious expression."
+        }
+    ],
+    "three_concept/concept/train/Marty/5.png": [
+        {
+            "Question": "What is <Marty> hair color?",
+            "Answer": "<Marty>'s hair is black."
+        },
+        {
+            "Question": "What color are <Marty> eyes?",
+            "Answer": "<Marty>'s eyes are brown."
+        },
+        {
+            "Question": "Would you describe <Marty>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<Marty>'s physique is slim."
+        },
+        {
+            "Question": "What is <Marty> skin tone?",
+            "Answer": "<Marty>'s skin tone is black and white striped."
+        },
+        {
+            "Question": "How would you describe <Marty> hairstyle?",
+            "Answer": "<Marty>'s hairstyle is a tall, upright mohawk."
+        },
+        {
+            "Question": "Does <Marty> wear glasses or any accessories?",
+            "Answer": "<Marty> is wearing sunglasses."
+        },
+        {
+            "Question": "How would you describe <Marty>'s attire?",
+            "Answer": "<Marty> is not wearing any attire."
+        },
+        {
+            "Question": "Does <Marty> have any distinctive facial features?",
+            "Answer": "<Marty> has large, expressive eyes and a prominent snout."
+        },
+        {
+            "Question": "What is <Marty> overall build or physique?",
+            "Answer": "<Marty> has a slender and athletic build."
+        },
+        {
+            "Question": "What is <Marty> general expression or demeanor?",
+            "Answer": "<Marty> has a cheerful and confident demeanor."
+        }
+    ],
+    "three_concept/concept/train/Marty/6.png": [
+        {
+            "Question": "What is <Marty> hair color?",
+            "Answer": "<Marty>'s hair is black and white, matching his zebra stripes."
+        },
+        {
+            "Question": "What color are <Marty> eyes?",
+            "Answer": "<Marty>'s eyes are white with black pupils."
+        },
+        {
+            "Question": "Would you describe <Marty>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<Marty>'s physique is slim."
+        },
+        {
+            "Question": "What is <Marty> skin tone?",
+            "Answer": "<Marty>'s skin tone is black and white striped."
+        },
+        {
+            "Question": "How would you describe <Marty> hairstyle?",
+            "Answer": "<Marty>'s hairstyle is a short, upright mane with a distinctive black and white striped pattern."
+        },
+        {
+            "Question": "Does <Marty> wear glasses or any accessories?",
+            "Answer": "<Marty> does not wear glasses or any accessories."
+        },
+        {
+            "Question": "How would you describe <Marty>'s attire?",
+            "Answer": "<Marty> is not wearing any attire."
+        },
+        {
+            "Question": "Does <Marty> have any distinctive facial features?",
+            "Answer": "<Marty> has large, expressive eyes and a wide, smiling mouth."
+        },
+        {
+            "Question": "What is <Marty> overall build or physique?",
+            "Answer": "<Marty> has a slender and athletic build."
+        },
+        {
+            "Question": "What is <Marty> general expression or demeanor?",
+            "Answer": "<Marty> has a surprised and excited expression."
+        }
+    ],
+    "three_concept/concept/train/Marty/7.png": [
+        {
+            "Question": "What is <Marty> hair color?",
+            "Answer": "<Marty>'s hair is black and white, matching his zebra stripes."
+        },
+        {
+            "Question": "What color are <Marty> eyes?",
+            "Answer": "<Marty>'s eyes are white with black pupils."
+        },
+        {
+            "Question": "Would you describe <Marty>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<Marty>'s physique is slim."
+        },
+        {
+            "Question": "What is <Marty> skin tone?",
+            "Answer": "<Marty>'s skin tone is black and white striped."
+        },
+        {
+            "Question": "How would you describe <Marty> hairstyle?",
+            "Answer": "<Marty>'s hairstyle is a mohawk with black and white stripes, matching his zebra pattern."
+        },
+        {
+            "Question": "Does <Marty> wear glasses or any accessories?",
+            "Answer": "<Marty> is not wearing glasses or any accessories."
+        },
+        {
+            "Question": "How would you describe <Marty>'s attire?",
+            "Answer": "<Marty> is not wearing any attire."
+        },
+        {
+            "Question": "Does <Marty> have any distinctive facial features?",
+            "Answer": "<Marty> has large, expressive eyes and a wide smile."
+        },
+        {
+            "Question": "What is <Marty> overall build or physique?",
+            "Answer": "<Marty> has a slender and agile build."
+        },
+        {
+            "Question": "What is <Marty> general expression or demeanor?",
+            "Answer": "<Marty> appears to be excited or enthusiastic."
+        }
+    ],
+    "three_concept/concept/train/Marty/8.png": [
+        {
+            "Question": "What is <Marty> hair color?",
+            "Answer": "<Marty> doesn't have hair; he is a zebra with black and white stripes."
+        },
+        {
+            "Question": "What color are <Marty> eyes?",
+            "Answer": "<Marty>'s eyes are white with black pupils."
+        },
+        {
+            "Question": "Would you describe <Marty>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<Marty>'s physique is slim."
+        },
+        {
+            "Question": "What is <Marty> skin tone?",
+            "Answer": "<Marty>'s skin tone is a mix of black and neon green stripes."
+        },
+        {
+            "Question": "How would you describe <Marty> hairstyle?",
+            "Answer": "<Marty> is wearing a helmet with star designs."
+        },
+        {
+            "Question": "Does <Marty> wear glasses or any accessories?",
+            "Answer": "<Marty> is wearing a helmet with star designs."
+        },
+        {
+            "Question": "How would you describe <Marty>'s attire?",
+            "Answer": "<Marty> is wearing a helmet with star patterns."
+        },
+        {
+            "Question": "Does <Marty> have any distinctive facial features?",
+            "Answer": "<Marty> has large, expressive eyes and a wide, smiling mouth."
+        },
+        {
+            "Question": "What is <Marty> overall build or physique?",
+            "Answer": "<Marty> has a slender and elongated build."
+        },
+        {
+            "Question": "What is <Marty> general expression or demeanor?",
+            "Answer": "<Marty> has a joyful and energetic expression."
+        }
+    ],
+    "three_concept/concept/train/Marty/9.png": [
+        {
+            "Question": "What is <Marty> hair color?",
+            "Answer": "<Marty>'s hair is black and white, matching his zebra stripes."
+        },
+        {
+            "Question": "What color are <Marty> eyes?",
+            "Answer": "<Marty>'s eyes are white with black pupils."
+        },
+        {
+            "Question": "Would you describe <Marty>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<Marty>'s physique is slim."
+        },
+        {
+            "Question": "What is <Marty> skin tone?",
+            "Answer": "<Marty>'s skin tone is black and white striped."
+        },
+        {
+            "Question": "How would you describe <Marty> hairstyle?",
+            "Answer": "<Marty>'s hairstyle is a short, upright mane typical of a zebra."
+        },
+        {
+            "Question": "Does <Marty> wear glasses or any accessories?",
+            "Answer": "<Marty> does not wear glasses or any accessories."
+        },
+        {
+            "Question": "How would you describe <Marty>'s attire?",
+            "Answer": "<Marty> is not wearing any attire; he is a zebra with black and white stripes."
+        },
+        {
+            "Question": "Does <Marty> have any distinctive facial features?",
+            "Answer": "<Marty> has large, expressive eyes and a wide, open mouth."
+        },
+        {
+            "Question": "What is <Marty> overall build or physique?",
+            "Answer": "<Marty> has a slender and agile build."
+        },
+        {
+            "Question": "What is <Marty> general expression or demeanor?",
+            "Answer": "<Marty> has a joyful and excited expression."
+        }
+    ]
+}

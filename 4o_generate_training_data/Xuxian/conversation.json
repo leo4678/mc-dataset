@@ -1,0 +1,394 @@
+{
+    "two_concept/concept/train/Xuxian/0.jpg": [
+        {
+            "Question": "What is <Xuxian> hair color?",
+            "Answer": "<Xuxian>'s hair color is black."
+        },
+        {
+            "Question": "Would you describe <Xuxian>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<Xuxian>'s physique can be described as slim."
+        },
+        {
+            "Question": "What is <Xuxian> skin tone?",
+            "Answer": "<Xuxian>'s skin tone is fair."
+        },
+        {
+            "Question": "How would you describe <Xuxian> hairstyle?",
+            "Answer": "<Xuxian>'s hairstyle is a traditional topknot."
+        },
+        {
+            "Question": "Does <Xuxian> wear glasses or any accessories?",
+            "Answer": "<Xuxian> does not wear glasses but has a hair accessory holding a topknot."
+        },
+        {
+            "Question": "How would you describe <Xuxian>'s attire?",
+            "Answer": "<Xuxian> is wearing traditional attire consisting of a light blue robe with a darker blue trim. The outfit includes a cross-collar design and long sleeves. He is also carrying a backpack with arrows."
+        },
+        {
+            "Question": "Does <Xuxian> have any distinctive facial features?",
+            "Answer": "<Xuxian> does not have any visible distinctive facial features in the image."
+        },
+        {
+            "Question": "What is <Xuxian> overall build or physique?",
+            "Answer": "<Xuxian> has a slender and lean build."
+        },
+        {
+            "Question": "What is <Xuxian> general expression or demeanor?",
+            "Answer": "<Xuxian> appears calm and composed."
+        }
+    ],
+    "two_concept/concept/train/Xuxian/1.jpg": [
+        {
+            "Question": "What is <Xuxian> hair color?",
+            "Answer": "<Xuxian>'s hair color is black."
+        },
+        {
+            "Question": "Would you describe <Xuxian>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<Xuxian>'s physique appears to be slim."
+        },
+        {
+            "Question": "What is <Xuxian> skin tone?",
+            "Answer": "<Xuxian>'s skin tone is fair."
+        },
+        {
+            "Question": "How would you describe <Xuxian> hairstyle?",
+            "Answer": "<Xuxian>'s hairstyle is a traditional topknot."
+        },
+        {
+            "Question": "Does <Xuxian> wear glasses or any accessories?",
+            "Answer": "<Xuxian> does not wear glasses or any accessories."
+        },
+        {
+            "Question": "How would you describe <Xuxian>'s attire?",
+            "Answer": "<Xuxian> is wearing traditional attire with a light blue robe and a darker blue inner layer. The outfit is complemented by a high collar and a green decorative element on the chest."
+        },
+        {
+            "Question": "Does <Xuxian> have any distinctive facial features?",
+            "Answer": "<Xuxian> has a topknot hairstyle and is holding an umbrella."
+        },
+        {
+            "Question": "What is <Xuxian> overall build or physique?",
+            "Answer": "<Xuxian> has a slender and lean build."
+        },
+        {
+            "Question": "What is <Xuxian> general expression or demeanor?",
+            "Answer": "<Xuxian> has a calm and composed demeanor."
+        }
+    ],
+    "two_concept/concept/train/Xuxian/2.jpg": [
+        {
+            "Question": "What is <Xuxian> hair color?",
+            "Answer": "<Xuxian>'s hair color is black."
+        },
+        {
+            "Question": "Would you describe <Xuxian>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<Xuxian>'s physique can be described as slim."
+        },
+        {
+            "Question": "What is <Xuxian> skin tone?",
+            "Answer": "<Xuxian>'s skin tone is light."
+        },
+        {
+            "Question": "How would you describe <Xuxian> hairstyle?",
+            "Answer": "<Xuxian>'s hairstyle is a traditional topknot."
+        },
+        {
+            "Question": "Does <Xuxian> wear glasses or any accessories?",
+            "Answer": "<Xuxian> does not wear glasses or any accessories."
+        },
+        {
+            "Question": "How would you describe <Xuxian>'s attire?",
+            "Answer": "<Xuxian> is wearing a traditional outfit consisting of a white robe with light grey trim and a grey sash tied around the waist."
+        },
+        {
+            "Question": "Does <Xuxian> have any distinctive facial features?",
+            "Answer": "I cannot determine any distinctive facial features of <Xuxian> from the image."
+        },
+        {
+            "Question": "What is <Xuxian> overall build or physique?",
+            "Answer": "<Xuxian> has a slim and lean build."
+        },
+        {
+            "Question": "What is <Xuxian> general expression or demeanor?",
+            "Answer": "<Xuxian> appears to have a calm and composed demeanor."
+        }
+    ],
+    "two_concept/concept/train/Xuxian/3.jpg": [
+        {
+            "Question": "What is <Xuxian> hair color?",
+            "Answer": "<Xuxian>'s hair color is black."
+        },
+        {
+            "Question": "Would you describe <Xuxian>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<Xuxian>'s physique can be described as slim."
+        },
+        {
+            "Question": "What is <Xuxian> skin tone?",
+            "Answer": "<Xuxian>'s skin tone is light."
+        },
+        {
+            "Question": "How would you describe <Xuxian> hairstyle?",
+            "Answer": "<Xuxian>'s hairstyle is a topknot, with the hair gathered and tied up neatly at the top of the head."
+        },
+        {
+            "Question": "Does <Xuxian> wear glasses or any accessories?",
+            "Answer": "<Xuxian> does not wear glasses or any accessories."
+        },
+        {
+            "Question": "How would you describe <Xuxian>'s attire?",
+            "Answer": "<Xuxian> is wearing traditional attire with a brown outer robe and a white inner garment. The outfit has long sleeves and appears to be made of a soft, flowing fabric."
+        },
+        {
+            "Question": "Does <Xuxian> have any distinctive facial features?",
+            "Answer": "<Xuxian> has no visible distinctive facial features in the image."
+        },
+        {
+            "Question": "What is <Xuxian> overall build or physique?",
+            "Answer": "<Xuxian> has a slender and lean build."
+        },
+        {
+            "Question": "What is <Xuxian> general expression or demeanor?",
+            "Answer": "<Xuxian> appears to have a calm and composed demeanor."
+        }
+    ],
+    "two_concept/concept/train/Xuxian/4.jpg": [
+        {
+            "Question": "What is <Xuxian> hair color?",
+            "Answer": "<Xuxian>'s hair color is black."
+        },
+        {
+            "Question": "Would you describe <Xuxian>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<Xuxian>'s physique can be described as slim."
+        },
+        {
+            "Question": "What is <Xuxian> skin tone?",
+            "Answer": "<Xuxian>'s skin tone is fair."
+        },
+        {
+            "Question": "How would you describe <Xuxian> hairstyle?",
+            "Answer": "<Xuxian>'s hairstyle is a traditional topknot with a ribbon tied around it, and the hair is neatly combed back."
+        },
+        {
+            "Question": "Does <Xuxian> wear glasses or any accessories?",
+            "Answer": "<Xuxian> does not wear glasses but has a hair accessory, specifically a hair tie or band holding a topknot."
+        },
+        {
+            "Question": "How would you describe <Xuxian>'s attire?",
+            "Answer": "<Xuxian> is wearing traditional attire consisting of a light-colored robe with a grey-blue trim and a matching sash."
+        },
+        {
+            "Question": "Does <Xuxian> have any distinctive facial features?",
+            "Answer": "I cannot determine any distinctive facial features of <Xuxian> from the image."
+        },
+        {
+            "Question": "What is <Xuxian> overall build or physique?",
+            "Answer": "<Xuxian> has a slender and lean build."
+        },
+        {
+            "Question": "What is <Xuxian> general expression or demeanor?",
+            "Answer": "<Xuxian> has a calm and composed demeanor."
+        }
+    ],
+    "two_concept/concept/train/Xuxian/5.jpg": [
+        {
+            "Question": "What is <Xuxian> hair color?",
+            "Answer": "<Xuxian>'s hair color is black."
+        },
+        {
+            "Question": "What color are <Xuxian> eyes?",
+            "Answer": "I cannot determine the color of <Xuxian>'s eyes from the image."
+        },
+        {
+            "Question": "Would you describe <Xuxian>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<Xuxian>'s physique appears to be slim."
+        },
+        {
+            "Question": "What is <Xuxian> skin tone?",
+            "Answer": "<Xuxian>'s skin tone is light."
+        },
+        {
+            "Question": "How would you describe <Xuxian> hairstyle?",
+            "Answer": "<Xuxian>'s hairstyle is a traditional topknot with the hair neatly pulled back and secured at the crown of the head."
+        },
+        {
+            "Question": "Does <Xuxian> wear glasses or any accessories?",
+            "Answer": "<Xuxian> does not wear glasses but has a hair accessory, specifically a hair tie or band holding a topknot."
+        },
+        {
+            "Question": "How would you describe <Xuxian>'s attire?",
+            "Answer": "<Xuxian> is wearing traditional attire with a brown robe and a high collar. The outfit appears to be made of a smooth fabric, and the robe has a layered design with a darker inner layer visible at the collar."
+        },
+        {
+            "Question": "Does <Xuxian> have any distinctive facial features?",
+            "Answer": "<Xuxian> has a topknot hairstyle and is wearing traditional clothing."
+        },
+        {
+            "Question": "What is <Xuxian> overall build or physique?",
+            "Answer": "<Xuxian> has a slender build."
+        },
+        {
+            "Question": "What is <Xuxian> general expression or demeanor?",
+            "Answer": "<Xuxian> appears to have a calm and thoughtful demeanor."
+        }
+    ],
+    "two_concept/concept/train/Xuxian/6.jpg": [
+        {
+            "Question": "What is <Xuxian> hair color?",
+            "Answer": "<Xuxian>'s hair color is black."
+        },
+        {
+            "Question": "Would you describe <Xuxian>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<Xuxian>'s physique is slim."
+        },
+        {
+            "Question": "What is <Xuxian> skin tone?",
+            "Answer": "<Xuxian>'s skin tone is fair."
+        },
+        {
+            "Question": "How would you describe <Xuxian> hairstyle?",
+            "Answer": "<Xuxian>'s hairstyle is a traditional topknot."
+        },
+        {
+            "Question": "Does <Xuxian> wear glasses or any accessories?",
+            "Answer": "<Xuxian> does not wear glasses or any accessories."
+        },
+        {
+            "Question": "How would you describe <Xuxian>'s attire?",
+            "Answer": "<Xuxian> is wearing traditional attire with a white robe and a light blue inner layer."
+        },
+        {
+            "Question": "Does <Xuxian> have any distinctive facial features?",
+            "Answer": "<Xuxian> has their hair tied up in a topknot."
+        },
+        {
+            "Question": "What is <Xuxian> overall build or physique?",
+            "Answer": "<Xuxian> has a slender and lean build."
+        },
+        {
+            "Question": "What is <Xuxian> general expression or demeanor?",
+            "Answer": "<Xuxian> has a calm and composed demeanor."
+        }
+    ],
+    "two_concept/concept/train/Xuxian/7.jpg": [
+        {
+            "Question": "What is <Xuxian> hair color?",
+            "Answer": "<Xuxian>'s hair color is black."
+        },
+        {
+            "Question": "What color are <Xuxian> eyes?",
+            "Answer": "I cannot determine the color of <Xuxian>'s eyes from the image."
+        },
+        {
+            "Question": "Would you describe <Xuxian>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<Xuxian>'s physique can be described as slim."
+        },
+        {
+            "Question": "What is <Xuxian> skin tone?",
+            "Answer": "<Xuxian>'s skin tone is light."
+        },
+        {
+            "Question": "How would you describe <Xuxian> hairstyle?",
+            "Answer": "<Xuxian>'s hairstyle is a traditional topknot."
+        },
+        {
+            "Question": "Does <Xuxian> wear glasses or any accessories?",
+            "Answer": "<Xuxian> does not wear glasses or any accessories."
+        },
+        {
+            "Question": "How would you describe <Xuxian>'s attire?",
+            "Answer": "<Xuxian> is wearing traditional attire consisting of a brown outer robe with a white inner garment. The robe has a simple, elegant design with a patterned trim along the edges."
+        },
+        {
+            "Question": "Does <Xuxian> have any distinctive facial features?",
+            "Answer": "I cannot determine any distinctive facial features of <Xuxian> from the image."
+        },
+        {
+            "Question": "What is <Xuxian> overall build or physique?",
+            "Answer": "<Xuxian> has a slender and lean build."
+        },
+        {
+            "Question": "What is <Xuxian> general expression or demeanor?",
+            "Answer": "<Xuxian> has a calm and composed demeanor."
+        }
+    ],
+    "two_concept/concept/train/Xuxian/8.jpg": [
+        {
+            "Question": "What is <Xuxian> hair color?",
+            "Answer": "<Xuxian>'s hair color is black."
+        },
+        {
+            "Question": "What color are <Xuxian> eyes?",
+            "Answer": "The color of <Xuxian>'s eyes cannot be determined from the image."
+        },
+        {
+            "Question": "Would you describe <Xuxian>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<Xuxian>'s physique appears to be slim."
+        },
+        {
+            "Question": "What is <Xuxian> skin tone?",
+            "Answer": "<Xuxian>'s skin tone is light."
+        },
+        {
+            "Question": "How would you describe <Xuxian> hairstyle?",
+            "Answer": "<Xuxian>'s hairstyle is a traditional updo with a topknot."
+        },
+        {
+            "Question": "Does <Xuxian> wear glasses or any accessories?",
+            "Answer": "<Xuxian> does not wear glasses or any accessories."
+        },
+        {
+            "Question": "How would you describe <Xuxian>'s attire?",
+            "Answer": "<Xuxian> is wearing traditional attire with a brown outer robe over a white inner garment."
+        },
+        {
+            "Question": "Does <Xuxian> have any distinctive facial features?",
+            "Answer": "I cannot determine any distinctive facial features of <Xuxian> from the image."
+        },
+        {
+            "Question": "What is <Xuxian> overall build or physique?",
+            "Answer": "<Xuxian> has a slender and delicate build."
+        },
+        {
+            "Question": "What is <Xuxian> general expression or demeanor?",
+            "Answer": "<Xuxian> has a calm and composed demeanor."
+        }
+    ],
+    "two_concept/concept/train/Xuxian/9.jpg": [
+        {
+            "Question": "What is <Xuxian> hair color?",
+            "Answer": "<Xuxian>'s hair color is black."
+        },
+        {
+            "Question": "Would you describe <Xuxian>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<Xuxian>'s physique appears to be slim."
+        },
+        {
+            "Question": "What is <Xuxian> skin tone?",
+            "Answer": "<Xuxian>'s skin tone is light."
+        },
+        {
+            "Question": "How would you describe <Xuxian> hairstyle?",
+            "Answer": "<Xuxian>'s hairstyle is a traditional topknot."
+        },
+        {
+            "Question": "Does <Xuxian> wear glasses or any accessories?",
+            "Answer": "<Xuxian> does not wear glasses or any accessories."
+        },
+        {
+            "Question": "How would you describe <Xuxian>'s attire?",
+            "Answer": "<Xuxian> is wearing traditional attire with a brown outer robe featuring intricate patterns along the edges, over a white inner garment."
+        },
+        {
+            "Question": "Does <Xuxian> have any distinctive facial features?",
+            "Answer": "<Xuxian> has no visible distinctive facial features in the image."
+        },
+        {
+            "Question": "What is <Xuxian> overall build or physique?",
+            "Answer": "<Xuxian> has a slender build."
+        },
+        {
+            "Question": "What is <Xuxian> general expression or demeanor?",
+            "Answer": "<Xuxian> has a calm and composed demeanor."
+        }
+    ]
+}

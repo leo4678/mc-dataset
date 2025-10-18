@@ -1,0 +1,22 @@
+{
+    "two_concept/concept/test/GaoQiQiang/0.png": {
+        "Human": "What color tie is <GaoQiQiang> wearing?  A. Black; B. No tie; C. Red;",
+        "AI": "B"
+    },
+    "two_concept/concept/test/GaoQiQiang/1.png": {
+        "Human": "What type of attire is <GaoQiQiang> wearing?  A. Casual outfit;  B. Formal suit;  C. Sportswear;",
+        "AI": "B"
+    },
+    "two_concept/concept/test/GaoQiQiang/2.png": {
+        "Human": "What type of vehicle is <GaoQiQiang> sitting in? A. A boat; B. A car;",
+        "AI": "B"
+    },
+    "two_concept/concept/test/GaoQiQiang/3.png": {
+        "Human": "What color is <GaoQiQiang>'s shirt?  A. Gray; B. White; C. Blue;",
+        "AI": "A"
+    },
+    "two_concept/concept/test/GaoQiQiang/4.png": {
+        "Human": "What type of attire is <GaoQiQiang> wearing?  A. Casual; B. Formal;",
+        "AI": "B"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "three_concept/concept/test/jiulang/0.png": {
+        "Human": "What is the color of <jiulang>'s clothing? \n A. Black; \n B. White; \n C. Red;",
+        "AI": "A"
+    },
+    "three_concept/concept/test/jiulang/1.png": {
+        "Human": "What is the color of <jiulang>'s clothing visible in the image? \n A. Purple; \n B. Red; \n C. Blue;",
+        "AI": "A"
+    },
+    "three_concept/concept/test/jiulang/2.png": {
+        "Human": "What is <jiulang> doing with his hand in the image? \n A. Holding a weapon; \n B. Making a hand sign; \n C. Waving; \n",
+        "AI": "B"
+    },
+    "three_concept/concept/test/jiulang/3.png": {
+        "Human": "What is the color of <jiulang>'s outfit? \n A. Black; \n B. White; \n C. Red;",
+        "AI": "A"
+    },
+    "three_concept/concept/test/jiulang/4.png": {
+        "Human": "What is the expression on <jiulang>'s face in the image? \n A. Happy; \n B. Angry; \n C. Sad; \n",
+        "AI": "B"
+    }
+}

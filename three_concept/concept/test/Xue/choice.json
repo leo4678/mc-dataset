@@ -1,0 +1,22 @@
+{
+    "three_concept/concept/test/Xue/0.png": {
+        "Human": "What is the hairstyle of <Xue>? A. Curly; B. Straight; C. Braided;",
+        "AI": "B"
+    },
+    "three_concept/concept/test/Xue/1.png": {
+        "Human": "What is <Xue> wearing in the image? A. A red dress with white lace; B. A blue shirt; C. A green jacket;",
+        "AI": "A"
+    },
+    "three_concept/concept/test/Xue/2.png": {
+        "Human": "What is the hairstyle of <Xue>? A. Ponytail; B. Braids; C. Loose curls;",
+        "AI": "A"
+    },
+    "three_concept/concept/test/Xue/3.png": {
+        "Human": "What is in the background of the image with <Xue>? A. A bookshelf with books; B. A window with curtains; C. A painting on the wall;",
+        "AI": "A"
+    },
+    "three_concept/concept/test/Xue/4.png": {
+        "Human": "What color is the couch behind <Xue>? A. Red; B. Blue; C. Green;",
+        "AI": "A"
+    }
+}

@@ -1,0 +1,72 @@
+{
+    "two_concept/multi/Tongren_Yasina/0.png": [
+        {
+            "Human": "What is <Tongren> doing in the image? A. Cooking. B. Watching someone cook. C. Cleaning.",
+            "AI": "B"
+        },
+        {
+            "Human": "What is <Yasina> doing in the image? A. Cooking. B. Reading a book. C. Playing a game.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is <Yasina> doing in the image? A. Cooking. B. Reading a book. C. Playing a game.",
+            "AI": "A"
+        }
+    ],
+    "two_concept/multi/Tongren_Yasina/1.png": [
+        {
+            "Human": "What is <Tongren> wearing in the image? A. Black outfit. B. White outfit.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is <Yasina> wearing in the image? A. A black outfit. B. A white and red outfit.",
+            "AI": "B"
+        },
+        {
+            "Human": "What are <Tongren> and <Yasina> wearing in the image? A. Casual clothes. B. Armor. C. Sportswear.",
+            "AI": "B"
+        }
+    ],
+    "two_concept/multi/Tongren_Yasina/2.png": [
+        {
+            "Human": "What is <Tongren> wearing in the image? A. A white dress. B. A black outfit.",
+            "AI": "B"
+        },
+        {
+            "Human": "What color is <Yasina>'s hair? A. Black B. Blonde C. Red",
+            "AI": "B"
+        },
+        {
+            "Human": "What is the color of <Yasina>'s hair? A. Black B. Blonde C. Brown",
+            "AI": "B"
+        }
+    ],
+    "two_concept/multi/Tongren_Yasina/3.png": [
+        {
+            "Human": "What is <Tongren> wearing in the image? A. A black outfit. B. A white outfit.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is <Yasina> doing in the image? A. Stretching. B. Sitting. C. Running.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is <Yasina> doing in the image? A. Stretching her arms. B. Holding a book. C. Sitting on a bench.",
+            "AI": "A"
+        }
+    ],
+    "two_concept/multi/Tongren_Yasina/4.png": [
+        {
+            "Human": "What is <Tongren> holding in the image? A. A cup. B. A knife.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is <Yasina> holding in her hand? A. A fork. B. A knife.",
+            "AI": "B"
+        },
+        {
+            "Human": "What is <Yasina> holding in her hand? A. A fork. B. A knife. C. A spoon.",
+            "AI": "B"
+        }
+    ]
+}

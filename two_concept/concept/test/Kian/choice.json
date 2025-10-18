@@ -1,0 +1,22 @@
+{
+    "two_concept/concept/test/Kian/0.png": {
+        "Human": "What is the shape of the beads in the <Kian> necklace? \n A. Square; \n B. Round; \n C. Triangular;",
+        "AI": "B"
+    },
+    "two_concept/concept/test/Kian/1.png": {
+        "Human": "What is the color of the beads in the <Kian> necklace? \n A. Red; \n B. Blue; \n C. Green;",
+        "AI": "A"
+    },
+    "two_concept/concept/test/Kian/2.png": {
+        "Human": "What is the color of the beads in the <Kian> necklace? \n A. Blue; \n B. Red; \n C. Green;",
+        "AI": "B"
+    },
+    "two_concept/concept/test/Kian/3.png": {
+        "Human": "What is the color of the beads in the <Kian> necklace? \n A. Red; \n B. Blue; \n C. Green;",
+        "AI": "A"
+    },
+    "two_concept/concept/test/Kian/4.png": {
+        "Human": "What is the color of the beads in the <Kian> necklace? \n A. Red; \n B. Blue; \n C. Green;",
+        "AI": "A"
+    }
+}

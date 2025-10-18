@@ -1,0 +1,22 @@
+{
+    "three_concept/concept/test/Loid/0.jpg": {
+        "Human": "What is <Loid> wearing in the image?",
+        "AI": "<Loid> is wearing a white suit with a red tie and has a pen in his pocket."
+    },
+    "three_concept/concept/test/Loid/1.jpg": {
+        "Human": "What is <Loid> wearing in the image?",
+        "AI": "<Loid> is wearing a blue suit with a white shirt and a striped tie."
+    },
+    "three_concept/concept/test/Loid/2.jpg": {
+        "Human": "What type of clothing is <Loid> wearing in the image?",
+        "AI": "<Loid> is wearing a green suit with a red tie and a white shirt."
+    },
+    "three_concept/concept/test/Loid/3.jpg": {
+        "Human": "What type of outfit is <Loid> wearing in the image?",
+        "AI": "<Loid> is wearing a formal green suit with a red tie and a white shirt."
+    },
+    "three_concept/concept/test/Loid/4.jpg": {
+        "Human": "What is <Loid> wearing in the image?",
+        "AI": "<Loid> is wearing a green suit with a white shirt and a red tie."
+    }
+}

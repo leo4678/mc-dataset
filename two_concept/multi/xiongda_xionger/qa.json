@@ -1,0 +1,22 @@
+[
+    {
+        "question": "Are both <xiongda> and <xionger> animals or humans? A. Animal. B. Human",
+        "answer": "A"
+    },
+    {
+        "question": "What are the fur colors of <xiongda> and <xionger> respectively? A. Brown, Yellow. B. Yellow, Brown",
+        "answer": "A"
+    },
+    {
+        "question": "What is the general body type of <xiongda> and <xionger>? A. Slim. B. Stout",
+        "answer": "B"
+    },
+    {
+        "question": "Do <xiongda> and <xionger> have similar nose colors? A. Yes. B. No",
+        "answer": "B"
+    },
+    {
+        "question": "What is the primary activity of <xiongda> and <xionger>? A. Sleeping. B. Adventuring",
+        "answer": "B"
+    }
+]

@@ -1,0 +1,72 @@
+{
+    "two_concept/multi/Rova_Zeke/0.png": [
+        {
+            "Human": "What is the design feature of <Rova> in the image?",
+            "AI": "<Rova> is a circular harpoon with a black ring and multiple prongs extending from it."
+        },
+        {
+            "Human": "What is <Zeke> doing in the image?",
+            "AI": "<Zeke> is being worn by a character who is holding a slingshot-like weapon in a dynamic pose."
+        },
+        {
+            "Human": "What is <Rova> being used for in the image?",
+            "AI": "<Rova> is being held in a forward position, suggesting it is ready to be used as a weapon or tool."
+        }
+    ],
+    "two_concept/multi/Rova_Zeke/1.png": [
+        {
+            "Human": "What is the position of <Rova> in the image?",
+            "AI": "<Rova> is being held by a character in the center of the image, ready to be launched."
+        },
+        {
+            "Human": "What is <Zeke> being worn by the character in the image?",
+            "AI": "<Zeke> is being worn by the character as a white hat on his head."
+        },
+        {
+            "Human": "What is the relationship between <Rova> and <Zeke> in the image?",
+            "AI": "<Rova> is being held by a character wearing <Zeke>."
+        }
+    ],
+    "two_concept/multi/Rova_Zeke/2.png": [
+        {
+            "Human": "What is the function of <Rova> in the image?",
+            "AI": "<Rova> is used as a weapon, specifically a circular harpoon, being held and aimed by the character."
+        },
+        {
+            "Human": "What is <Zeke> being worn by the character in the image?",
+            "AI": "<Zeke> is being worn by the character as a hat on their head."
+        },
+        {
+            "Human": "What is the relationship between <Rova> and <Zeke> in the image?",
+            "AI": "<Rova> is being held by a character who is wearing <Zeke> on their head."
+        }
+    ],
+    "two_concept/multi/Rova_Zeke/3.png": [
+        {
+            "Human": "What is <Rova> being used for in the image?",
+            "AI": "<Rova> is being held by a character who appears to be aiming it at something off-screen."
+        },
+        {
+            "Human": "What is <Zeke> being worn by the character in the image?",
+            "AI": "<Zeke>, the anime style white hat, is being worn by the character with headphones and a slingshot."
+        },
+        {
+            "Human": "What is the relationship between <Rova> and <Zeke> in the image?",
+            "AI": "<Rova> is being held by a person wearing <Zeke> on their head."
+        }
+    ],
+    "two_concept/multi/Rova_Zeke/4.png": [
+        {
+            "Human": "What is the design feature of <Rova> in the image?",
+            "AI": "<Rova> is a circular harpoon with a black, claw-like design and is held by a hand."
+        },
+        {
+            "Human": "What is <Zeke> doing in the image?",
+            "AI": "<Zeke> is being worn by a character who is holding a large black weapon."
+        },
+        {
+            "Human": "What is the relationship between <Rova> and <Zeke> in the image?",
+            "AI": "<Rova> is being held by a hand while <Zeke> is worn on the head, suggesting that <Rova> is being used by the person wearing <Zeke>."
+        }
+    ]
+}

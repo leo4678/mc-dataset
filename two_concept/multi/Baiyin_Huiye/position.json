@@ -1,0 +1,22 @@
+{
+    "0.png": {
+        "<Baiyin>": "right",
+        "<Huiye>": "left"
+    },
+    "1.png": {
+        "<Baiyin>": "left",
+        "<Huiye>": "right"
+    },
+    "2.png": {
+        "<Baiyin>": "right",
+        "<Huiye>": "left"
+    },
+    "3.png": {
+        "<Baiyin>": "right",
+        "<Huiye>": "left"
+    },
+    "4.png": {
+        "<Baiyin>": "right",
+        "<Huiye>": "left"
+    }
+}

@@ -1,0 +1,72 @@
+{
+    "two_concept/multi/james_curry/0.jpg": [
+        {
+            "Human": "What team is <james> playing for in the image? A. Lakers B. Golden State",
+            "AI": "A"
+        },
+        {
+            "Human": "What team is <curry> playing for in the image? A. Lakers. B. Golden State Warriors.",
+            "AI": "B"
+        },
+        {
+            "Human": "What teams are <james> and <curry> playing for in the image? A.Lakers and Warriors. B.Heat and Warriors. C.Lakers and Rockets.",
+            "AI": "A"
+        }
+    ],
+    "two_concept/multi/james_curry/1.jpg": [
+        {
+            "Human": "What event is <james> participating in? A. All-Star Game. B. Championship Game. C. Practice Session.",
+            "AI": "A"
+        },
+        {
+            "Human": "What number is on <curry>'s jersey? A. 23 B. 30",
+            "AI": "B"
+        },
+        {
+            "Human": "What event are <james> and <curry> participating in? A. NBA All-Star Game. B. Olympic Games. C. World Cup.",
+            "AI": "A"
+        }
+    ],
+    "two_concept/multi/james_curry/2.jpg": [
+        {
+            "Human": "What team is <james> playing for in the image? A. Lakers B. Warriors",
+            "AI": "A"
+        },
+        {
+            "Human": "What is <curry> doing in the image? A. Shooting a basketball. B. Dribbling a basketball.",
+            "AI": "A"
+        },
+        {
+            "Human": "What are <james> and <curry> doing in the image? A. Playing basketball. B. Playing soccer. C. Playing tennis.",
+            "AI": "A"
+        }
+    ],
+    "two_concept/multi/james_curry/3.jpg": [
+        {
+            "Human": "What sport is <james> associated with in the image? A. Basketball. B. Soccer.",
+            "AI": "A"
+        },
+        {
+            "Human": "What sport is <curry> likely playing in the image? A. Basketball B. Soccer",
+            "AI": "A"
+        },
+        {
+            "Human": "What sport are <james> and <curry> likely playing based on their uniforms? A. Soccer B. Basketball C. Baseball",
+            "AI": "B"
+        }
+    ],
+    "two_concept/multi/james_curry/4.jpg": [
+        {
+            "Human": "What team is <james> playing for in the image? A. Lakers B. Warriors",
+            "AI": "A"
+        },
+        {
+            "Human": "What team is <curry> playing for in the image? A. Los Angeles Lakers. B. Golden State Warriors.",
+            "AI": "B"
+        },
+        {
+            "Human": "What teams are <james> and <curry> playing for in the image? A. Lakers and Warriors. B. Bulls and Celtics. C. Heat and Spurs.",
+            "AI": "A"
+        }
+    ]
+}

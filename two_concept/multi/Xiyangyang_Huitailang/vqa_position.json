@@ -1,0 +1,52 @@
+{
+    "two_concept/multi/Xiyangyang_Huitailang/0.jpg": [
+        {
+            "Human": "Where is <Xiyangyang> located in the photo? A. left B. right.",
+            "AI": "B"
+        },
+        {
+            "Human": "Where is <Huitailang> located in the photo? A. left B. right.",
+            "AI": "A"
+        }
+    ],
+    "two_concept/multi/Xiyangyang_Huitailang/1.jpg": [
+        {
+            "Human": "Where is <Xiyangyang> located in the photo? A. left B. right.",
+            "AI": "A"
+        },
+        {
+            "Human": "Where is <Huitailang> located in the photo? A. left B. right.",
+            "AI": "B"
+        }
+    ],
+    "two_concept/multi/Xiyangyang_Huitailang/2.jpg": [
+        {
+            "Human": "Where is <Xiyangyang> located in the photo? A. left B. right.",
+            "AI": "B"
+        },
+        {
+            "Human": "Where is <Huitailang> located in the photo? A. left B. right.",
+            "AI": "A"
+        }
+    ],
+    "two_concept/multi/Xiyangyang_Huitailang/3.jpg": [
+        {
+            "Human": "Where is <Xiyangyang> located in the photo? A. left B. right.",
+            "AI": "A"
+        },
+        {
+            "Human": "Where is <Huitailang> located in the photo? A. left B. right.",
+            "AI": "B"
+        }
+    ],
+    "two_concept/multi/Xiyangyang_Huitailang/4.jpg": [
+        {
+            "Human": "Where is <Xiyangyang> located in the photo? A. left B. right.",
+            "AI": "B"
+        },
+        {
+            "Human": "Where is <Huitailang> located in the photo? A. left B. right.",
+            "AI": "A"
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "three_concept/concept/test/Huoyuhao/0.jpg": {
+        "Human": "What is <Huoyuhao> holding in the image?",
+        "AI": "<Huoyuhao> is holding a piece of grilled meat and a bowl of fruit."
+    },
+    "three_concept/concept/test/Huoyuhao/1.jpg": {
+        "Human": "What kind of outfit is <Huoyuhao> wearing in the image?",
+        "AI": "<Huoyuhao> is wearing an ornate outfit with intricate gold and silver designs, featuring a high collar and decorative shoulder pieces."
+    },
+    "three_concept/concept/test/Huoyuhao/2.jpg": {
+        "Human": "What kind of outfit is <Huoyuhao> wearing in the image?",
+        "AI": "<Huoyuhao> is wearing an ornate, detailed outfit with intricate designs and a shoulder strap, set against a backdrop of castle towers."
+    },
+    "three_concept/concept/test/Huoyuhao/3.jpg": {
+        "Human": "What kind of clothing is <Huoyuhao> wearing in the image?",
+        "AI": "<Huoyuhao> is wearing a detailed outfit with gold embroidery and a high-collared shirt."
+    },
+    "three_concept/concept/test/Huoyuhao/4.jpg": {
+        "Human": "What kind of outfit is <Huoyuhao> wearing in the image?",
+        "AI": "<Huoyuhao> is wearing an ornate outfit with intricate gold and silver designs, featuring a high collar and shoulder embellishments."
+    }
+}

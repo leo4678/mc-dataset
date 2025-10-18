@@ -1,0 +1,152 @@
+{
+    "three_concept/multi/Xing_Xue_Yu/0.png": [
+        {
+            "Human": "What is <Xing> wearing in the image?",
+            "AI": "<Xing> is wearing a black and white outfit."
+        },
+        {
+            "Human": "What is <Xue> wearing in the image?",
+            "AI": "<Xue> is wearing a dark outfit with a white collar."
+        },
+        {
+            "Human": "What is <Yu> wearing in the image?",
+            "AI": "<Yu> is wearing a white shirt."
+        },
+        {
+            "Human": "What is the clothing style of <Xing> and <Xue> in the image?",
+            "AI": "<Xing> is wearing a black and white outfit, while <Xue> is dressed in a dark top with a white collar."
+        },
+        {
+            "Human": "What are <Xing> and <Yu> wearing in the image?",
+            "AI": "<Xing> is wearing a black and white outfit, while <Yu> is wearing a white shirt."
+        },
+        {
+            "Human": "What is the clothing style of <Xue> and <Yu> in the image?",
+            "AI": "<Xue> is wearing a dark outfit with a white collar, while <Yu> is wearing a light-colored shirt."
+        },
+        {
+            "Human": "What are <Xing>, <Xue>, and <Yu> wearing in the image?",
+            "AI": "<Xing> is wearing a black and white outfit, <Xue> is in a dark top with a white collar, and <Yu> is in a light-colored shirt."
+        }
+    ],
+    "three_concept/multi/Xing_Xue_Yu/1.png": [
+        {
+            "Human": "What is <Xing> doing in the image?",
+            "AI": "<Xing> is sitting on the couch with arms outstretched."
+        },
+        {
+            "Human": "What is <Xue> wearing in the image?",
+            "AI": "<Xue> is wearing a red t-shirt and dark shorts."
+        },
+        {
+            "Human": "What is <Yu> doing in the image?",
+            "AI": "<Yu> is sitting on the couch with a backpack beside them."
+        },
+        {
+            "Human": "What are <Xing> and <Xue> doing in the image?",
+            "AI": "<Xing> is sitting on the couch with arms outstretched, while <Xue> is sitting with her hands on her lap."
+        },
+        {
+            "Human": "What is the setting where <Xing> and <Yu> are sitting?",
+            "AI": "<Xing> and <Yu> are sitting on a red couch in a living room with a kitchen in the background."
+        },
+        {
+            "Human": "What is the setting where <Xue> and <Yu> are sitting?",
+            "AI": "<Xue> and <Yu> are sitting on a red couch in a living room with a kitchen area in the background."
+        },
+        {
+            "Human": "What are <Xing>, <Xue>, and <Yu> doing in the image?",
+            "AI": "<Xing> is sitting on the left side of the couch, <Xue> is sitting on the right side, and <Yu> is leaning on the back of the couch in the middle."
+        }
+    ],
+    "three_concept/multi/Xing_Xue_Yu/2.png": [
+        {
+            "Human": "What color is <Xing>'s shirt in the image?",
+            "AI": "<Xing> is wearing an orange shirt."
+        },
+        {
+            "Human": "What is <Xue> wearing in the image?",
+            "AI": "<Xue> is wearing a bright green top with black stripes on the sleeves."
+        },
+        {
+            "Human": "What is <Yu> wearing in the image?",
+            "AI": "<Yu> is wearing a white shirt with a red collar and a cartoon design."
+        },
+        {
+            "Human": "What are <Xing> and <Xue> wearing in the image?",
+            "AI": "<Xing> is wearing an orange shirt, and <Xue> is wearing a bright green shirt with black stripes on the sleeves."
+        },
+        {
+            "Human": "What are <Xing> and <Yu> wearing in the image?",
+            "AI": "<Xing> is wearing an orange shirt, and <Yu> is wearing a white shirt with a red collar."
+        },
+        {
+            "Human": "What are <Xue> and <Yu> wearing in the image?",
+            "AI": "<Xue> is wearing a bright green top with black stripes, and <Yu> is wearing a white shirt with a red collar."
+        },
+        {
+            "Human": "What colors are the clothes of <Xing>, <Xue>, and <Yu> wearing?",
+            "AI": "<Xing> is wearing an orange shirt, <Xue> is wearing a bright green shirt, and <Yu> is wearing a white shirt with a red collar."
+        }
+    ],
+    "three_concept/multi/Xing_Xue_Yu/3.png": [
+        {
+            "Human": "What is <Xing> wearing in the image?",
+            "AI": "<Xing> is wearing a black and white outfit."
+        },
+        {
+            "Human": "What is <Xue> wearing in the image?",
+            "AI": "<Xue> is wearing a navy blue sweater with a white collar and has braided hair with purple ties."
+        },
+        {
+            "Human": "What is <Yu> wearing in the image?",
+            "AI": "<Yu> is wearing a white top with a small logo on it."
+        },
+        {
+            "Human": "What are <Xing> and <Xue> doing in the image?",
+            "AI": "<Xing> and <Xue> are posing with their arms outstretched."
+        },
+        {
+            "Human": "What are <Xing> and <Yu> doing in the image?",
+            "AI": "<Xing> and <Yu> are posing energetically with their arms outstretched."
+        },
+        {
+            "Human": "What are <Xue> and <Yu> doing in the image?",
+            "AI": "<Xue> and <Yu> are posing energetically with their arms outstretched."
+        },
+        {
+            "Human": "What are <Xing>, <Xue>, and <Yu> doing in the image?",
+            "AI": "<Xing>, <Xue>, and <Yu> are posing energetically with their arms outstretched."
+        }
+    ],
+    "three_concept/multi/Xing_Xue_Yu/4.png": [
+        {
+            "Human": "What is <Xing> wearing in the image?",
+            "AI": "<Xing> is wearing a light pink shirt."
+        },
+        {
+            "Human": "What is <Xue> wearing in the image?",
+            "AI": "<Xue> is wearing a light pink shirt."
+        },
+        {
+            "Human": "What is <Yu> wearing in the image?",
+            "AI": "<Yu> is wearing a light blue shirt."
+        },
+        {
+            "Human": "What is <Xing> wearing in the image?",
+            "AI": "<Xing> is wearing a light pink shirt."
+        },
+        {
+            "Human": "What is <Xing> wearing in the image?",
+            "AI": "<Xing> is wearing a light pink shirt."
+        },
+        {
+            "Human": "What is <Xue> wearing in the image?",
+            "AI": "<Xue> is wearing a pink shirt."
+        },
+        {
+            "Human": "What is <Xing> wearing in the image?",
+            "AI": "<Xing> is wearing a light pink shirt."
+        }
+    ]
+}

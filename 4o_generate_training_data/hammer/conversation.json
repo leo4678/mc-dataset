@@ -1,0 +1,422 @@
+{
+    "two_concept/two_concept/concept/train/hammer/0.png": [
+        {
+            "Question": "What color is <hammer>?",
+            "Answer": "The <hammer> is silver."
+        },
+        {
+            "Question": "What shape does <hammer> have?",
+            "Answer": "The <hammer> has a rectangular head with a short handle."
+        },
+        {
+            "Question": "What is the overall vibe of <hammer>?",
+            "Answer": "The overall vibe of the <hammer> is powerful and majestic."
+        },
+        {
+            "Question": "What material is <hammer> made of?",
+            "Answer": "The <hammer> is made of metal."
+        },
+        {
+            "Question": "What size is this <hammer>?",
+            "Answer": "The <hammer> is large, with a substantial head and a long handle, resembling a sledgehammer."
+        },
+        {
+            "Question": "Does <hammer> have any patterns or markings?",
+            "Answer": "The <hammer> does not have any visible patterns or markings; it appears to be a solid metal hammer."
+        },
+        {
+            "Question": "What type of <hammer> is this subject?",
+            "Answer": "The <hammer> is a large, square-headed hammer resembling a war hammer or a mythical hammer like Mjolnir from Norse mythology."
+        },
+        {
+            "Question": "Does <hammer> have any distinctive features or details?",
+            "Answer": "The <hammer> has a large, rectangular metal head with a short handle, resembling the iconic Mjolnir from Norse mythology."
+        },
+        {
+            "Question": "What's <hammer> general texture like?",
+            "Answer": "The <hammer> has a smooth and metallic texture."
+        },
+        {
+            "Question": "How would you describe <hammer> overall appearance?",
+            "Answer": "The <hammer> has a large, rectangular metal head with a short handle, resembling a traditional Norse design."
+        }
+    ],
+    "two_concept/two_concept/concept/train/hammer/1.jpg": [
+        {
+            "Question": "What color is <hammer>?",
+            "Answer": "The <hammer> is metallic with a silver-gray color."
+        },
+        {
+            "Question": "What shape does <hammer> have?",
+            "Answer": "The <hammer> has a rectangular head with intricate designs and a long handle."
+        },
+        {
+            "Question": "What is the overall vibe of <hammer>?",
+            "Answer": "The overall vibe of the <hammer> is powerful and mythical, with a cracked surface suggesting it has endured significant impact or force."
+        },
+        {
+            "Question": "What material is <hammer> made of?",
+            "Answer": "<hammer> is made of metal."
+        },
+        {
+            "Question": "What size is this <hammer>?",
+            "Answer": "The <hammer> is large, with a long handle and a sizable head, as it is being held with both hands."
+        },
+        {
+            "Question": "Does <hammer> have any patterns or markings?",
+            "Answer": "Yes, <hammer> has intricate patterns and markings on its surface."
+        },
+        {
+            "Question": "What type of <hammer> is this subject?",
+            "Answer": "The <hammer> is a large, ornate, and cracked metal hammer resembling Thor's Mjolnir."
+        },
+        {
+            "Question": "Does <hammer> have any distinctive features or details?",
+            "Answer": "The <hammer> has a cracked surface on its head and intricate designs on its edges."
+        },
+        {
+            "Question": "What's <hammer> general texture like?",
+            "Answer": "The <hammer> has a metallic texture with visible cracks on its surface."
+        },
+        {
+            "Question": "How would you describe <hammer> overall appearance?",
+            "Answer": "The <hammer> has a large, rectangular metal head with intricate designs and visible cracks on its surface. It has a long handle with a textured grip, featuring metal bands around it."
+        }
+    ],
+    "two_concept/two_concept/concept/train/hammer/2.png": [
+        {
+            "Question": "What color is <hammer>?",
+            "Answer": "The <hammer> is primarily gray with intricate gold designs and blue lightning effects."
+        },
+        {
+            "Question": "What shape does <hammer> have?",
+            "Answer": "The <hammer> has a rectangular block shape with intricate designs and cracks on its surface."
+        },
+        {
+            "Question": "What is the overall vibe of <hammer>?",
+            "Answer": "The overall vibe of <hammer> is powerful and mythical, with a sense of strength and magic, emphasized by the lightning and intricate design."
+        },
+        {
+            "Question": "What material is <hammer> made of?",
+            "Answer": "The <hammer> is made of metal."
+        },
+        {
+            "Question": "What size is this <hammer>?",
+            "Answer": "The <hammer> is large, with a thick handle and a massive, square head."
+        },
+        {
+            "Question": "Does <hammer> have any patterns or markings?",
+            "Answer": "Yes, <hammer> has intricate patterns and markings on its head."
+        },
+        {
+            "Question": "What type of <hammer> is this subject?",
+            "Answer": "This <hammer> is a large, ornate, and mythical hammer, resembling Thor's Mjolnir, with a square head and intricate designs."
+        },
+        {
+            "Question": "Does <hammer> have any distinctive features or details?",
+            "Answer": "The <hammer> has a large, square head with intricate designs and visible cracks, emitting a faint blue glow."
+        },
+        {
+            "Question": "What's <hammer> general texture like?",
+            "Answer": "<hammer> has a smooth metal texture with visible cracks and intricate engravings on its surface."
+        },
+        {
+            "Question": "How would you describe <hammer> overall appearance?",
+            "Answer": "The <hammer> has a large, square head with intricate designs and visible cracks, emitting a faint blue glow. It is held by a hand gripping a dark handle with metallic accents."
+        }
+    ],
+    "two_concept/two_concept/concept/train/hammer/3.jpg": [
+        {
+            "Question": "What color is <hammer>?",
+            "Answer": "<hammer> is silver with a brown handle."
+        },
+        {
+            "Question": "What shape does <hammer> have?",
+            "Answer": "<hammer> has a rectangular head with a cylindrical handle."
+        },
+        {
+            "Question": "What is the overall vibe of <hammer>?",
+            "Answer": "The overall vibe of <hammer> is powerful and mythical, resembling Thor's hammer, Mjolnir, with its intricate designs and robust build."
+        },
+        {
+            "Question": "What material is <hammer> made of?",
+            "Answer": "<hammer> is made of metal."
+        },
+        {
+            "Question": "What size is this <hammer>?",
+            "Answer": "The <hammer> is large, resembling Thor's hammer, Mjolnir, with a broad head and a long handle."
+        },
+        {
+            "Question": "Does <hammer> have any patterns or markings?",
+            "Answer": "Yes, <hammer> has intricate patterns and markings on its head."
+        },
+        {
+            "Question": "What type of <hammer> is this subject?",
+            "Answer": "This is a depiction of Mjolnir, Thor's hammer from Norse mythology and popularized by Marvel Comics."
+        },
+        {
+            "Question": "Does <hammer> have any distinctive features or details?",
+            "Answer": "<hammer> has a distinctive design with intricate engravings on the head and a leather-wrapped handle with metal bands."
+        },
+        {
+            "Question": "What's <hammer> general texture like?",
+            "Answer": "The general texture of <hammer> is smooth with intricate engraved patterns on the head."
+        },
+        {
+            "Question": "How would you describe <hammer> overall appearance?",
+            "Answer": "The <hammer> has a metallic head with intricate engravings and a brown handle wrapped with silver bands."
+        }
+    ],
+    "two_concept/two_concept/concept/train/hammer/4.png": [
+        {
+            "Question": "What color is <hammer>?",
+            "Answer": "The <hammer> is primarily silver with a brown handle."
+        },
+        {
+            "Question": "What shape does <hammer> have?",
+            "Answer": "<hammer> has a rectangular shape with a cylindrical handle."
+        },
+        {
+            "Question": "What is the overall vibe of <hammer>?",
+            "Answer": "The overall vibe of the <hammer> is powerful and mythical, with intricate designs and a robust, metallic appearance."
+        },
+        {
+            "Question": "What material is <hammer> made of?",
+            "Answer": "<hammer> is made of metal."
+        },
+        {
+            "Question": "What size is this <hammer>?",
+            "Answer": "The <hammer> is large and has a thick, rectangular head with a long handle."
+        },
+        {
+            "Question": "Does <hammer> have any patterns or markings?",
+            "Answer": "Yes, <hammer> has intricate patterns or markings on its head."
+        },
+        {
+            "Question": "What type of <hammer> is this subject?",
+            "Answer": "This <hammer> is a fictional magical hammer known as Mjolnir from the Marvel Universe."
+        },
+        {
+            "Question": "Does <hammer> have any distinctive features or details?",
+            "Answer": "The <hammer> has a distinctive design with intricate engravings on its head and a leather-wrapped handle."
+        },
+        {
+            "Question": "What's <hammer> general texture like?",
+            "Answer": "The general texture of the <hammer> is smooth with engraved patterns on the sides."
+        },
+        {
+            "Question": "How would you describe <hammer> overall appearance?",
+            "Answer": "The <hammer> has a large, rectangular metal head with intricate designs on its sides and a short, sturdy handle wrapped in a dark material."
+        }
+    ],
+    "two_concept/two_concept/concept/train/hammer/5.png": [
+        {
+            "Question": "What color is <hammer>?",
+            "Answer": "The <hammer> is silver with black and brown accents on the handle."
+        },
+        {
+            "Question": "What shape does <hammer> have?",
+            "Answer": "The <hammer> has a rectangular head with a cylindrical handle."
+        },
+        {
+            "Question": "What is the overall vibe of <hammer>?",
+            "Answer": "The overall vibe of <hammer> is powerful and mythical, resembling Thor's hammer, Mjolnir, from Norse mythology and popular culture."
+        },
+        {
+            "Question": "What material is <hammer> made of?",
+            "Answer": "The <hammer> is made of metal."
+        },
+        {
+            "Question": "What size is this <hammer>?",
+            "Answer": "The <hammer> is large and resembles Thor's hammer, Mjolnir, from the Marvel universe."
+        },
+        {
+            "Question": "Does <hammer> have any patterns or markings?",
+            "Answer": "Yes, <hammer> has intricate patterns and markings on its head and handle."
+        },
+        {
+            "Question": "What type of <hammer> is this subject?",
+            "Answer": "The <hammer> is a fictional hammer, specifically resembling Thor's hammer, Mjolnir, from the Marvel universe."
+        },
+        {
+            "Question": "Does <hammer> have any distinctive features or details?",
+            "Answer": "The <hammer> has a distinctive design with intricate patterns on its head and a handle wrapped in a leather-like material with metal accents."
+        },
+        {
+            "Question": "What's <hammer> general texture like?",
+            "Answer": "The <hammer> has a smooth metal texture with engraved patterns on its head."
+        },
+        {
+            "Question": "How would you describe <hammer> overall appearance?",
+            "Answer": "The <hammer> has a large, rectangular metal head with intricate designs on its sides and a short, thick handle wrapped in a patterned grip."
+        }
+    ],
+    "two_concept/two_concept/concept/train/hammer/6.png": [
+        {
+            "Question": "What color is <hammer>?",
+            "Answer": "<hammer> is silver and brown."
+        },
+        {
+            "Question": "What shape does <hammer> have?",
+            "Answer": "The <hammer> has a rectangular block shape with a cylindrical handle."
+        },
+        {
+            "Question": "What is the overall vibe of <hammer>?",
+            "Answer": "The overall vibe of the <hammer> is powerful and mythical, resembling Thor's hammer, Mjolnir, with a sturdy and iconic design."
+        },
+        {
+            "Question": "What material is <hammer> made of?",
+            "Answer": "The <hammer> is made of metal."
+        },
+        {
+            "Question": "What size is this <hammer>?",
+            "Answer": "The <hammer> is large, with a thick handle and a substantial head."
+        },
+        {
+            "Question": "Does <hammer> have any patterns or markings?",
+            "Answer": "The <hammer> has a patterned handle with a spiral or twisted design."
+        },
+        {
+            "Question": "What type of <hammer> is this subject?",
+            "Answer": "This <hammer> is a large, square-headed hammer resembling Thor's Mjolnir."
+        },
+        {
+            "Question": "Does <hammer> have any distinctive features or details?",
+            "Answer": "The <hammer> has a distinctive square-shaped head with a metallic finish and a short, textured handle."
+        },
+        {
+            "Question": "What's <hammer> general texture like?",
+            "Answer": "The <hammer> has a smooth, metallic texture with a polished finish."
+        },
+        {
+            "Question": "How would you describe <hammer> overall appearance?",
+            "Answer": "The <hammer> has a large, square-shaped metal head with a short, textured handle."
+        }
+    ],
+    "two_concept/two_concept/concept/train/hammer/7.jpg": [
+        {
+            "Question": "What color is <hammer>?",
+            "Answer": "<hammer> is silver with a brown handle."
+        },
+        {
+            "Question": "What shape does <hammer> have?",
+            "Answer": "<hammer> has a rectangular block shape with a cylindrical handle."
+        },
+        {
+            "Question": "What is the overall vibe of <hammer>?",
+            "Answer": "The overall vibe of the <hammer> is robust and powerful, resembling a mythical or fantasy weapon."
+        },
+        {
+            "Question": "What material is <hammer> made of?",
+            "Answer": "The <hammer> is made of metal."
+        },
+        {
+            "Question": "What size is this <hammer>?",
+            "Answer": "The <hammer> is large, resembling Thor's hammer, Mjolnir, with a substantial head and a relatively short handle."
+        },
+        {
+            "Question": "Does <hammer> have any patterns or markings?",
+            "Answer": "The <hammer> has a circular marking on its head."
+        },
+        {
+            "Question": "What type of <hammer> is this subject?",
+            "Answer": "This is a replica of Thor's hammer, Mjolnir, from Norse mythology and popularized by Marvel comics and movies."
+        },
+        {
+            "Question": "Does <hammer> have any distinctive features or details?",
+            "Answer": "The <hammer> has a large, square-shaped metal head with a circular design on the side and a brown handle with a strap at the end."
+        },
+        {
+            "Question": "What's <hammer> general texture like?",
+            "Answer": "The <hammer> has a smooth and metallic texture."
+        },
+        {
+            "Question": "How would you describe <hammer> overall appearance?",
+            "Answer": "The <hammer> has a large, rectangular metal head with a smooth surface and a long, brown handle with a strap at the end."
+        }
+    ],
+    "two_concept/two_concept/concept/train/hammer/8.png": [
+        {
+            "Question": "What color is <hammer>?",
+            "Answer": "<hammer> is silver with a brown handle."
+        },
+        {
+            "Question": "What shape does <hammer> have?",
+            "Answer": "The <hammer> has a rectangular head with a cylindrical handle."
+        },
+        {
+            "Question": "What is the overall vibe of <hammer>?",
+            "Answer": "The overall vibe of <hammer> is powerful and mythical, resembling Thor's hammer, Mjolnir, with its large, square head and intricately designed handle."
+        },
+        {
+            "Question": "What material is <hammer> made of?",
+            "Answer": "<hammer> is made of metal."
+        },
+        {
+            "Question": "What size is this <hammer>?",
+            "Answer": "The <hammer> is large, resembling Thor's Mjolnir from the Marvel universe."
+        },
+        {
+            "Question": "Does <hammer> have any patterns or markings?",
+            "Answer": "The <hammer> has a spiral pattern on its handle."
+        },
+        {
+            "Question": "What type of <hammer> is this subject?",
+            "Answer": "The <hammer> is a replica of Thor's hammer, Mjolnir, from Norse mythology and Marvel comics."
+        },
+        {
+            "Question": "Does <hammer> have any distinctive features or details?",
+            "Answer": "The <hammer> has a distinctive square head with a metallic finish and a handle wrapped in a spiral pattern."
+        },
+        {
+            "Question": "What's <hammer> general texture like?",
+            "Answer": "The <hammer> has a smooth metal texture with a polished finish on the head and a leather-wrapped handle."
+        },
+        {
+            "Question": "How would you describe <hammer> overall appearance?",
+            "Answer": "The <hammer> has a large, square metallic head with a short handle wrapped in a dark material with a spiral design."
+        }
+    ],
+    "two_concept/two_concept/concept/train/hammer/9.png": [
+        {
+            "Question": "What color is <hammer>?",
+            "Answer": "The <hammer> is silver with a brown handle."
+        },
+        {
+            "Question": "What shape does <hammer> have?",
+            "Answer": "The <hammer> has a rectangular block shape with a short handle."
+        },
+        {
+            "Question": "What is the overall vibe of <hammer>?",
+            "Answer": "The overall vibe of <hammer> is powerful and mythical, resembling Thor's hammer, Mjolnir, with a robust and ornate design."
+        },
+        {
+            "Question": "What material is <hammer> made of?",
+            "Answer": "The <hammer> is made of metal."
+        },
+        {
+            "Question": "What size is this <hammer>?",
+            "Answer": "The <hammer> is large, resembling Thor's hammer, Mjolnir, from the Marvel universe."
+        },
+        {
+            "Question": "Does <hammer> have any patterns or markings?",
+            "Answer": "Yes, <hammer> has intricate patterns and markings on its surface."
+        },
+        {
+            "Question": "What type of <hammer> is this subject?",
+            "Answer": "The <hammer> is a large, square-headed hammer resembling Thor's Mjolnir, with intricate designs on its surface."
+        },
+        {
+            "Question": "Does <hammer> have any distinctive features or details?",
+            "Answer": "The <hammer> has a distinctive square head with intricate patterns and is chained to a pole."
+        },
+        {
+            "Question": "What's <hammer> general texture like?",
+            "Answer": "The general texture of the <hammer> is smooth and metallic."
+        },
+        {
+            "Question": "How would you describe <hammer> overall appearance?",
+            "Answer": "The <hammer> has a large, square-shaped metal head with intricate designs and a short handle wrapped in a chain."
+        }
+    ]
+}

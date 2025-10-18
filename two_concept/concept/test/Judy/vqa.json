@@ -1,0 +1,22 @@
+{
+    "two_concept/concept/test/Judy/0.png": {
+        "Human": "What is <Judy> holding in the image?",
+        "AI": "<Judy> is holding a can of 'Fox Away' spray."
+    },
+    "two_concept/concept/test/Judy/1.png": {
+        "Human": "What is <Judy> holding in her right hand?",
+        "AI": "<Judy> is holding a carrot-shaped object in her right hand."
+    },
+    "two_concept/concept/test/Judy/2.png": {
+        "Human": "What is <Judy> wearing in the image?",
+        "AI": "<Judy> is wearing a pink checkered shirt and a large sun hat."
+    },
+    "two_concept/concept/test/Judy/3.png": {
+        "Human": "What type of clothing is <Judy> wearing in the image?",
+        "AI": "<Judy> is wearing a red checkered shirt."
+    },
+    "two_concept/concept/test/Judy/4.png": {
+        "Human": "What is the expression on <Judy>'s face in the image?",
+        "AI": "<Judy> appears to be looking down with a sad or contemplative expression."
+    }
+}

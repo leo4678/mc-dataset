@@ -1,0 +1,22 @@
+{
+    "three_concept/concept/test/zhangyuge/0.png": {
+        "Human": "What is <zhangyuge> doing in the image? A. Playing an instrument; B. Standing with arms on hips; C. Swimming;",
+        "AI": "B"
+    },
+    "three_concept/concept/test/zhangyuge/1.png": {
+        "Human": "What is <zhangyuge> holding in the image? A. A book; B. A clipboard; C. A painting;",
+        "AI": "B"
+    },
+    "three_concept/concept/test/zhangyuge/2.png": {
+        "Human": "What is <zhangyuge> sitting on in the image? A. A cloud; B. A chair; C. A rock;",
+        "AI": "A"
+    },
+    "three_concept/concept/test/zhangyuge/3.png": {
+        "Human": "What is the expression on <zhangyuge>'s face? A. Happy; B. Bored; C. Surprised;",
+        "AI": "B"
+    },
+    "three_concept/concept/test/zhangyuge/4.png": {
+        "Human": "What color is <zhangyuge>'s shirt? A. Blue; B. Brown; C. Red;",
+        "AI": "B"
+    }
+}

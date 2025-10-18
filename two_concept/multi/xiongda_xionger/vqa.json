@@ -1,0 +1,72 @@
+{
+    "two_concept/multi/xiongda_xionger/0.png": [
+        {
+            "Human": "What is <xiongda> doing in the image?",
+            "AI": "<xiongda> is standing with his arm around another character."
+        },
+        {
+            "Human": "What is <xionger> doing in the image?",
+            "AI": "<xionger> is standing with his arm around a friend."
+        },
+        {
+            "Human": "What are <xiongda> and <xionger> doing in the image?",
+            "AI": "<xiongda> and <xionger> are standing close together with their arms around each other."
+        }
+    ],
+    "two_concept/multi/xiongda_xionger/1.png": [
+        {
+            "Human": "What is <xiongda> doing in the image?",
+            "AI": "<xiongda> is standing in a forest."
+        },
+        {
+            "Human": "What is <xionger> holding in the image?",
+            "AI": "<xionger> is holding a pot."
+        },
+        {
+            "Human": "What is <xionger> holding in the image?",
+            "AI": "<xionger> is holding a pot in the image."
+        }
+    ],
+    "two_concept/multi/xiongda_xionger/2.png": [
+        {
+            "Human": "What is <xiongda> doing in the image?",
+            "AI": "<xiongda> is standing in a forested area."
+        },
+        {
+            "Human": "What is <xionger> doing in the image?",
+            "AI": "<xionger> is standing near a tree and appears to be looking at something on the ground."
+        },
+        {
+            "Human": "What are <xiongda> and <xionger> doing in the image?",
+            "AI": "<xiongda> is standing in front of a tree, while <xionger> is bending down near the tree."
+        }
+    ],
+    "two_concept/multi/xiongda_xionger/3.png": [
+        {
+            "Human": "What is <xiongda> holding in the image?",
+            "AI": "<xiongda> is holding a frying pan."
+        },
+        {
+            "Human": "What is <xionger> holding in the image?",
+            "AI": "<xionger> is holding a bunch of leaves."
+        },
+        {
+            "Human": "What are <xiongda> and <xionger> holding in the image?",
+            "AI": "<xiongda> is holding a frying pan, and <xionger> is holding a bunch of leaves."
+        }
+    ],
+    "two_concept/multi/xiongda_xionger/4.png": [
+        {
+            "Human": "What is <xiongda> doing in the image?",
+            "AI": "<xiongda> is standing and appears to be interacting with the other bear."
+        },
+        {
+            "Human": "What is <xionger> holding in the image?",
+            "AI": "<xionger> is holding a beehive in the image."
+        },
+        {
+            "Human": "What is <xionger> holding in the image?",
+            "AI": "<xionger> is holding a stack of pancakes."
+        }
+    ]
+}

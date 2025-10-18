@@ -1,0 +1,152 @@
+{
+    "three_concept/multi/LiKe_LeiGu_NaNaQi/0.png": [
+        {
+            "Human": "What is <LiKe> wearing in the image?",
+            "AI": "<LiKe> is wearing glasses and a brown outfit with a hat."
+        },
+        {
+            "Human": "What is <LeiGu> wearing in the image?",
+            "AI": "<LeiGu> is wearing a blue helmet and a sleeveless outfit."
+        },
+        {
+            "Human": "What is <NaNaQi> wearing in the image?",
+            "AI": "<NaNaQi> is wearing a hat with long ears and a colorful outfit."
+        },
+        {
+            "Human": "What are <LiKe> and <LeiGu> wearing in the image?",
+            "AI": "<LiKe> is wearing glasses and a brown outfit with a hat, while <LeiGu> is wearing a blue helmet and a colorful outfit."
+        },
+        {
+            "Human": "What are <LiKe> and <NaNaQi> wearing in the image?",
+            "AI": "<LiKe> is wearing glasses and a brown outfit with a hat, while <NaNaQi> is wearing a pink and white outfit with a hat that has long ears."
+        },
+        {
+            "Human": "What kind of headwear is <NaNaQi> wearing in the image?",
+            "AI": "<NaNaQi> is wearing a hat with long ears."
+        },
+        {
+            "Human": "What are <LiKe> and <NaNaQi> wearing in the image?",
+            "AI": "<LiKe> is wearing glasses and a brown outfit with a hat, while <NaNaQi> is wearing a pink and white outfit with a hat that has long ears."
+        }
+    ],
+    "three_concept/multi/LiKe_LeiGu_NaNaQi/1.png": [
+        {
+            "Human": "What is <LiKe> wearing on their head in the image?",
+            "AI": "<LiKe> is wearing a hat with a small creature on top."
+        },
+        {
+            "Human": "What is <LeiGu> wearing in the image?",
+            "AI": "<LeiGu> is wearing a blue hat and a red cape."
+        },
+        {
+            "Human": "What is <NaNaQi> wearing on their head in the image?",
+            "AI": "<NaNaQi> is wearing a hat with long ears on their head."
+        },
+        {
+            "Human": "What are <LiKe> and <LeiGu> looking at in the image?",
+            "AI": "<LiKe> and <LeiGu> are looking upwards with expressions of surprise."
+        },
+        {
+            "Human": "What are <LiKe> and <NaNaQi> wearing on their heads?",
+            "AI": "<LiKe> is wearing a hat with goggles, and <NaNaQi> has a hat with long ears."
+        },
+        {
+            "Human": "What are <LeiGu> and <NaNaQi> wearing on their heads?",
+            "AI": "<LeiGu> is wearing a blue hat, and <NaNaQi> has a pink hat with long ears."
+        },
+        {
+            "Human": "What expressions do <LiKe>, <LeiGu>, and <NaNaQi> have in the image?",
+            "AI": "<LiKe> looks surprised, <LeiGu> appears curious, and <NaNaQi> seems calm."
+        }
+    ],
+    "three_concept/multi/LiKe_LeiGu_NaNaQi/2.png": [
+        {
+            "Human": "What is <LiKe> wearing in the image?",
+            "AI": "<LiKe> is wearing glasses and a hat."
+        },
+        {
+            "Human": "What is <LeiGu> wearing on their head in the image?",
+            "AI": "<LeiGu> is wearing a helmet with goggles on their head."
+        },
+        {
+            "Human": "What is <NaNaQi> looking at in the image?",
+            "AI": "<NaNaQi> is looking at an object in front of them."
+        },
+        {
+            "Human": "What are <LiKe> and <LeiGu> looking at in the image?",
+            "AI": "<LiKe> and <LeiGu> are looking at an object in front of them."
+        },
+        {
+            "Human": "What are <LiKe> and <NaNaQi> looking at in the image?",
+            "AI": "<LiKe> and <NaNaQi> are looking at an object in front of them."
+        },
+        {
+            "Human": "What are <LeiGu> and <NaNaQi> looking at in the image?",
+            "AI": "<LeiGu> and <NaNaQi> are looking at an object in front of them."
+        },
+        {
+            "Human": "What are <LiKe>, <LeiGu>, and <NaNaQi> looking at in the image?",
+            "AI": "<LiKe>, <LeiGu>, and <NaNaQi> are looking at an object in front of them."
+        }
+    ],
+    "three_concept/multi/LiKe_LeiGu_NaNaQi/3.png": [
+        {
+            "Human": "What is <LiKe> wearing in the image?",
+            "AI": "<LiKe> is wearing a yellow hat and glasses with a brown outfit."
+        },
+        {
+            "Human": "What is <LeiGu> wearing in the image?",
+            "AI": "<LeiGu> is wearing a blue hat and a backpack."
+        },
+        {
+            "Human": "What is <NaNaQi> wearing on their head in the image?",
+            "AI": "<NaNaQi> is wearing a hat with long ears on their head."
+        },
+        {
+            "Human": "What kind of expressions do <LiKe> and <LeiGu> have in the image?",
+            "AI": "<LiKe> looks excited, while <LeiGu> appears calm."
+        },
+        {
+            "Human": "What are <LiKe> and <NaNaQi> wearing in the image?",
+            "AI": "<LiKe> is wearing a yellow hat and glasses, while <NaNaQi> has a helmet with long ears."
+        },
+        {
+            "Human": "What kind of expressions do <LeiGu> and <NaNaQi> have in the image?",
+            "AI": "<LeiGu> looks curious while <NaNaQi> appears calm."
+        },
+        {
+            "Human": "What are <LiKe>, <LeiGu>, and <NaNaQi> doing in the image?",
+            "AI": "<LiKe>, <LeiGu>, and <NaNaQi> are standing together, looking ahead with expressions of surprise or curiosity."
+        }
+    ],
+    "three_concept/multi/LiKe_LeiGu_NaNaQi/4.png": [
+        {
+            "Human": "What is <LiKe> doing in the image?",
+            "AI": "<LiKe> is looking up and shielding their eyes with a hand."
+        },
+        {
+            "Human": "What is <LeiGu> looking at in the image?",
+            "AI": "<LeiGu> is looking up at the sky."
+        },
+        {
+            "Human": "What is <NaNaQi> doing in the image?",
+            "AI": "<NaNaQi> is looking up at the sky with a curious expression."
+        },
+        {
+            "Human": "What are <LiKe> and <LeiGu> looking at in the image?",
+            "AI": "<LiKe> and <LeiGu> are looking up at the sky."
+        },
+        {
+            "Human": "What are <LiKe> and <NaNaQi> looking at in the image?",
+            "AI": "<LiKe> and <NaNaQi> are looking up at the sky."
+        },
+        {
+            "Human": "What are <LeiGu> and <NaNaQi> looking at in the image?",
+            "AI": "<LeiGu> and <NaNaQi> are looking up at the sky."
+        },
+        {
+            "Human": "What are <LiKe>, <LeiGu>, and <NaNaQi> looking at in the image?",
+            "AI": "<LiKe>, <LeiGu>, and <NaNaQi> are looking up at the sky."
+        }
+    ]
+}

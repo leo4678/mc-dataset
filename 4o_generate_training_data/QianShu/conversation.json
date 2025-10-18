@@ -1,0 +1,418 @@
+{
+    "two_concept/concept/train/QianShu/0.png": [
+        {
+            "Question": "What is <QianShu> hair color?",
+            "Answer": "<QianShu>'s hair color is blonde."
+        },
+        {
+            "Question": "What color are <QianShu> eyes?",
+            "Answer": "I cannot determine the color of <QianShu>'s eyes from the image provided."
+        },
+        {
+            "Question": "Would you describe <QianShu>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<QianShu>'s physique can be described as slim."
+        },
+        {
+            "Question": "What is <QianShu> skin tone?",
+            "Answer": "<QianShu>'s skin tone is light."
+        },
+        {
+            "Question": "How would you describe <QianShu> hairstyle?",
+            "Answer": "<QianShu>'s hairstyle is a short, straight bob with a side part and two small braids on each side."
+        },
+        {
+            "Question": "Does <QianShu> wear glasses or any accessories?",
+            "Answer": "<QianShu> is wearing a black choker as an accessory."
+        },
+        {
+            "Question": "How would you describe <QianShu>'s attire?",
+            "Answer": "<QianShu> is wearing a red halter-neck top with a black choker."
+        },
+        {
+            "Question": "Does <QianShu> have any distinctive facial features?",
+            "Answer": "I cannot determine any distinctive facial features of <QianShu> from the image provided."
+        },
+        {
+            "Question": "What is <QianShu> overall build or physique?",
+            "Answer": "<QianShu> has a slender build."
+        },
+        {
+            "Question": "What is <QianShu> general expression or demeanor?",
+            "Answer": "<QianShu> has a calm and composed demeanor."
+        }
+    ],
+    "two_concept/concept/train/QianShu/1.png": [
+        {
+            "Question": "What is <QianShu> hair color?",
+            "Answer": "<QianShu>'s hair color is blonde."
+        },
+        {
+            "Question": "Would you describe <QianShu>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<QianShu>'s physique appears to be slim."
+        },
+        {
+            "Question": "What is <QianShu> skin tone?",
+            "Answer": "<QianShu>'s skin tone is light brown."
+        },
+        {
+            "Question": "How would you describe <QianShu> hairstyle?",
+            "Answer": "<QianShu>'s hairstyle is a short, straight bob with a hair clip on the right side."
+        },
+        {
+            "Question": "Does <QianShu> wear glasses or any accessories?",
+            "Answer": "<QianShu> is wearing a hair clip as an accessory."
+        },
+        {
+            "Question": "How would you describe <QianShu>'s attire?",
+            "Answer": "<QianShu> is wearing a light-colored jacket over a white shirt with the word \"Love\" written on it."
+        },
+        {
+            "Question": "Does <QianShu> have any distinctive facial features?",
+            "Answer": "I cannot determine any distinctive facial features of <QianShu> from the image provided."
+        },
+        {
+            "Question": "What is <QianShu> overall build or physique?",
+            "Answer": "<QianShu> has a slender build."
+        },
+        {
+            "Question": "What is <QianShu> general expression or demeanor?",
+            "Answer": "<QianShu> has a relaxed and casual demeanor, indicated by their light-colored clothing and the gentle, warm background."
+        }
+    ],
+    "two_concept/concept/train/QianShu/2.png": [
+        {
+            "Question": "What is <QianShu> hair color?",
+            "Answer": "<QianShu>'s hair color is light blonde."
+        },
+        {
+            "Question": "What color are <QianShu> eyes?",
+            "Answer": "I cannot determine the color of <QianShu>'s eyes from the image."
+        },
+        {
+            "Question": "Would you describe <QianShu>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<QianShu>'s physique can be described as slim."
+        },
+        {
+            "Question": "What is <QianShu> skin tone?",
+            "Answer": "<QianShu>'s skin tone is light."
+        },
+        {
+            "Question": "How would you describe <QianShu> hairstyle?",
+            "Answer": "<QianShu>'s hairstyle is a short, straight bob with blunt bangs."
+        },
+        {
+            "Question": "Does <QianShu> wear glasses or any accessories?",
+            "Answer": "<QianShu> is wearing a decorative hair accessory."
+        },
+        {
+            "Question": "How would you describe <QianShu>'s attire?",
+            "Answer": "<QianShu> is wearing a traditional kimono with a floral pattern and a colorful obi belt. The kimono has wide sleeves and a light, elegant design."
+        },
+        {
+            "Question": "Does <QianShu> have any distinctive facial features?",
+            "Answer": "I cannot determine any distinctive facial features of <QianShu> from the image."
+        },
+        {
+            "Question": "What is <QianShu> overall build or physique?",
+            "Answer": "<QianShu> has a slender and petite build."
+        },
+        {
+            "Question": "What is <QianShu> general expression or demeanor?",
+            "Answer": "<QianShu> has a calm and elegant demeanor, as suggested by the traditional attire and poised posture."
+        }
+    ],
+    "two_concept/concept/train/QianShu/3.png": [
+        {
+            "Question": "What is <QianShu> hair color?",
+            "Answer": "<QianShu>'s hair color is blonde."
+        },
+        {
+            "Question": "What color are <QianShu> eyes?",
+            "Answer": "<QianShu>'s eyes are red."
+        },
+        {
+            "Question": "Would you describe <QianShu>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<QianShu>'s physique is slim."
+        },
+        {
+            "Question": "What is <QianShu> skin tone?",
+            "Answer": "<QianShu> has a fair skin tone."
+        },
+        {
+            "Question": "How would you describe <QianShu> hairstyle?",
+            "Answer": "<QianShu>'s hairstyle is a short, blonde bob with straight bangs. She has a red hair clip on the left side, adding a touch of color and style."
+        },
+        {
+            "Question": "Does <QianShu> wear glasses or any accessories?",
+            "Answer": "<QianShu> is wearing red hair clips and red earrings. She is not wearing glasses."
+        },
+        {
+            "Question": "How would you describe <QianShu>'s attire?",
+            "Answer": "<QianShu> is wearing a sleeveless black top."
+        },
+        {
+            "Question": "Does <QianShu> have any distinctive facial features?",
+            "Answer": "<QianShu> has large, expressive eyes and a small, delicate nose."
+        },
+        {
+            "Question": "What is <QianShu> overall build or physique?",
+            "Answer": "<QianShu> has a slender and petite build."
+        },
+        {
+            "Question": "What is <QianShu> general expression or demeanor?",
+            "Answer": "<QianShu> has a cheerful and friendly expression."
+        }
+    ],
+    "two_concept/concept/train/QianShu/4.png": [
+        {
+            "Question": "What is <QianShu> hair color?",
+            "Answer": "<QianShu>'s hair color is white."
+        },
+        {
+            "Question": "What color are <QianShu> eyes?",
+            "Answer": "I cannot determine the color of <QianShu>'s eyes from the provided image."
+        },
+        {
+            "Question": "Would you describe <QianShu>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<QianShu>'s physique appears to be slim."
+        },
+        {
+            "Question": "What is <QianShu> skin tone?",
+            "Answer": "<QianShu>'s skin tone is light."
+        },
+        {
+            "Question": "How would you describe <QianShu> hairstyle?",
+            "Answer": "<QianShu>'s hairstyle is a short, straight bob with bangs. The hair is light-colored and neatly cut, with a ribbon accessory on the right side."
+        },
+        {
+            "Question": "Does <QianShu> wear glasses or any accessories?",
+            "Answer": "<QianShu> is wearing a red ribbon in their hair."
+        },
+        {
+            "Question": "How would you describe <QianShu>'s attire?",
+            "Answer": "<QianShu> is wearing a brown outfit with a white collar and a dark bow at the neck."
+        },
+        {
+            "Question": "Does <QianShu> have any distinctive facial features?",
+            "Answer": "<QianShu> has white hair styled in a bob cut with straight bangs."
+        },
+        {
+            "Question": "What is <QianShu> overall build or physique?",
+            "Answer": "<QianShu> has a slender build."
+        },
+        {
+            "Question": "What is <QianShu> general expression or demeanor?",
+            "Answer": "<QianShu> has a calm and composed demeanor."
+        }
+    ],
+    "two_concept/concept/train/QianShu/5.png": [
+        {
+            "Question": "What is <QianShu> hair color?",
+            "Answer": "<QianShu>'s hair color is white."
+        },
+        {
+            "Question": "What color are <QianShu> eyes?",
+            "Answer": "<QianShu>'s eyes are orange."
+        },
+        {
+            "Question": "Would you describe <QianShu>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<QianShu>'s physique appears slim."
+        },
+        {
+            "Question": "What is <QianShu> skin tone?",
+            "Answer": "<QianShu>'s skin tone is fair."
+        },
+        {
+            "Question": "How would you describe <QianShu> hairstyle?",
+            "Answer": "<QianShu>'s hairstyle is short, with a slightly messy and layered look. The hair is white and features a red ribbon tied on the right side."
+        },
+        {
+            "Question": "Does <QianShu> wear glasses or any accessories?",
+            "Answer": "<QianShu> is wearing yellow-tinted glasses and has a red ribbon in their hair."
+        },
+        {
+            "Question": "How would you describe <QianShu>'s attire?",
+            "Answer": "<QianShu> is wearing a red outfit with a white collar and a blue tie. She also has yellow-tinted goggles on her face and a red ribbon in her hair."
+        },
+        {
+            "Question": "Does <QianShu> have any distinctive facial features?",
+            "Answer": "<QianShu> has large, expressive eyes and wears yellow-tinted glasses."
+        },
+        {
+            "Question": "What is <QianShu> overall build or physique?",
+            "Answer": "<QianShu> has a slender and petite build."
+        },
+        {
+            "Question": "What is <QianShu> general expression or demeanor?",
+            "Answer": "<QianShu> has a curious and slightly surprised expression."
+        }
+    ],
+    "two_concept/concept/train/QianShu/6.png": [
+        {
+            "Question": "What is <QianShu> hair color?",
+            "Answer": "<QianShu>'s hair color is white."
+        },
+        {
+            "Question": "What color are <QianShu> eyes?",
+            "Answer": "I cannot determine the color of <QianShu>'s eyes from the image provided."
+        },
+        {
+            "Question": "Would you describe <QianShu>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<QianShu>'s physique appears to be slim."
+        },
+        {
+            "Question": "What is <QianShu> skin tone?",
+            "Answer": "<QianShu>'s skin tone is light."
+        },
+        {
+            "Question": "How would you describe <QianShu> hairstyle?",
+            "Answer": "<QianShu>'s hairstyle is short, straight, and light-colored, adorned with a red ribbon."
+        },
+        {
+            "Question": "Does <QianShu> wear glasses or any accessories?",
+            "Answer": "<QianShu> is wearing a red ribbon in their hair. They are not wearing glasses."
+        },
+        {
+            "Question": "How would you describe <QianShu>'s attire?",
+            "Answer": "<QianShu> is wearing a red kimono with a dark sash and a red ribbon in their hair."
+        },
+        {
+            "Question": "Does <QianShu> have any distinctive facial features?",
+            "Answer": "I cannot determine any distinctive facial features for <QianShu> based on the provided image."
+        },
+        {
+            "Question": "What is <QianShu> overall build or physique?",
+            "Answer": "<QianShu> has a slender build."
+        },
+        {
+            "Question": "What is <QianShu> general expression or demeanor?",
+            "Answer": "<QianShu> has a confident and triumphant demeanor, with one arm raised in a fist."
+        }
+    ],
+    "two_concept/concept/train/QianShu/7.png": [
+        {
+            "Question": "What is <QianShu> hair color?",
+            "Answer": "<QianShu>'s hair color is blonde."
+        },
+        {
+            "Question": "What color are <QianShu> eyes?",
+            "Answer": "<QianShu>'s eyes are dark."
+        },
+        {
+            "Question": "Would you describe <QianShu>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<QianShu>'s physique appears to be slim."
+        },
+        {
+            "Question": "What is <QianShu> skin tone?",
+            "Answer": "<QianShu>'s skin tone is light."
+        },
+        {
+            "Question": "How would you describe <QianShu> hairstyle?",
+            "Answer": "<QianShu>'s hairstyle is a short, straight bob with a side part and a red ribbon accessory."
+        },
+        {
+            "Question": "Does <QianShu> wear glasses or any accessories?",
+            "Answer": "<QianShu> wears a red ribbon in their hair."
+        },
+        {
+            "Question": "How would you describe <QianShu>'s attire?",
+            "Answer": "<QianShu> is wearing a red outfit with a white collar and a blue bow tie."
+        },
+        {
+            "Question": "Does <QianShu> have any distinctive facial features?",
+            "Answer": "<QianShu> has light blonde hair styled in a bob cut with a red ribbon accessory."
+        },
+        {
+            "Question": "What is <QianShu> overall build or physique?",
+            "Answer": "<QianShu> has a slender build."
+        },
+        {
+            "Question": "What is <QianShu> general expression or demeanor?",
+            "Answer": "<QianShu> has a calm and composed demeanor."
+        }
+    ],
+    "two_concept/concept/train/QianShu/8.png": [
+        {
+            "Question": "What is <QianShu> hair color?",
+            "Answer": "<QianShu>'s hair color is blonde."
+        },
+        {
+            "Question": "What color are <QianShu> eyes?",
+            "Answer": "<QianShu>'s eyes are red."
+        },
+        {
+            "Question": "Would you describe <QianShu>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<QianShu>'s physique can be described as slim."
+        },
+        {
+            "Question": "What is <QianShu> skin tone?",
+            "Answer": "<QianShu> has a fair skin tone."
+        },
+        {
+            "Question": "How would you describe <QianShu> hairstyle?",
+            "Answer": "<QianShu>'s hairstyle is a short, blonde bob with straight bangs and a red ribbon tied on the side."
+        },
+        {
+            "Question": "Does <QianShu> wear glasses or any accessories?",
+            "Answer": "<QianShu> does not wear glasses but has a red ribbon in her hair."
+        },
+        {
+            "Question": "How would you describe <QianShu>'s attire?",
+            "Answer": "<QianShu> is wearing a red coat with gold buttons and a belt at the waist. The coat has a high collar and is paired with a grey skirt. She also has a blue scarf around her neck and a red ribbon in her hair."
+        },
+        {
+            "Question": "Does <QianShu> have any distinctive facial features?",
+            "Answer": "<QianShu> has large, expressive eyes and a gentle smile."
+        },
+        {
+            "Question": "What is <QianShu> overall build or physique?",
+            "Answer": "<QianShu> has a slender and petite build."
+        },
+        {
+            "Question": "What is <QianShu> general expression or demeanor?",
+            "Answer": "<QianShu> has a cheerful and confident expression."
+        }
+    ],
+    "two_concept/concept/train/QianShu/9.png": [
+        {
+            "Question": "What is <QianShu> hair color?",
+            "Answer": "<QianShu>'s hair color is white."
+        },
+        {
+            "Question": "What color are <QianShu> eyes?",
+            "Answer": "I cannot determine the color of <QianShu>'s eyes from the given image."
+        },
+        {
+            "Question": "Would you describe <QianShu>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<QianShu>'s physique appears to be slim."
+        },
+        {
+            "Question": "What is <QianShu> skin tone?",
+            "Answer": "<QianShu>'s skin tone is light."
+        },
+        {
+            "Question": "How would you describe <QianShu> hairstyle?",
+            "Answer": "<QianShu>'s hairstyle is a short, straight bob with blunt ends."
+        },
+        {
+            "Question": "Does <QianShu> wear glasses or any accessories?",
+            "Answer": "<QianShu> wears a red hair accessory."
+        },
+        {
+            "Question": "How would you describe <QianShu>'s attire?",
+            "Answer": "<QianShu> is wearing a red outfit with a white collar and a blue tie."
+        },
+        {
+            "Question": "Does <QianShu> have any distinctive facial features?",
+            "Answer": "I cannot determine any distinctive facial features of <QianShu> from the image provided."
+        },
+        {
+            "Question": "What is <QianShu> overall build or physique?",
+            "Answer": "<QianShu> has a slender build."
+        },
+        {
+            "Question": "What is <QianShu> general expression or demeanor?",
+            "Answer": "<QianShu> has a neat and tidy appearance, with a short, white bob haircut and a red hair accessory, suggesting a composed and orderly demeanor."
+        }
+    ]
+}

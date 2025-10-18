@@ -1,0 +1,22 @@
+{
+    "0.jpg": {
+        "<tangmu>": "right",
+        "<jierui>": "left"
+    },
+    "1.jpg": {
+        "<tangmu>": "left",
+        "<jierui>": "right"
+    },
+    "2.jpg": {
+        "<tangmu>": "left",
+        "<jierui>": "right"
+    },
+    "3.jpg": {
+        "<tangmu>": "left",
+        "<jierui>": "right"
+    },
+    "4.jpg": {
+        "<tangmu>": "left",
+        "<jierui>": "right"
+    }
+}

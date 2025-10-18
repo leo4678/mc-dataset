@@ -1,0 +1,22 @@
+{
+    "three_concept/concept/test/Xing/0.png": {
+        "Human": "What is the color of the shirt <Xing> is wearing?",
+        "AI": "<Xing> is wearing a red and white shirt."
+    },
+    "three_concept/concept/test/Xing/1.png": {
+        "Human": "What is the hairstyle of <Xing> in the image?",
+        "AI": "<Xing> has short, spiky hair in the image."
+    },
+    "three_concept/concept/test/Xing/2.png": {
+        "Human": "What is in the background of the image featuring <Xing>?",
+        "AI": "The background of the image featuring <Xing> includes a poster or picture with people in it."
+    },
+    "three_concept/concept/test/Xing/3.png": {
+        "Human": "What hairstyle does <Xing> have in the image?",
+        "AI": "<Xing> has a spiky hairstyle in the image."
+    },
+    "three_concept/concept/test/Xing/4.png": {
+        "Human": "What color is <Xing>'s shirt in the image?",
+        "AI": "<Xing> is wearing a yellow shirt in the image."
+    }
+}

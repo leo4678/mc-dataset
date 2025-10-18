@@ -1,0 +1,22 @@
+{
+    "three_concept/concept/test/Xue/0.png": {
+        "Human": "What is the hairstyle of <Xue> in the image?",
+        "AI": "<Xue> has sleek, straight black hair that is pulled back."
+    },
+    "three_concept/concept/test/Xue/1.png": {
+        "Human": "What is <Xue> wearing in the image?",
+        "AI": "<Xue> is wearing a pink top with white lace details."
+    },
+    "three_concept/concept/test/Xue/2.png": {
+        "Human": "What is the hairstyle of <Xue> in the image?",
+        "AI": "<Xue> has a sleek, pulled-back hairstyle."
+    },
+    "three_concept/concept/test/Xue/3.png": {
+        "Human": "What is <Xue> wearing in the image?",
+        "AI": "<Xue> is wearing a white tank top with orange trim."
+    },
+    "three_concept/concept/test/Xue/4.png": {
+        "Human": "What is <Xue> wearing in the image?",
+        "AI": "<Xue> is wearing a white top with a black trim."
+    }
+}

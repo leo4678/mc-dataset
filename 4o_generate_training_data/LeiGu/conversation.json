@@ -1,0 +1,422 @@
+{
+    "three_concept/concept/train/LeiGu/0.png": [
+        {
+            "Question": "What is <LeiGu> hair color?",
+            "Answer": "\"<LeiGu>'s hair color is dark brown.\""
+        },
+        {
+            "Question": "What color are <LeiGu> eyes?",
+            "Answer": "<LeiGu>'s eyes are brown."
+        },
+        {
+            "Question": "Would you describe <LeiGu>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<LeiGu>'s physique is slim."
+        },
+        {
+            "Question": "What is <LeiGu> skin tone?",
+            "Answer": "I can't determine the skin tone of <LeiGu> from the image."
+        },
+        {
+            "Question": "How would you describe <LeiGu> hairstyle?",
+            "Answer": "<LeiGu>'s hairstyle is short and slightly messy, with bangs covering the forehead."
+        },
+        {
+            "Question": "Does <LeiGu> wear glasses or any accessories?",
+            "Answer": "<LeiGu> is wearing a helmet with goggles on it."
+        },
+        {
+            "Question": "How would you describe <LeiGu>'s attire?",
+            "Answer": "<LeiGu> is wearing a helmet with goggles, a red cape, and gloves."
+        },
+        {
+            "Question": "Does <LeiGu> have any distinctive facial features?",
+            "Answer": "<LeiGu> has a bandage on their cheek."
+        },
+        {
+            "Question": "What is <LeiGu> overall build or physique?",
+            "Answer": "<LeiGu> has a small and youthful build."
+        },
+        {
+            "Question": "What is <LeiGu> general expression or demeanor?",
+            "Answer": "<LeiGu> has a curious and adventurous expression."
+        }
+    ],
+    "three_concept/concept/train/LeiGu/1.png": [
+        {
+            "Question": "What is <LeiGu> hair color?",
+            "Answer": "\"<LeiGu>'s hair color is brown.\""
+        },
+        {
+            "Question": "What color are <LeiGu> eyes?",
+            "Answer": "\"<LeiGu>'s eyes are yellow.\""
+        },
+        {
+            "Question": "Would you describe <LeiGu>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<LeiGu>'s physique is slim."
+        },
+        {
+            "Question": "What is <LeiGu> skin tone?",
+            "Answer": "<LeiGu>'s skin tone is light."
+        },
+        {
+            "Question": "How would you describe <LeiGu> hairstyle?",
+            "Answer": "<LeiGu>'s hairstyle is short and slightly messy, with bangs covering the forehead."
+        },
+        {
+            "Question": "Does <LeiGu> wear glasses or any accessories?",
+            "Answer": "<LeiGu> is wearing a helmet with goggles on it."
+        },
+        {
+            "Question": "How would you describe <LeiGu>'s attire?",
+            "Answer": "<LeiGu> is wearing a dark helmet with goggles, a brown jacket, and a red shirt underneath."
+        },
+        {
+            "Question": "Does <LeiGu> have any distinctive facial features?",
+            "Answer": "<LeiGu> has distinctive yellow eyes and red marks on the cheeks."
+        },
+        {
+            "Question": "What is <LeiGu> overall build or physique?",
+            "Answer": "<LeiGu> has a small and childlike build."
+        },
+        {
+            "Question": "What is <LeiGu> general expression or demeanor?",
+            "Answer": "<LeiGu> has a curious and slightly surprised expression."
+        }
+    ],
+    "three_concept/concept/train/LeiGu/2.png": [
+        {
+            "Question": "What is <LeiGu> hair color?",
+            "Answer": "<LeiGu>'s hair color is dark brown."
+        },
+        {
+            "Question": "What color are <LeiGu> eyes?",
+            "Answer": "<LeiGu>'s eyes are green."
+        },
+        {
+            "Question": "Would you describe <LeiGu>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<LeiGu>'s physique appears slim."
+        },
+        {
+            "Question": "What is <LeiGu> skin tone?",
+            "Answer": "<LeiGu>'s skin tone is light."
+        },
+        {
+            "Question": "How would you describe <LeiGu> hairstyle?",
+            "Answer": "<LeiGu>'s hairstyle is short with bangs covering the forehead and sides, and it has a slightly messy appearance."
+        },
+        {
+            "Question": "Does <LeiGu> wear glasses or any accessories?",
+            "Answer": "<LeiGu> is wearing a headband with white decorations. No glasses are present."
+        },
+        {
+            "Question": "How would you describe <LeiGu>'s attire?",
+            "Answer": "<LeiGu> is not wearing any visible attire, only a headband with white decorations."
+        },
+        {
+            "Question": "Does <LeiGu> have any distinctive facial features?",
+            "Answer": "<LeiGu> has large eyes and a small mouth, with a flushed expression and tears in their eyes."
+        },
+        {
+            "Question": "What is <LeiGu> overall build or physique?",
+            "Answer": "<LeiGu> has a small and childlike build."
+        },
+        {
+            "Question": "What is <LeiGu> general expression or demeanor?",
+            "Answer": "<LeiGu> appears to be upset or distressed, with tears in their eyes and a tense expression."
+        }
+    ],
+    "three_concept/concept/train/LeiGu/3.png": [
+        {
+            "Question": "What is <LeiGu> hair color?",
+            "Answer": "<LeiGu>'s hair color is dark brown."
+        },
+        {
+            "Question": "What color are <LeiGu> eyes?",
+            "Answer": "<LeiGu>'s eyes are yellow."
+        },
+        {
+            "Question": "Would you describe <LeiGu>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<LeiGu>'s physique appears slim."
+        },
+        {
+            "Question": "What is <LeiGu> skin tone?",
+            "Answer": "<LeiGu>'s skin tone is tan."
+        },
+        {
+            "Question": "How would you describe <LeiGu> hairstyle?",
+            "Answer": "<LeiGu> has short, spiky hair with bangs that frame the face."
+        },
+        {
+            "Question": "Does <LeiGu> wear glasses or any accessories?",
+            "Answer": "<LeiGu> is not wearing glasses or any accessories."
+        },
+        {
+            "Question": "How would you describe <LeiGu>'s attire?",
+            "Answer": "<LeiGu> is wearing a gray outfit with dark patches and a collar."
+        },
+        {
+            "Question": "Does <LeiGu> have any distinctive facial features?",
+            "Answer": "<LeiGu> has large, expressive eyes and two rectangular markings on the cheeks."
+        },
+        {
+            "Question": "What is <LeiGu> overall build or physique?",
+            "Answer": "<LeiGu> has a small and slender build."
+        },
+        {
+            "Question": "What is <LeiGu> general expression or demeanor?",
+            "Answer": "<LeiGu> has a surprised or curious expression."
+        }
+    ],
+    "three_concept/concept/train/LeiGu/4.png": [
+        {
+            "Question": "What is <LeiGu> hair color?",
+            "Answer": "<LeiGu>'s hair color is brown."
+        },
+        {
+            "Question": "What color are <LeiGu> eyes?",
+            "Answer": "\"<LeiGu>'s eyes are yellow.\""
+        },
+        {
+            "Question": "Would you describe <LeiGu>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<LeiGu>'s physique appears slim."
+        },
+        {
+            "Question": "What is <LeiGu> skin tone?",
+            "Answer": "<LeiGu>'s skin tone is light brown."
+        },
+        {
+            "Question": "How would you describe <LeiGu> hairstyle?",
+            "Answer": "<LeiGu>'s hairstyle is short and slightly messy, with bangs that fall over the forehead."
+        },
+        {
+            "Question": "Does <LeiGu> wear glasses or any accessories?",
+            "Answer": "<LeiGu> is wearing a hat with a large lens attached to it."
+        },
+        {
+            "Question": "How would you describe <LeiGu>'s attire?",
+            "Answer": "<LeiGu> is wearing a red jacket with a high collar and a black hat with a large goggle on it."
+        },
+        {
+            "Question": "Does <LeiGu> have any distinctive facial features?",
+            "Answer": "<LeiGu> has distinctive facial markings on both cheeks."
+        },
+        {
+            "Question": "What is <LeiGu> overall build or physique?",
+            "Answer": "<LeiGu> has a small and childlike build."
+        },
+        {
+            "Question": "What is <LeiGu> general expression or demeanor?",
+            "Answer": "<LeiGu> has a calm and content expression."
+        }
+    ],
+    "three_concept/concept/train/LeiGu/5.png": [
+        {
+            "Question": "What is <LeiGu> hair color?",
+            "Answer": "<LeiGu>'s hair color is brown."
+        },
+        {
+            "Question": "What color are <LeiGu> eyes?",
+            "Answer": "<LeiGu>'s eyes are yellow."
+        },
+        {
+            "Question": "Would you describe <LeiGu>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<LeiGu>'s physique appears slim."
+        },
+        {
+            "Question": "What is <LeiGu> skin tone?",
+            "Answer": "I can't determine the skin tone of <LeiGu> from the image."
+        },
+        {
+            "Question": "How would you describe <LeiGu> hairstyle?",
+            "Answer": "<LeiGu> has short, straight hair with bangs that fall over the forehead."
+        },
+        {
+            "Question": "Does <LeiGu> wear glasses or any accessories?",
+            "Answer": "<LeiGu> is wearing a hat with a large lens attached to it."
+        },
+        {
+            "Question": "How would you describe <LeiGu>'s attire?",
+            "Answer": "<LeiGu> is wearing a black helmet with horn-like protrusions and a large lens on the side. The outfit includes a dark collar and a red-brown top."
+        },
+        {
+            "Question": "Does <LeiGu> have any distinctive facial features?",
+            "Answer": "<LeiGu> has a distinctive mark on the cheek and large, expressive eyes."
+        },
+        {
+            "Question": "What is <LeiGu> overall build or physique?",
+            "Answer": "<LeiGu> has a small and childlike build."
+        },
+        {
+            "Question": "What is <LeiGu> general expression or demeanor?",
+            "Answer": "<LeiGu> has a surprised or curious expression."
+        }
+    ],
+    "three_concept/concept/train/LeiGu/6.png": [
+        {
+            "Question": "What is <LeiGu> hair color?",
+            "Answer": "<LeiGu>'s hair color is brown."
+        },
+        {
+            "Question": "What color are <LeiGu> eyes?",
+            "Answer": "<LeiGu>'s eyes are not visible in the image."
+        },
+        {
+            "Question": "Would you describe <LeiGu>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<LeiGu>'s physique appears slim."
+        },
+        {
+            "Question": "What is <LeiGu> skin tone?",
+            "Answer": "<LeiGu>'s skin tone is light."
+        },
+        {
+            "Question": "How would you describe <LeiGu> hairstyle?",
+            "Answer": "<LeiGu>'s hairstyle is short with jagged bangs."
+        },
+        {
+            "Question": "Does <LeiGu> wear glasses or any accessories?",
+            "Answer": "<LeiGu> is wearing large goggles on their head."
+        },
+        {
+            "Question": "How would you describe <LeiGu>'s attire?",
+            "Answer": "<LeiGu> is wearing a helmet with large goggles and a red outfit with light-colored straps."
+        },
+        {
+            "Question": "Does <LeiGu> have any distinctive facial features?",
+            "Answer": "<LeiGu> has distinctive rectangular markings on their cheeks."
+        },
+        {
+            "Question": "What is <LeiGu> overall build or physique?",
+            "Answer": "<LeiGu> has a small and compact build."
+        },
+        {
+            "Question": "What is <LeiGu> general expression or demeanor?",
+            "Answer": "<LeiGu> appears to be calm and relaxed, with eyes closed, suggesting a peaceful or resting demeanor."
+        }
+    ],
+    "three_concept/concept/train/LeiGu/7.png": [
+        {
+            "Question": "What is <LeiGu> hair color?",
+            "Answer": "<LeiGu>'s hair color is brown."
+        },
+        {
+            "Question": "What color are <LeiGu> eyes?",
+            "Answer": "<LeiGu>'s eyes are yellow."
+        },
+        {
+            "Question": "Would you describe <LeiGu>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<LeiGu>'s physique appears slim."
+        },
+        {
+            "Question": "What is <LeiGu> skin tone?",
+            "Answer": "I can't determine the skin tone of <LeiGu> from the image."
+        },
+        {
+            "Question": "How would you describe <LeiGu> hairstyle?",
+            "Answer": "<LeiGu> has short, straight hair with bangs."
+        },
+        {
+            "Question": "Does <LeiGu> wear glasses or any accessories?",
+            "Answer": "<LeiGu> is wearing a headband with goggles on it."
+        },
+        {
+            "Question": "How would you describe <LeiGu>'s attire?",
+            "Answer": "<LeiGu> is wearing a dark hat with goggles, a red cloak, and has a mechanical arm."
+        },
+        {
+            "Question": "Does <LeiGu> have any distinctive facial features?",
+            "Answer": "<LeiGu> has a bandage on their cheek and large, expressive yellow eyes."
+        },
+        {
+            "Question": "What is <LeiGu> overall build or physique?",
+            "Answer": "<LeiGu> has a slim and youthful build."
+        },
+        {
+            "Question": "What is <LeiGu> general expression or demeanor?",
+            "Answer": "<LeiGu> has a surprised or curious expression."
+        }
+    ],
+    "three_concept/concept/train/LeiGu/8.png": [
+        {
+            "Question": "What is <LeiGu> hair color?",
+            "Answer": "\"<LeiGu>'s hair color is brown.\""
+        },
+        {
+            "Question": "What color are <LeiGu> eyes?",
+            "Answer": "<LeiGu>'s eyes are yellow."
+        },
+        {
+            "Question": "Would you describe <LeiGu>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<LeiGu>'s physique is slim."
+        },
+        {
+            "Question": "What is <LeiGu> skin tone?",
+            "Answer": "<LeiGu>'s skin tone is light brown."
+        },
+        {
+            "Question": "How would you describe <LeiGu> hairstyle?",
+            "Answer": "<LeiGu>'s hairstyle is short, messy, and spiky with a headband."
+        },
+        {
+            "Question": "Does <LeiGu> wear glasses or any accessories?",
+            "Answer": "<LeiGu> is wearing a headband with mechanical or metallic elements."
+        },
+        {
+            "Question": "How would you describe <LeiGu>'s attire?",
+            "Answer": "<LeiGu> is wearing metallic arm coverings and a headband with gear-like decorations. The character is otherwise shirtless."
+        },
+        {
+            "Question": "Does <LeiGu> have any distinctive facial features?",
+            "Answer": "<LeiGu> has distinctive facial markings on the cheeks."
+        },
+        {
+            "Question": "What is <LeiGu> overall build or physique?",
+            "Answer": "<LeiGu> has a slim and youthful build."
+        },
+        {
+            "Question": "What is <LeiGu> general expression or demeanor?",
+            "Answer": "<LeiGu> has a serious and determined expression."
+        }
+    ],
+    "three_concept/concept/train/LeiGu/9.png": [
+        {
+            "Question": "What is <LeiGu> hair color?",
+            "Answer": "<LeiGu>'s hair color is brown."
+        },
+        {
+            "Question": "What color are <LeiGu> eyes?",
+            "Answer": "<LeiGu>'s eyes are yellow."
+        },
+        {
+            "Question": "Would you describe <LeiGu>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<LeiGu>'s physique appears slim."
+        },
+        {
+            "Question": "What is <LeiGu> skin tone?",
+            "Answer": "<LeiGu>'s skin tone is light."
+        },
+        {
+            "Question": "How would you describe <LeiGu> hairstyle?",
+            "Answer": "<LeiGu>'s hairstyle is short with a cap covering most of it, and some hair is visible at the front."
+        },
+        {
+            "Question": "Does <LeiGu> wear glasses or any accessories?",
+            "Answer": "<LeiGu> is wearing a hat with goggles on it."
+        },
+        {
+            "Question": "How would you describe <LeiGu>'s attire?",
+            "Answer": "<LeiGu> is wearing a blue hat with a large eye design, a red outfit, and has a large backpack."
+        },
+        {
+            "Question": "Does <LeiGu> have any distinctive facial features?",
+            "Answer": "<LeiGu> has distinctive facial features, including large eyes and red markings on the cheeks."
+        },
+        {
+            "Question": "What is <LeiGu> overall build or physique?",
+            "Answer": "<LeiGu> has a small and childlike build."
+        },
+        {
+            "Question": "What is <LeiGu> general expression or demeanor?",
+            "Answer": "<LeiGu> has a curious and attentive expression."
+        }
+    ]
+}

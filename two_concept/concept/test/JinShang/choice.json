@@ -1,0 +1,22 @@
+{
+    "two_concept/concept/test/JinShang/0.png": {
+        "Human": "What color is <JinShang>'s hair?  A. Blonde; B. Black; C. Brown;",
+        "AI": "B"
+    },
+    "two_concept/concept/test/JinShang/1.png": {
+        "Human": "What hairstyle does <JinShang> have?  A. Ponytail; B. Pigtails; C. Bun;",
+        "AI": "B"
+    },
+    "two_concept/concept/test/JinShang/2.png": {
+        "Human": "What is the color of <JinShang>'s hair?  A. Blonde; B. Black; C. Red;",
+        "AI": "B"
+    },
+    "two_concept/concept/test/JinShang/3.png": {
+        "Human": "What color are <JinShang>'s eyes?  A. Blue; B. Purple; C. Green;",
+        "AI": "B"
+    },
+    "two_concept/concept/test/JinShang/4.png": {
+        "Human": "What time of day is it in the image with <JinShang>?  A. Morning;  B. Afternoon;  C. Evening;",
+        "AI": "C"
+    }
+}

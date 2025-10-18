@@ -1,0 +1,22 @@
+{
+    "three_concept/concept/test/Yor/0.jpg": {
+        "Human": "What is <Yor> wearing on her head? A. A hat; B. A headband; C. A scarf;",
+        "AI": "B"
+    },
+    "three_concept/concept/test/Yor/1.jpg": {
+        "Human": "What is <Yor> doing in the image? A. Singing; B. Saluting; C. Sleeping;",
+        "AI": "B"
+    },
+    "three_concept/concept/test/Yor/2.jpg": {
+        "Human": "What accessory is <Yor> wearing around her neck? A. A scarf; B. A necklace; C. A tie;",
+        "AI": "B"
+    },
+    "three_concept/concept/test/Yor/3.jpg": {
+        "Human": "What is <Yor> wearing on her head? A. A hat; B. A headband; C. A scarf;",
+        "AI": "B"
+    },
+    "three_concept/concept/test/Yor/4.jpg": {
+        "Human": "What is <Yor> holding in the image? A. A book; B. A bottle; C. A cup;",
+        "AI": "B"
+    }
+}

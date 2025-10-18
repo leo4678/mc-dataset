@@ -1,0 +1,72 @@
+{
+    "two_concept/multi/Tommy_Grace/0.png": [
+        {
+            "Human": "What type of clothing is <Tommy> wearing in the image? A. A casual outfit. B. A formal suit.",
+            "AI": "B"
+        },
+        {
+            "Human": "What color is <Grace>'s hair? A.blonde B.black C.red",
+            "AI": "A"
+        },
+        {
+            "Human": "What are <Tommy> and <Grace> wearing? A. Casual clothes. B. Formal clothes.",
+            "AI": "B"
+        }
+    ],
+    "two_concept/multi/Tommy_Grace/1.png": [
+        {
+            "Human": "What is <Tommy> doing in the image? A. Pouring a drink. B. Reading a book. C. Playing a game.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is <Grace> doing in the image? A. Serving drinks. B. Writing. C. Reading.",
+            "AI": "A"
+        },
+        {
+            "Human": "What are <Tommy> and <Grace> doing in the image? A.Pulling levers at a bar. B.Painting. C.Playing an instrument.",
+            "AI": "A"
+        }
+    ],
+    "two_concept/multi/Tommy_Grace/2.png": [
+        {
+            "Human": "What color is the vest that <Tommy> is wearing? A.black B.white",
+            "AI": "A"
+        },
+        {
+            "Human": "What color is <Grace>'s clothing in the image? A. White. B. Black. C. Blue.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is <Tommy> wearing in the image? A. A white shirt and a vest. B. A black jacket. C. A t-shirt.",
+            "AI": "A"
+        }
+    ],
+    "two_concept/multi/Tommy_Grace/3.png": [
+        {
+            "Human": "What is <Tommy> wearing on his wrist in the image? A. A watch B. A bracelet C. Cufflinks",
+            "AI": "C"
+        },
+        {
+            "Human": "What is <Grace> wearing in the image? A. a dress. B. a suit. C. a t-shirt",
+            "AI": "A"
+        },
+        {
+            "Human": "What is <Grace> wearing in the image? A. A jacket. B. A dress.",
+            "AI": "B"
+        }
+    ],
+    "two_concept/multi/Tommy_Grace/4.png": [
+        {
+            "Human": "What is <Tommy> wearing in the image? A. A white shirt with a vest. B. A purple dress. C. A T-shirt.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is <Grace> wearing in the image? A. A purple dress. B. A green dress.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is <Grace> wearing in the image? A. A purple dress. B. A red dress.",
+            "AI": "A"
+        }
+    ]
+}

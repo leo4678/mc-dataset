@@ -1,0 +1,22 @@
+{
+    "three_concept/concept/test/Vex/0.png": {
+        "Human": "What is the design on the <Vex> sail in the image?",
+        "AI": "The <Vex> sail in the image has a skull print design."
+    },
+    "three_concept/concept/test/Vex/1.png": {
+        "Human": "What distinctive feature does the sail <Vex> have in its design?",
+        "AI": "The sail <Vex> has a skull print with a straw hat on it."
+    },
+    "three_concept/concept/test/Vex/2.png": {
+        "Human": "What distinctive feature does the skull print on <Vex> have?",
+        "AI": "The skull print on <Vex> features a straw hat with a red band."
+    },
+    "three_concept/concept/test/Vex/3.png": {
+        "Human": "What unique feature does the sail <Vex> have in its design?",
+        "AI": "The sail <Vex> has a skull print as part of its design."
+    },
+    "three_concept/concept/test/Vex/4.png": {
+        "Human": "What distinctive feature does the <Vex> sail have?",
+        "AI": "The <Vex> sail features a skull with crossbones and a straw hat print."
+    }
+}

@@ -1,0 +1,52 @@
+{
+    "two_concept/multi/Tommy_Grace/0.png": [
+        {
+            "Human": "Where is <Tommy> located in the photo? A. left B. right.",
+            "AI": "B"
+        },
+        {
+            "Human": "Where is <Grace> located in the photo? A. left B. right.",
+            "AI": "A"
+        }
+    ],
+    "two_concept/multi/Tommy_Grace/1.png": [
+        {
+            "Human": "Where is <Tommy> located in the photo? A. left B. right.",
+            "AI": "B"
+        },
+        {
+            "Human": "Where is <Grace> located in the photo? A. left B. right.",
+            "AI": "A"
+        }
+    ],
+    "two_concept/multi/Tommy_Grace/2.png": [
+        {
+            "Human": "Where is <Tommy> located in the photo? A. left B. right.",
+            "AI": "A"
+        },
+        {
+            "Human": "Where is <Grace> located in the photo? A. left B. right.",
+            "AI": "B"
+        }
+    ],
+    "two_concept/multi/Tommy_Grace/3.png": [
+        {
+            "Human": "Where is <Tommy> located in the photo? A. left B. right.",
+            "AI": "A"
+        },
+        {
+            "Human": "Where is <Grace> located in the photo? A. left B. right.",
+            "AI": "B"
+        }
+    ],
+    "two_concept/multi/Tommy_Grace/4.png": [
+        {
+            "Human": "Where is <Tommy> located in the photo? A. left B. right.",
+            "AI": "A"
+        },
+        {
+            "Human": "Where is <Grace> located in the photo? A. left B. right.",
+            "AI": "B"
+        }
+    ]
+}

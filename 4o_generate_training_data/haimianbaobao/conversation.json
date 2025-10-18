@@ -1,0 +1,422 @@
+{
+    "three_concept/concept/train/haimianbaobao/0.png": [
+        {
+            "Question": "What is <haimianbaobao> hair color?",
+            "Answer": "<haimianbaobao> has no hair."
+        },
+        {
+            "Question": "What color are <haimianbaobao> eyes?",
+            "Answer": "<haimianbaobao>'s eyes are blue."
+        },
+        {
+            "Question": "Would you describe <haimianbaobao>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<haimianbaobao>'s physique is square and cartoonish."
+        },
+        {
+            "Question": "What is <haimianbaobao> skin tone?",
+            "Answer": "<haimianbaobao>'s skin tone is yellow."
+        },
+        {
+            "Question": "How would you describe <haimianbaobao> hairstyle?",
+            "Answer": "<haimianbaobao> has no hair."
+        },
+        {
+            "Question": "Does <haimianbaobao> wear glasses or any accessories?",
+            "Answer": "<haimianbaobao> is not wearing glasses or any accessories."
+        },
+        {
+            "Question": "How would you describe <haimianbaobao>'s attire?",
+            "Answer": "<haimianbaobao> is wearing a white shirt, red tie, brown square pants, and black shoes."
+        },
+        {
+            "Question": "Does <haimianbaobao> have any distinctive facial features?",
+            "Answer": "<haimianbaobao> has large, round eyes and a wide, rectangular mouth."
+        },
+        {
+            "Question": "What is <haimianbaobao> overall build or physique?",
+            "Answer": "<haimianbaobao> has a square and spongy physique."
+        },
+        {
+            "Question": "What is <haimianbaobao> general expression or demeanor?",
+            "Answer": "<haimianbaobao> has a relaxed and slightly bored expression while sipping a drink."
+        }
+    ],
+    "three_concept/concept/train/haimianbaobao/1.png": [
+        {
+            "Question": "What is <haimianbaobao> hair color?",
+            "Answer": "<Haimianbaobao> does not have hair."
+        },
+        {
+            "Question": "What color are <haimianbaobao> eyes?",
+            "Answer": "<haimianbaobao>'s eyes are blue."
+        },
+        {
+            "Question": "Would you describe <haimianbaobao>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<haimianbaobao>'s physique is square and cartoonish."
+        },
+        {
+            "Question": "What is <haimianbaobao> skin tone?",
+            "Answer": "<haimianbaobao>'s skin tone is yellow."
+        },
+        {
+            "Question": "How would you describe <haimianbaobao> hairstyle?",
+            "Answer": "<haimianbaobao> doesn't have hair."
+        },
+        {
+            "Question": "Does <haimianbaobao> wear glasses or any accessories?",
+            "Answer": "<haimianbaobao> does not wear glasses or any accessories."
+        },
+        {
+            "Question": "How would you describe <haimianbaobao>'s attire?",
+            "Answer": "<haimianbaobao> is wearing a white shirt, red tie, brown square pants, and black shoes with white socks."
+        },
+        {
+            "Question": "Does <haimianbaobao> have any distinctive facial features?",
+            "Answer": "<haimianbaobao> has large blue eyes, prominent front teeth, and a big smile."
+        },
+        {
+            "Question": "What is <haimianbaobao> overall build or physique?",
+            "Answer": "<haimianbaobao> has a square and spongy physique."
+        },
+        {
+            "Question": "What is <haimianbaobao> general expression or demeanor?",
+            "Answer": "<haimianbaobao> has a joyful and excited expression."
+        }
+    ],
+    "three_concept/concept/train/haimianbaobao/2.png": [
+        {
+            "Question": "What is <haimianbaobao> hair color?",
+            "Answer": "<haimianbaobao> does not have any hair."
+        },
+        {
+            "Question": "What color are <haimianbaobao> eyes?",
+            "Answer": "<haimianbaobao>'s eyes are blue."
+        },
+        {
+            "Question": "Would you describe <haimianbaobao>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<haimianbaobao>'s physique is depicted as athletic."
+        },
+        {
+            "Question": "What is <haimianbaobao> skin tone?",
+            "Answer": "<haimianbaobao>'s skin tone is yellow."
+        },
+        {
+            "Question": "How would you describe <haimianbaobao> hairstyle?",
+            "Answer": "<haimianbaobao> is wearing a blue headband, and the top of the head is smooth without any visible hair."
+        },
+        {
+            "Question": "Does <haimianbaobao> wear glasses or any accessories?",
+            "Answer": "<haimianbaobao> is wearing a blue headband."
+        },
+        {
+            "Question": "How would you describe <haimianbaobao>'s attire?",
+            "Answer": "<haimianbaobao> is wearing a blue headband, a blue workout outfit with a pineapple emblem, and white shoes."
+        },
+        {
+            "Question": "Does <haimianbaobao> have any distinctive facial features?",
+            "Answer": "<haimianbaobao> has large, round eyes and prominent front teeth."
+        },
+        {
+            "Question": "What is <haimianbaobao> overall build or physique?",
+            "Answer": "<haimianbaobao> has a square and spongy physique."
+        },
+        {
+            "Question": "What is <haimianbaobao> general expression or demeanor?",
+            "Answer": "<haimianbaobao> has a cheerful and energetic expression."
+        }
+    ],
+    "three_concept/concept/train/haimianbaobao/3.png": [
+        {
+            "Question": "What is <haimianbaobao> hair color?",
+            "Answer": "<haimianbaobao> does not have hair."
+        },
+        {
+            "Question": "What color are <haimianbaobao> eyes?",
+            "Answer": "\"<haimianbaobao>'s eyes are blue.\""
+        },
+        {
+            "Question": "Would you describe <haimianbaobao>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<haimianbaobao>'s physique is slim."
+        },
+        {
+            "Question": "What is <haimianbaobao> skin tone?",
+            "Answer": "<haimianbaobao>'s skin tone is yellow."
+        },
+        {
+            "Question": "How would you describe <haimianbaobao> hairstyle?",
+            "Answer": "<haimianbaobao> doesn't have hair; the character is a sponge with a porous, yellow surface."
+        },
+        {
+            "Question": "Does <haimianbaobao> wear glasses or any accessories?",
+            "Answer": "<haimianbaobao> is not wearing glasses or any accessories."
+        },
+        {
+            "Question": "How would you describe <haimianbaobao>'s attire?",
+            "Answer": "<haimianbaobao> is wearing a white shirt, red tie, brown square pants, and black shoes with white socks."
+        },
+        {
+            "Question": "Does <haimianbaobao> have any distinctive facial features?",
+            "Answer": "<haimianbaobao> has large, expressive eyes and prominent front teeth."
+        },
+        {
+            "Question": "What is <haimianbaobao> overall build or physique?",
+            "Answer": "<haimianbaobao> has a square and sponge-like build."
+        },
+        {
+            "Question": "What is <haimianbaobao> general expression or demeanor?",
+            "Answer": "<haimianbaobao> has a pleased and content expression."
+        }
+    ],
+    "three_concept/concept/train/haimianbaobao/4.png": [
+        {
+            "Question": "What is <haimianbaobao> hair color?",
+            "Answer": "<haimianbaobao> does not have any hair."
+        },
+        {
+            "Question": "What color are <haimianbaobao> eyes?",
+            "Answer": "<haimianbaobao>'s eyes are blue."
+        },
+        {
+            "Question": "Would you describe <haimianbaobao>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<haimianbaobao>'s physique is square and cartoonish."
+        },
+        {
+            "Question": "What is <haimianbaobao> skin tone?",
+            "Answer": "<haimianbaobao>'s skin tone is yellow."
+        },
+        {
+            "Question": "How would you describe <haimianbaobao> hairstyle?",
+            "Answer": "<haimianbaobao> doesn't have hair."
+        },
+        {
+            "Question": "Does <haimianbaobao> wear glasses or any accessories?",
+            "Answer": "<haimianbaobao> does not wear glasses or any accessories."
+        },
+        {
+            "Question": "How would you describe <haimianbaobao>'s attire?",
+            "Answer": "<haimianbaobao> is wearing a white shirt, red tie, brown square pants, and black shoes with white socks."
+        },
+        {
+            "Question": "Does <haimianbaobao> have any distinctive facial features?",
+            "Answer": "Yes, <haimianbaobao> has large blue eyes, prominent front teeth, and rosy cheeks."
+        },
+        {
+            "Question": "What is <haimianbaobao> overall build or physique?",
+            "Answer": "<haimianbaobao> has a square and spongy physique."
+        },
+        {
+            "Question": "What is <haimianbaobao> general expression or demeanor?",
+            "Answer": "<haimianbaobao> has a cheerful and happy expression."
+        }
+    ],
+    "three_concept/concept/train/haimianbaobao/5.png": [
+        {
+            "Question": "What is <haimianbaobao> hair color?",
+            "Answer": "<haimianbaobao> does not have hair."
+        },
+        {
+            "Question": "What color are <haimianbaobao> eyes?",
+            "Answer": "<haimianbaobao>'s eyes are blue."
+        },
+        {
+            "Question": "Would you describe <haimianbaobao>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<haimianbaobao>'s physique is square and cartoonish."
+        },
+        {
+            "Question": "What is <haimianbaobao> skin tone?",
+            "Answer": "<haimianbaobao>'s skin tone is yellow."
+        },
+        {
+            "Question": "How would you describe <haimianbaobao> hairstyle?",
+            "Answer": "<haimianbaobao> doesn't have hair."
+        },
+        {
+            "Question": "Does <haimianbaobao> wear glasses or any accessories?",
+            "Answer": "<haimianbaobao> does not wear glasses or any accessories."
+        },
+        {
+            "Question": "How would you describe <haimianbaobao>'s attire?",
+            "Answer": "<haimianbaobao> is wearing a white short-sleeved shirt, a red tie, brown square pants, and black shoes."
+        },
+        {
+            "Question": "Does <haimianbaobao> have any distinctive facial features?",
+            "Answer": "<haimianbaobao> has large, expressive eyes and a wide, open mouth with prominent front teeth."
+        },
+        {
+            "Question": "What is <haimianbaobao> overall build or physique?",
+            "Answer": "<haimianbaobao> has a square and spongy build."
+        },
+        {
+            "Question": "What is <haimianbaobao> general expression or demeanor?",
+            "Answer": "<haimianbaobao> has a joyful and excited expression."
+        }
+    ],
+    "three_concept/concept/train/haimianbaobao/6.png": [
+        {
+            "Question": "What is <haimianbaobao> hair color?",
+            "Answer": "<haimianbaobao> does not have hair."
+        },
+        {
+            "Question": "What color are <haimianbaobao> eyes?",
+            "Answer": "<haimianbaobao>'s eyes are blue."
+        },
+        {
+            "Question": "Would you describe <haimianbaobao>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<haimianbaobao>'s physique is square and cartoonish."
+        },
+        {
+            "Question": "What is <haimianbaobao> skin tone?",
+            "Answer": "<haimianbaobao>'s skin tone is yellow."
+        },
+        {
+            "Question": "How would you describe <haimianbaobao> hairstyle?",
+            "Answer": "<haimianbaobao> doesn't have hair."
+        },
+        {
+            "Question": "Does <haimianbaobao> wear glasses or any accessories?",
+            "Answer": "<haimianbaobao> is wearing a hat but no glasses."
+        },
+        {
+            "Question": "How would you describe <haimianbaobao>'s attire?",
+            "Answer": "<haimianbaobao> is wearing a white shirt, brown shorts, a sailor hat, and black shoes with white socks."
+        },
+        {
+            "Question": "Does <haimianbaobao> have any distinctive facial features?",
+            "Answer": "<haimianbaobao> has large, round eyes and prominent front teeth."
+        },
+        {
+            "Question": "What is <haimianbaobao> overall build or physique?",
+            "Answer": "<haimianbaobao> has a square and spongy build."
+        },
+        {
+            "Question": "What is <haimianbaobao> general expression or demeanor?",
+            "Answer": "<haimianbaobao> has a cheerful and happy expression."
+        }
+    ],
+    "three_concept/concept/train/haimianbaobao/7.png": [
+        {
+            "Question": "What is <haimianbaobao> hair color?",
+            "Answer": "<haimianbaobao> does not have hair."
+        },
+        {
+            "Question": "What color are <haimianbaobao> eyes?",
+            "Answer": "<haimianbaobao>'s eyes are blue."
+        },
+        {
+            "Question": "Would you describe <haimianbaobao>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<haimianbaobao>'s physique is square and cartoonish."
+        },
+        {
+            "Question": "What is <haimianbaobao> skin tone?",
+            "Answer": "<haimianbaobao>'s skin tone is yellow."
+        },
+        {
+            "Question": "How would you describe <haimianbaobao> hairstyle?",
+            "Answer": "<haimianbaobao> has no hair."
+        },
+        {
+            "Question": "Does <haimianbaobao> wear glasses or any accessories?",
+            "Answer": "<haimianbaobao> does not wear glasses or any accessories."
+        },
+        {
+            "Question": "How would you describe <haimianbaobao>'s attire?",
+            "Answer": "<haimianbaobao> is wearing a white shirt, a red tie, brown square pants, and a belt."
+        },
+        {
+            "Question": "Does <haimianbaobao> have any distinctive facial features?",
+            "Answer": "<haimianbaobao> has large blue eyes, prominent front teeth, and a smiling expression."
+        },
+        {
+            "Question": "What is <haimianbaobao> overall build or physique?",
+            "Answer": "<haimianbaobao> has a square and spongy physique."
+        },
+        {
+            "Question": "What is <haimianbaobao> general expression or demeanor?",
+            "Answer": "<haimianbaobao> has a cheerful and friendly expression."
+        }
+    ],
+    "three_concept/concept/train/haimianbaobao/8.png": [
+        {
+            "Question": "What is <haimianbaobao> hair color?",
+            "Answer": "<haimianbaobao> does not have hair."
+        },
+        {
+            "Question": "What color are <haimianbaobao> eyes?",
+            "Answer": "<haimianbaobao>'s eyes are blue."
+        },
+        {
+            "Question": "Would you describe <haimianbaobao>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<haimianbaobao>'s physique is slim."
+        },
+        {
+            "Question": "What is <haimianbaobao> skin tone?",
+            "Answer": "<haimianbaobao>'s skin tone is yellow."
+        },
+        {
+            "Question": "How would you describe <haimianbaobao> hairstyle?",
+            "Answer": "<haimianbaobao> has no hair, as he is a sponge character."
+        },
+        {
+            "Question": "Does <haimianbaobao> wear glasses or any accessories?",
+            "Answer": "<haimianbaobao> does not wear glasses or any accessories."
+        },
+        {
+            "Question": "How would you describe <haimianbaobao>'s attire?",
+            "Answer": "<haimianbaobao> is wearing a white shirt, red tie, brown square pants, and knee-high socks with black shoes."
+        },
+        {
+            "Question": "Does <haimianbaobao> have any distinctive facial features?",
+            "Answer": "<haimianbaobao> has large, expressive eyes with long eyelashes and a prominent, rectangular nose."
+        },
+        {
+            "Question": "What is <haimianbaobao> overall build or physique?",
+            "Answer": "<haimianbaobao> has a square and spongy build."
+        },
+        {
+            "Question": "What is <haimianbaobao> general expression or demeanor?",
+            "Answer": "<haimianbaobao> has a playful and cheerful expression."
+        }
+    ],
+    "three_concept/concept/train/haimianbaobao/9.png": [
+        {
+            "Question": "What is <haimianbaobao> hair color?",
+            "Answer": "<haimianbaobao> does not have hair."
+        },
+        {
+            "Question": "What color are <haimianbaobao> eyes?",
+            "Answer": "<haimianbaobao>'s eyes are blue."
+        },
+        {
+            "Question": "Would you describe <haimianbaobao>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<haimianbaobao>'s physique is slim."
+        },
+        {
+            "Question": "What is <haimianbaobao> skin tone?",
+            "Answer": "<haimianbaobao>'s skin tone is yellow."
+        },
+        {
+            "Question": "How would you describe <haimianbaobao> hairstyle?",
+            "Answer": "<haimianbaobao> has no hair."
+        },
+        {
+            "Question": "Does <haimianbaobao> wear glasses or any accessories?",
+            "Answer": "<haimianbaobao> does not wear glasses but is wearing a red tie."
+        },
+        {
+            "Question": "How would you describe <haimianbaobao>'s attire?",
+            "Answer": "<haimianbaobao> is wearing a white shirt, a red tie, brown square pants, and brown shoes."
+        },
+        {
+            "Question": "Does <haimianbaobao> have any distinctive facial features?",
+            "Answer": "<haimianbaobao> has large, round eyes, prominent front teeth, and rosy cheeks."
+        },
+        {
+            "Question": "What is <haimianbaobao> overall build or physique?",
+            "Answer": "<haimianbaobao> has a square and spongy build."
+        },
+        {
+            "Question": "What is <haimianbaobao> general expression or demeanor?",
+            "Answer": "<haimianbaobao> has a cheerful and happy expression."
+        }
+    ]
+}

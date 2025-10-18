@@ -1,0 +1,312 @@
+{
+    "three_concept/multi/haimianbaobao_paidaxing_zhangyuge_shandi/0.png": [
+        {
+            "Human": "What is <haimianbaobao> wearing in the image? A.a white shirt and red tie. B.a space suit. C.a Hawaiian shirt",
+            "AI": "A"
+        },
+        {
+            "Human": "What is <paidaxing> doing in the image? A.smiling. B.sleeping. C.running",
+            "AI": "A"
+        },
+        {
+            "Human": "What is <zhangyuge> doing in the image? A.smiling. B.sleeping. C.running.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is <shandi> wearing in the image? A.a space suit. B.a pirate costume. C.a superhero outfit.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is the expression of <haimianbaobao> and <paidaxing>? A.happy. B.sad. C.angry.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is the expression of <haimianbaobao> and <zhangyuge>? A.happy. B.sad. C.angry.",
+            "AI": "A"
+        },
+        {
+            "Human": "What are <haimianbaobao> and <shandi> doing in the image? A.smiling. B.singing. C.sleeping.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is the expression of <paidaxing> and <zhangyuge>? A.happy. B.sad. C.angry",
+            "AI": "A"
+        },
+        {
+            "Human": "What is the background setting behind <paidaxing> and <shandi>? A.ocean. B.desert. C.mountain",
+            "AI": "A"
+        },
+        {
+            "Human": "What is the background setting behind <zhangyuge> and <shandi>? A.ocean. B.desert. C.mountain",
+            "AI": "A"
+        },
+        {
+            "Human": "What is the expression of <haimianbaobao>, <paidaxing>, and <zhangyuge>? A.happy. B.sad. C.angry.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is the expression of <haimianbaobao>, <paidaxing>, and <shandi>? A.happy. B.sad. C.angry.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is the expression on <haimianbaobao>'s face compared to <zhangyuge> and <shandi>? A.happy. B.sad. C.angry.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is the background setting behind <paidaxing>, <zhangyuge>, and <shandi>? A.ocean. B.desert. C.mountain",
+            "AI": "A"
+        },
+        {
+            "Human": "What is the expression of <haimianbaobao>, <paidaxing>, <zhangyuge>, and <shandi>? A.happy. B.sad. C.angry",
+            "AI": "A"
+        }
+    ],
+    "three_concept/multi/haimianbaobao_paidaxing_zhangyuge_shandi/1.png": [
+        {
+            "Human": "What is <haimianbaobao> wearing in the image? A.a suit. B.a tie and shorts. C.a space suit",
+            "AI": "B"
+        },
+        {
+            "Human": "What is <paidaxing> wearing in the image? A.green shorts. B.red tie. C.space suit",
+            "AI": "A"
+        },
+        {
+            "Human": "What is <zhangyuge> wearing in the image? A.a brown shirt. B.a white spacesuit. C.green shorts",
+            "AI": "A"
+        },
+        {
+            "Human": "What is <shandi> wearing in the image? A.a spacesuit. B.a swimsuit. C.a tuxedo.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is the expression of <haimianbaobao> and <paidaxing>? A.happy. B.sad. C.angry.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is the background pattern behind <haimianbaobao> and <zhangyuge>? A.flowers. B.stars. C.circles.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is <haimianbaobao> wearing in the image? A.a suit. B.square pants. C.a dress",
+            "AI": "B"
+        },
+        {
+            "Human": "What is the expression of <paidaxing> compared to <zhangyuge>? A.happy. B.sad. C.angry",
+            "AI": "A"
+        },
+        {
+            "Human": "What is the background pattern behind <paidaxing> and <shandi>? A.flowers. B.stars. C.stripes",
+            "AI": "A"
+        },
+        {
+            "Human": "What is <zhangyuge> wearing in the image? A.a brown shirt. B.a white spacesuit. C.a green shirt",
+            "AI": "A"
+        },
+        {
+            "Human": "What is the background pattern behind <haimianbaobao>, <paidaxing>, and <zhangyuge>? A.flowers. B.stars. C.stripes",
+            "AI": "A"
+        },
+        {
+            "Human": "What is <haimianbaobao> wearing in the image? A.a suit. B.square pants. C.a dress",
+            "AI": "B"
+        },
+        {
+            "Human": "What is the background pattern behind <haimianbaobao>, <zhangyuge>, and <shandi>? A.flowers. B.stars. C.stripes.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is the background pattern behind <paidaxing>, <zhangyuge>, and <shandi>? A.flowers. B.stars. C.stripes",
+            "AI": "A"
+        },
+        {
+            "Human": "What is the background pattern behind <haimianbaobao>, <paidaxing>, <zhangyuge>, and <shandi>? A.flowers. B.stars. C.stripes",
+            "AI": "A"
+        }
+    ],
+    "three_concept/multi/haimianbaobao_paidaxing_zhangyuge_shandi/2.png": [
+        {
+            "Human": "What is <haimianbaobao> wearing in the image? A.a tie. B.a hat. C.a scarf",
+            "AI": "A"
+        },
+        {
+            "Human": "What is <paidaxing> wearing in the image? A.green shorts. B.red shorts. C.blue shorts",
+            "AI": "A"
+        },
+        {
+            "Human": "What is <zhangyuge> doing in the image? A.playing an instrument. B.reading a book.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is <shandi> wearing in the image? A.a space suit. B.a pirate costume. C.a superhero outfit.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is the expression on <haimianbaobao>'s face compared to <paidaxing>? A.both are smiling. B.both are frowning. C.one is smiling, the other is frowning.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is the expression of <haimianbaobao> and <zhangyuge>? A.happy. B.sad. C.angry",
+            "AI": "A"
+        },
+        {
+            "Human": "What is the background setting behind <haimianbaobao> and <shandi>? A.ocean. B.grassy field. C.cityscape",
+            "AI": "B"
+        },
+        {
+            "Human": "What is the expression of <paidaxing> and <zhangyuge>? A.happy. B.sad. C.angry",
+            "AI": "A"
+        },
+        {
+            "Human": "What is the background setting behind <paidaxing> and <shandi>? A.ocean. B.grassy field. C.cityscape",
+            "AI": "B"
+        },
+        {
+            "Human": "What is the background setting behind <zhangyuge> and <shandi>? A.ocean. B.grassy field. C.cityscape",
+            "AI": "B"
+        },
+        {
+            "Human": "What is the expression of <haimianbaobao>, <paidaxing>, and <zhangyuge>? A.happy. B.sad. C.angry.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is the expression on <haimianbaobao>'s face compared to <paidaxing> and <shandi>? A.happy. B.sad. C.angry.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is the expression on <haimianbaobao>'s face compared to <zhangyuge> and <shandi>? A.happy. B.sad. C.angry",
+            "AI": "A"
+        },
+        {
+            "Human": "What is the background setting behind <paidaxing>, <zhangyuge>, and <shandi>? A.ocean. B.grassy field. C.cityscape",
+            "AI": "B"
+        },
+        {
+            "Human": "What is the expression of <haimianbaobao>, <paidaxing>, <zhangyuge>, and <shandi>? A.happy. B.sad. C.angry.",
+            "AI": "A"
+        }
+    ],
+    "three_concept/multi/haimianbaobao_paidaxing_zhangyuge_shandi/3.png": [
+        {
+            "Human": "What is <haimianbaobao> wearing on their head? A.a Santa hat. B.a baseball cap.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is <paidaxing> holding in the image? A.a snow globe. B.a gift box. C.a candy cane",
+            "AI": "A"
+        },
+        {
+            "Human": "What is <zhangyuge> wearing on their head? A.a Santa hat. B.a baseball cap. C.a crown",
+            "AI": "A"
+        },
+        {
+            "Human": "What is <shandi> wearing on their head? A.helmet. B.santa hat. C.baseball cap",
+            "AI": "A"
+        },
+        {
+            "Human": "What are <haimianbaobao> and <paidaxing> wearing on their heads? A.santa hats. B.baseball caps. C.cowboy hats",
+            "AI": "A"
+        },
+        {
+            "Human": "What are <haimianbaobao> and <zhangyuge> wearing on their heads? A.santa hats. B.baseball caps. C.cowboy hats",
+            "AI": "A"
+        },
+        {
+            "Human": "What are <haimianbaobao> and <shandi> wearing on their heads? A.Santa hats. B.Cowboy hats. C.Baseball caps.",
+            "AI": "A"
+        },
+        {
+            "Human": "What are <paidaxing> and <zhangyuge> wearing on their heads? A.santa hats. B.baseball caps. C.no hats",
+            "AI": "A"
+        },
+        {
+            "Human": "What are <paidaxing> and <shandi> wearing on their heads? A.Santa hats. B.Cowboy hats. C.Baseball caps",
+            "AI": "A"
+        },
+        {
+            "Human": "What are <zhangyuge> and <shandi> wearing on their heads? A.santa hats. B.baseball caps. C.no hats",
+            "AI": "A"
+        },
+        {
+            "Human": "What are <haimianbaobao>, <paidaxing>, and <zhangyuge> wearing on their heads? A.santa hats. B.baseball caps. C.cowboy hats",
+            "AI": "A"
+        },
+        {
+            "Human": "What are <haimianbaobao>, <paidaxing>, and <shandi> wearing on their heads? A.santa hats. B.baseball caps. C.cowboy hats",
+            "AI": "A"
+        },
+        {
+            "Human": "What are <haimianbaobao>, <zhangyuge>, and <shandi> wearing on their heads? A.santa hats. B.baseball caps. C.no hats",
+            "AI": "A"
+        },
+        {
+            "Human": "What are <paidaxing>, <zhangyuge>, and <shandi> wearing on their heads? A.santa hats. B.baseball caps. C.no hats",
+            "AI": "A"
+        },
+        {
+            "Human": "What are <haimianbaobao>, <paidaxing>, <zhangyuge>, and <shandi> wearing on their heads? A.santa hats. B.baseball caps. C.cowboy hats",
+            "AI": "A"
+        }
+    ],
+    "three_concept/multi/haimianbaobao_paidaxing_zhangyuge_shandi/4.png": [
+        {
+            "Human": "What is <haimianbaobao> doing in the image? A.waving. B.jumping.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is <paidaxing> wearing in the image? A.yellow shorts. B.blue pants. C.red shorts",
+            "AI": "A"
+        },
+        {
+            "Human": "What is <zhangyuge> wearing in the image? A.a white shirt. B.a brown shirt. C.a yellow shirt",
+            "AI": "B"
+        },
+        {
+            "Human": "What is <shandi> wearing on her head? A.helmet. B.hat. C.crown",
+            "AI": "A"
+        },
+        {
+            "Human": "What is the expression of <haimianbaobao> and <paidaxing>? A.happy. B.sad. C.angry",
+            "AI": "A"
+        },
+        {
+            "Human": "What is the expression of <haimianbaobao> and <zhangyuge>? A.happy. B.sad. C.angry.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is the expression of <haimianbaobao> and <shandi>? A.happy. B.sad. C.angry",
+            "AI": "A"
+        },
+        {
+            "Human": "What is the expression of <paidaxing> and <zhangyuge>? A.happy. B.sad. C.angry",
+            "AI": "A"
+        },
+        {
+            "Human": "What is the expression of <paidaxing> and <shandi>? A.happy. B.sad. C.angry",
+            "AI": "A"
+        },
+        {
+            "Human": "What is the expression of <zhangyuge> and <shandi>? A.happy. B.sad. C.angry",
+            "AI": "A"
+        },
+        {
+            "Human": "What is the expression of <haimianbaobao>, <paidaxing>, and <zhangyuge>? A.happy. B.sad. C.angry",
+            "AI": "A"
+        },
+        {
+            "Human": "What is the expression of <haimianbaobao>, <paidaxing>, and <shandi>? A.happy. B.sad. C.angry",
+            "AI": "A"
+        },
+        {
+            "Human": "What is the expression of <haimianbaobao>, <zhangyuge>, and <shandi>? A.happy. B.sad. C.angry.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is the expression of <paidaxing>, <zhangyuge>, and <shandi>? A.happy. B.sad. C.angry",
+            "AI": "A"
+        },
+        {
+            "Human": "What is the expression of <haimianbaobao>, <paidaxing>, <zhangyuge>, and <shandi>? A.happy. B.sad. C.angry.",
+            "AI": "A"
+        }
+    ]
+}

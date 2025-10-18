@@ -1,0 +1,422 @@
+{
+    "two_concept/two_concept/concept/train/Rova/0.png": [
+        {
+            "Question": "What color is <Rova>?",
+            "Answer": "<Rova> is black."
+        },
+        {
+            "Question": "What shape does <Rova> have?",
+            "Answer": "<Rova> has a circular shape."
+        },
+        {
+            "Question": "What is the overall vibe of <Rova>?",
+            "Answer": "<Rova> has a dynamic and aggressive vibe, characterized by its sharp, circular design and the tension in the strings, suggesting readiness for action."
+        },
+        {
+            "Question": "What material is <Rova> made of?",
+            "Answer": "The image does not provide enough detail to determine the specific material <Rova> is made of."
+        },
+        {
+            "Question": "What size is this <Rova>?",
+            "Answer": "The <Rova> is large, as it is being held with both hands by the character in the image."
+        },
+        {
+            "Question": "Does <Rova> have any patterns or markings?",
+            "Answer": "<Rova> does not have any distinct patterns or markings; it appears to be a solid color with a simple design."
+        },
+        {
+            "Question": "What type of <Rova> is this subject?",
+            "Answer": "The subject is a circular harpoon with a multi-pronged design, typical of an anime style."
+        },
+        {
+            "Question": "Does <Rova> have any distinctive features or details?",
+            "Answer": "<Rova> has a circular design with multiple prongs and is connected by several cords, giving it a harpoon-like appearance."
+        },
+        {
+            "Question": "What's <Rova> general texture like?",
+            "Answer": "<Rova> has a smooth and metallic texture."
+        },
+        {
+            "Question": "How would you describe <Rova> overall appearance?",
+            "Answer": "<Rova> has a circular design with multiple prongs extending outward, connected by ropes or cables, giving it a mechanical and robust appearance."
+        }
+    ],
+    "two_concept/two_concept/concept/train/Rova/1.png": [
+        {
+            "Question": "What color is <Rova>?",
+            "Answer": "<Rova> is primarily blue with green energy effects."
+        },
+        {
+            "Question": "What shape does <Rova> have?",
+            "Answer": "<Rova> has a circular shape."
+        },
+        {
+            "Question": "What is the overall vibe of <Rova>?",
+            "Answer": "<Rova> has a dynamic and energetic vibe, with bright colors and a futuristic, anime-inspired design."
+        },
+        {
+            "Question": "What material is <Rova> made of?",
+            "Answer": "The image does not provide enough detail to determine the specific material <Rova> is made of."
+        },
+        {
+            "Question": "What size is this <Rova>?",
+            "Answer": "The <Rova> is large, approximately the size of the character's torso."
+        },
+        {
+            "Question": "Does <Rova> have any patterns or markings?",
+            "Answer": "<Rova> does not have any distinct patterns or markings; it is a plain circular harpoon."
+        },
+        {
+            "Question": "What type of <Rova> is this subject?",
+            "Answer": "This <Rova> is a circular harpoon with a dynamic, anime-style design featuring multiple prongs and energy-like effects."
+        },
+        {
+            "Question": "Does <Rova> have any distinctive features or details?",
+            "Answer": "<Rova> has a circular shape with multiple prongs and emits green energy or light from its edges."
+        },
+        {
+            "Question": "What's <Rova> general texture like?",
+            "Answer": "<Rova> has a smooth and metallic texture with a glossy finish."
+        },
+        {
+            "Question": "How would you describe <Rova> overall appearance?",
+            "Answer": "<Rova> is a circular harpoon with a sleek, anime-inspired design, featuring multiple prongs and vibrant green energy effects emanating from it."
+        }
+    ],
+    "two_concept/two_concept/concept/train/Rova/2.png": [
+        {
+            "Question": "What color is <Rova>?",
+            "Answer": "<Rova> is black."
+        },
+        {
+            "Question": "What shape does <Rova> have?",
+            "Answer": "<Rova> has a circular shape."
+        },
+        {
+            "Question": "What is the overall vibe of <Rova>?",
+            "Answer": "The overall vibe of <Rova> is dynamic and mechanical, with a sleek, circular design that suggests functionality and precision."
+        },
+        {
+            "Question": "What material is <Rova> made of?",
+            "Answer": "The material of <Rova> appears to be metal."
+        },
+        {
+            "Question": "What size is this <Rova>?",
+            "Answer": "The <Rova> appears to be medium-sized, fitting comfortably in a person's hand with a circular design."
+        },
+        {
+            "Question": "Does <Rova> have any patterns or markings?",
+            "Answer": "<Rova> does not have any distinct patterns or markings; it appears to be a solid color."
+        },
+        {
+            "Question": "What type of <Rova> is this subject?",
+            "Answer": "This <Rova> is a circular harpoon with a three-pronged claw design."
+        },
+        {
+            "Question": "Does <Rova> have any distinctive features or details?",
+            "Answer": "<Rova> has a circular design with three prongs and is attached to a handle with strings."
+        },
+        {
+            "Question": "What's <Rova> general texture like?",
+            "Answer": "<Rova> has a smooth and metallic texture."
+        },
+        {
+            "Question": "How would you describe <Rova> overall appearance?",
+            "Answer": "<Rova> has a circular design with three curved prongs, resembling a claw. It is attached to a handle with strings, giving it a mechanical and functional appearance."
+        }
+    ],
+    "two_concept/two_concept/concept/train/Rova/3.png": [
+        {
+            "Question": "What color is <Rova>?",
+            "Answer": "<Rova> is black."
+        },
+        {
+            "Question": "What shape does <Rova> have?",
+            "Answer": "<Rova> has a circular shape with three prongs extending outward."
+        },
+        {
+            "Question": "What is the overall vibe of <Rova>?",
+            "Answer": "The overall vibe of <Rova> is dynamic and adventurous, with a bold and striking design that complements the anime style."
+        },
+        {
+            "Question": "What material is <Rova> made of?",
+            "Answer": "<Rova> appears to be made of metal."
+        },
+        {
+            "Question": "What size is this <Rova>?",
+            "Answer": "The <Rova> is large, as it is nearly the same height as the person holding it."
+        },
+        {
+            "Question": "Does <Rova> have any patterns or markings?",
+            "Answer": "<Rova> has a simple, solid black design without any patterns or markings."
+        },
+        {
+            "Question": "What type of <Rova> is this subject?",
+            "Answer": "The <Rova> is a circular harpoon with a black, three-pronged design."
+        },
+        {
+            "Question": "Does <Rova> have any distinctive features or details?",
+            "Answer": "<Rova> has a circular shape with three prongs and is attached to a long handle."
+        },
+        {
+            "Question": "What's <Rova> general texture like?",
+            "Answer": "<Rova> has a smooth and metallic texture."
+        },
+        {
+            "Question": "How would you describe <Rova> overall appearance?",
+            "Answer": "<Rova> is a black, circular harpoon with three prongs, each tipped with a small, round knob. It is attached to a long handle, which is wrapped in a white grip."
+        }
+    ],
+    "two_concept/two_concept/concept/train/Rova/4.png": [
+        {
+            "Question": "What color is <Rova>?",
+            "Answer": "<Rova> is green."
+        },
+        {
+            "Question": "What shape does <Rova> have?",
+            "Answer": "<Rova> has a circular shape."
+        },
+        {
+            "Question": "What is the overall vibe of <Rova>?",
+            "Answer": "<Rova> has a rugged and adventurous vibe, with its anime style and circular design suggesting a tool used for dynamic and action-packed scenarios."
+        },
+        {
+            "Question": "What material is <Rova> made of?",
+            "Answer": "The image does not provide enough detail to determine the specific material <Rova> is made of."
+        },
+        {
+            "Question": "What size is this <Rova>?",
+            "Answer": "The <Rova> appears to be large, as it is being held with both hands by a person, suggesting it is sizable enough to require a firm grip."
+        },
+        {
+            "Question": "Does <Rova> have any patterns or markings?",
+            "Answer": "<Rova> has a series of evenly spaced notches or prongs around its circular edge."
+        },
+        {
+            "Question": "What type of <Rova> is this subject?",
+            "Answer": "This <Rova> is a circular harpoon with a distinctive anime style, featuring a curved, open-ended design with multiple prongs."
+        },
+        {
+            "Question": "Does <Rova> have any distinctive features or details?",
+            "Answer": "<Rova> has a circular design with multiple prongs extending inward, giving it a unique and distinctive appearance."
+        },
+        {
+            "Question": "What's <Rova> general texture like?",
+            "Answer": "<Rova> has a smooth and metallic texture."
+        },
+        {
+            "Question": "How would you describe <Rova> overall appearance?",
+            "Answer": "<Rova> has a sleek, circular design with a metallic finish and multiple prongs extending inward, giving it a distinctive anime style."
+        }
+    ],
+    "two_concept/two_concept/concept/train/Rova/5.png": [
+        {
+            "Question": "What color is <Rova>?",
+            "Answer": "<Rova> is green and white."
+        },
+        {
+            "Question": "What shape does <Rova> have?",
+            "Answer": "<Rova> has a circular shape."
+        },
+        {
+            "Question": "What is the overall vibe of <Rova>?",
+            "Answer": "<Rova> has a sleek and futuristic anime style with a circular design, giving it a dynamic and adventurous vibe."
+        },
+        {
+            "Question": "What material is <Rova> made of?",
+            "Answer": "The material of <Rova> is not clearly identifiable from the image."
+        },
+        {
+            "Question": "What size is this <Rova>?",
+            "Answer": "The <Rova> is large, extending from the person's hand to beyond their shoulder."
+        },
+        {
+            "Question": "Does <Rova> have any patterns or markings?",
+            "Answer": "<Rova> does not have any patterns or markings; it is a solid green color."
+        },
+        {
+            "Question": "What type of <Rova> is this subject?",
+            "Answer": "The <Rova> is a circular harpoon with a green and white shaft and a circular, claw-like end."
+        },
+        {
+            "Question": "Does <Rova> have any distinctive features or details?",
+            "Answer": "<Rova> has a circular design with a green and white color scheme, featuring multiple prongs at the end."
+        },
+        {
+            "Question": "What's <Rova> general texture like?",
+            "Answer": "<Rova> has a smooth and sleek texture, typical of a stylized anime harpoon."
+        },
+        {
+            "Question": "How would you describe <Rova> overall appearance?",
+            "Answer": "<Rova> has a long, slender shaft with a green and white color scheme, ending in a circular, claw-like harpoon head."
+        }
+    ],
+    "two_concept/two_concept/concept/train/Rova/6.png": [
+        {
+            "Question": "What color is <Rova>?",
+            "Answer": "<Rova> is green."
+        },
+        {
+            "Question": "What shape does <Rova> have?",
+            "Answer": "<Rova> has a circular shape with a unique design featuring multiple prongs or hooks."
+        },
+        {
+            "Question": "What is the overall vibe of <Rova>?",
+            "Answer": "<Rova> has a vibrant and dynamic vibe, with its bright green color and unique circular design, giving it an energetic and adventurous feel."
+        },
+        {
+            "Question": "What material is <Rova> made of?",
+            "Answer": "<Rova> appears to be made of a green metal or metallic material."
+        },
+        {
+            "Question": "What size is this <Rova>?",
+            "Answer": "The <Rova> appears to be medium-sized, as it is being held comfortably in one hand."
+        },
+        {
+            "Question": "Does <Rova> have any patterns or markings?",
+            "Answer": "<Rova> has a smooth surface without any distinct patterns or markings."
+        },
+        {
+            "Question": "What type of <Rova> is this subject?",
+            "Answer": "This <Rova> is a circular harpoon with a green color and a unique design featuring multiple prongs and a dangling ornament."
+        },
+        {
+            "Question": "Does <Rova> have any distinctive features or details?",
+            "Answer": "<Rova> has a circular design with a green color and features a dangling ornament below it."
+        },
+        {
+            "Question": "What's <Rova> general texture like?",
+            "Answer": "<Rova> has a smooth and glossy texture."
+        },
+        {
+            "Question": "How would you describe <Rova> overall appearance?",
+            "Answer": "<Rova> is a green, circular harpoon with a unique design featuring multiple prongs and a dangling ornament."
+        }
+    ],
+    "two_concept/two_concept/concept/train/Rova/7.png": [
+        {
+            "Question": "What color is <Rova>?",
+            "Answer": "<Rova> is black."
+        },
+        {
+            "Question": "What shape does <Rova> have?",
+            "Answer": "<Rova> has a circular shape."
+        },
+        {
+            "Question": "What is the overall vibe of <Rova>?",
+            "Answer": "<Rova> has a dynamic and aggressive vibe, with its circular design and sharp, pointed features suggesting action and intensity."
+        },
+        {
+            "Question": "What material is <Rova> made of?",
+            "Answer": "<Rova> appears to be made of metal."
+        },
+        {
+            "Question": "What size is this <Rova>?",
+            "Answer": "The <Rova> is large, as it is being held with both hands and spans a significant portion of the image."
+        },
+        {
+            "Question": "Does <Rova> have any patterns or markings?",
+            "Answer": "<Rova> does not have any patterns or markings; it appears to be a smooth, solid-colored circular harpoon."
+        },
+        {
+            "Question": "What type of <Rova> is this subject?",
+            "Answer": "This <Rova> is a circular harpoon with a black, curved design and multiple attachment points."
+        },
+        {
+            "Question": "Does <Rova> have any distinctive features or details?",
+            "Answer": "<Rova> has a circular shape with a sleek, black finish and multiple protruding hooks or barbs around its edge."
+        },
+        {
+            "Question": "What's <Rova> general texture like?",
+            "Answer": "<Rova> has a smooth and metallic texture."
+        },
+        {
+            "Question": "How would you describe <Rova> overall appearance?",
+            "Answer": "<Rova> has a sleek, circular design with a black finish and multiple prongs extending from its curved frame. It is held by a handle wrapped in white material, giving it a sturdy grip."
+        }
+    ],
+    "two_concept/two_concept/concept/train/Rova/8.png": [
+        {
+            "Question": "What color is <Rova>?",
+            "Answer": "<Rova> is green."
+        },
+        {
+            "Question": "What shape does <Rova> have?",
+            "Answer": "<Rova> has a circular shape."
+        },
+        {
+            "Question": "What is the overall vibe of <Rova>?",
+            "Answer": "<Rova> has a dynamic and action-oriented vibe, with a sleek and sharp design that suggests agility and precision."
+        },
+        {
+            "Question": "What material is <Rova> made of?",
+            "Answer": "The image does not provide enough detail to determine the material of <Rova>."
+        },
+        {
+            "Question": "What size is this <Rova>?",
+            "Answer": "The <Rova> is large, as it is being wielded by a character and extends significantly in length."
+        },
+        {
+            "Question": "Does <Rova> have any patterns or markings?",
+            "Answer": "<Rova> has a green circular design with no distinct patterns or markings visible."
+        },
+        {
+            "Question": "What type of <Rova> is this subject?",
+            "Answer": "The <Rova> is a circular harpoon with a green, circular blade at the end."
+        },
+        {
+            "Question": "Does <Rova> have any distinctive features or details?",
+            "Answer": "<Rova> has a circular shape with a green color and a pointed tip, resembling a harpoon."
+        },
+        {
+            "Question": "What's <Rova> general texture like?",
+            "Answer": "<Rova> has a smooth and metallic texture."
+        },
+        {
+            "Question": "How would you describe <Rova> overall appearance?",
+            "Answer": "<Rova> has a sleek, circular design with a green color and sharp, pointed ends, giving it a dynamic and aggressive appearance."
+        }
+    ],
+    "two_concept/two_concept/concept/train/Rova/9.png": [
+        {
+            "Question": "What color is <Rova>?",
+            "Answer": "<Rova> is black."
+        },
+        {
+            "Question": "What shape does <Rova> have?",
+            "Answer": "<Rova> has a circular shape."
+        },
+        {
+            "Question": "What is the overall vibe of <Rova>?",
+            "Answer": "The overall vibe of <Rova> is dynamic and action-oriented, with a bold and adventurous anime style."
+        },
+        {
+            "Question": "What material is <Rova> made of?",
+            "Answer": "<Rova> appears to be made of a dark, metallic material."
+        },
+        {
+            "Question": "What size is this <Rova>?",
+            "Answer": "The <Rova> is large, as it is being held with both hands by the character and appears to be about the size of the character's upper body."
+        },
+        {
+            "Question": "Does <Rova> have any patterns or markings?",
+            "Answer": "<Rova> does not have any patterns or markings; it appears to be a solid black circular harpoon."
+        },
+        {
+            "Question": "What type of <Rova> is this subject?",
+            "Answer": "The subject is a circular harpoon with a black circular frame and multiple prongs, consistent with the anime style description of <Rova>."
+        },
+        {
+            "Question": "Does <Rova> have any distinctive features or details?",
+            "Answer": "<Rova> has a circular shape with multiple prongs and is connected by ropes, giving it a harpoon-like appearance."
+        },
+        {
+            "Question": "What's <Rova> general texture like?",
+            "Answer": "<Rova> has a smooth and shiny texture."
+        },
+        {
+            "Question": "How would you describe <Rova> overall appearance?",
+            "Answer": "<Rova> is a large, black, circular harpoon with multiple prongs and ropes attached, giving it a robust and mechanical appearance."
+        }
+    ]
+}

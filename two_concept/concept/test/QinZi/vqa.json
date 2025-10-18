@@ -1,0 +1,22 @@
+{
+    "two_concept/concept/test/QinZi/0.png": {
+        "Human": "What is the expression on <QinZi>'s face?",
+        "AI": "<QinZi> has a determined and slightly angry expression on their face."
+    },
+    "two_concept/concept/test/QinZi/1.png": {
+        "Human": "What color is <QinZi>'s hair in the image?",
+        "AI": "<QinZi> has red hair in the image."
+    },
+    "two_concept/concept/test/QinZi/2.png": {
+        "Human": "What type of clothing is <QinZi> wearing in the image?",
+        "AI": "<QinZi> is wearing a white shirt with orange spots and a green apron."
+    },
+    "two_concept/concept/test/QinZi/3.png": {
+        "Human": "What is the expression on <QinZi>'s face in the image?",
+        "AI": "<QinZi> has a serious and determined expression on their face."
+    },
+    "two_concept/concept/test/QinZi/4.png": {
+        "Human": "What color is <QinZi>'s hair?",
+        "AI": "<QinZi> has brown hair."
+    }
+}

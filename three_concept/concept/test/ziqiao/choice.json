@@ -1,0 +1,22 @@
+{
+    "three_concept/concept/test/ziqiao/0.png": {
+        "Human": "What type of pattern is on <ziqiao>'s suit? A. Stripes; B. Plaid; C. Polka dots;",
+        "AI": "B"
+    },
+    "three_concept/concept/test/ziqiao/1.png": {
+        "Human": "What color is <ziqiao>'s shirt? A. Blue; B. White; C. Black;",
+        "AI": "A"
+    },
+    "three_concept/concept/test/ziqiao/2.png": {
+        "Human": "What type of suit is <ziqiao> wearing? A. Striped; B. Checkered; C. Plain;",
+        "AI": "B"
+    },
+    "three_concept/concept/test/ziqiao/3.png": {
+        "Human": "What is <ziqiao> holding in the image? A. A book; B. A card; C. A phone;",
+        "AI": "B"
+    },
+    "three_concept/concept/test/ziqiao/4.png": {
+        "Human": "What accessory is <ziqiao> wearing on his suit? A. A red tie; B. A black bow tie; C. A blue scarf;",
+        "AI": "B"
+    }
+}

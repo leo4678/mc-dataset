@@ -1,0 +1,27 @@
+{
+    "0.png": {
+        "<Harry>": "right",
+        "<Hermione>": "middle",
+        "<Ron>": "left"
+    },
+    "1.png": {
+        "<Harry>": "middle",
+        "<Hermione>": "left",
+        "<Ron>": "right"
+    },
+    "2.png": {
+        "<Harry>": "right",
+        "<Hermione>": "middle",
+        "<Ron>": "left"
+    },
+    "3.png": {
+        "<Harry>": "middle",
+        "<Hermione>": "left",
+        "<Ron>": "right"
+    },
+    "4.png": {
+        "<Harry>": "right",
+        "<Hermione>": "middle",
+        "<Ron>": "left"
+    }
+}

@@ -1,0 +1,418 @@
+{
+    "two_concept/concept/train/Si/0.png": [
+        {
+            "Question": "What is <Si> hair color?",
+            "Answer": "<Si>'s hair color is pink."
+        },
+        {
+            "Question": "What color are <Si> eyes?",
+            "Answer": "<Si>'s eyes are red."
+        },
+        {
+            "Question": "Would you describe <Si>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<Si>'s physique is slim."
+        },
+        {
+            "Question": "What is <Si> skin tone?",
+            "Answer": "<Si>'s skin tone is pale."
+        },
+        {
+            "Question": "How would you describe <Si> hairstyle?",
+            "Answer": "<Si> has long, straight pink hair with bangs that cover her forehead and a hair clip on the side."
+        },
+        {
+            "Question": "Does <Si> wear glasses or any accessories?",
+            "Answer": "<Si> wears a purple hair clip on the right side of her head. She does not wear glasses."
+        },
+        {
+            "Question": "How would you describe <Si>'s attire?",
+            "Answer": "<Si> is wearing a sleeveless top with thin straps."
+        },
+        {
+            "Question": "Does <Si> have any distinctive facial features?",
+            "Answer": "<Si> has distinctive red eyes and blush marks on her cheeks."
+        },
+        {
+            "Question": "What is <Si> overall build or physique?",
+            "Answer": "<Si> has a slender and petite build."
+        },
+        {
+            "Question": "What is <Si> general expression or demeanor?",
+            "Answer": "<Si> has a serious and slightly annoyed expression."
+        }
+    ],
+    "two_concept/concept/train/Si/1.png": [
+        {
+            "Question": "What is <Si> hair color?",
+            "Answer": "<Si>'s hair color is pink."
+        },
+        {
+            "Question": "What color are <Si> eyes?",
+            "Answer": "<Si>'s eyes are red with orange highlights."
+        },
+        {
+            "Question": "Would you describe <Si>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<Si>'s physique appears to be slim."
+        },
+        {
+            "Question": "What is <Si> skin tone?",
+            "Answer": "<Si>'s skin tone is fair."
+        },
+        {
+            "Question": "How would you describe <Si> hairstyle?",
+            "Answer": "<Si> has long, straight hair with bangs that partially cover the forehead. The hair is tied back with a purple hair accessory."
+        },
+        {
+            "Question": "Does <Si> wear glasses or any accessories?",
+            "Answer": "<Si> wears a purple hair accessory."
+        },
+        {
+            "Question": "How would you describe <Si>'s attire?",
+            "Answer": "<Si> is wearing a black high-collared outfit with red and white accents."
+        },
+        {
+            "Question": "Does <Si> have any distinctive facial features?",
+            "Answer": "<Si> has large, expressive eyes with a unique gradient of red and orange."
+        },
+        {
+            "Question": "What is <Si> overall build or physique?",
+            "Answer": "<Si> has a slender and petite build."
+        },
+        {
+            "Question": "What is <Si> general expression or demeanor?",
+            "Answer": "<Si> has a serious and focused expression."
+        }
+    ],
+    "two_concept/concept/train/Si/2.png": [
+        {
+            "Question": "What is <Si> hair color?",
+            "Answer": "<Si>'s hair color is pink."
+        },
+        {
+            "Question": "What color are <Si> eyes?",
+            "Answer": "<Si>'s eyes are red."
+        },
+        {
+            "Question": "Would you describe <Si>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<Si>'s physique is best described as slim."
+        },
+        {
+            "Question": "What is <Si> skin tone?",
+            "Answer": "<Si> has a fair skin tone."
+        },
+        {
+            "Question": "How would you describe <Si> hairstyle?",
+            "Answer": "<Si> has long, straight pink hair with bangs that cover her forehead."
+        },
+        {
+            "Question": "Does <Si> wear glasses or any accessories?",
+            "Answer": "<Si> wears a purple hair clip but does not wear glasses."
+        },
+        {
+            "Question": "How would you describe <Si>'s attire?",
+            "Answer": "<Si> is wearing a long-sleeved white shirt and a black skirt."
+        },
+        {
+            "Question": "Does <Si> have any distinctive facial features?",
+            "Answer": "<Si> has red eyes and pink hair with bangs."
+        },
+        {
+            "Question": "What is <Si> overall build or physique?",
+            "Answer": "<Si> has a slender and petite build."
+        },
+        {
+            "Question": "What is <Si> general expression or demeanor?",
+            "Answer": "<Si> has a calm and neutral expression."
+        }
+    ],
+    "two_concept/concept/train/Si/3.png": [
+        {
+            "Question": "What is <Si> hair color?",
+            "Answer": "<Si>'s hair color is pink."
+        },
+        {
+            "Question": "What color are <Si> eyes?",
+            "Answer": "<Si>'s eyes are red with an orange gradient."
+        },
+        {
+            "Question": "Would you describe <Si>'s physique as athletic, slim, or otherwise?",
+            "Answer": "I cannot determine <Si>'s physique from this image."
+        },
+        {
+            "Question": "What is <Si> skin tone?",
+            "Answer": "<Si>'s skin tone is light."
+        },
+        {
+            "Question": "How would you describe <Si> hairstyle?",
+            "Answer": "<Si> has straight, medium-length hair with bangs that cover the forehead. The hair is a vibrant pink color."
+        },
+        {
+            "Question": "Does <Si> wear glasses or any accessories?",
+            "Answer": "<Si> does not wear glasses or any accessories."
+        },
+        {
+            "Question": "How would you describe <Si>'s attire?",
+            "Answer": "<Si>'s attire is not visible in the image."
+        },
+        {
+            "Question": "Does <Si> have any distinctive facial features?",
+            "Answer": "<Si> has distinctive, large, and vibrant red-orange eyes."
+        },
+        {
+            "Question": "What is <Si> overall build or physique?",
+            "Answer": "<Si> has a slender and delicate build."
+        },
+        {
+            "Question": "What is <Si> general expression or demeanor?",
+            "Answer": "<Si> has a neutral and slightly surprised expression."
+        }
+    ],
+    "two_concept/concept/train/Si/4.png": [
+        {
+            "Question": "What is <Si> hair color?",
+            "Answer": "<Si>'s hair color is pink."
+        },
+        {
+            "Question": "What color are <Si> eyes?",
+            "Answer": "<Si>'s eyes are red."
+        },
+        {
+            "Question": "Would you describe <Si>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<Si>'s physique is slim."
+        },
+        {
+            "Question": "What is <Si> skin tone?",
+            "Answer": "<Si> has a fair skin tone."
+        },
+        {
+            "Question": "How would you describe <Si> hairstyle?",
+            "Answer": "<Si> has long, straight pink hair with a hair clip on the side."
+        },
+        {
+            "Question": "Does <Si> wear glasses or any accessories?",
+            "Answer": "<Si> wears a purple hair clip but does not wear glasses."
+        },
+        {
+            "Question": "How would you describe <Si>'s attire?",
+            "Answer": "<Si> is wearing a long-sleeved, white shirt."
+        },
+        {
+            "Question": "Does <Si> have any distinctive facial features?",
+            "Answer": "<Si> has red eyes and pink hair."
+        },
+        {
+            "Question": "What is <Si> overall build or physique?",
+            "Answer": "<Si> has a slender and petite build."
+        },
+        {
+            "Question": "What is <Si> general expression or demeanor?",
+            "Answer": "<Si> has a calm and neutral expression."
+        }
+    ],
+    "two_concept/concept/train/Si/5.png": [
+        {
+            "Question": "What is <Si> hair color?",
+            "Answer": "<Si>'s hair color is pink."
+        },
+        {
+            "Question": "What color are <Si> eyes?",
+            "Answer": "<Si>'s eyes are red."
+        },
+        {
+            "Question": "Would you describe <Si>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<Si>'s physique appears to be slim."
+        },
+        {
+            "Question": "What is <Si> skin tone?",
+            "Answer": "<Si>'s skin tone is fair."
+        },
+        {
+            "Question": "How would you describe <Si> hairstyle?",
+            "Answer": "<Si>'s hairstyle is long, straight, and features bangs that cover the forehead."
+        },
+        {
+            "Question": "Does <Si> wear glasses or any accessories?",
+            "Answer": "<Si> wears a purple hair accessory."
+        },
+        {
+            "Question": "How would you describe <Si>'s attire?",
+            "Answer": "<Si> is wearing a purple headband. The rest of the attire is not visible in the image."
+        },
+        {
+            "Question": "Does <Si> have any distinctive facial features?",
+            "Answer": "<Si> has a distinctive hairstyle with bangs that cover the forehead and a hair clip on the side."
+        },
+        {
+            "Question": "What is <Si> overall build or physique?",
+            "Answer": "<Si> has a slender and petite build."
+        },
+        {
+            "Question": "What is <Si> general expression or demeanor?",
+            "Answer": "<Si> has a calm and content expression."
+        }
+    ],
+    "two_concept/concept/train/Si/6.png": [
+        {
+            "Question": "What is <Si> hair color?",
+            "Answer": "<Si>'s hair color is pink."
+        },
+        {
+            "Question": "What color are <Si> eyes?",
+            "Answer": "<Si>'s eyes are red."
+        },
+        {
+            "Question": "Would you describe <Si>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<Si>'s physique is slim."
+        },
+        {
+            "Question": "What is <Si> skin tone?",
+            "Answer": "<Si>'s skin tone is pale."
+        },
+        {
+            "Question": "How would you describe <Si> hairstyle?",
+            "Answer": "<Si> has long, straight hair with bangs that partially cover the forehead."
+        },
+        {
+            "Question": "Does <Si> wear glasses or any accessories?",
+            "Answer": "<Si> does not wear glasses or any accessories."
+        },
+        {
+            "Question": "How would you describe <Si>'s attire?",
+            "Answer": "<Si> is wearing a light-colored shirt with a purple collar."
+        },
+        {
+            "Question": "Does <Si> have any distinctive facial features?",
+            "Answer": "<Si> has distinctive red eyes."
+        },
+        {
+            "Question": "What is <Si> overall build or physique?",
+            "Answer": "<Si> has a slender and petite build."
+        },
+        {
+            "Question": "What is <Si> general expression or demeanor?",
+            "Answer": "<Si> has a generally tired or uninterested expression."
+        }
+    ],
+    "two_concept/concept/train/Si/7.png": [
+        {
+            "Question": "What is <Si> hair color?",
+            "Answer": "<Si>'s hair color is pink."
+        },
+        {
+            "Question": "What color are <Si> eyes?",
+            "Answer": "<Si>'s eyes are red."
+        },
+        {
+            "Question": "Would you describe <Si>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<Si>'s physique can be described as slim."
+        },
+        {
+            "Question": "What is <Si> skin tone?",
+            "Answer": "<Si>'s skin tone is fair."
+        },
+        {
+            "Question": "How would you describe <Si> hairstyle?",
+            "Answer": "<Si> has long, straight pink hair with bangs that cover the forehead."
+        },
+        {
+            "Question": "Does <Si> wear glasses or any accessories?",
+            "Answer": "<Si> does not wear glasses or any accessories."
+        },
+        {
+            "Question": "How would you describe <Si>'s attire?",
+            "Answer": "<Si> is wearing a white long-sleeved shirt with a black turtleneck underneath and a red trim around the collar."
+        },
+        {
+            "Question": "Does <Si> have any distinctive facial features?",
+            "Answer": "<Si> has distinctive red eyes."
+        },
+        {
+            "Question": "What is <Si> overall build or physique?",
+            "Answer": "<Si> has a slender and petite build."
+        },
+        {
+            "Question": "What is <Si> general expression or demeanor?",
+            "Answer": "<Si> has a neutral and calm expression."
+        }
+    ],
+    "two_concept/concept/train/Si/8.png": [
+        {
+            "Question": "What is <Si> hair color?",
+            "Answer": "<Si>'s hair color is pink."
+        },
+        {
+            "Question": "What color are <Si> eyes?",
+            "Answer": "<Si>'s eyes are closed in the image."
+        },
+        {
+            "Question": "Would you describe <Si>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<Si>'s physique can be described as slim."
+        },
+        {
+            "Question": "What is <Si> skin tone?",
+            "Answer": "<Si>'s skin tone is fair."
+        },
+        {
+            "Question": "How would you describe <Si> hairstyle?",
+            "Answer": "<Si>'s hairstyle is long, straight, and pink, with bangs that cover her forehead. She also has a purple hair clip on the side."
+        },
+        {
+            "Question": "Does <Si> wear glasses or any accessories?",
+            "Answer": "<Si> is wearing a purple hair clip but does not wear glasses."
+        },
+        {
+            "Question": "How would you describe <Si>'s attire?",
+            "Answer": "<Si> is wearing a white long-sleeved shirt with a pink apron over it."
+        },
+        {
+            "Question": "Does <Si> have any distinctive facial features?",
+            "Answer": "\"<Si> has a distinctive blush on her cheeks.\""
+        },
+        {
+            "Question": "What is <Si> overall build or physique?",
+            "Answer": "<Si> has a slender and petite build."
+        },
+        {
+            "Question": "What is <Si> general expression or demeanor?",
+            "Answer": "<Si> has a shy and blushing expression."
+        }
+    ],
+    "two_concept/concept/train/Si/9.png": [
+        {
+            "Question": "What is <Si> hair color?",
+            "Answer": "<Si>'s hair color is pink."
+        },
+        {
+            "Question": "What color are <Si> eyes?",
+            "Answer": "I cannot determine the color of <Si>'s eyes from the image."
+        },
+        {
+            "Question": "Would you describe <Si>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<Si>'s physique can be described as slim."
+        },
+        {
+            "Question": "What is <Si> skin tone?",
+            "Answer": "<Si>'s skin tone is fair."
+        },
+        {
+            "Question": "How would you describe <Si> hairstyle?",
+            "Answer": "<Si>'s hairstyle is long, straight, and pink, with a purple hair accessory on the side."
+        },
+        {
+            "Question": "Does <Si> wear glasses or any accessories?",
+            "Answer": "<Si> is wearing a purple hair accessory."
+        },
+        {
+            "Question": "How would you describe <Si>'s attire?",
+            "Answer": "<Si> is wearing a white long-sleeved shirt and a pink apron."
+        },
+        {
+            "Question": "What is <Si> overall build or physique?",
+            "Answer": "<Si> has a slender build."
+        },
+        {
+            "Question": "What is <Si> general expression or demeanor?",
+            "Answer": "<Si> appears to have a welcoming and open demeanor, suggested by the open arms and relaxed posture."
+        }
+    ]
+}

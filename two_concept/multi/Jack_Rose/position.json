@@ -1,0 +1,22 @@
+{
+    "0.png": {
+        "<Jack>": "right",
+        "<Rose>": "left"
+    },
+    "1.png": {
+        "<Jack>": "right",
+        "<Rose>": "left"
+    },
+    "2.png": {
+        "<Jack>": "right",
+        "<Rose>": "left"
+    },
+    "3.png": {
+        "<Jack>": "left",
+        "<Rose>": "right"
+    },
+    "4.png": {
+        "<Jack>": "left",
+        "<Rose>": "right"
+    }
+}

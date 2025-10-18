@@ -1,0 +1,422 @@
+{
+    "two_concept/concept/train/Huitailang/0.jpg": [
+        {
+            "Question": "What is <Huitailang> hair color?",
+            "Answer": "<Huitailang>'s hair color is dark gray."
+        },
+        {
+            "Question": "What color are <Huitailang> eyes?",
+            "Answer": "<Huitailang>'s eyes are white with black pupils."
+        },
+        {
+            "Question": "Would you describe <Huitailang>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<Huitailang>'s physique is slim."
+        },
+        {
+            "Question": "What is <Huitailang> skin tone?",
+            "Answer": "<Huitailang>'s skin tone is dark gray."
+        },
+        {
+            "Question": "How would you describe <Huitailang> hairstyle?",
+            "Answer": "<Huitailang>'s hairstyle features a small, brown patch on top of his head with a stitched pattern."
+        },
+        {
+            "Question": "Does <Huitailang> wear glasses or any accessories?",
+            "Answer": "<Huitailang> is wearing a brown hat with a patch on it."
+        },
+        {
+            "Question": "How would you describe <Huitailang>'s attire?",
+            "Answer": "<Huitailang> is wearing a white outfit with red buttons, white gloves, and white shoes. He also has a brown patch on his head."
+        },
+        {
+            "Question": "Does <Huitailang> have any distinctive facial features?",
+            "Answer": "<Huitailang> has distinctive facial features including large, round eyes, thick eyebrows, a black nose, and visible fangs."
+        },
+        {
+            "Question": "What is <Huitailang> overall build or physique?",
+            "Answer": "<Huitailang> has a small and stout build."
+        },
+        {
+            "Question": "What is <Huitailang> general expression or demeanor?",
+            "Answer": "<Huitailang> has a serious and determined expression."
+        }
+    ],
+    "two_concept/concept/train/Huitailang/1.jpg": [
+        {
+            "Question": "What is <Huitailang> hair color?",
+            "Answer": "<Huitailang> does not have visible hair; instead, he has gray fur."
+        },
+        {
+            "Question": "What color are <Huitailang> eyes?",
+            "Answer": "<Huitailang>'s eyes are white with black pupils."
+        },
+        {
+            "Question": "Would you describe <Huitailang>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<Huitailang>'s physique appears to be slim."
+        },
+        {
+            "Question": "What is <Huitailang> skin tone?",
+            "Answer": "<Huitailang>'s skin tone is gray."
+        },
+        {
+            "Question": "How would you describe <Huitailang> hairstyle?",
+            "Answer": "\"<Huitailang> has no visible hair, but wears a patched hat on his head.\""
+        },
+        {
+            "Question": "Does <Huitailang> wear glasses or any accessories?",
+            "Answer": "<Huitailang> is wearing a patched hat and has a bandage on his head. He is not wearing glasses."
+        },
+        {
+            "Question": "How would you describe <Huitailang>'s attire?",
+            "Answer": "<Huitailang> is wearing a space suit with a rope tied around the neck area."
+        },
+        {
+            "Question": "Does <Huitailang> have any distinctive facial features?",
+            "Answer": "<Huitailang> has several distinctive facial features, including a bandage on the forehead, a patch on the ear, a stitched scar on the left cheek, and a hat on the head."
+        },
+        {
+            "Question": "What is <Huitailang> overall build or physique?",
+            "Answer": "<Huitailang> has a round and chubby build."
+        },
+        {
+            "Question": "What is <Huitailang> general expression or demeanor?",
+            "Answer": "<Huitailang> has a surprised or shocked expression."
+        }
+    ],
+    "two_concept/concept/train/Huitailang/2.jpg": [
+        {
+            "Question": "What is <Huitailang> hair color?",
+            "Answer": "<Huitailang>'s hair color is gray."
+        },
+        {
+            "Question": "What color are <Huitailang> eyes?",
+            "Answer": "<Huitailang>'s eyes are white with black pupils."
+        },
+        {
+            "Question": "Would you describe <Huitailang>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<Huitailang>'s physique is slim."
+        },
+        {
+            "Question": "What is <Huitailang> skin tone?",
+            "Answer": "<Huitailang>'s skin tone is gray."
+        },
+        {
+            "Question": "How would you describe <Huitailang> hairstyle?",
+            "Answer": "<Huitailang> has a short, spiky hairstyle with a patch on the top of the head."
+        },
+        {
+            "Question": "Does <Huitailang> wear glasses or any accessories?",
+            "Answer": "<Huitailang> wears a patched cap on his head."
+        },
+        {
+            "Question": "How would you describe <Huitailang>'s attire?",
+            "Answer": "<Huitailang> is wearing a white outfit with pink buttons, purple leggings, and white shoes. He also has a patched orange cap on his head."
+        },
+        {
+            "Question": "Does <Huitailang> have any distinctive facial features?",
+            "Answer": "<Huitailang> has large, wide-open eyes, a small black nose, and a patch on his forehead."
+        },
+        {
+            "Question": "What is <Huitailang> overall build or physique?",
+            "Answer": "<Huitailang> has a small and chubby build."
+        },
+        {
+            "Question": "What is <Huitailang> general expression or demeanor?",
+            "Answer": "<Huitailang> has a surprised and alarmed expression."
+        }
+    ],
+    "two_concept/concept/train/Huitailang/3.jpg": [
+        {
+            "Question": "What is <Huitailang> hair color?",
+            "Answer": "<Huitailang> does not have visible hair."
+        },
+        {
+            "Question": "What color are <Huitailang> eyes?",
+            "Answer": "<Huitailang>'s eyes are white with black pupils."
+        },
+        {
+            "Question": "Would you describe <Huitailang>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<Huitailang>'s physique is not clearly depicted in the image, so it is difficult to describe it as athletic, slim, or otherwise based on this image alone."
+        },
+        {
+            "Question": "What is <Huitailang> skin tone?",
+            "Answer": "<Huitailang>'s skin tone is dark gray."
+        },
+        {
+            "Question": "How would you describe <Huitailang> hairstyle?",
+            "Answer": "<Huitailang> is wearing a brown cap with a patch on it, covering his head."
+        },
+        {
+            "Question": "Does <Huitailang> wear glasses or any accessories?",
+            "Answer": "<Huitailang> wears a patched cap as an accessory."
+        },
+        {
+            "Question": "How would you describe <Huitailang>'s attire?",
+            "Answer": "<Huitailang> is wearing a brown patched cap and appears to have a metallic or robotic suit."
+        },
+        {
+            "Question": "Does <Huitailang> have any distinctive facial features?",
+            "Answer": "<Huitailang> has distinctive facial features including large, expressive eyes, a prominent black nose, and a mischievous grin with a visible fang. Additionally, <Huitailang> has thick eyebrows and a patch on the top of the head."
+        },
+        {
+            "Question": "What is <Huitailang> overall build or physique?",
+            "Answer": "<Huitailang> has a round and chubby build."
+        },
+        {
+            "Question": "What is <Huitailang> general expression or demeanor?",
+            "Answer": "<Huitailang> has a mischievous and excited expression."
+        }
+    ],
+    "two_concept/concept/train/Huitailang/4.jpg": [
+        {
+            "Question": "What is <Huitailang> hair color?",
+            "Answer": "<Huitailang>'s hair color is gray."
+        },
+        {
+            "Question": "What color are <Huitailang> eyes?",
+            "Answer": "<Huitailang>'s eyes are closed in the image."
+        },
+        {
+            "Question": "Would you describe <Huitailang>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<Huitailang>'s physique is best described as stocky."
+        },
+        {
+            "Question": "What is <Huitailang> skin tone?",
+            "Answer": "<Huitailang>'s skin tone is gray."
+        },
+        {
+            "Question": "How would you describe <Huitailang> hairstyle?",
+            "Answer": "\"<Huitailang> has a patch on the top of his head, suggesting a bald or shaved hairstyle.\""
+        },
+        {
+            "Question": "Does <Huitailang> wear glasses or any accessories?",
+            "Answer": "<Huitailang> wears a patched hat as an accessory."
+        },
+        {
+            "Question": "How would you describe <Huitailang>'s attire?",
+            "Answer": "<Huitailang> is wearing a white outfit with pink buttons and gloves."
+        },
+        {
+            "Question": "Does <Huitailang> have any distinctive facial features?",
+            "Answer": "<Huitailang> has distinctive facial features including a large black nose, prominent eyebrows, and a stitched patch on the top of the head."
+        },
+        {
+            "Question": "What is <Huitailang> overall build or physique?",
+            "Answer": "<Huitailang> has a small and round build."
+        },
+        {
+            "Question": "What is <Huitailang> general expression or demeanor?",
+            "Answer": "<Huitailang> has a happy and cheerful expression."
+        }
+    ],
+    "two_concept/concept/train/Huitailang/5.jpg": [
+        {
+            "Question": "What is <Huitailang> hair color?",
+            "Answer": "<Huitailang> does not have visible hair."
+        },
+        {
+            "Question": "What color are <Huitailang> eyes?",
+            "Answer": "<Huitailang>'s eyes are white with black pupils."
+        },
+        {
+            "Question": "Would you describe <Huitailang>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<Huitailang>'s physique is otherwise, appearing more cartoonish and not fitting typical human body descriptions like athletic or slim."
+        },
+        {
+            "Question": "What is <Huitailang> skin tone?",
+            "Answer": "<Huitailang>'s skin tone is gray."
+        },
+        {
+            "Question": "How would you describe <Huitailang> hairstyle?",
+            "Answer": "\"<Huitailang> has a patch of orange fabric on top of his head, resembling a hat or patch.\""
+        },
+        {
+            "Question": "Does <Huitailang> wear glasses or any accessories?",
+            "Answer": "\"<Huitailang> is wearing a patched hat on his head.\""
+        },
+        {
+            "Question": "How would you describe <Huitailang>'s attire?",
+            "Answer": "<Huitailang> is wearing a light purple outfit with a high collar and a patchwork hat."
+        },
+        {
+            "Question": "Does <Huitailang> have any distinctive facial features?",
+            "Answer": "<Huitailang> has large, round eyes, thick eyebrows, and prominent fangs."
+        },
+        {
+            "Question": "What is <Huitailang> overall build or physique?",
+            "Answer": "<Huitailang> has a small and stout build."
+        },
+        {
+            "Question": "What is <Huitailang> general expression or demeanor?",
+            "Answer": "<Huitailang> has a surprised or startled expression, with wide eyes and an open mouth showing teeth."
+        }
+    ],
+    "two_concept/concept/train/Huitailang/6.jpg": [
+        {
+            "Question": "What is <Huitailang> hair color?",
+            "Answer": "<Huitailang> does not have visible hair."
+        },
+        {
+            "Question": "What color are <Huitailang> eyes?",
+            "Answer": "<Huitailang>'s eyes are white with black pupils."
+        },
+        {
+            "Question": "Would you describe <Huitailang>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<Huitailang>'s physique cannot be determined from the image provided, as it only shows the character's face and upper body."
+        },
+        {
+            "Question": "What is <Huitailang> skin tone?",
+            "Answer": "<Huitailang>'s skin tone is gray."
+        },
+        {
+            "Question": "How would you describe <Huitailang> hairstyle?",
+            "Answer": "\"<Huitailang> has no visible hair, but wears a small, patched cap on his head.\""
+        },
+        {
+            "Question": "Does <Huitailang> wear glasses or any accessories?",
+            "Answer": "\"<Huitailang> is wearing a patched hat.\""
+        },
+        {
+            "Question": "How would you describe <Huitailang>'s attire?",
+            "Answer": "<Huitailang> is wearing a patched orange cap and a purple scarf."
+        },
+        {
+            "Question": "Does <Huitailang> have any distinctive facial features?",
+            "Answer": "<Huitailang> has distinctive facial features including large, wide eyes, thick eyebrows, a black nose, and a small fang protruding from the mouth."
+        },
+        {
+            "Question": "What is <Huitailang> overall build or physique?",
+            "Answer": "<Huitailang> has a round and chubby build."
+        },
+        {
+            "Question": "What is <Huitailang> general expression or demeanor?",
+            "Answer": "<Huitailang> has a surprised or shocked expression."
+        }
+    ],
+    "two_concept/concept/train/Huitailang/7.jpg": [
+        {
+            "Question": "What is <Huitailang> hair color?",
+            "Answer": "<Huitailang>'s hair color is gray."
+        },
+        {
+            "Question": "What color are <Huitailang> eyes?",
+            "Answer": "<Huitailang>'s eyes are white with black pupils."
+        },
+        {
+            "Question": "Would you describe <Huitailang>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<Huitailang>'s physique is slim."
+        },
+        {
+            "Question": "What is <Huitailang> skin tone?",
+            "Answer": "<Huitailang>'s skin tone is gray."
+        },
+        {
+            "Question": "How would you describe <Huitailang> hairstyle?",
+            "Answer": "<Huitailang> has a patch of hair on top of his head, with a noticeable patchwork design."
+        },
+        {
+            "Question": "Does <Huitailang> wear glasses or any accessories?",
+            "Answer": "<Huitailang> does not wear glasses but has a patch on his head."
+        },
+        {
+            "Question": "How would you describe <Huitailang>'s attire?",
+            "Answer": "<Huitailang> is wearing a patched cap, a white outfit with purple pants, and purple shoes."
+        },
+        {
+            "Question": "Does <Huitailang> have any distinctive facial features?",
+            "Answer": "<Huitailang> has distinctive facial features including large, expressive eyes with thick eyebrows, a black nose, and a patch on the top of the head."
+        },
+        {
+            "Question": "What is <Huitailang> overall build or physique?",
+            "Answer": "<Huitailang> has a small and stout build."
+        },
+        {
+            "Question": "What is <Huitailang> general expression or demeanor?",
+            "Answer": "<Huitailang> has an angry and determined expression."
+        }
+    ],
+    "two_concept/concept/train/Huitailang/8.jpg": [
+        {
+            "Question": "What is <Huitailang> hair color?",
+            "Answer": "<Huitailang>'s hair color is gray."
+        },
+        {
+            "Question": "What color are <Huitailang> eyes?",
+            "Answer": "<Huitailang>'s eyes are white with black pupils."
+        },
+        {
+            "Question": "Would you describe <Huitailang>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<Huitailang>'s physique is best described as slim."
+        },
+        {
+            "Question": "What is <Huitailang> skin tone?",
+            "Answer": "<Huitailang>'s skin tone is gray."
+        },
+        {
+            "Question": "How would you describe <Huitailang> hairstyle?",
+            "Answer": "<Huitailang> has short, spiky hair with a patch on top."
+        },
+        {
+            "Question": "Does <Huitailang> wear glasses or any accessories?",
+            "Answer": "<Huitailang> is wearing a hat but does not wear glasses."
+        },
+        {
+            "Question": "How would you describe <Huitailang>'s attire?",
+            "Answer": "<Huitailang> is wearing a light purple outfit with pink buttons, matching gloves, and shoes. He also has a patched orange hat on his head."
+        },
+        {
+            "Question": "Does <Huitailang> have any distinctive facial features?",
+            "Answer": "<Huitailang> has distinctive facial features including large, wide eyes, thick eyebrows, a small black nose, and a stitched scar on the left side of the face."
+        },
+        {
+            "Question": "What is <Huitailang> overall build or physique?",
+            "Answer": "<Huitailang> has a small and round build."
+        },
+        {
+            "Question": "What is <Huitailang> general expression or demeanor?",
+            "Answer": "<Huitailang> has a surprised or bewildered expression."
+        }
+    ],
+    "two_concept/concept/train/Huitailang/9.jpg": [
+        {
+            "Question": "What is <Huitailang> hair color?",
+            "Answer": "<Huitailang>'s hair color is gray."
+        },
+        {
+            "Question": "What color are <Huitailang> eyes?",
+            "Answer": "<Huitailang>'s eyes are white with black pupils."
+        },
+        {
+            "Question": "Would you describe <Huitailang>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<Huitailang>'s physique is best described as slim."
+        },
+        {
+            "Question": "What is <Huitailang> skin tone?",
+            "Answer": "<Huitailang>'s skin tone is gray."
+        },
+        {
+            "Question": "How would you describe <Huitailang> hairstyle?",
+            "Answer": "\"<Huitailang> has short, spiky hair with a patch on top.\""
+        },
+        {
+            "Question": "Does <Huitailang> wear glasses or any accessories?",
+            "Answer": "<Huitailang> is wearing a hat as an accessory."
+        },
+        {
+            "Question": "How would you describe <Huitailang>'s attire?",
+            "Answer": "<Huitailang> is wearing a white spacesuit with pink buttons and purple accents, along with matching gloves and boots. He also has a patched orange cap on his head."
+        },
+        {
+            "Question": "Does <Huitailang> have any distinctive facial features?",
+            "Answer": "<Huitailang> has distinctive facial features including a scar on the left side of the face, prominent eyebrows, and fangs."
+        },
+        {
+            "Question": "What is <Huitailang> overall build or physique?",
+            "Answer": "<Huitailang> has a small and stout build."
+        },
+        {
+            "Question": "What is <Huitailang> general expression or demeanor?",
+            "Answer": "<Huitailang> has an angry or determined expression."
+        }
+    ]
+}

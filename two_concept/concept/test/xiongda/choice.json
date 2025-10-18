@@ -1,0 +1,22 @@
+{
+    "two_concept/concept/test/xiongda/0.png": {
+        "Human": "What is <xiongda> doing in the image?  A. Climbing a tree; B. Lying down; C. Running;",
+        "AI": "B"
+    },
+    "two_concept/concept/test/xiongda/1.png": {
+        "Human": "What is the color of <xiongda>'s fur?  A. Brown; B. White; C. Black;",
+        "AI": "A"
+    },
+    "two_concept/concept/test/xiongda/2.png": {
+        "Human": "What is the expression on <xiongda>'s face?  A. Happy; B. Angry; C. Sad;",
+        "AI": "B"
+    },
+    "two_concept/concept/test/xiongda/3.png": {
+        "Human": "What is the color of <xiongda>'s fur?  A. Brown; B. Black; C. White;",
+        "AI": "A"
+    },
+    "two_concept/concept/test/xiongda/4.png": {
+        "Human": "What is <xiongda> doing in the image?  A. Singing; B. Looking up; C. Sleeping;",
+        "AI": "B"
+    }
+}

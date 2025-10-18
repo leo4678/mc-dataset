@@ -1,0 +1,22 @@
+{
+    "three_concept/concept/test/Wangdong/0.jpg": {
+        "Human": "What color is <Wangdong>'s hair? A. Blue; B. Green; C. Red;",
+        "AI": "A"
+    },
+    "three_concept/concept/test/Wangdong/1.jpg": {
+        "Human": "What color is <Wangdong>'s hair? A. Blue; B. Green; C. Red;",
+        "AI": "A"
+    },
+    "three_concept/concept/test/Wangdong/3.jpg": {
+        "Human": "What color is <Wangdong>'s hair? A. Blue and pink; B. Green and yellow; C. Red and black;",
+        "AI": "A"
+    },
+    "three_concept/concept/test/Wangdong/4.jpg": {
+        "Human": "What color is <Wangdong>'s hair? A. Blue; B. Green; C. Red;",
+        "AI": "A"
+    },
+    "three_concept/concept/test/Wangdong/5.jpg": {
+        "Human": "What color is <Wangdong>'s hair? A. Blue; B. Green; C. Red;",
+        "AI": "A"
+    }
+}

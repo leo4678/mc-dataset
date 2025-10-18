@@ -1,0 +1,22 @@
+{
+    "three_concept/concept/test/yifei/0.png": {
+        "Human": "What color is <yifei>'s shirt? A. Red; B. Blue; C. Green;",
+        "AI": "A"
+    },
+    "three_concept/concept/test/yifei/1.png": {
+        "Human": "What is the color of the shirt worn by <yifei>? A. White; B. Black; C. Blue;",
+        "AI": "A"
+    },
+    "three_concept/concept/test/yifei/2.png": {
+        "Human": "What hairstyle does <yifei> have in the image? A. Ponytail; B. Braids; C. Bun;",
+        "AI": "A"
+    },
+    "three_concept/concept/test/yifei/3.png": {
+        "Human": "What type of clothing is <yifei> wearing over her shirt? A. A denim jacket; B. A sheer blouse; C. A leather jacket;",
+        "AI": "B"
+    },
+    "three_concept/concept/test/yifei/4.png": {
+        "Human": "What is <yifei> wearing in the image? A. A striped shirt; B. A floral dress; C. A plain t-shirt;",
+        "AI": "A"
+    }
+}

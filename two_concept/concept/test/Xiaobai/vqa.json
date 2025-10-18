@@ -1,0 +1,22 @@
+{
+    "two_concept/concept/test/Xiaobai/0.jpg": {
+        "Human": "What accessory is <Xiaobai> wearing in her hair?",
+        "AI": "<Xiaobai> is wearing a green hairpin with dangling ornaments in her hair."
+    },
+    "two_concept/concept/test/Xiaobai/1.jpg": {
+        "Human": "What color is <Xiaobai>'s outfit in the image?",
+        "AI": "<Xiaobai>'s outfit is light blue."
+    },
+    "two_concept/concept/test/Xiaobai/2.jpg": {
+        "Human": "What accessory is <Xiaobai> wearing in her hair?",
+        "AI": "<Xiaobai> is wearing a green hairpin with dangling ornaments in her hair."
+    },
+    "two_concept/concept/test/Xiaobai/3.jpg": {
+        "Human": "What type of clothing is <Xiaobai> wearing in the image?",
+        "AI": "<Xiaobai> is wearing a traditional robe with light blue and white colors."
+    },
+    "two_concept/concept/test/Xiaobai/4.jpg": {
+        "Human": "What color is <Xiaobai>'s clothing in the image?",
+        "AI": "<Xiaobai>'s clothing is light blue."
+    }
+}

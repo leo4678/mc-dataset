@@ -1,0 +1,72 @@
+{
+    "two_concept/multi/Bafan_Xuezhixia/0.png": [
+        {
+            "Human": "What color is the bag <Bafan> is carrying? A. Blue. B. Red. C. Green",
+            "AI": "A"
+        },
+        {
+            "Human": "What is <Xuezhixia> doing in the image? A.talking to someone. B.thinking. C.writing something.",
+            "AI": "B"
+        },
+        {
+            "Human": "What is the background setting behind <Bafan> and <Xuezhixia>? A.school hallway. B.park. C.office",
+            "AI": "A"
+        }
+    ],
+    "two_concept/multi/Bafan_Xuezhixia/1.png": [
+        {
+            "Human": "What is <Bafan> wearing in the image? A. An orange shirt. B. A blue jacket with a bow. C. A red sweater.",
+            "AI": "A"
+        },
+        {
+            "Human": "What color is <Xuezhixia>'s cardigan in the image? A. Yellow B. Blue C. White",
+            "AI": "B"
+        },
+        {
+            "Human": "What are <Bafan> and <Xuezhixia> sitting next to? A. A tree. B. A wall. C. A red pillar.",
+            "AI": "C"
+        }
+    ],
+    "two_concept/multi/Bafan_Xuezhixia/2.png": [
+        {
+            "Human": "What is <Bafan> holding in the image? A. A laptop B. A stack of books",
+            "AI": "A"
+        },
+        {
+            "Human": "What is <Xuezhixia> holding in the image? A. a laptop. B. a pile of books and binders. C. a cup of coffee.",
+            "AI": "B"
+        },
+        {
+            "Human": "What is <Xuezhixia> holding in the image? A.a pile of books.  B.a laptop. C.a bag",
+            "AI": "A"
+        }
+    ],
+    "two_concept/multi/Bafan_Xuezhixia/3.png": [
+        {
+            "Human": "What color is the shirt <Bafan> is wearing? A.blue.  B.green.  C.red",
+            "AI": "A"
+        },
+        {
+            "Human": "What color are <Xuezhixia>'s eyes? A.brown. B.blue. C.green",
+            "AI": "B"
+        },
+        {
+            "Human": "What is the expression on <Xuezhixia>'s face in the image? A. happy. B. sad. C. angry",
+            "AI": "B"
+        }
+    ],
+    "two_concept/multi/Bafan_Xuezhixia/4.png": [
+        {
+            "Human": "What color is <Bafan>'s shirt? A. Orange. B. Blue. C. Green.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is <Xuezhixia> wearing in the image? A. A blue cardigan and white top. B. A green jacket and yellow shirt.",
+            "AI": "A"
+        },
+        {
+            "Human": "What color is <Bafan>'s shirt? A.blue. B.orange. C.green",
+            "AI": "B"
+        }
+    ]
+}

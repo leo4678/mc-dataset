@@ -1,0 +1,414 @@
+{
+    "two_concept/concept/train/Nezuko/0.png": [
+        {
+            "Question": "What is <Nezuko> hair color?",
+            "Answer": "<Nezuko>'s hair color is black."
+        },
+        {
+            "Question": "What color are <Nezuko> eyes?",
+            "Answer": "<Nezuko>'s eyes are red."
+        },
+        {
+            "Question": "Would you describe <Nezuko>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<Nezuko>'s physique is slim."
+        },
+        {
+            "Question": "What is <Nezuko> skin tone?",
+            "Answer": "<Nezuko>'s skin tone is pale."
+        },
+        {
+            "Question": "How would you describe <Nezuko> hairstyle?",
+            "Answer": "<Nezuko>'s hairstyle is long and flowing, with her hair extending well past her shoulders."
+        },
+        {
+            "Question": "Does <Nezuko> wear glasses or any accessories?",
+            "Answer": "<Nezuko> does not wear glasses or any accessories in the image."
+        },
+        {
+            "Question": "How would you describe <Nezuko>'s attire?",
+            "Answer": "<Nezuko> is wearing a traditional Japanese kimono with a dark outer layer and a lighter inner layer."
+        },
+        {
+            "Question": "Does <Nezuko> have any distinctive facial features?",
+            "Answer": "<Nezuko> has distinctive facial features, including red eyes with a slit pupil, a horn on her forehead, and prominent vein-like markings on her face."
+        },
+        {
+            "Question": "What is <Nezuko> overall build or physique?",
+            "Answer": "<Nezuko> has a slender and athletic build."
+        },
+        {
+            "Question": "What is <Nezuko> general expression or demeanor?",
+            "Answer": "<Nezuko>'s general expression or demeanor is aggressive and intense, with a fierce look in her eyes and a wide, menacing grin."
+        }
+    ],
+    "two_concept/concept/train/Nezuko/1.png": [
+        {
+            "Question": "What is <Nezuko> hair color?",
+            "Answer": "<Nezuko>'s hair color is black."
+        },
+        {
+            "Question": "What color are <Nezuko> eyes?",
+            "Answer": "<Nezuko>'s eyes are pink."
+        },
+        {
+            "Question": "Would you describe <Nezuko>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<Nezuko>'s physique can be described as slim."
+        },
+        {
+            "Question": "What is <Nezuko> skin tone?",
+            "Answer": "<Nezuko>'s skin tone is pale."
+        },
+        {
+            "Question": "How would you describe <Nezuko> hairstyle?",
+            "Answer": "<Nezuko>'s hairstyle is long, wavy, and black, with a pink ribbon tied on the right side of her head."
+        },
+        {
+            "Question": "Does <Nezuko> wear glasses or any accessories?",
+            "Answer": "<Nezuko> wears a pink ribbon in her hair but does not wear glasses."
+        },
+        {
+            "Question": "How would you describe <Nezuko>'s attire?",
+            "Answer": "<Nezuko> is wearing a traditional Japanese kimono with a pink geometric pattern, a black haori over it, and a bamboo muzzle in her mouth. She also has a pink ribbon in her hair."
+        },
+        {
+            "Question": "Does <Nezuko> have any distinctive facial features?",
+            "Answer": "<Nezuko> has distinctive pink eyes and a bamboo muzzle covering her mouth."
+        },
+        {
+            "Question": "What is <Nezuko> overall build or physique?",
+            "Answer": "<Nezuko> has a slender and petite build."
+        },
+        {
+            "Question": "What is <Nezuko> general expression or demeanor?",
+            "Answer": "<Nezuko> has a calm and neutral expression."
+        }
+    ],
+    "two_concept/concept/train/Nezuko/2.png": [
+        {
+            "Question": "What is <Nezuko> hair color?",
+            "Answer": "<Nezuko>'s hair color is black with orange tips."
+        },
+        {
+            "Question": "What color are <Nezuko> eyes?",
+            "Answer": "<Nezuko>'s eyes are pink."
+        },
+        {
+            "Question": "Would you describe <Nezuko>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<Nezuko>'s physique is best described as slim."
+        },
+        {
+            "Question": "What is <Nezuko> skin tone?",
+            "Answer": "<Nezuko>'s skin tone is pale."
+        },
+        {
+            "Question": "How would you describe <Nezuko> hairstyle?",
+            "Answer": "<Nezuko>'s hairstyle is long, flowing, and straight with a ribbon tied in her hair."
+        },
+        {
+            "Question": "Does <Nezuko> wear glasses or any accessories?",
+            "Answer": "<Nezuko> does not wear glasses, but she has a bamboo muzzle as an accessory."
+        },
+        {
+            "Question": "How would you describe <Nezuko>'s attire?",
+            "Answer": "<Nezuko> is wearing a pink kimono with a red and white checkered obi, a dark brown haori, and a bamboo muzzle."
+        },
+        {
+            "Question": "Does <Nezuko> have any distinctive facial features?",
+            "Answer": "<Nezuko> has distinctive pink eyes and a bamboo muzzle covering her mouth."
+        },
+        {
+            "Question": "What is <Nezuko> overall build or physique?",
+            "Answer": "<Nezuko> has a petite and slender build."
+        },
+        {
+            "Question": "What is <Nezuko> general expression or demeanor?",
+            "Answer": "<Nezuko> has a determined and focused expression."
+        }
+    ],
+    "two_concept/concept/train/Nezuko/3.png": [
+        {
+            "Question": "What is <Nezuko> hair color?",
+            "Answer": "<Nezuko>'s hair color is black."
+        },
+        {
+            "Question": "Would you describe <Nezuko>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<Nezuko>'s physique can be described as slim."
+        },
+        {
+            "Question": "What is <Nezuko> skin tone?",
+            "Answer": "<Nezuko>'s skin tone is pale."
+        },
+        {
+            "Question": "How would you describe <Nezuko> hairstyle?",
+            "Answer": "<Nezuko>'s hairstyle is long, wavy, and dark, with a pink ribbon tied on the right side."
+        },
+        {
+            "Question": "Does <Nezuko> wear glasses or any accessories?",
+            "Answer": "<Nezuko> wears a pink ribbon in her hair. She does not wear glasses."
+        },
+        {
+            "Question": "How would you describe <Nezuko>'s attire?",
+            "Answer": "<Nezuko> is wearing a traditional Japanese kimono with a pink geometric-patterned inner layer and a dark outer layer. She also has a green sash around her waist and a pink ribbon in her hair."
+        },
+        {
+            "Question": "What is <Nezuko> overall build or physique?",
+            "Answer": "<Nezuko> has a slender and petite build."
+        },
+        {
+            "Question": "What is <Nezuko> general expression or demeanor?",
+            "Answer": "<Nezuko>'s general expression or demeanor is calm and composed."
+        }
+    ],
+    "two_concept/concept/train/Nezuko/4.png": [
+        {
+            "Question": "What is <Nezuko> hair color?",
+            "Answer": "<Nezuko>'s hair color is black."
+        },
+        {
+            "Question": "What color are <Nezuko> eyes?",
+            "Answer": "<Nezuko>'s eyes are pink."
+        },
+        {
+            "Question": "Would you describe <Nezuko>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<Nezuko>'s physique can be described as slim."
+        },
+        {
+            "Question": "What is <Nezuko> skin tone?",
+            "Answer": "<Nezuko>'s skin tone is pale."
+        },
+        {
+            "Question": "How would you describe <Nezuko> hairstyle?",
+            "Answer": "<Nezuko>'s hairstyle is long, straight, and dark, with a pink ribbon tied in a bow on the right side of her head."
+        },
+        {
+            "Question": "Does <Nezuko> wear glasses or any accessories?",
+            "Answer": "<Nezuko> does not wear glasses, but she has a bamboo muzzle tied around her mouth."
+        },
+        {
+            "Question": "How would you describe <Nezuko>'s attire?",
+            "Answer": "<Nezuko> is wearing a traditional Japanese kimono with a pink and green color scheme. She has a pink ribbon in her hair and a bamboo muzzle in her mouth."
+        },
+        {
+            "Question": "Does <Nezuko> have any distinctive facial features?",
+            "Answer": "<Nezuko> has distinctive pink eyes and a bamboo muzzle covering her mouth."
+        },
+        {
+            "Question": "What is <Nezuko> overall build or physique?",
+            "Answer": "<Nezuko> has a slender and petite build."
+        },
+        {
+            "Question": "What is <Nezuko> general expression or demeanor?",
+            "Answer": "<Nezuko> has a calm and composed expression."
+        }
+    ],
+    "two_concept/concept/train/Nezuko/5.png": [
+        {
+            "Question": "What is <Nezuko> hair color?",
+            "Answer": "<Nezuko>'s hair color is black."
+        },
+        {
+            "Question": "What color are <Nezuko> eyes?",
+            "Answer": "<Nezuko>'s eyes are pink."
+        },
+        {
+            "Question": "Would you describe <Nezuko>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<Nezuko>'s physique can be described as slim."
+        },
+        {
+            "Question": "What is <Nezuko> skin tone?",
+            "Answer": "<Nezuko>'s skin tone is pale."
+        },
+        {
+            "Question": "How would you describe <Nezuko> hairstyle?",
+            "Answer": "<Nezuko>'s hairstyle is long, dark, and flowing, with a pink ribbon tied in a bow on the right side of her head."
+        },
+        {
+            "Question": "Does <Nezuko> wear glasses or any accessories?",
+            "Answer": "<Nezuko> wears a hair accessory, specifically a pink ribbon."
+        },
+        {
+            "Question": "How would you describe <Nezuko>'s attire?",
+            "Answer": "<Nezuko> is wearing a traditional Japanese kimono with a pink and white color scheme, complemented by a black haori (jacket)."
+        },
+        {
+            "Question": "Does <Nezuko> have any distinctive facial features?",
+            "Answer": "<Nezuko> has a distinctive bamboo muzzle tied around her neck."
+        },
+        {
+            "Question": "What is <Nezuko> overall build or physique?",
+            "Answer": "<Nezuko> has a slender and petite build."
+        },
+        {
+            "Question": "What is <Nezuko> general expression or demeanor?",
+            "Answer": "<Nezuko> has a determined and focused demeanor."
+        }
+    ],
+    "two_concept/concept/train/Nezuko/6.png": [
+        {
+            "Question": "What is <Nezuko> hair color?",
+            "Answer": "<Nezuko>'s hair color is black."
+        },
+        {
+            "Question": "What color are <Nezuko> eyes?",
+            "Answer": "<Nezuko>'s eyes are pink."
+        },
+        {
+            "Question": "Would you describe <Nezuko>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<Nezuko>'s physique is slim."
+        },
+        {
+            "Question": "What is <Nezuko> skin tone?",
+            "Answer": "<Nezuko>'s skin tone is pale."
+        },
+        {
+            "Question": "How would you describe <Nezuko> hairstyle?",
+            "Answer": "<Nezuko>'s hairstyle is long, straight, and black with loose waves at the ends. She also has a pink ribbon tied in a bow on the right side of her head."
+        },
+        {
+            "Question": "Does <Nezuko> wear glasses or any accessories?",
+            "Answer": "<Nezuko> does not wear glasses, but she has a bamboo muzzle as an accessory."
+        },
+        {
+            "Question": "How would you describe <Nezuko>'s attire?",
+            "Answer": "<Nezuko> is wearing a pink kimono with a geometric pattern, a black haori over it, and a bamboo muzzle tied around her mouth."
+        },
+        {
+            "Question": "Does <Nezuko> have any distinctive facial features?",
+            "Answer": "<Nezuko> has large, pink eyes and a bamboo muzzle covering her mouth."
+        },
+        {
+            "Question": "What is <Nezuko> overall build or physique?",
+            "Answer": "<Nezuko> has a petite and slender build."
+        },
+        {
+            "Question": "What is <Nezuko> general expression or demeanor?",
+            "Answer": "<Nezuko> has a wide-eyed, curious, and slightly surprised expression."
+        }
+    ],
+    "two_concept/concept/train/Nezuko/7.png": [
+        {
+            "Question": "What is <Nezuko> hair color?",
+            "Answer": "<Nezuko>'s hair color is black."
+        },
+        {
+            "Question": "What color are <Nezuko> eyes?",
+            "Answer": "<Nezuko>'s eyes are black."
+        },
+        {
+            "Question": "Would you describe <Nezuko>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<Nezuko>'s physique is slim."
+        },
+        {
+            "Question": "What is <Nezuko> skin tone?",
+            "Answer": "<Nezuko>'s skin tone is pale."
+        },
+        {
+            "Question": "How would you describe <Nezuko> hairstyle?",
+            "Answer": "<Nezuko>'s hairstyle is long, straight, and dark, with a pink ribbon tied in a bow on the right side of her head."
+        },
+        {
+            "Question": "Does <Nezuko> wear glasses or any accessories?",
+            "Answer": "<Nezuko> does not wear glasses, but she has a bamboo muzzle in her mouth and a pink ribbon in her hair."
+        },
+        {
+            "Question": "How would you describe <Nezuko>'s attire?",
+            "Answer": "<Nezuko> is wearing a traditional Japanese kimono with a pink and white geometric pattern, a red and white checkered obi, and a black haori over it. She also has a bamboo muzzle tied around her mouth."
+        },
+        {
+            "Question": "Does <Nezuko> have any distinctive facial features?",
+            "Answer": "<Nezuko> has a distinctive bamboo muzzle in her mouth and large, round eyes."
+        },
+        {
+            "Question": "What is <Nezuko> overall build or physique?",
+            "Answer": "<Nezuko> has a petite and slender build."
+        },
+        {
+            "Question": "What is <Nezuko> general expression or demeanor?",
+            "Answer": "<Nezuko>'s general expression or demeanor is calm and neutral."
+        }
+    ],
+    "two_concept/concept/train/Nezuko/8.png": [
+        {
+            "Question": "What is <Nezuko> hair color?",
+            "Answer": "<Nezuko>'s hair color is black."
+        },
+        {
+            "Question": "What color are <Nezuko> eyes?",
+            "Answer": "<Nezuko>'s eyes are pink."
+        },
+        {
+            "Question": "Would you describe <Nezuko>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<Nezuko>'s physique can be described as slim."
+        },
+        {
+            "Question": "What is <Nezuko> skin tone?",
+            "Answer": "<Nezuko>'s skin tone is pale."
+        },
+        {
+            "Question": "How would you describe <Nezuko> hairstyle?",
+            "Answer": "<Nezuko>'s hairstyle is long, straight, and dark, with a pink ribbon tied in a bow on the right side of her head."
+        },
+        {
+            "Question": "Does <Nezuko> wear glasses or any accessories?",
+            "Answer": "<Nezuko> does not wear glasses, but she has a bamboo muzzle in her mouth and a pink ribbon in her hair."
+        },
+        {
+            "Question": "How would you describe <Nezuko>'s attire?",
+            "Answer": "<Nezuko> is wearing a pink kimono with a geometric pattern, a brown haori (jacket), and a bamboo muzzle tied around her mouth. She also has a pink ribbon in her hair."
+        },
+        {
+            "Question": "Does <Nezuko> have any distinctive facial features?",
+            "Answer": "<Nezuko> has distinctive facial features including pink eyes, prominent veins on her forehead, and a bamboo muzzle in her mouth."
+        },
+        {
+            "Question": "What is <Nezuko> overall build or physique?",
+            "Answer": "<Nezuko> has a slender and petite build."
+        },
+        {
+            "Question": "What is <Nezuko> general expression or demeanor?",
+            "Answer": "<Nezuko>'s general expression or demeanor is intense and fierce, with wide eyes and a determined look."
+        }
+    ],
+    "two_concept/concept/train/Nezuko/9.png": [
+        {
+            "Question": "What is <Nezuko> hair color?",
+            "Answer": "<Nezuko>'s hair color is black."
+        },
+        {
+            "Question": "What color are <Nezuko> eyes?",
+            "Answer": "<Nezuko>'s eyes are pink."
+        },
+        {
+            "Question": "Would you describe <Nezuko>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<Nezuko>'s physique is slim."
+        },
+        {
+            "Question": "What is <Nezuko> skin tone?",
+            "Answer": "<Nezuko>'s skin tone is pale."
+        },
+        {
+            "Question": "How would you describe <Nezuko> hairstyle?",
+            "Answer": "<Nezuko>'s hairstyle is long, straight, and dark, with a small white ribbon tied on the right side of her head."
+        },
+        {
+            "Question": "Does <Nezuko> wear glasses or any accessories?",
+            "Answer": "<Nezuko> does not wear glasses, but she has a bamboo muzzle in her mouth."
+        },
+        {
+            "Question": "How would you describe <Nezuko>'s attire?",
+            "Answer": "<Nezuko> is wearing a dark-colored kimono with a lighter-colored obi (belt). She also has a bamboo muzzle in her mouth."
+        },
+        {
+            "Question": "Does <Nezuko> have any distinctive facial features?",
+            "Answer": "<Nezuko> has distinctive pink eyes and a bamboo muzzle covering her mouth."
+        },
+        {
+            "Question": "What is <Nezuko> overall build or physique?",
+            "Answer": "<Nezuko> has a slender and petite build."
+        },
+        {
+            "Question": "What is <Nezuko> general expression or demeanor?",
+            "Answer": "<Nezuko> has a calm and focused expression."
+        }
+    ]
+}

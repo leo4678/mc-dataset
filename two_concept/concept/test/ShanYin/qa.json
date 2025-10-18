@@ -1,0 +1,22 @@
+[
+    {
+        "question": "What is <ShanYin>'s hair color? A.Black.  B.Blonde",
+        "answer": "A"
+    },
+    {
+        "question": "Is <ShanYin> wearing a sweater or a jacket? A.Sweater.  B.Jacket",
+        "answer": "A"
+    },
+    {
+        "question": "What is <ShanYin> holding in one of the images? A.A book.  B.A cup",
+        "answer": "B"
+    },
+    {
+        "question": "Is <ShanYin> indoors or outdoors in most images? A.Indoors.  B.Outdoors",
+        "answer": "A"
+    },
+    {
+        "question": "What type of clothing pattern does <ShanYin> wear? A.Stripes.  B.Checkered",
+        "answer": "B"
+    }
+]

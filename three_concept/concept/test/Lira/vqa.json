@@ -1,0 +1,22 @@
+{
+    "three_concept/concept/test/Lira/0.png": {
+        "Human": "What is the color of the shorts named <Lira> in the image?",
+        "AI": "The shorts named <Lira> are blue in color."
+    },
+    "three_concept/concept/test/Lira/1.png": {
+        "Human": "What is the color of the shorts named <Lira> in the image?",
+        "AI": "The shorts named <Lira> are blue in color."
+    },
+    "three_concept/concept/test/Lira/2.png": {
+        "Human": "What color are the <Lira> shorts in the image?",
+        "AI": "The <Lira> shorts in the image are blue."
+    },
+    "three_concept/concept/test/Lira/3.png": {
+        "Human": "What is the distinctive feature of the <Lira> shorts in the image?",
+        "AI": "The <Lira> shorts have a fluffy white trim at the bottom."
+    },
+    "three_concept/concept/test/Lira/4.png": {
+        "Human": "What color are the cuffs of the <Lira> shorts?",
+        "AI": "The cuffs of the <Lira> shorts are gray."
+    }
+}

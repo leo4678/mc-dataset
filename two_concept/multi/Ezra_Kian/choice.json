@@ -1,0 +1,72 @@
+{
+    "two_concept/multi/Ezra_Kian/0.png": [
+        {
+            "Human": "What is the decoration on <Ezra>? A. Feathers. B. Prayer beads. C. Ribbons.",
+            "AI": "B"
+        },
+        {
+            "Human": "What is the color of the beads on the <Kian> necklace? A.red. B.blue. C.green",
+            "AI": "A"
+        },
+        {
+            "Human": "What is the color of <Ezra> in the image? A. Blue. B. Brown. C. Black.",
+            "AI": "B"
+        }
+    ],
+    "two_concept/multi/Ezra_Kian/1.png": [
+        {
+            "Human": "What is the main feature of the <Ezra> hat in the image? A. It has a feather. B. It is decorated with prayer beads. C. It has a floral pattern.",
+            "AI": "B"
+        },
+        {
+            "Human": "What is the color of the beads on the <Kian> necklace? A.red. B.blue. C.green",
+            "AI": "A"
+        },
+        {
+            "Human": "What is the color of <Ezra> in the image? A. Blue. B. Orange. C. Green.",
+            "AI": "B"
+        }
+    ],
+    "two_concept/multi/Ezra_Kian/2.png": [
+        {
+            "Human": "What is the distinctive feature of the <Ezra> hat in the image? A. It has a feather. B. It is decorated with prayer beads. C. It has a floral pattern.",
+            "AI": "B"
+        },
+        {
+            "Human": "What is the color of the beads on the <Kian> necklace? A.red. B.blue. C.green",
+            "AI": "A"
+        },
+        {
+            "Human": "What accessory is <Ezra> wearing in the image? A. A cowboy hat with prayer beads. B. A necklace with beads.",
+            "AI": "A"
+        }
+    ],
+    "two_concept/multi/Ezra_Kian/3.png": [
+        {
+            "Human": "What is the distinctive feature of <Ezra> in the image? A. It has a feather. B. It is decorated with prayer beads. C. It has a floral pattern.",
+            "AI": "B"
+        },
+        {
+            "Human": "What is the color of the beads on the <Kian> necklace? A.red. B.blue. C.green",
+            "AI": "A"
+        },
+        {
+            "Human": "What is the color of <Ezra> and <Kian> in the image? A.Orange and Red. B.Blue and Green. C.Black and White.",
+            "AI": "A"
+        }
+    ],
+    "two_concept/multi/Ezra_Kian/4.png": [
+        {
+            "Human": "What is the main color of <Ezra> in the image? A. Blue. B. Orange. C. Green.",
+            "AI": "B"
+        },
+        {
+            "Human": "What is the color of the beads in the <Kian> necklace? A.red. B.blue. C.green.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is the main color theme surrounding <Ezra> and <Kian> in the image? A. Blue. B. Orange. C. Green.",
+            "AI": "B"
+        }
+    ]
+}

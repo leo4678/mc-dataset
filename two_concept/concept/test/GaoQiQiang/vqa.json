@@ -1,0 +1,22 @@
+{
+    "two_concept/concept/test/GaoQiQiang/0.png": {
+        "Human": "What type of clothing is <GaoQiQiang> wearing in the image?",
+        "AI": "<GaoQiQiang> is wearing a black suit."
+    },
+    "two_concept/concept/test/GaoQiQiang/1.png": {
+        "Human": "What is <GaoQiQiang> wearing in the image?",
+        "AI": "<GaoQiQiang> is wearing a dark suit with a black shirt and a pocket square."
+    },
+    "two_concept/concept/test/GaoQiQiang/2.png": {
+        "Human": "What is the robot doing in the image with <GaoQiQiang>?",
+        "AI": "The robot is sitting beside <GaoQiQiang> in a car."
+    },
+    "two_concept/concept/test/GaoQiQiang/3.png": {
+        "Human": "What is <GaoQiQiang> wearing in the picture?",
+        "AI": "<GaoQiQiang> is wearing a light gray jacket and a gray shirt."
+    },
+    "two_concept/concept/test/GaoQiQiang/4.png": {
+        "Human": "What is <GaoQiQiang> wearing in this image?",
+        "AI": "<GaoQiQiang> is wearing a dark-colored jacket with prominent stitching on the collar."
+    }
+}

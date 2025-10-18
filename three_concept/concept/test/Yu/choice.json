@@ -1,0 +1,22 @@
+{
+    "three_concept/concept/test/Yu/0.png": {
+        "Human": "What color is the jacket worn by <Yu>? A. Blue; B. Red; C. Green;",
+        "AI": "B"
+    },
+    "three_concept/concept/test/Yu/1.png": {
+        "Human": "What color are the pants <Yu> is wearing? A. Yellow; B. Blue; C. Red;",
+        "AI": "A"
+    },
+    "three_concept/concept/test/Yu/2.png": {
+        "Human": "What color is <Yu>'s shirt? A. Red; B. Blue; C. Green;",
+        "AI": "A"
+    },
+    "three_concept/concept/test/Yu/3.png": {
+        "Human": "What color is <Yu>'s hoodie? A. Blue; B. Red; C. Orange;",
+        "AI": "C"
+    },
+    "three_concept/concept/test/Yu/4.png": {
+        "Human": "What color is the shirt <Yu> is wearing? A. Green; B. Blue; C. Red;",
+        "AI": "A"
+    }
+}

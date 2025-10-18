@@ -1,0 +1,72 @@
+{
+    "two_concept/multi/Tommy_Grace/0.png": [
+        {
+            "Human": "What type of clothing is <Tommy> wearing in the image?",
+            "AI": "<Tommy> is wearing a formal suit with a tie."
+        },
+        {
+            "Human": "What type of clothing is <Grace> wearing?",
+            "AI": "<Grace> is wearing a black coat with shoulder decorations and a white shirt underneath."
+        },
+        {
+            "Human": "What are <Tommy> and <Grace> wearing in the image?",
+            "AI": "<Tommy> is wearing a grey suit with a white shirt, while <Grace> is wearing a dark coat over a white blouse."
+        }
+    ],
+    "two_concept/multi/Tommy_Grace/1.png": [
+        {
+            "Human": "What is <Tommy> doing in the image?",
+            "AI": "<Tommy> is operating a beer pump at the bar."
+        },
+        {
+            "Human": "What is <Grace> doing in the image?",
+            "AI": "<Grace> is handling a beer tap."
+        },
+        {
+            "Human": "What are <Tommy> and <Grace> doing in the image?",
+            "AI": "<Tommy> and <Grace> are operating beer taps."
+        }
+    ],
+    "two_concept/multi/Tommy_Grace/2.png": [
+        {
+            "Human": "What is <Tommy> wearing in the image?",
+            "AI": "<Tommy> is wearing a white shirt and a dark vest."
+        },
+        {
+            "Human": "What are the people wearing in the image with <Grace>?",
+            "AI": "<Grace> is wearing a cream-colored dress with a decorative pattern, while the person behind her is wearing a white shirt with a dark vest."
+        },
+        {
+            "Human": "What are <Tommy> and <Grace> doing in the image?",
+            "AI": "<Tommy> is standing behind a glass barrier, while <Grace> is sitting in front of it."
+        }
+    ],
+    "two_concept/multi/Tommy_Grace/3.png": [
+        {
+            "Human": "What is <Tommy> wearing in the image?",
+            "AI": "<Tommy> is wearing a white shirt and a dark-colored vest."
+        },
+        {
+            "Human": "What is <Grace> doing in the image?",
+            "AI": "<Grace> is placing her hand on someone's shoulder."
+        },
+        {
+            "Human": "What is the relationship between <Tommy> and <Grace> in the image?",
+            "AI": "<Tommy> and <Grace> appear to be close, with <Grace> resting her hand on <Tommy>'s shoulder."
+        }
+    ],
+    "two_concept/multi/Tommy_Grace/4.png": [
+        {
+            "Human": "What is the setting of the scene in which <Tommy> is present?",
+            "AI": "<Tommy> is present in a dimly lit, elegant dining setting, with several glasses and a candle on the table."
+        },
+        {
+            "Human": "What is <Grace> wearing in the image?",
+            "AI": "<Grace> is wearing a lavender-colored dress with embellishments."
+        },
+        {
+            "Human": "What are <Tommy> and <Grace> doing in the image?",
+            "AI": "They seem to be sitting and having a conversation at a table."
+        }
+    ]
+}

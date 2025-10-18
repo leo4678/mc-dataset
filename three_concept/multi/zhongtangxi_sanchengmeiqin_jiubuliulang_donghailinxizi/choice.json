@@ -1,0 +1,216 @@
+{
+    "three_concept/multi/zhongtangxi_sanchengmeiqin_jiubuliulang_donghailinxizi/0.jpg": [
+        {
+            "Human": "What is <zhongtangxi> wearing in the image? A.gray sweater and light pants. B.white coat and jeans.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is <sanchengmeiqin> wearing in the image? A.lab coat and jeans. B.sweater and skirt.",
+            "AI": "A"
+        },
+        {
+            "Human": "What gesture is <jiubuliulang> making in the image? A.crossing arms. B.waving. C.clapping",
+            "AI": "A"
+        },
+        {
+            "Human": "What is <donghailinxizi> doing with their arms? A.crossing them. B.waving. C.clapping.",
+            "AI": "A"
+        },
+        {
+            "Human": "What are <zhongtangxi> and <sanchengmeiqin> doing with their hands? A.crossing arms. B.holding hands. C.waving.",
+            "AI": "A"
+        },
+        {
+            "Human": "What are <zhongtangxi> and <jiubuliulang> doing with their hands? A.crossing arms. B.waving. C.clapping",
+            "AI": "A"
+        },
+        {
+            "Human": "What are <zhongtangxi> and <donghailinxizi> doing with their hands? A.crossing arms. B.waving. C.clapping.",
+            "AI": "A"
+        },
+        {
+            "Human": "What are <sanchengmeiqin> and <jiubuliulang> doing with their arms? A.crossing them. B.waving. C.clapping",
+            "AI": "A"
+        },
+        {
+            "Human": "What are <sanchengmeiqin> and <donghailinxizi> doing with their arms? A.crossing them. B.waving. C.clapping",
+            "AI": "A"
+        },
+        {
+            "Human": "What gesture are <jiubuliulang> and <donghailinxizi> making? A.waving. B.crossing arms. C.clapping",
+            "AI": "B"
+        },
+        {
+            "Human": "What are <zhongtangxi>, <sanchengmeiqin>, and <jiubuliulang> doing with their hands? A.crossing arms. B.waving. C.clapping.",
+            "AI": "A"
+        },
+        {
+            "Human": "What are <zhongtangxi>, <sanchengmeiqin>, and <donghailinxizi> doing with their hands? A.crossing arms. B.waving. C.clapping.",
+            "AI": "A"
+        },
+        {
+            "Human": "What gesture is <jiubuliulang> making in the image? A.crossing arms. B.waving. C.clapping.",
+            "AI": "A"
+        },
+        {
+            "Human": "What are <sanchengmeiqin>, <jiubuliulang>, and <donghailinxizi> doing with their hands? A.crossing arms. B.waving. C.clapping",
+            "AI": "A"
+        },
+        {
+            "Human": "What are <zhongtangxi>, <sanchengmeiqin>, <jiubuliulang>, and <donghailinxizi> doing with their hands? A.clapping. B.crossing arms. C.waving.",
+            "AI": "B"
+        }
+    ],
+    "three_concept/multi/zhongtangxi_sanchengmeiqin_jiubuliulang_donghailinxizi/1.jpg": [
+        {
+            "Human": "What is <sanchengmeiqin> wearing in the image? A.a blue hoodie. B.a red jacket. C.a white shirt.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is <jiubuliulang> doing in the image? A.sitting and holding hands. B.standing and clapping. C.running.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is <donghailinxizi> doing in the image? A.sitting and holding hands. B.standing and clapping. C.running.",
+            "AI": "A"
+        },
+        {
+            "Human": "What activity are <sanchengmeiqin> and <jiubuliulang> engaged in? A.playing a game. B.studying. C.eating.",
+            "AI": "A"
+        },
+        {
+            "Human": "What activity are <sanchengmeiqin> and <donghailinxizi> engaged in? A.playing a game. B.performing a dance. C.having a conversation.",
+            "AI": "A"
+        },
+        {
+            "Human": "What are <jiubuliulang> and <donghailinxizi> doing in the image? A.shaking hands. B.arm wrestling. C.holding hands.",
+            "AI": "B"
+        },
+        {
+            "Human": "What activity are <sanchengmeiqin>, <jiubuliulang>, and <donghailinxizi> engaged in? A.playing a game. B.having a discussion. C.eating lunch.",
+            "AI": "A"
+        }
+    ],
+    "three_concept/multi/zhongtangxi_sanchengmeiqin_jiubuliulang_donghailinxizi/2.jpg": [
+        {
+            "Human": "What is <zhongtangxi> wearing on their feet? A.sneakers. B.sandals. C.boots.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is <sanchengmeiqin> wearing on their feet? A.sandals. B.sneakers. C.boots.",
+            "AI": "B"
+        },
+        {
+            "Human": "What is <jiubuliulang> wearing on their feet? A.sneakers. B.sandals. C.boots.",
+            "AI": "A"
+        },
+        {
+            "Human": "What are <zhongtangxi> and <sanchengmeiqin> wearing on their feet? A.sneakers. B.sandals. C.boots.",
+            "AI": "A"
+        },
+        {
+            "Human": "What are <zhongtangxi> and <jiubuliulang> wearing on their feet? A.sneakers. B.sandals. C.boots.",
+            "AI": "A"
+        },
+        {
+            "Human": "What are <sanchengmeiqin> and <jiubuliulang> wearing on their feet? A.sandals. B.sneakers. C.boots.",
+            "AI": "B"
+        },
+        {
+            "Human": "What are <zhongtangxi>, <sanchengmeiqin>, and <jiubuliulang> doing with their hands? A.clapping. B.fist bumping. C.raising fists",
+            "AI": "C"
+        }
+    ],
+    "three_concept/multi/zhongtangxi_sanchengmeiqin_jiubuliulang_donghailinxizi/3.jpg": [
+        {
+            "Human": "What is <zhongtangxi> wearing in the image? A.a lab coat. B.a casual sweater. C.a formal suit",
+            "AI": "B"
+        },
+        {
+            "Human": "What is <sanchengmeiqin> wearing in the image? A.lab coat. B.casual jacket. C.uniform",
+            "AI": "A"
+        },
+        {
+            "Human": "What is <jiubuliulang> wearing in the image? A.a lab coat. B.a dark jumpsuit. C.a sweater",
+            "AI": "B"
+        },
+        {
+            "Human": "What is the attire of <zhongtangxi> and <sanchengmeiqin>? A.casual wear and lab coat. B.uniform and casual wear. C.lab coat and uniform",
+            "AI": "A"
+        },
+        {
+            "Human": "What type of clothing is <zhongtangxi> wearing? A.lab coat. B.casual sweater. C.uniform",
+            "AI": "B"
+        },
+        {
+            "Human": "What is the attire of <sanchengmeiqin> and <jiubuliulang>? A.lab coat and jumpsuit. B.casual shirt and jacket. C.uniform and sweater.",
+            "AI": "A"
+        },
+        {
+            "Human": "What are <zhongtangxi>, <sanchengmeiqin>, and <jiubuliulang> wearing? A.uniforms. B.casual clothes. C.formal suits",
+            "AI": "B"
+        }
+    ],
+    "three_concept/multi/zhongtangxi_sanchengmeiqin_jiubuliulang_donghailinxizi/4.jpg": [
+        {
+            "Human": "What is <zhongtangxi> wearing in the image? A. A grey outfit. B. A blue jumpsuit.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is <sanchengmeiqin> wearing in the image? A. A white coat. B. A blue jumpsuit. C. A grey sweater.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is <jiubuliulang> wearing in the image? A. A white coat. B. A blue jumpsuit. C. A gray sweater.",
+            "AI": "B"
+        },
+        {
+            "Human": "What is <donghailinxizi> wearing in the image? A.a white coat. B.a blue coat. C.a grey sweater",
+            "AI": "B"
+        },
+        {
+            "Human": "What are <zhongtangxi> and <sanchengmeiqin> wearing? A.casual clothes. B.lab coats. C.uniforms",
+            "AI": "B"
+        },
+        {
+            "Human": "What type of clothing are <zhongtangxi> and <jiubuliulang> wearing? A.casual wear. B.uniforms. C.formal suits.",
+            "AI": "B"
+        },
+        {
+            "Human": "What type of clothing are <zhongtangxi> and <donghailinxizi> wearing? A.casual wear. B.uniforms. C.formal suits.",
+            "AI": "B"
+        },
+        {
+            "Human": "What are <sanchengmeiqin> and <jiubuliulang> wearing? A.lab coats. B.casual outfits. C.uniforms",
+            "AI": "C"
+        },
+        {
+            "Human": "What are <sanchengmeiqin> and <donghailinxizi> wearing? A.lab coats. B.casual outfits. C.uniforms",
+            "AI": "A"
+        },
+        {
+            "Human": "What are <jiubuliulang> and <donghailinxizi> wearing? A.casual clothes. B.uniforms. C.sportswear.",
+            "AI": "B"
+        },
+        {
+            "Human": "What type of clothing are <zhongtangxi>, <sanchengmeiqin>, and <jiubuliulang> wearing? A.casual wear. B.uniforms. C.formal suits",
+            "AI": "B"
+        },
+        {
+            "Human": "What type of clothing are <zhongtangxi>, <sanchengmeiqin>, and <donghailinxizi> wearing? A.casual wear. B.uniforms. C.formal suits.",
+            "AI": "B"
+        },
+        {
+            "Human": "What type of clothing are <zhongtangxi>, <jiubuliulang>, and <donghailinxizi> wearing? A.casual wear. B.uniforms. C.formal suits",
+            "AI": "B"
+        },
+        {
+            "Human": "What type of clothing are <sanchengmeiqin>, <jiubuliulang>, and <donghailinxizi> wearing? A.casual wear. B.uniforms. C.formal suits",
+            "AI": "B"
+        },
+        {
+            "Human": "What type of clothing are <zhongtangxi>, <sanchengmeiqin>, <jiubuliulang>, and <donghailinxizi> wearing? A.casual wear. B.uniforms. C.formal suits.",
+            "AI": "B"
+        }
+    ]
+}

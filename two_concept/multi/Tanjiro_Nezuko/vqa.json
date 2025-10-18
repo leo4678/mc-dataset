@@ -1,0 +1,72 @@
+{
+    "two_concept/multi/Tanjiro_Nezuko/0.png": [
+        {
+            "Human": "What is <Tanjiro> wearing in the image?",
+            "AI": "<Tanjiro> is wearing a white robe with a purple outer garment."
+        },
+        {
+            "Human": "What accessory is <Nezuko> wearing in her hair?",
+            "AI": "<Nezuko> is wearing a pink ribbon in her hair."
+        },
+        {
+            "Human": "What is the gesture <Tanjiro> is making in the image?",
+            "AI": "<Tanjiro> is raising his fist in the image."
+        }
+    ],
+    "two_concept/multi/Tanjiro_Nezuko/1.png": [
+        {
+            "Human": "What is <Tanjiro> doing in the image?",
+            "AI": "<Tanjiro> is embracing someone."
+        },
+        {
+            "Human": "What is <Nezuko> doing in the image?",
+            "AI": "<Nezuko> is embracing someone closely."
+        },
+        {
+            "Human": "What is the interaction between <Tanjiro> and <Nezuko> in the image?",
+            "AI": "<Tanjiro> and <Nezuko> are embracing each other closely."
+        }
+    ],
+    "two_concept/multi/Tanjiro_Nezuko/2.png": [
+        {
+            "Human": "What is <Tanjiro> doing in the image?",
+            "AI": "<Tanjiro> is protecting a girl with long black hair and pink eyes."
+        },
+        {
+            "Human": "What is <Nezuko> doing in the image?",
+            "AI": "<Nezuko> is being protected and held by someone while looking distressed."
+        },
+        {
+            "Human": "What is the relationship between <Tanjiro> and <Nezuko> in the image?",
+            "AI": "<Tanjiro> is protectively holding <Nezuko> in the image, indicating a close and caring relationship."
+        }
+    ],
+    "two_concept/multi/Tanjiro_Nezuko/3.png": [
+        {
+            "Human": "What is <Tanjiro> holding in the image?",
+            "AI": "<Tanjiro> is holding a sword with water effects around it."
+        },
+        {
+            "Human": "What is <Nezuko> wearing in the image?",
+            "AI": "<Nezuko> is wearing a pink kimono with a black haori and a red and white obi."
+        },
+        {
+            "Human": "What are <Tanjiro> and <Nezuko> wearing in the image?",
+            "AI": "<Tanjiro> is wearing a green and black checkered haori over a black outfit, while <Nezuko> is wearing a pink kimono with a black haori."
+        }
+    ],
+    "two_concept/multi/Tanjiro_Nezuko/4.png": [
+        {
+            "Human": "What is <Tanjiro> doing in the image?",
+            "AI": "<Tanjiro> is hugging and smiling with someone."
+        },
+        {
+            "Human": "What is <Nezuko> doing in the image?",
+            "AI": "<Nezuko> is hugging and smiling with another person."
+        },
+        {
+            "Human": "What is the relationship between <Tanjiro> and <Nezuko> in the image?",
+            "AI": "<Tanjiro> and <Nezuko> appear to have a close and affectionate relationship, as they are hugging and smiling at each other."
+        }
+    ]
+}

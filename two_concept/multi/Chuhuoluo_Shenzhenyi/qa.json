@@ -1,0 +1,22 @@
+[
+    {
+        "question": "Are both <Chuhuoluo> and <Shenzhenyi> humans or animals? A. Humans. B. Animals.",
+        "answer": "A"
+    },
+    {
+        "question": "What are the genders of <Chuhuoluo> and <Shenzhenyi> respectively? A. Girl, Boy. B. Boy, Girl.",
+        "answer": "A"
+    },
+    {
+        "question": "What are the hair colors of <Chuhuoluo> and <Shenzhenyi> respectively? A. Brown, Blue. B. Blue, Brown.",
+        "answer": "A"
+    },
+    {
+        "question": "What type of clothing do <Chuhuoluo> and <Shenzhenyi> often wear? A. Traditional, Modern. B. Both Traditional.",
+        "answer": "B"
+    },
+    {
+        "question": "Do <Chuhuoluo> and <Shenzhenyi> have long hair? A. Yes. B. No.",
+        "answer": "A"
+    }
+]

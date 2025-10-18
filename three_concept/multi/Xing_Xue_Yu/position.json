@@ -1,0 +1,27 @@
+{
+    "0.png": {
+        "<Xing>": "right",
+        "<Xue>": "middle",
+        "<Yu>": "left"
+    },
+    "1.png": {
+        "<Xing>": "left",
+        "<Xue>": "right",
+        "<Yu>": "middle"
+    },
+    "2.png": {
+        "<Xing>": "right",
+        "<Xue>": "left",
+        "<Yu>": "middle"
+    },
+    "3.png": {
+        "<Xing>": "middle",
+        "<Xue>": "right",
+        "<Yu>": "left"
+    },
+    "4.png": {
+        "<Xing>": "middle",
+        "<Xue>": "left",
+        "<Yu>": "right"
+    }
+}

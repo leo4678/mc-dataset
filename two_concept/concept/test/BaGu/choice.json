@@ -1,0 +1,22 @@
+{
+    "two_concept/concept/test/BaGu/0.png": {
+        "Human": "What is <BaGu> wearing in the image?  A. A pink shirt; B. A blue dress;",
+        "AI": "A"
+    },
+    "two_concept/concept/test/BaGu/1.png": {
+        "Human": "What activity is <BaGu> doing in the image?  A. Jogging on the beach; B. Adjusting something on their head; C. Drawing on the sand;",
+        "AI": "B"
+    },
+    "two_concept/concept/test/BaGu/2.png": {
+        "Human": "What color is the scarf <BaGu> is wearing?  A. Blue;  B. Plaid; ",
+        "AI": "B"
+    },
+    "two_concept/concept/test/BaGu/3.png": {
+        "Human": "What color shirt is <BaGu> wearing?  A. Red;  B. Blue;  C. Green;",
+        "AI": "B"
+    },
+    "two_concept/concept/test/BaGu/4.png": {
+        "Human": "What is <BaGu> doing in the image?  A. Reading a book; B. Writing in a notebook; C. Using a laptop;",
+        "AI": "A"
+    }
+}

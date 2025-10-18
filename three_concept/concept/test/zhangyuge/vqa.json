@@ -1,0 +1,22 @@
+{
+    "three_concept/concept/test/zhangyuge/0.png": {
+        "Human": "What is <zhangyuge> doing in the image?",
+        "AI": "<zhangyuge> is standing with his hands on his hips, looking displeased."
+    },
+    "three_concept/concept/test/zhangyuge/1.png": {
+        "Human": "What is <zhangyuge> holding in the image?",
+        "AI": "<zhangyuge> is holding a brown rectangular object, which looks like a book or a clipboard."
+    },
+    "three_concept/concept/test/zhangyuge/2.png": {
+        "Human": "What is <zhangyuge> sitting on in the image?",
+        "AI": "<zhangyuge> is sitting on a cloud in the image."
+    },
+    "three_concept/concept/test/zhangyuge/3.png": {
+        "Human": "What color is <zhangyuge>'s shirt in the image?",
+        "AI": "<zhangyuge>'s shirt is brown in the image."
+    },
+    "three_concept/concept/test/zhangyuge/4.png": {
+        "Human": "What color is <zhangyuge>'s shirt in the image?",
+        "AI": "<zhangyuge>'s shirt is brown in the image."
+    }
+}

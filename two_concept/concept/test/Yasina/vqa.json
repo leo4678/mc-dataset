@@ -1,0 +1,22 @@
+{
+    "two_concept/concept/test/Yasina/0.png": {
+        "Human": "What is the emotional state of <Yasina> in the image?",
+        "AI": "<Yasina> appears to be sad and crying in the image."
+    },
+    "two_concept/concept/test/Yasina/1.png": {
+        "Human": "What is the color of <Yasina>'s hair in the image?",
+        "AI": "<Yasina>'s hair is light brown."
+    },
+    "two_concept/concept/test/Yasina/2.png": {
+        "Human": "What is <Yasina> holding in her right hand?",
+        "AI": "<Yasina> is holding a sword in her right hand."
+    },
+    "two_concept/concept/test/Yasina/3.png": {
+        "Human": "What is <Yasina> doing in the image?",
+        "AI": "<Yasina> is raising her hand, possibly in a gesture or to catch something."
+    },
+    "two_concept/concept/test/Yasina/4.png": {
+        "Human": "What is <Yasina> wearing in the image?",
+        "AI": "<Yasina> is wearing a white and red outfit with gold accents."
+    }
+}

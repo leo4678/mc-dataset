@@ -1,0 +1,22 @@
+{
+    "two_concept/concept/test/ShanYin/0.png": {
+        "Human": "What is <ShanYin> wearing around his neck?  A. A green-and-white scarf;  B. A red tie;  C. A blue bandana;",
+        "AI": "A"
+    },
+    "two_concept/concept/test/ShanYin/1.png": {
+        "Human": "What is <ShanYin> wearing in the image?  A. A hoodie; B. A suit; C. A T-shirt;",
+        "AI": "B"
+    },
+    "two_concept/concept/test/ShanYin/2.png": {
+        "Human": "What is <ShanYin> holding in their right hand? A. A book; B. A phone;",
+        "AI": "B"
+    },
+    "two_concept/concept/test/ShanYin/3.png": {
+        "Human": "What is <ShanYin> wearing in the image? A. A suit and tie;B. A casual shirt;C. A sweater;",
+        "AI": "A"
+    },
+    "two_concept/concept/test/ShanYin/4.png": {
+        "Human": "What is <ShanYin> holding in the image?  A. A book; B. A smartphone;",
+        "AI": "B"
+    }
+}

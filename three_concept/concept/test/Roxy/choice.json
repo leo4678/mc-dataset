@@ -1,0 +1,22 @@
+{
+    "three_concept/concept/test/Roxy/0.png": {
+        "Human": "What is the primary color of the background in the <Roxy> logo? \n A. Yellow; \n B. Blue; \n C. Red;",
+        "AI": "A"
+    },
+    "three_concept/concept/test/Roxy/1.png": {
+        "Human": "What is the primary color scheme of the <Roxy> logo? \n A. Black and yellow; \n B. Red and white; \n C. Blue and green;",
+        "AI": "A"
+    },
+    "three_concept/concept/test/Roxy/2.png": {
+        "Human": "What is the shape of the eyes in the <Roxy> logo? \n A. Circular; \n B. Triangular; \n C. Square;\n",
+        "AI": "A"
+    },
+    "three_concept/concept/test/Roxy/3.png": {
+        "Human": "What is the primary color scheme of the <Roxy> logo? \n A. Black and yellow; \n B. Blue and white; \n C. Red and green;\n",
+        "AI": "A"
+    },
+    "three_concept/concept/test/Roxy/4.png": {
+        "Human": "What is the primary color of the <Roxy> logo? \n A. Gold; \n B. Silver; \n C. Bronze;",
+        "AI": "A"
+    }
+}

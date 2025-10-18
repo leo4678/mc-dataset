@@ -1,0 +1,52 @@
+{
+    "two_concept/multi/Sherlock_Watson/0.png": [
+        {
+            "Human": "Where is <Sherlock> located in the photo? A. left B. right.",
+            "AI": "A"
+        },
+        {
+            "Human": "Where is <Watson> located in the photo? A. left B. right.",
+            "AI": "B"
+        }
+    ],
+    "two_concept/multi/Sherlock_Watson/1.png": [
+        {
+            "Human": "Where is <Sherlock> located in the photo? A. left B. right.",
+            "AI": "B"
+        },
+        {
+            "Human": "Where is <Watson> located in the photo? A. left B. right.",
+            "AI": "A"
+        }
+    ],
+    "two_concept/multi/Sherlock_Watson/2.png": [
+        {
+            "Human": "Where is <Sherlock> located in the photo? A. left B. right.",
+            "AI": "A"
+        },
+        {
+            "Human": "Where is <Watson> located in the photo? A. left B. right.",
+            "AI": "B"
+        }
+    ],
+    "two_concept/multi/Sherlock_Watson/3.png": [
+        {
+            "Human": "Where is <Sherlock> located in the photo? A. left B. right.",
+            "AI": "B"
+        },
+        {
+            "Human": "Where is <Watson> located in the photo? A. left B. right.",
+            "AI": "A"
+        }
+    ],
+    "two_concept/multi/Sherlock_Watson/4.png": [
+        {
+            "Human": "Where is <Sherlock> located in the photo? A. left B. right.",
+            "AI": "B"
+        },
+        {
+            "Human": "Where is <Watson> located in the photo? A. left B. right.",
+            "AI": "A"
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "two_concept/concept/test/dunpai/0.png": {
+        "Human": "What is the design on the front of the <dunpai>?",
+        "AI": "The front of the <dunpai> features a star in the center, surrounded by concentric circles of red, white, and blue."
+    },
+    "two_concept/concept/test/dunpai/1.png": {
+        "Human": "What colors are prominently featured on <dunpai>?",
+        "AI": "<dunpai> prominently features red, white, and blue colors."
+    },
+    "two_concept/concept/test/dunpai/2.png": {
+        "Human": "What are the colors present on the <dunpai> in the image?",
+        "AI": "The <dunpai> in the image has red, white, and blue colors with a silver star in the center."
+    },
+    "two_concept/concept/test/dunpai/3.png": {
+        "Human": "What are the primary colors featured on the <dunpai> shield?",
+        "AI": "The primary colors featured on the <dunpai> shield are red, white, and blue."
+    },
+    "two_concept/concept/test/dunpai/4.png": {
+        "Human": "What are the colors present on <dunpai>?",
+        "AI": "<dunpai> has red, white, and blue colors with a white star in the center."
+    }
+}

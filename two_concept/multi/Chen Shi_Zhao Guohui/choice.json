@@ -1,0 +1,72 @@
+{
+    "two_concept/multi/Chen Shi_Zhao Guohui/0.png": [
+        {
+            "Human": "What type of clothing is <Chen Shi> wearing? A. Traditional attire B. Casual outfit",
+            "AI": "A"
+        },
+        {
+            "Human": "What color outfit is <Zhao Guohui> wearing? A. Green. B. White. C. Blue.",
+            "AI": "A"
+        },
+        {
+            "Human": "What type of clothing are <Chen Shi> and <Zhao Guohui> wearing? A. Traditional attire. B. Casual wear. C. Sports uniform.",
+            "AI": "A"
+        }
+    ],
+    "two_concept/multi/Chen Shi_Zhao Guohui/1.png": [
+        {
+            "Human": "What is <Chen Shi> wearing in the image? A. Red robe. B. Green robe. C. Blue robe.",
+            "AI": "A"
+        },
+        {
+            "Human": "What color is the clothing that <Zhao Guohui> is wearing in the image? A.green. B.red.",
+            "AI": "A"
+        },
+        {
+            "Human": "What time period is shown in the image that includes <Chen Shi> and <Zhao Guohui>? A. Modern Times. B. 2015. C. Historical Era",
+            "AI": "C"
+        }
+    ],
+    "two_concept/multi/Chen Shi_Zhao Guohui/2.png": [
+        {
+            "Human": "What is <Chen Shi> wearing in the image? A. A blue traditional outfit. B. A red modern suit.",
+            "AI": "A"
+        },
+        {
+            "Human": "What kind of clothing is <Zhao Guohui> wearing in the image? A. Modern casual B. Traditional Chinese C. Sporty",
+            "AI": "B"
+        },
+        {
+            "Human": "What is <Chen Shi> wearing in the image? A. Traditional blue attire with a hat. B. Modern suit with a tie. C. Casual shirt with jeans.",
+            "AI": "A"
+        }
+    ],
+    "two_concept/multi/Chen Shi_Zhao Guohui/3.png": [
+        {
+            "Human": "What is <Chen Shi> doing in the image? A. Playing a musical instrument. B. Rowing a boat. C. Reading a book.",
+            "AI": "B"
+        },
+        {
+            "Human": "What color dress is <Zhao Guohui> wearing? A: Red. B: Blue.",
+            "AI": "A"
+        },
+        {
+            "Human": "What traditional clothing is <Chen Shi> wearing in the image? A.red dress. B.blue robe.",
+            "AI": "B"
+        }
+    ],
+    "two_concept/multi/Chen Shi_Zhao Guohui/4.png": [
+        {
+            "Human": "What type of clothing is <Chen Shi> wearing in the image? A. T-shirt. B. Traditional Chinese attire.",
+            "AI": "B"
+        },
+        {
+            "Human": "What is <Zhao Guohui> wearing in the image? A. A suit. B. A traditional Chinese outfit.",
+            "AI": "B"
+        },
+        {
+            "Human": "What type of clothing is <Chen Shi> wearing in the image? A. Casual shirt B. Traditional attire",
+            "AI": "B"
+        }
+    ]
+}

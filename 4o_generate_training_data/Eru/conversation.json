@@ -1,0 +1,422 @@
+{
+    "two_concept/concept/train/Eru/0.png": [
+        {
+            "Question": "What is <Eru> hair color?",
+            "Answer": "<Eru>'s hair color is dark brown."
+        },
+        {
+            "Question": "What color are <Eru> eyes?",
+            "Answer": "I don't know what color <Eru>'s eyes are."
+        },
+        {
+            "Question": "Would you describe <Eru>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<Eru>'s physique can be described as slim."
+        },
+        {
+            "Question": "What is <Eru> skin tone?",
+            "Answer": "<Eru>'s skin tone is light."
+        },
+        {
+            "Question": "How would you describe <Eru> hairstyle?",
+            "Answer": "<Eru>'s hairstyle is long, straight, and dark, with bangs that partially cover the forehead."
+        },
+        {
+            "Question": "Does <Eru> wear glasses or any accessories?",
+            "Answer": "<Eru> does not wear glasses or any accessories."
+        },
+        {
+            "Question": "How would you describe <Eru>'s attire?",
+            "Answer": "<Eru> is wearing a sailor-style school uniform with a white top and dark collar."
+        },
+        {
+            "Question": "Does <Eru> have any distinctive facial features?",
+            "Answer": "I cannot determine any distinctive facial features of <Eru> from the given image."
+        },
+        {
+            "Question": "What is <Eru> overall build or physique?",
+            "Answer": "<Eru> has a slender and petite build."
+        },
+        {
+            "Question": "What is <Eru> general expression or demeanor?",
+            "Answer": "<Eru>'s general expression or demeanor appears to be thoughtful and contemplative."
+        }
+    ],
+    "two_concept/concept/train/Eru/1.png": [
+        {
+            "Question": "What is <Eru> hair color?",
+            "Answer": "<Eru>'s hair color is black."
+        },
+        {
+            "Question": "What color are <Eru> eyes?",
+            "Answer": "I cannot determine the color of <Eru>'s eyes from the image."
+        },
+        {
+            "Question": "Would you describe <Eru>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<Eru>'s physique can be described as slim."
+        },
+        {
+            "Question": "What is <Eru> skin tone?",
+            "Answer": "<Eru>'s skin tone is light."
+        },
+        {
+            "Question": "How would you describe <Eru> hairstyle?",
+            "Answer": "<Eru>'s hairstyle is long and straight, with her hair falling past her shoulders."
+        },
+        {
+            "Question": "Does <Eru> wear glasses or any accessories?",
+            "Answer": "<Eru> does not wear glasses or any accessories."
+        },
+        {
+            "Question": "How would you describe <Eru>'s attire?",
+            "Answer": "<Eru> is wearing a school uniform with a white blouse and a dark-colored sailor-style collar."
+        },
+        {
+            "Question": "Does <Eru> have any distinctive facial features?",
+            "Answer": "I cannot determine any distinctive facial features of <Eru> from the image provided."
+        },
+        {
+            "Question": "What is <Eru> overall build or physique?",
+            "Answer": "<Eru> has a slender and petite build."
+        },
+        {
+            "Question": "What is <Eru> general expression or demeanor?",
+            "Answer": "<Eru>'s general expression or demeanor appears to be cheerful and friendly, as indicated by the raised index finger and relaxed posture."
+        }
+    ],
+    "two_concept/concept/train/Eru/2.png": [
+        {
+            "Question": "What is <Eru> hair color?",
+            "Answer": "<Eru>'s hair color is dark brown."
+        },
+        {
+            "Question": "What color are <Eru> eyes?",
+            "Answer": "I cannot determine the color of <Eru>'s eyes from the image."
+        },
+        {
+            "Question": "Would you describe <Eru>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<Eru>'s physique can be described as slim."
+        },
+        {
+            "Question": "What is <Eru> skin tone?",
+            "Answer": "<Eru>'s skin tone is light."
+        },
+        {
+            "Question": "How would you describe <Eru> hairstyle?",
+            "Answer": "<Eru>'s hairstyle is long and straight, with the hair falling past the shoulders."
+        },
+        {
+            "Question": "Does <Eru> wear glasses or any accessories?",
+            "Answer": "<Eru> does not appear to be wearing glasses or any accessories."
+        },
+        {
+            "Question": "How would you describe <Eru>'s attire?",
+            "Answer": "<Eru> is wearing a traditional Japanese school uniform, commonly known as a sailor uniform. The outfit includes a white short-sleeved blouse with a dark blue sailor collar and a matching dark blue necktie."
+        },
+        {
+            "Question": "Does <Eru> have any distinctive facial features?",
+            "Answer": "I cannot determine any distinctive facial features of <Eru> from the image."
+        },
+        {
+            "Question": "What is <Eru> overall build or physique?",
+            "Answer": "<Eru> has a slender build."
+        },
+        {
+            "Question": "What is <Eru> general expression or demeanor?",
+            "Answer": "<Eru> appears to have a relaxed and casual demeanor, enjoying an ice cream bar while wearing a school uniform."
+        }
+    ],
+    "two_concept/concept/train/Eru/3.png": [
+        {
+            "Question": "What is <Eru> hair color?",
+            "Answer": "<Eru>'s hair color is dark brown."
+        },
+        {
+            "Question": "What color are <Eru> eyes?",
+            "Answer": "I cannot determine the color of <Eru>'s eyes from the image provided."
+        },
+        {
+            "Question": "Would you describe <Eru>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<Eru>'s physique can be described as slim."
+        },
+        {
+            "Question": "What is <Eru> skin tone?",
+            "Answer": "<Eru>'s skin tone is fair."
+        },
+        {
+            "Question": "How would you describe <Eru> hairstyle?",
+            "Answer": "<Eru>'s hairstyle is long, straight, and dark, with her hair falling past her shoulders."
+        },
+        {
+            "Question": "Does <Eru> wear glasses or any accessories?",
+            "Answer": "<Eru> does not wear glasses or any accessories."
+        },
+        {
+            "Question": "How would you describe <Eru>'s attire?",
+            "Answer": "<Eru> is wearing a school uniform consisting of a white long-sleeved blouse with a dark collar and a dark pleated skirt. She is also wearing white knee-high socks and brown shoes."
+        },
+        {
+            "Question": "Does <Eru> have any distinctive facial features?",
+            "Answer": "I cannot determine any distinctive facial features of <Eru> from the given image."
+        },
+        {
+            "Question": "What is <Eru> overall build or physique?",
+            "Answer": "<Eru> has a slender and petite build."
+        },
+        {
+            "Question": "What is <Eru> general expression or demeanor?",
+            "Answer": "<Eru> appears to have a shy and demure demeanor, with her hands clasped together and her posture slightly hunched."
+        }
+    ],
+    "two_concept/concept/train/Eru/4.png": [
+        {
+            "Question": "What is <Eru> hair color?",
+            "Answer": "<Eru>'s hair color is black."
+        },
+        {
+            "Question": "What color are <Eru> eyes?",
+            "Answer": "<Eru>'s eyes are not visible in the image."
+        },
+        {
+            "Question": "Would you describe <Eru>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<Eru>'s physique is slim."
+        },
+        {
+            "Question": "What is <Eru> skin tone?",
+            "Answer": "<Eru>'s skin tone is light."
+        },
+        {
+            "Question": "How would you describe <Eru> hairstyle?",
+            "Answer": "<Eru>'s hairstyle is long, straight, and dark, with bangs that frame the face."
+        },
+        {
+            "Question": "Does <Eru> wear glasses or any accessories?",
+            "Answer": "<Eru> does not wear glasses or any accessories."
+        },
+        {
+            "Question": "How would you describe <Eru>'s attire?",
+            "Answer": "<Eru> is wearing a traditional Japanese school uniform, consisting of a white blouse with a dark blue sailor collar and matching cuffs, and a dark blue ribbon tied at the front."
+        },
+        {
+            "Question": "Does <Eru> have any distinctive facial features?",
+            "Answer": "I cannot determine if <Eru> has any distinctive facial features based on the provided image."
+        },
+        {
+            "Question": "What is <Eru> overall build or physique?",
+            "Answer": "<Eru> has a slender and petite build."
+        },
+        {
+            "Question": "What is <Eru> general expression or demeanor?",
+            "Answer": "<Eru>'s general expression or demeanor appears to be enthusiastic and energetic, as indicated by her raised fists and lively posture."
+        }
+    ],
+    "two_concept/concept/train/Eru/5.png": [
+        {
+            "Question": "What is <Eru> hair color?",
+            "Answer": "<Eru>'s hair color is dark brown."
+        },
+        {
+            "Question": "What color are <Eru> eyes?",
+            "Answer": "I don't know what color <Eru>'s eyes are."
+        },
+        {
+            "Question": "Would you describe <Eru>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<Eru>'s physique appears to be slim."
+        },
+        {
+            "Question": "What is <Eru> skin tone?",
+            "Answer": "<Eru>'s skin tone is light."
+        },
+        {
+            "Question": "How would you describe <Eru> hairstyle?",
+            "Answer": "<Eru>'s hairstyle is long and straight with a deep red color."
+        },
+        {
+            "Question": "Does <Eru> wear glasses or any accessories?",
+            "Answer": "<Eru> does not appear to be wearing glasses or any accessories."
+        },
+        {
+            "Question": "How would you describe <Eru>'s attire?",
+            "Answer": "<Eru> is wearing a white outfit with a yellow trim."
+        },
+        {
+            "Question": "Does <Eru> have any distinctive facial features?",
+            "Answer": "<Eru> has long, dark hair with a slight wave."
+        },
+        {
+            "Question": "What is <Eru> overall build or physique?",
+            "Answer": "<Eru> has a slender and delicate build."
+        },
+        {
+            "Question": "What is <Eru> general expression or demeanor?",
+            "Answer": "<Eru> has long, dark hair that flows freely, suggesting a calm and serene demeanor."
+        }
+    ],
+    "two_concept/concept/train/Eru/6.png": [
+        {
+            "Question": "What is <Eru> hair color?",
+            "Answer": "<Eru>'s hair color is black."
+        },
+        {
+            "Question": "What color are <Eru> eyes?",
+            "Answer": "I don't know what color <Eru>'s eyes are."
+        },
+        {
+            "Question": "Would you describe <Eru>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<Eru>'s physique can be described as slim."
+        },
+        {
+            "Question": "What is <Eru> skin tone?",
+            "Answer": "<Eru>'s skin tone is light."
+        },
+        {
+            "Question": "How would you describe <Eru> hairstyle?",
+            "Answer": "<Eru>'s hairstyle is long, straight, and dark, with her hair falling past her shoulders."
+        },
+        {
+            "Question": "Does <Eru> wear glasses or any accessories?",
+            "Answer": "<Eru> is not wearing glasses or any accessories."
+        },
+        {
+            "Question": "How would you describe <Eru>'s attire?",
+            "Answer": "<Eru> is wearing a traditional Japanese school uniform, consisting of a white blouse with a dark blue sailor collar and a matching bow."
+        },
+        {
+            "Question": "Does <Eru> have any distinctive facial features?",
+            "Answer": "I don't know."
+        },
+        {
+            "Question": "What is <Eru> overall build or physique?",
+            "Answer": "<Eru> has a slender build."
+        },
+        {
+            "Question": "What is <Eru> general expression or demeanor?",
+            "Answer": "<Eru>'s general expression or demeanor appears to be calm and focused, as she is engaged in the activity of arranging or picking up food from a tray."
+        }
+    ],
+    "two_concept/concept/train/Eru/7.png": [
+        {
+            "Question": "What is <Eru> hair color?",
+            "Answer": "<Eru>'s hair color is dark brown."
+        },
+        {
+            "Question": "What color are <Eru> eyes?",
+            "Answer": "I don't know what color <Eru>'s eyes are."
+        },
+        {
+            "Question": "Would you describe <Eru>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<Eru>'s physique can be described as slim."
+        },
+        {
+            "Question": "What is <Eru> skin tone?",
+            "Answer": "<Eru>'s skin tone is light."
+        },
+        {
+            "Question": "How would you describe <Eru> hairstyle?",
+            "Answer": "<Eru>'s hairstyle is long, straight, and dark, with her hair falling past her shoulders."
+        },
+        {
+            "Question": "Does <Eru> wear glasses or any accessories?",
+            "Answer": "<Eru> does not wear glasses or any accessories."
+        },
+        {
+            "Question": "How would you describe <Eru>'s attire?",
+            "Answer": "<Eru> is wearing a school uniform consisting of a white blouse with a blue sailor collar and a matching blue bow."
+        },
+        {
+            "Question": "Does <Eru> have any distinctive facial features?",
+            "Answer": "<Eru> has long, straight, dark hair."
+        },
+        {
+            "Question": "What is <Eru> overall build or physique?",
+            "Answer": "<Eru> has a slender and petite build."
+        },
+        {
+            "Question": "What is <Eru> general expression or demeanor?",
+            "Answer": "<Eru> generally has a calm and composed demeanor."
+        }
+    ],
+    "two_concept/concept/train/Eru/8.png": [
+        {
+            "Question": "What is <Eru> hair color?",
+            "Answer": "<Eru>'s hair color is black."
+        },
+        {
+            "Question": "What color are <Eru> eyes?",
+            "Answer": "<Eru>'s eyes are purple."
+        },
+        {
+            "Question": "Would you describe <Eru>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<Eru>'s physique can be described as slim."
+        },
+        {
+            "Question": "What is <Eru> skin tone?",
+            "Answer": "<Eru>'s skin tone is light."
+        },
+        {
+            "Question": "How would you describe <Eru> hairstyle?",
+            "Answer": "<Eru>'s hairstyle is long, straight, and features bangs that partially cover her forehead."
+        },
+        {
+            "Question": "Does <Eru> wear glasses or any accessories?",
+            "Answer": "<Eru> does not wear glasses or any accessories."
+        },
+        {
+            "Question": "How would you describe <Eru>'s attire?",
+            "Answer": "<Eru> is wearing a school uniform consisting of a white blouse with a dark collar and a dark ribbon tie."
+        },
+        {
+            "Question": "Does <Eru> have any distinctive facial features?",
+            "Answer": "<Eru> has large, expressive purple eyes."
+        },
+        {
+            "Question": "What is <Eru> overall build or physique?",
+            "Answer": "<Eru> has a slender and petite build."
+        },
+        {
+            "Question": "What is <Eru> general expression or demeanor?",
+            "Answer": "<Eru> has a curious and attentive expression."
+        }
+    ],
+    "two_concept/concept/train/Eru/9.png": [
+        {
+            "Question": "What is <Eru> hair color?",
+            "Answer": "<Eru>'s hair color is black."
+        },
+        {
+            "Question": "What color are <Eru> eyes?",
+            "Answer": "<Eru>'s eyes are closed in the image, so their color cannot be determined."
+        },
+        {
+            "Question": "Would you describe <Eru>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<Eru>'s physique appears to be slim."
+        },
+        {
+            "Question": "What is <Eru> skin tone?",
+            "Answer": "<Eru>'s skin tone is light."
+        },
+        {
+            "Question": "How would you describe <Eru> hairstyle?",
+            "Answer": "<Eru>'s hairstyle is long, straight, and features blunt bangs that cover her forehead."
+        },
+        {
+            "Question": "Does <Eru> wear glasses or any accessories?",
+            "Answer": "<Eru> is not wearing glasses but is wearing a pink scarf."
+        },
+        {
+            "Question": "How would you describe <Eru>'s attire?",
+            "Answer": "<Eru> is wearing a light-colored coat and a pink scarf."
+        },
+        {
+            "Question": "Does <Eru> have any distinctive facial features?",
+            "Answer": "<Eru> has long, straight black hair with bangs that cover her forehead."
+        },
+        {
+            "Question": "What is <Eru> overall build or physique?",
+            "Answer": "<Eru> has a slender and petite build."
+        },
+        {
+            "Question": "What is <Eru> general expression or demeanor?",
+            "Answer": "<Eru> has a calm and serene expression, with her eyes closed and a relaxed demeanor."
+        }
+    ]
+}

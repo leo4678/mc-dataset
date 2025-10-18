@@ -1,0 +1,72 @@
+{
+    "two_concept/multi/Shaoyu_Tianming/0.jpg": [
+        {
+            "Human": "What color is <Shaoyu>'s clothing? A. Blue. B. Green. C. Purple.",
+            "AI": "C"
+        },
+        {
+            "Human": "What is <Tianming> wearing around their neck? A. A pendant. B. A scarf.",
+            "AI": "A"
+        },
+        {
+            "Human": "What type of clothing is <Shaoyu> wearing? A. Purple robe. B. Green jacket. C. Blue shirt.",
+            "AI": "A"
+        }
+    ],
+    "two_concept/multi/Shaoyu_Tianming/1.jpg": [
+        {
+            "Human": "What color is <Shaoyu>'s clothing? A. Green. B. Blue. C. Red.",
+            "AI": "B"
+        },
+        {
+            "Human": "What color is <Tianming>'s outfit? A. Green. B. Blue. C. Red.",
+            "AI": "A"
+        },
+        {
+            "Human": "What color is the clothing of <Shaoyu> and <Tianming>? A. Blue and Green. B. Red and Yellow. C. Purple and Orange.",
+            "AI": "A"
+        }
+    ],
+    "two_concept/multi/Shaoyu_Tianming/2.jpg": [
+        {
+            "Human": "What color is <Shaoyu>'s robe? A. Blue B. Purple C. Green",
+            "AI": "B"
+        },
+        {
+            "Human": "What is <Tianming> wearing in the image? A. A purple robe. B. A green and yellow outfit.",
+            "AI": "B"
+        },
+        {
+            "Human": "What is the color of <Shaoyu>'s clothing? A. Purple. B. Green. C. Blue.",
+            "AI": "A"
+        }
+    ],
+    "two_concept/multi/Shaoyu_Tianming/3.jpg": [
+        {
+            "Human": "What is <Shaoyu> holding in the image? A. A sword. B. A shield.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is <Tianming> wearing in the image? A. A yellow outfit with a scarf. B. A purple outfit with a sword. C. A blue outfit with a hat.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is <Shaoyu> holding in the image? A. A sword. B. A shield. C. A bow.",
+            "AI": "A"
+        }
+    ],
+    "two_concept/multi/Shaoyu_Tianming/4.jpg": [
+        {
+            "Human": "What color is <Shaoyu>'s outfit? A. Purple. B. Yellow. C. Green.",
+            "AI": "A"
+        },
+        {
+            "Human": "What color is <Tianming>'s outfit? A. Purple. B. Yellow. C. Green.",
+            "AI": "B"
+        },
+        {
+            "Human": "What color is <Shaoyu>'s outfit? A. Purple. B. Yellow. C. Green.",
+            "AI": "A"
+        }
+    ]
+}

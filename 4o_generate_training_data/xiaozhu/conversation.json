@@ -1,0 +1,422 @@
+{
+    "two_concept/concept/train/xiaozhu/0.png": [
+        {
+            "Question": "What is <xiaozhu> hair color?",
+            "Answer": "<xiaozhu> does not have any hair."
+        },
+        {
+            "Question": "What color are <xiaozhu> eyes?",
+            "Answer": "<xiaozhu>'s eyes are black."
+        },
+        {
+            "Question": "Would you describe <xiaozhu>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<xiaozhu>'s physique is slim."
+        },
+        {
+            "Question": "What is <xiaozhu> skin tone?",
+            "Answer": "<xiaozhu>'s skin tone is pink."
+        },
+        {
+            "Question": "How would you describe <xiaozhu> hairstyle?",
+            "Answer": "<xiaozhu> does not have any hair."
+        },
+        {
+            "Question": "Does <xiaozhu> wear glasses or any accessories?",
+            "Answer": "<xiaozhu> does not wear glasses or any accessories."
+        },
+        {
+            "Question": "How would you describe <xiaozhu>'s attire?",
+            "Answer": "<xiaozhu> is wearing a sleeveless, pink and magenta striped outfit."
+        },
+        {
+            "Question": "Does <xiaozhu> have any distinctive facial features?",
+            "Answer": "<xiaozhu> has a large, round nose and expressive eyes."
+        },
+        {
+            "Question": "What is <xiaozhu> overall build or physique?",
+            "Answer": "<xiaozhu> has a small and slender build."
+        },
+        {
+            "Question": "What is <xiaozhu> general expression or demeanor?",
+            "Answer": "<xiaozhu> generally appears to have a worried or anxious expression."
+        }
+    ],
+    "two_concept/concept/train/xiaozhu/1.png": [
+        {
+            "Question": "What is <xiaozhu> hair color?",
+            "Answer": "<xiaozhu> does not have any hair."
+        },
+        {
+            "Question": "What color are <xiaozhu> eyes?",
+            "Answer": "<xiaozhu>'s eyes are black."
+        },
+        {
+            "Question": "Would you describe <xiaozhu>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<xiaozhu>'s physique is slim."
+        },
+        {
+            "Question": "What is <xiaozhu> skin tone?",
+            "Answer": "<xiaozhu>'s skin tone is pink."
+        },
+        {
+            "Question": "How would you describe <xiaozhu> hairstyle?",
+            "Answer": "<xiaozhu> does not have any hair."
+        },
+        {
+            "Question": "Does <xiaozhu> wear glasses or any accessories?",
+            "Answer": "<xiaozhu> does not wear glasses or any accessories."
+        },
+        {
+            "Question": "How would you describe <xiaozhu>'s attire?",
+            "Answer": "<xiaozhu> is wearing a pink, sleeveless, striped bodysuit."
+        },
+        {
+            "Question": "Does <xiaozhu> have any distinctive facial features?",
+            "Answer": "<xiaozhu> has a small, round nose and large, floppy ears."
+        },
+        {
+            "Question": "What is <xiaozhu> overall build or physique?",
+            "Answer": "<xiaozhu> has a small and slender build."
+        },
+        {
+            "Question": "What is <xiaozhu> general expression or demeanor?",
+            "Answer": "<xiaozhu> has a cheerful and happy expression, with a smile on their face."
+        }
+    ],
+    "two_concept/concept/train/xiaozhu/2.png": [
+        {
+            "Question": "What is <xiaozhu> hair color?",
+            "Answer": "<xiaozhu> does not have any hair."
+        },
+        {
+            "Question": "What color are <xiaozhu> eyes?",
+            "Answer": "<xiaozhu>'s eyes are black."
+        },
+        {
+            "Question": "Would you describe <xiaozhu>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<xiaozhu>'s physique is slim."
+        },
+        {
+            "Question": "What is <xiaozhu> skin tone?",
+            "Answer": "<xiaozhu>'s skin tone is pink."
+        },
+        {
+            "Question": "How would you describe <xiaozhu> hairstyle?",
+            "Answer": "<xiaozhu> does not have any hair."
+        },
+        {
+            "Question": "Does <xiaozhu> wear glasses or any accessories?",
+            "Answer": "<xiaozhu> does not wear glasses or any accessories."
+        },
+        {
+            "Question": "How would you describe <xiaozhu>'s attire?",
+            "Answer": "<xiaozhu> is wearing a pink, striped sleeveless outfit."
+        },
+        {
+            "Question": "Does <xiaozhu> have any distinctive facial features?",
+            "Answer": "<xiaozhu> has a small, round nose and large, expressive eyes."
+        },
+        {
+            "Question": "What is <xiaozhu> overall build or physique?",
+            "Answer": "<xiaozhu> has a small and slender build."
+        },
+        {
+            "Question": "What is <xiaozhu> general expression or demeanor?",
+            "Answer": "<xiaozhu> appears to be surprised or frightened."
+        }
+    ],
+    "two_concept/concept/train/xiaozhu/3.png": [
+        {
+            "Question": "What is <xiaozhu> hair color?",
+            "Answer": "<xiaozhu> does not have any hair."
+        },
+        {
+            "Question": "What color are <xiaozhu> eyes?",
+            "Answer": "<xiaozhu>'s eyes are black."
+        },
+        {
+            "Question": "Would you describe <xiaozhu>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<xiaozhu>'s physique is slim."
+        },
+        {
+            "Question": "What is <xiaozhu> skin tone?",
+            "Answer": "<xiaozhu>'s skin tone is pink."
+        },
+        {
+            "Question": "How would you describe <xiaozhu> hairstyle?",
+            "Answer": "<xiaozhu> does not have any hair."
+        },
+        {
+            "Question": "Does <xiaozhu> wear glasses or any accessories?",
+            "Answer": "<xiaozhu> does not wear glasses or any accessories."
+        },
+        {
+            "Question": "How would you describe <xiaozhu>'s attire?",
+            "Answer": "<xiaozhu> is wearing a sleeveless, pink and purple striped shirt."
+        },
+        {
+            "Question": "Does <xiaozhu> have any distinctive facial features?",
+            "Answer": "<xiaozhu> has a large round nose and big, pointed ears."
+        },
+        {
+            "Question": "What is <xiaozhu> overall build or physique?",
+            "Answer": "<xiaozhu> has a small and slender build."
+        },
+        {
+            "Question": "What is <xiaozhu> general expression or demeanor?",
+            "Answer": "<xiaozhu> has a cheerful and friendly expression."
+        }
+    ],
+    "two_concept/concept/train/xiaozhu/4.png": [
+        {
+            "Question": "What is <xiaozhu> hair color?",
+            "Answer": "<xiaozhu> does not have any hair."
+        },
+        {
+            "Question": "What color are <xiaozhu> eyes?",
+            "Answer": "<xiaozhu>'s eyes are black."
+        },
+        {
+            "Question": "Would you describe <xiaozhu>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<xiaozhu>'s physique is slim."
+        },
+        {
+            "Question": "What is <xiaozhu> skin tone?",
+            "Answer": "<xiaozhu>'s skin tone is pink."
+        },
+        {
+            "Question": "How would you describe <xiaozhu> hairstyle?",
+            "Answer": "<xiaozhu> does not have any hair."
+        },
+        {
+            "Question": "Does <xiaozhu> wear glasses or any accessories?",
+            "Answer": "No, <xiaozhu> does not wear glasses or any accessories."
+        },
+        {
+            "Question": "How would you describe <xiaozhu>'s attire?",
+            "Answer": "\"<xiaozhu> is wearing a sleeveless, striped, magenta top.\""
+        },
+        {
+            "Question": "Does <xiaozhu> have any distinctive facial features?",
+            "Answer": "<xiaozhu> has large, pink ears and a small, round nose."
+        },
+        {
+            "Question": "What is <xiaozhu> overall build or physique?",
+            "Answer": "<xiaozhu> has a small and slender build."
+        },
+        {
+            "Question": "What is <xiaozhu> general expression or demeanor?",
+            "Answer": "<xiaozhu> has a cheerful and happy expression."
+        }
+    ],
+    "two_concept/concept/train/xiaozhu/5.png": [
+        {
+            "Question": "What is <xiaozhu> hair color?",
+            "Answer": "<xiaozhu> does not have any hair."
+        },
+        {
+            "Question": "What color are <xiaozhu> eyes?",
+            "Answer": "<xiaozhu>'s eyes are black."
+        },
+        {
+            "Question": "Would you describe <xiaozhu>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<xiaozhu>'s physique is slim."
+        },
+        {
+            "Question": "What is <xiaozhu> skin tone?",
+            "Answer": "<xiaozhu>'s skin tone is light pink."
+        },
+        {
+            "Question": "How would you describe <xiaozhu> hairstyle?",
+            "Answer": "<xiaozhu> does not have any hair."
+        },
+        {
+            "Question": "Does <xiaozhu> wear glasses or any accessories?",
+            "Answer": "<xiaozhu> does not wear glasses or any accessories."
+        },
+        {
+            "Question": "How would you describe <xiaozhu>'s attire?",
+            "Answer": "<xiaozhu> is wearing a pink, sleeveless, striped shirt."
+        },
+        {
+            "Question": "Does <xiaozhu> have any distinctive facial features?",
+            "Answer": "<xiaozhu> has a small, round nose and large, expressive eyes."
+        },
+        {
+            "Question": "What is <xiaozhu> overall build or physique?",
+            "Answer": "<xiaozhu> has a small and slender build."
+        },
+        {
+            "Question": "What is <xiaozhu> general expression or demeanor?",
+            "Answer": "<xiaozhu> has a friendly and welcoming expression."
+        }
+    ],
+    "two_concept/concept/train/xiaozhu/6.png": [
+        {
+            "Question": "What is <xiaozhu> hair color?",
+            "Answer": "<xiaozhu> does not have any hair."
+        },
+        {
+            "Question": "What color are <xiaozhu> eyes?",
+            "Answer": "<xiaozhu>'s eyes are black."
+        },
+        {
+            "Question": "Would you describe <xiaozhu>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<xiaozhu>'s physique is slim."
+        },
+        {
+            "Question": "What is <xiaozhu> skin tone?",
+            "Answer": "<xiaozhu>'s skin tone is pink."
+        },
+        {
+            "Question": "How would you describe <xiaozhu> hairstyle?",
+            "Answer": "<xiaozhu> does not have any hair."
+        },
+        {
+            "Question": "Does <xiaozhu> wear glasses or any accessories?",
+            "Answer": "No, <xiaozhu> does not wear glasses or any accessories."
+        },
+        {
+            "Question": "How would you describe <xiaozhu>'s attire?",
+            "Answer": "\"<xiaozhu> is wearing a red and black striped sleeveless shirt.\""
+        },
+        {
+            "Question": "Does <xiaozhu> have any distinctive facial features?",
+            "Answer": "<xiaozhu> has a small, round nose and large, pointed ears."
+        },
+        {
+            "Question": "What is <xiaozhu> overall build or physique?",
+            "Answer": "<xiaozhu> has a small and slender build."
+        },
+        {
+            "Question": "What is <xiaozhu> general expression or demeanor?",
+            "Answer": "<xiaozhu> has a generally calm and content expression."
+        }
+    ],
+    "two_concept/concept/train/xiaozhu/7.png": [
+        {
+            "Question": "What is <xiaozhu> hair color?",
+            "Answer": "<xiaozhu> does not have any hair."
+        },
+        {
+            "Question": "What color are <xiaozhu> eyes?",
+            "Answer": "<xiaozhu>'s eyes are black."
+        },
+        {
+            "Question": "Would you describe <xiaozhu>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<xiaozhu>'s physique is slim."
+        },
+        {
+            "Question": "What is <xiaozhu> skin tone?",
+            "Answer": "<xiaozhu>'s skin tone is light pink."
+        },
+        {
+            "Question": "How would you describe <xiaozhu> hairstyle?",
+            "Answer": "<xiaozhu> has no hair."
+        },
+        {
+            "Question": "Does <xiaozhu> wear glasses or any accessories?",
+            "Answer": "\"<xiaozhu> does not wear glasses or any accessories.\""
+        },
+        {
+            "Question": "How would you describe <xiaozhu>'s attire?",
+            "Answer": "<xiaozhu> is wearing a pink and magenta striped outfit."
+        },
+        {
+            "Question": "Does <xiaozhu> have any distinctive facial features?",
+            "Answer": "<xiaozhu> has a distinctive pink nose and large, floppy ears."
+        },
+        {
+            "Question": "What is <xiaozhu> overall build or physique?",
+            "Answer": "<xiaozhu> has a small and slender build."
+        },
+        {
+            "Question": "What is <xiaozhu> general expression or demeanor?",
+            "Answer": "<xiaozhu> has a cheerful and happy expression."
+        }
+    ],
+    "two_concept/concept/train/xiaozhu/8.png": [
+        {
+            "Question": "What is <xiaozhu> hair color?",
+            "Answer": "<xiaozhu> does not have any hair."
+        },
+        {
+            "Question": "What color are <xiaozhu> eyes?",
+            "Answer": "<xiaozhu>'s eyes are closed."
+        },
+        {
+            "Question": "Would you describe <xiaozhu>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<xiaozhu>'s physique is slim."
+        },
+        {
+            "Question": "What is <xiaozhu> skin tone?",
+            "Answer": "<xiaozhu>'s skin tone is light pink."
+        },
+        {
+            "Question": "How would you describe <xiaozhu> hairstyle?",
+            "Answer": "<xiaozhu> does not have any hair."
+        },
+        {
+            "Question": "Does <xiaozhu> wear glasses or any accessories?",
+            "Answer": "<xiaozhu> does not wear glasses or any accessories."
+        },
+        {
+            "Question": "How would you describe <xiaozhu>'s attire?",
+            "Answer": "<xiaozhu> is wearing a red and pink striped outfit."
+        },
+        {
+            "Question": "Does <xiaozhu> have any distinctive facial features?",
+            "Answer": "<xiaozhu> has a distinctive pink snout and large, floppy ears."
+        },
+        {
+            "Question": "What is <xiaozhu> overall build or physique?",
+            "Answer": "<xiaozhu> has a small and slender build."
+        },
+        {
+            "Question": "What is <xiaozhu> general expression or demeanor?",
+            "Answer": "<xiaozhu> has a content and happy expression, with a slight smile and closed eyes."
+        }
+    ],
+    "two_concept/concept/train/xiaozhu/9.png": [
+        {
+            "Question": "What is <xiaozhu> hair color?",
+            "Answer": "<xiaozhu> does not have any hair."
+        },
+        {
+            "Question": "What color are <xiaozhu> eyes?",
+            "Answer": "<xiaozhu>'s eyes are black."
+        },
+        {
+            "Question": "Would you describe <xiaozhu>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<xiaozhu>'s physique is slim."
+        },
+        {
+            "Question": "What is <xiaozhu> skin tone?",
+            "Answer": "<xiaozhu>'s skin tone is pink."
+        },
+        {
+            "Question": "How would you describe <xiaozhu> hairstyle?",
+            "Answer": "<xiaozhu> does not have any hair."
+        },
+        {
+            "Question": "Does <xiaozhu> wear glasses or any accessories?",
+            "Answer": "<xiaozhu> does not wear glasses or any accessories."
+        },
+        {
+            "Question": "How would you describe <xiaozhu>'s attire?",
+            "Answer": "\"<xiaozhu> is wearing a pink and magenta striped sleeveless outfit.\""
+        },
+        {
+            "Question": "Does <xiaozhu> have any distinctive facial features?",
+            "Answer": "\"<xiaozhu> has a round face, a small snout, and large, floppy ears.\""
+        },
+        {
+            "Question": "What is <xiaozhu> overall build or physique?",
+            "Answer": "<xiaozhu> has a small and slender build."
+        },
+        {
+            "Question": "What is <xiaozhu> general expression or demeanor?",
+            "Answer": "<xiaozhu> has a happy and cheerful expression."
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+[
+    {
+        "question": "What type of clothing does <Sherlock> often wear? A. Casual. B. Formal",
+        "answer": "B"
+    },
+    {
+        "question": "What accessory is <Sherlock> frequently seen with? A. Hat. B. Scarf",
+        "answer": "B"
+    },
+    {
+        "question": "What is <Sherlock>'s hair color? A. Blonde. B. Dark",
+        "answer": "B"
+    },
+    {
+        "question": "What is <Sherlock> often doing? A. Playing sports. B. Investigating",
+        "answer": "B"
+    },
+    {
+        "question": "What is <Sherlock>'s demeanor? A. Relaxed. B. Serious",
+        "answer": "B"
+    }
+]

@@ -1,0 +1,22 @@
+{
+    "three_concept/concept/test/Harry/0.png": {
+        "Human": "What emblem is visible on <Harry>'s clothing?",
+        "AI": "The emblem on <Harry>'s clothing is the Hogwarts crest."
+    },
+    "three_concept/concept/test/Harry/1.png": {
+        "Human": "What type of clothing is <Harry> wearing in the image?",
+        "AI": "<Harry> is wearing a dark jacket with a zipper and a light-colored shirt underneath."
+    },
+    "three_concept/concept/test/Harry/2.png": {
+        "Human": "What type of clothing is <Harry> wearing in the image?",
+        "AI": "<Harry> is wearing a dark robe with red and yellow stripes on the shoulder."
+    },
+    "three_concept/concept/test/Harry/3.png": {
+        "Human": "What is <Harry> wearing in the image?",
+        "AI": "<Harry> is wearing a white shirt with a tie and a dark robe."
+    },
+    "three_concept/concept/test/Harry/4.png": {
+        "Human": "What color is <Harry>'s shirt in the image?",
+        "AI": "<Harry> is wearing a red shirt."
+    }
+}

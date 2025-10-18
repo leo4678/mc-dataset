@@ -1,0 +1,22 @@
+{
+    "two_concept/concept/test/hammer/0.png": {
+        "Human": "What is the distinctive feature of the <hammer> in the image?",
+        "AI": "The <hammer> in the image has a unique design with a short handle wrapped in a leather-like material and a large, square metallic head."
+    },
+    "two_concept/concept/test/hammer/1.png": {
+        "Human": "What is the unique feature of the <hammer> in the image?",
+        "AI": "The <hammer> in the image has a distinctive square head with intricate designs on its surface and a short handle wrapped in a leather-like material."
+    },
+    "two_concept/concept/test/hammer/2.png": {
+        "Human": "What is the unique feature of the <hammer> in the image?",
+        "AI": "The <hammer> in the image has a distinctive, large rectangular head with a short handle, which is characteristic of Thor's Mjolnir."
+    },
+    "two_concept/concept/test/hammer/3.jpg": {
+        "Human": "What is the background element that enhances the dramatic effect of the <hammer> in the image?",
+        "AI": "The background element that enhances the dramatic effect of the <hammer> is the fire surrounding it."
+    },
+    "two_concept/concept/test/hammer/4.jpg": {
+        "Human": "What is the design feature on the head of the <hammer> in the image?",
+        "AI": "The head of the <hammer> in the image has intricate engravings and a rectangular shape."
+    }
+}

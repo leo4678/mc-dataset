@@ -1,0 +1,22 @@
+{
+    "three_concept/concept/test/shandi/0.png": {
+        "Human": "What is <shandi> wearing on her head?",
+        "AI": "<shandi> is wearing a clear helmet with a pink flower on top."
+    },
+    "three_concept/concept/test/shandi/1.png": {
+        "Human": "What is <shandi> wearing on her head?",
+        "AI": "<shandi> is wearing a clear helmet with a pink flower on it."
+    },
+    "three_concept/concept/test/shandi/2.png": {
+        "Human": "What is <shandi> wearing on her head?",
+        "AI": "<shandi> is wearing a helmet with a pink flower on it."
+    },
+    "three_concept/concept/test/shandi/3.png": {
+        "Human": "What is <shandi> wearing on her head?",
+        "AI": "<shandi> is wearing a clear helmet with a pink flower on top."
+    },
+    "three_concept/concept/test/shandi/4.png": {
+        "Human": "What is <shandi> wearing in the image?",
+        "AI": "<shandi> is wearing a white astronaut suit with a flower on the helmet."
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "three_concept/concept/test/ziqiao/0.png": {
+        "Human": "What type of suit is <ziqiao> wearing in the image?",
+        "AI": "<ziqiao> is wearing a blue checkered suit with a white shirt and a striped tie."
+    },
+    "three_concept/concept/test/ziqiao/1.png": {
+        "Human": "What color is <ziqiao>'s shirt in the image?",
+        "AI": "<ziqiao> is wearing a light blue shirt."
+    },
+    "three_concept/concept/test/ziqiao/2.png": {
+        "Human": "What type of suit is <ziqiao> wearing in the image?",
+        "AI": "<ziqiao> is wearing a blue checkered suit with a white shirt and a striped tie."
+    },
+    "three_concept/concept/test/ziqiao/3.png": {
+        "Human": "What is <ziqiao> holding in the image?",
+        "AI": "<ziqiao> is holding a card with a heart design on it."
+    },
+    "three_concept/concept/test/ziqiao/4.png": {
+        "Human": "What type of suit is <ziqiao> wearing in the image?",
+        "AI": "<ziqiao> is wearing a black tuxedo with a white shirt and a black bow tie."
+    }
+}

@@ -1,0 +1,72 @@
+{
+    "two_concept/multi/Modi_Rike/0.jpg": [
+        {
+            "Human": "What is the hair color of <Modi>? A.blue. B.brown.",
+            "AI": "B"
+        },
+        {
+            "Human": "What is the hair color of <Rike>? A.blue. B.brown.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is the hair color of <Rike> and <Modi>? A. Blue and Brown. B. Black and Blonde. C. Red and Green.",
+            "AI": "A"
+        }
+    ],
+    "two_concept/multi/Modi_Rike/1.jpg": [
+        {
+            "Human": "What is <Modi> wearing in the image? A. A yellow shirt and blue pants. B. A red shirt and black pants.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is <Rike> wearing in the image? A. A white lab coat. B. A yellow shirt. C. A blue jacket.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is <Rike> wearing in the image? A. A white lab coat. B. A yellow shirt. C. A blue jacket.",
+            "AI": "A"
+        }
+    ],
+    "two_concept/multi/Modi_Rike/2.jpg": [
+        {
+            "Human": "What is <Modi> holding in the image? A. A rake. B. A shovel. C. A broom.",
+            "AI": "B"
+        },
+        {
+            "Human": "What is <Rike> doing in the image? A. Holding a shovel. B. Leaning against a wall. C. Sitting on a chair.",
+            "AI": "B"
+        },
+        {
+            "Human": "What is <Modi> holding in the image? A. A book. B. A shovel. C. A stick.",
+            "AI": "B"
+        }
+    ],
+    "two_concept/multi/Modi_Rike/3.png": [
+        {
+            "Human": "What is <Modi> holding in the image? A. A book. B. A remote control.",
+            "AI": "B"
+        },
+        {
+            "Human": "What is <Rike> wearing in the image? A. A yellow shirt. B. A white lab coat. C. A blue jacket.",
+            "AI": "B"
+        },
+        {
+            "Human": "What is <Rike> wearing in the image? A. A white lab coat. B. A yellow shirt. C. A blue jacket.",
+            "AI": "A"
+        }
+    ],
+    "two_concept/multi/Modi_Rike/4.jpg": [
+        {
+            "Human": "What color is <Modi>'s shirt? A. Yellow B. Blue C. Green",
+            "AI": "A"
+        },
+        {
+            "Human": "What is <Rike> wearing in the image? A. A yellow shirt. B. A white lab coat.",
+            "AI": "B"
+        },
+        {
+            "Human": "What is the hair color of <Modi> and <Rike>? A. Brown and Blue. B. Black and Blonde. C. Red and Green.",
+            "AI": "A"
+        }
+    ]
+}

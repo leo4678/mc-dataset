@@ -1,0 +1,72 @@
+{
+    "two_concept/multi/Kousei_Kaori/0.png": [
+        {
+            "Human": "What is <Kousei> doing in the image?",
+            "AI": "<Kousei> is looking closely at someone with blonde hair."
+        },
+        {
+            "Human": "What is <Kaori> doing in the image?",
+            "AI": "<Kaori> is leaning in closely towards the person on the left."
+        },
+        {
+            "Human": "What is the interaction between <Kousei> and <Kaori> in the image?",
+            "AI": "<Kousei> and <Kaori> are looking closely at each other, with <Kaori> leaning towards <Kousei>."
+        }
+    ],
+    "two_concept/multi/Kousei_Kaori/1.png": [
+        {
+            "Human": "What season is depicted in the image with <Kousei>?",
+            "AI": "The image with <Kousei> depicts the spring season, as indicated by the blooming cherry blossoms."
+        },
+        {
+            "Human": "What is <Kaori> holding in her hand?",
+            "AI": "<Kaori> is holding a bag in her hand."
+        },
+        {
+            "Human": "What are <Kousei> and <Kaori> wearing in the image?",
+            "AI": "<Kousei> and <Kaori> are both wearing school uniforms with blazers and ties."
+        }
+    ],
+    "two_concept/multi/Kousei_Kaori/2.png": [
+        {
+            "Human": "What is <Kousei> doing in the image?",
+            "AI": "<Kousei> is standing with his head slightly down."
+        },
+        {
+            "Human": "What is <Kaori> doing in the image?",
+            "AI": "<Kaori> is standing and appears to be speaking or whispering with her hand near her mouth."
+        },
+        {
+            "Human": "What is <Kaori> doing in the image?",
+            "AI": "<Kaori> is standing with her hands near her mouth, looking to the right."
+        }
+    ],
+    "two_concept/multi/Kousei_Kaori/3.png": [
+        {
+            "Human": "What is <Kousei> doing in the image?",
+            "AI": "<Kousei> is comforting a crying girl by hugging her."
+        },
+        {
+            "Human": "What is <Kaori> doing in the image?",
+            "AI": "<Kaori> is crying and being comforted by someone."
+        },
+        {
+            "Human": "What is the emotional state of <Kousei> and <Kaori> in the image?",
+            "AI": "<Kaori> appears to be crying and seeking comfort, while <Kousei> is gently embracing her, providing support."
+        }
+    ],
+    "two_concept/multi/Kousei_Kaori/4.png": [
+        {
+            "Human": "What is <Kousei> wearing in the image?",
+            "AI": "<Kousei> is wearing a light blue suit with a red and white striped tie."
+        },
+        {
+            "Human": "What is <Kaori> looking at in the image?",
+            "AI": "<Kaori> is looking at the person next to her."
+        },
+        {
+            "Human": "What is <Kaori> doing in the image?",
+            "AI": "<Kaori> is looking at <Kousei> with a thoughtful expression."
+        }
+    ]
+}

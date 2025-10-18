@@ -1,0 +1,152 @@
+{
+    "three_concept/multi/Vane_Vex_Zor/0.png": [
+        {
+            "Human": "What is the primary color scheme of <Vane> on the ship? A.yellow and orange. B.blue and green. C.red and black.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is the design on the <Vex> sail? A. A skull print. B. A star print. C. A wave pattern.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is the color of the two-tone roof of <Zor>? A.red and yellow. B.red and blue. C.red and white.",
+            "AI": "C"
+        },
+        {
+            "Human": "What is the primary color of <Vane> and the design on <Vex>? A.Yellow and orange for <Vane>, skull print for <Vex>. B.Blue and green for <Vane>, star print for <Vex>. C.Red and black for <Vane>, stripe print for <Vex>.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is the primary color of <Vane> and the roof of <Zor>? A.Yellow and red. B.Yellow and orange. C.Blue and green.",
+            "AI": "B"
+        },
+        {
+            "Human": "What is the primary color of <Vex> and <Zor>? A.white and red. B.blue and green. C.yellow and black.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is the primary color scheme of <Vane>, <Vex>, and <Zor>? A.yellow and orange for <Vane>, white and black for <Vex>, red and brown for <Zor>. B.blue and green for <Vane>, red and white for <Vex>, yellow and orange for <Zor>. C.purple and pink for <Vane>, green and yellow for <Vex>, blue and white for <Zor>.",
+            "AI": "A"
+        }
+    ],
+    "three_concept/multi/Vane_Vex_Zor/1.png": [
+        {
+            "Human": "What is the main color scheme of <Vane> in the image? A.blue and white. B.yellow and orange. C.green and purple.",
+            "AI": "B"
+        },
+        {
+            "Human": "What is the color of the sail with the skull print on <Vex>? A.white. B.red. C.blue.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is the design on the sail of the boat where <Zor> is located? A. A skull with crossbones and a straw hat. B. A dragon. C. A star.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is the position of <Vane> and <Vex> on the ship? A.<Vane> is at the front and <Vex> is on the main sail. B.<Vane> is on the main sail and <Vex> is at the front.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is the primary color of <Vane> and the roof of <Zor>? A.yellow and red. B.orange and blue. C.yellow and blue",
+            "AI": "A"
+        },
+        {
+            "Human": "What is the color scheme of <Vex> and <Zor>? A. Black and white for <Vex> and red and white for <Zor>. B. Blue and yellow for <Vex> and green and brown for <Zor>. C. Red and black for <Vex> and blue and white for <Zor>.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is the primary color of <Vane>, <Vex>, and <Zor> in the image? A.yellow and orange for <Vane>, white for <Vex>, and red for <Zor>. B.blue and green for <Vane>, black for <Vex>, and yellow for <Zor>. C.purple and pink for <Vane>, gray for <Vex>, and brown for <Zor>.",
+            "AI": "A"
+        }
+    ],
+    "three_concept/multi/Vane_Vex_Zor/2.png": [
+        {
+            "Human": "What is the primary function of the <Vane> on the ship? A.Decoration. B.Navigation. C.Weaponry.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is the design on the <Vex> sail? A. A skull with crossbones. B. A dragon. C. A star.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is the design on the sail of the boat where <Zor> is located? A. A skull with crossbones and a hat. B. A dragon. C. A star.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is the primary color of <Vane> and the design on <Vex>? A.Yellow and orange with a skull print. B.Blue and green with a star print. C.Red and black with a heart print.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is the primary color of <Vane> and the roof of <Zor>? A.yellow and red. B.yellow and orange. C.orange and blue.",
+            "AI": "B"
+        },
+        {
+            "Human": "What is the color scheme of <Vex> and <Zor>? A. Black and white for <Vex>, red and yellow for <Zor>. B. Blue and green for <Vex>, orange and purple for <Zor>. C. Red and black for <Vex>, blue and white for <Zor>.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is the primary color of the two-tone roof on <Zor>? A.red and yellow. B.blue and white. C.green and black.",
+            "AI": "A"
+        }
+    ],
+    "three_concept/multi/Vane_Vex_Zor/3.png": [
+        {
+            "Human": "What is the primary function of <Vane> on the ship? A.Decoration. B.Navigation. C.Weaponry.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is the main design feature on the <Vex> sail? A. A dragon print. B. A skull print. C. A star print.",
+            "AI": "B"
+        },
+        {
+            "Human": "What is the prominent feature on the sail of <Zor>? A. A dragon. B. A skull with a straw hat. C. A star.",
+            "AI": "B"
+        },
+        {
+            "Human": "What is the primary color scheme of <Vane> and <Vex> in the image? A.yellow and orange for <Vane>, white with a skull print for <Vex>. B.blue and green for <Vane>, red with a star print for <Vex>.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is the primary color of <Vane> and the roof of <Zor>? A.yellow and orange for <Vane>, two-tone for <Zor>. B.blue and green for <Vane>, single-tone for <Zor>. C.red and white for <Vane>, multi-color for <Zor>.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is the color scheme of <Vex> and <Zor>? A.white and red. B.blue and yellow. C.green and black.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is the primary color scheme of <Vane>, <Vex>, and <Zor>? A.yellow and orange for <Vane>, white with a skull print for <Vex>, and red and white for <Zor>. B.blue and green for <Vane>, black with a star print for <Vex>, and brown and beige for <Zor>. C.purple and pink for <Vane>, grey with a heart print for <Vex>, and black and grey for <Zor>.",
+            "AI": "A"
+        }
+    ],
+    "three_concept/multi/Vane_Vex_Zor/4.png": [
+        {
+            "Human": "What is the primary function of <Vane> on the ship? A.Decoration. B.Navigation. C.Weaponry.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is the design on the <Vex> sail in the image? A.a skull with a hat. B.a fish. C.a dragon",
+            "AI": "A"
+        },
+        {
+            "Human": "What is the primary color of the roof of <Zor>? A.red. B.blue. C.green.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is the primary color scheme of <Vane> and <Vex> in the image? A.yellow and orange for <Vane>, black and white for <Vex>. B.blue and green for <Vane>, red and white for <Vex>. C.purple and pink for <Vane>, green and yellow for <Vex>.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is the primary color of <Vane> in the image? A.yellow. B.blue. C.green.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is the color scheme of <Vex> and <Zor>? A.<Vex> is white with a skull print and <Zor> has a red and brown roof. B.<Vex> is blue with a star print and <Zor> has a green and yellow roof.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is the primary color of <Vane>, <Vex>, and <Zor>? A.yellow and orange for <Vane>, white for <Vex>, and red and white for <Zor>. B.blue and green for <Vane>, black for <Vex>, and brown and green for <Zor>. C.purple and pink for <Vane>, grey for <Vex>, and black and white for <Zor>.",
+            "AI": "A"
+        }
+    ]
+}

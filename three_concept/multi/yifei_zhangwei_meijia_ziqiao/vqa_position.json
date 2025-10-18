@@ -1,0 +1,80 @@
+{
+    "three_concept/multi/yifei_zhangwei_meijia_ziqiao/0.png": [
+        {
+            "Human": "Where is <yifei> located in the photo? A. left B. middle left C. middle right D. right.",
+            "AI": "C"
+        },
+        {
+            "Human": "Where is <zhangwei> located in the photo? A. left B. middle left C. middle right D. right.",
+            "AI": "A"
+        },
+        {
+            "Human": "Where is <meijia> located in the photo? A. left B. middle left C. middle right D. right.",
+            "AI": "B"
+        },
+        {
+            "Human": "Where is <ziqiao> located in the photo? A. left B. middle left C. middle right D. right.",
+            "AI": "D"
+        }
+    ],
+    "three_concept/multi/yifei_zhangwei_meijia_ziqiao/1.png": [
+        {
+            "Human": "Where is <yifei> located in the photo? A. left B. middle left C. middle right D. right.",
+            "AI": "C"
+        },
+        {
+            "Human": "Where is <zhangwei> located in the photo? A. left B. middle left C. middle right D. right.",
+            "AI": "D"
+        },
+        {
+            "Human": "Where is <meijia> located in the photo? A. left B. middle left C. middle right D. right.",
+            "AI": "B"
+        },
+        {
+            "Human": "Where is <ziqiao> located in the photo? A. left B. middle left C. middle right D. right.",
+            "AI": "A"
+        }
+    ],
+    "three_concept/multi/yifei_zhangwei_meijia_ziqiao/2.png": [
+        {
+            "Human": "Where is <yifei> located in the photo? A. left B. middle C. right.",
+            "AI": "A"
+        },
+        {
+            "Human": "Where is <meijia> located in the photo? A. left B. middle C. right.",
+            "AI": "B"
+        },
+        {
+            "Human": "Where is <ziqiao> located in the photo? A. left B. middle C. right.",
+            "AI": "C"
+        }
+    ],
+    "three_concept/multi/yifei_zhangwei_meijia_ziqiao/3.png": [
+        {
+            "Human": "Where is <yifei> located in the photo? A. left B. middle C. right.",
+            "AI": "B"
+        },
+        {
+            "Human": "Where is <zhangwei> located in the photo? A. left B. middle C. right.",
+            "AI": "C"
+        },
+        {
+            "Human": "Where is <meijia> located in the photo? A. left B. middle C. right.",
+            "AI": "A"
+        }
+    ],
+    "three_concept/multi/yifei_zhangwei_meijia_ziqiao/4.png": [
+        {
+            "Human": "Where is <yifei> located in the photo? A. left B. middle C. right.",
+            "AI": "C"
+        },
+        {
+            "Human": "Where is <meijia> located in the photo? A. left B. middle C. right.",
+            "AI": "A"
+        },
+        {
+            "Human": "Where is <ziqiao> located in the photo? A. left B. middle C. right.",
+            "AI": "B"
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "0.png": {
+        "<Liang>": "left",
+        "<Asa>": "right"
+    },
+    "1.png": {
+        "<Liang>": "left",
+        "<Asa>": "right"
+    },
+    "2.png": {
+        "<Liang>": "left",
+        "<Asa>": "right"
+    },
+    "3.png": {
+        "<Liang>": "right",
+        "<Asa>": "left"
+    },
+    "4.png": {
+        "<Liang>": "right",
+        "<Asa>": "left"
+    }
+}

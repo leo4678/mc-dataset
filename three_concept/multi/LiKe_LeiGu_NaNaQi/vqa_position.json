@@ -1,0 +1,72 @@
+{
+    "three_concept/multi/LiKe_LeiGu_NaNaQi/0.png": [
+        {
+            "Human": "Where is <LiKe> located in the photo? A. left B. middle C. right.",
+            "AI": "A"
+        },
+        {
+            "Human": "Where is <LeiGu> located in the photo? A. left B. middle C. right.",
+            "AI": "B"
+        },
+        {
+            "Human": "Where is <NaNaQi> located in the photo? A. left B. middle C. right.",
+            "AI": "C"
+        }
+    ],
+    "three_concept/multi/LiKe_LeiGu_NaNaQi/1.png": [
+        {
+            "Human": "Where is <LiKe> located in the photo? A. left B. middle C. right.",
+            "AI": "B"
+        },
+        {
+            "Human": "Where is <LeiGu> located in the photo? A. left B. middle C. right.",
+            "AI": "A"
+        },
+        {
+            "Human": "Where is <NaNaQi> located in the photo? A. left B. middle C. right.",
+            "AI": "C"
+        }
+    ],
+    "three_concept/multi/LiKe_LeiGu_NaNaQi/2.png": [
+        {
+            "Human": "Where is <LiKe> located in the photo? A. left B. middle C. right.",
+            "AI": "C"
+        },
+        {
+            "Human": "Where is <LeiGu> located in the photo? A. left B. middle C. right.",
+            "AI": "A"
+        },
+        {
+            "Human": "Where is <NaNaQi> located in the photo? A. left B. middle C. right.",
+            "AI": "B"
+        }
+    ],
+    "three_concept/multi/LiKe_LeiGu_NaNaQi/3.png": [
+        {
+            "Human": "Where is <LiKe> located in the photo? A. left B. middle C. right.",
+            "AI": "B"
+        },
+        {
+            "Human": "Where is <LeiGu> located in the photo? A. left B. middle C. right.",
+            "AI": "A"
+        },
+        {
+            "Human": "Where is <NaNaQi> located in the photo? A. left B. middle C. right.",
+            "AI": "C"
+        }
+    ],
+    "three_concept/multi/LiKe_LeiGu_NaNaQi/4.png": [
+        {
+            "Human": "Where is <LiKe> located in the photo? A. left B. middle C. right.",
+            "AI": "C"
+        },
+        {
+            "Human": "Where is <LeiGu> located in the photo? A. left B. middle C. right.",
+            "AI": "B"
+        },
+        {
+            "Human": "Where is <NaNaQi> located in the photo? A. left B. middle C. right.",
+            "AI": "A"
+        }
+    ]
+}

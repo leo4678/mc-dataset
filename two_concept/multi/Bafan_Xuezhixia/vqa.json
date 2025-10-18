@@ -1,0 +1,72 @@
+{
+    "two_concept/multi/Bafan_Xuezhixia/0.png": [
+        {
+            "Human": "What is <Bafan>'s expression in the image?",
+            "AI": "<Bafan> has a slightly disinterested or annoyed expression while crossing their arms."
+        },
+        {
+            "Human": "What are <Xuezhixia> and the other person wearing in the image?",
+            "AI": "<Xuezhixia> and the other person are both wearing school uniforms with black blazers and white trim."
+        },
+        {
+            "Human": "What are <Bafan> and <Xuezhixia> wearing in the image?",
+            "AI": "<Bafan> and <Xuezhixia> are wearing school uniforms with blazers and white shirts."
+        }
+    ],
+    "two_concept/multi/Bafan_Xuezhixia/1.png": [
+        {
+            "Human": "What are the hair styles of <Bafan> and the girl on the right?",
+            "AI": "<Bafan> has messy, short black hair with a cowlick, while the girl on the right has long, twin-tail black hair tied with red ribbons."
+        },
+        {
+            "Human": "What is <Xuezhixia> holding in the image?",
+            "AI": "<Xuezhixia> is holding a wooden scroll."
+        },
+        {
+            "Human": "What are <Bafan> and <Xuezhixia> doing in the image?",
+            "AI": "<Bafan> and <Xuezhixia> are sitting next to each other, with <Bafan> leaning against the red pillar and <Xuezhixia> holding a scroll."
+        }
+    ],
+    "two_concept/multi/Bafan_Xuezhixia/2.png": [
+        {
+            "Human": "What is the stack of items in front of <Bafan>?",
+            "AI": "The stack of items in front of <Bafan> consists of books or binders with colorful tabs and notes inserted."
+        },
+        {
+            "Human": "What is <Xuezhixia> holding in the image?",
+            "AI": "<Xuezhixia> is holding a stack of binders with colorful tabs."
+        },
+        {
+            "Human": "What is <Xuezhixia> holding in the image while <Bafan> is sitting?",
+            "AI": "<Xuezhixia> is holding a stack of binders while <Bafan> is sitting with a laptop."
+        }
+    ],
+    "two_concept/multi/Bafan_Xuezhixia/3.png": [
+        {
+            "Human": "What is the expression on <Bafan>'s face?",
+            "AI": "<Bafan> looks concerned. "
+        },
+        {
+            "Human": "How does <Xuezhixia> seem to be feeling in the image?",
+            "AI": "<Xuezhixia> seems to be feeling sad or troubled in the image."
+        },
+        {
+            "Human": "What is <Xuezhixia> wearing in the image?",
+            "AI": "<Xuezhixia> is wearing a white blouse with ruffles and a necklace."
+        }
+    ],
+    "two_concept/multi/Bafan_Xuezhixia/4.png": [
+        {
+            "Human": "What is <Bafan> wearing in the image?",
+            "AI": "<Bafan> is wearing an orange shirt with long sleeves underneath."
+        },
+        {
+            "Human": "What is <Xuezhixia> wearing in the image?",
+            "AI": "<Xuezhixia> is wearing a light blue cardigan over a white top with a purple bow."
+        },
+        {
+            "Human": "What are the hairstyles of <Bafan> and <Xuezhixia>?",
+            "AI": "<Bafan> has short, dark green hair, while <Xuezhixia> has long black hair tied with red ribbons."
+        }
+    ]
+}

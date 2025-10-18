@@ -1,0 +1,152 @@
+{
+    "three_concept/multi/Juno_Kace_Lira/0.png": [
+        {
+            "Human": "What is <Juno> worn with in the image?",
+            "AI": "<Juno> is worn with a red vest, blue rolled-up pants, and sandals."
+        },
+        {
+            "Human": "What type of clothing is <Kace> wearing in the image?",
+            "AI": "<Kace> is wearing a red sleeveless vest with gold buttons, blue rolled-up pants, and a straw hat."
+        },
+        {
+            "Human": "What type of clothing is <Lira> wearing in the image?",
+            "AI": "<Lira> is wearing a red vest, blue shorts, and a straw hat."
+        },
+        {
+            "Human": "What is the posture of the character wearing <Juno> and <Kace> in the image?",
+            "AI": "The character wearing <Juno> and <Kace> is standing with one arm flexed, showing a confident pose."
+        },
+        {
+            "Human": "What is the color of <Juno> and <Lira> in the image?",
+            "AI": "<Juno> is a yellow straw hat and <Lira> is blue shorts."
+        },
+        {
+            "Human": "What type of clothing are <Kace> and <Lira> wearing in the image?",
+            "AI": "<Kace> is wearing a red long sleeve shirt, and <Lira> is wearing blue shorts."
+        },
+        {
+            "Human": "What is the combination of clothing and accessories worn by <Juno>, <Kace>, and <Lira> in the image?",
+            "AI": "<Juno> is wearing a yellow straw hat, <Kace> is wearing a red long sleeve shirt, and <Lira> is wearing blue shorts."
+        }
+    ],
+    "three_concept/multi/Juno_Kace_Lira/1.png": [
+        {
+            "Human": "What is <Juno> being worn by the character in the image?",
+            "AI": "<Juno> is being worn by the character as a hat."
+        },
+        {
+            "Human": "What is <Kace> wearing in the image?",
+            "AI": "<Kace> is wearing a red sleeveless vest with blue shorts and a straw hat."
+        },
+        {
+            "Human": "What is the color of <Lira> in the image?",
+            "AI": "<Lira> is blue."
+        },
+        {
+            "Human": "What is the background setting behind <Juno> and <Kace> in the image?",
+            "AI": "<Juno> and <Kace> are in front of a blue sky with clouds and a body of water."
+        },
+        {
+            "Human": "What is the color of <Juno> and <Lira> in the image?",
+            "AI": "<Juno> is yellow and <Lira> is blue."
+        },
+        {
+            "Human": "What is the posture of <Kace> and <Lira> in the image?",
+            "AI": "<Kace> and <Lira> are standing with hands on hips, smiling broadly."
+        },
+        {
+            "Human": "What is the color combination of <Juno>, <Kace>, and <Lira> in the image?",
+            "AI": "<Juno> is yellow, <Kace> is red, and <Lira> is blue."
+        }
+    ],
+    "three_concept/multi/Juno_Kace_Lira/2.png": [
+        {
+            "Human": "What is the background setting where <Juno> is located in the image?",
+            "AI": "<Juno> is located in a bright, sunny town with colorful buildings and palm trees."
+        },
+        {
+            "Human": "What is the background setting where <Kace> is located in the image?",
+            "AI": "<Kace> is standing in a town with colorful buildings and palm trees under a clear blue sky."
+        },
+        {
+            "Human": "What is the color of the shorts worn by the figure in the image, referred to as <Lira>?",
+            "AI": "The shorts worn by the figure, referred to as <Lira>, are blue."
+        },
+        {
+            "Human": "What is the setting of the environment where <Juno> and <Kace> are located?",
+            "AI": "<Juno> and <Kace> are in a tropical town with palm trees and colorful buildings."
+        },
+        {
+            "Human": "What is the background setting where <Juno> and <Lira> are located in the image?",
+            "AI": "<Juno> and <Lira> are in a town setting with colorful buildings and palm trees."
+        },
+        {
+            "Human": "What is the setting of the environment where <Kace> and <Lira> are located in the image?",
+            "AI": "<Kace> and <Lira> are in a tropical town setting with palm trees and colorful buildings."
+        },
+        {
+            "Human": "What is the setting of the environment where <Juno>, <Kace>, and <Lira> are located in the image?",
+            "AI": "<Juno>, <Kace>, and <Lira> are in a town with colorful buildings and palm trees under a clear blue sky."
+        }
+    ],
+    "three_concept/multi/Juno_Kace_Lira/3.png": [
+        {
+            "Human": "What is the color of the clothing worn by the character with <Juno>?",
+            "AI": "The character wearing <Juno> is dressed in a red jacket and blue pants with a yellow sash."
+        },
+        {
+            "Human": "What is <Kace> wearing in the image?",
+            "AI": "<Kace> is wearing a red long sleeve shirt, blue pants, and a straw hat."
+        },
+        {
+            "Human": "What type of clothing is <Lira> wearing in the image?",
+            "AI": "<Lira> is wearing a red open jacket and blue shorts with a yellow sash."
+        },
+        {
+            "Human": "What is the color combination of <Juno> and <Kace> in the image?",
+            "AI": "<Juno> is a yellow straw hat and <Kace> is a red long sleeve shirt."
+        },
+        {
+            "Human": "What is the color of the clothing worn with <Juno> and <Lira> in the image?",
+            "AI": "The clothing worn with <Juno> and <Lira> is a red open shirt and a yellow sash."
+        },
+        {
+            "Human": "What is the color of the clothing worn by <Kace> and <Lira> in the image?",
+            "AI": "<Kace> is wearing a red long sleeve shirt and <Lira> is wearing blue shorts."
+        },
+        {
+            "Human": "What is the color combination of <Juno>, <Kace>, and <Lira> in the image?",
+            "AI": "<Juno> is yellow, <Kace> is red, and <Lira> is blue."
+        }
+    ],
+    "three_concept/multi/Juno_Kace_Lira/4.png": [
+        {
+            "Human": "What is <Juno> doing in the image?",
+            "AI": "<Juno> is resting on the head of a person sitting under a tree."
+        },
+        {
+            "Human": "What is <Kace> doing in the image?",
+            "AI": "<Kace> is sitting under a tree, wearing a straw hat and a red sleeveless vest."
+        },
+        {
+            "Human": "What is <Lira> doing in the image?",
+            "AI": "<Lira> is sitting under a tree, wearing blue shorts and a red vest, enjoying the sunny day."
+        },
+        {
+            "Human": "What is the setting in which <Juno> and <Kace> are depicted in the image?",
+            "AI": "<Juno> and <Kace> are depicted sitting under a tree on a grassy field with a clear blue sky and clouds in the background."
+        },
+        {
+            "Human": "What is the setting of the image featuring <Juno> and <Lira>?",
+            "AI": "<Juno> and <Lira> are in a sunny outdoor setting, sitting under a tree with a clear blue sky and clouds."
+        },
+        {
+            "Human": "What is the setting in which <Kace> and <Lira> are depicted in the image?",
+            "AI": "<Kace> and <Lira> are depicted sitting under a tree on a grassy field with a clear blue sky."
+        },
+        {
+            "Human": "What is the setting in which <Juno>, <Kace>, and <Lira> are depicted in the image?",
+            "AI": "<Juno>, <Kace>, and <Lira> are depicted in a bright, sunny outdoor setting with a clear blue sky and a tree providing shade."
+        }
+    ]
+}

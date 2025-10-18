@@ -1,0 +1,422 @@
+{
+    "three_concept/concept/train/Xing/0.png": [
+        {
+            "Question": "What is <Xing> hair color?",
+            "Answer": "<Xing>'s hair color is black."
+        },
+        {
+            "Question": "What color are <Xing> eyes?",
+            "Answer": "I can't determine the eye color of <Xing> from the image."
+        },
+        {
+            "Question": "Would you describe <Xing>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<Xing>'s physique appears slim."
+        },
+        {
+            "Question": "What is <Xing> skin tone?",
+            "Answer": "I can't determine <Xing>'s skin tone from the visible parts of the image."
+        },
+        {
+            "Question": "How would you describe <Xing> hairstyle?",
+            "Answer": "<Xing>'s hairstyle is short on the sides with longer hair on top, styled upwards."
+        },
+        {
+            "Question": "Does <Xing> wear glasses or any accessories?",
+            "Answer": "<Xing> is not wearing glasses or any accessories."
+        },
+        {
+            "Question": "How would you describe <Xing>'s attire?",
+            "Answer": "<Xing> is wearing a red shirt with a blue collar."
+        },
+        {
+            "Question": "Does <Xing> have any distinctive facial features?",
+            "Answer": "I can't determine any distinctive facial features for <Xing> from the image."
+        },
+        {
+            "Question": "What is <Xing> overall build or physique?",
+            "Answer": "<Xing> has a small, child-like build."
+        },
+        {
+            "Question": "What is <Xing> general expression or demeanor?",
+            "Answer": "<Xing> appears to be in a playful or active demeanor, possibly clapping or gesturing with their hands."
+        }
+    ],
+    "three_concept/concept/train/Xing/1.png": [
+        {
+            "Question": "What is <Xing> hair color?",
+            "Answer": "<Xing>'s hair color is dark."
+        },
+        {
+            "Question": "What color are <Xing> eyes?",
+            "Answer": "I can't determine the eye color of <Xing> from the image."
+        },
+        {
+            "Question": "Would you describe <Xing>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<Xing>'s physique appears slim."
+        },
+        {
+            "Question": "What is <Xing> skin tone?",
+            "Answer": "I'm unable to determine <Xing>'s skin tone from the image."
+        },
+        {
+            "Question": "How would you describe <Xing> hairstyle?",
+            "Answer": "<Xing>'s hairstyle is short and curly."
+        },
+        {
+            "Question": "Does <Xing> wear glasses or any accessories?",
+            "Answer": "<Xing> is not wearing glasses or any accessories."
+        },
+        {
+            "Question": "How would you describe <Xing>'s attire?",
+            "Answer": "<Xing> is wearing a shiny, metallic jacket with a high collar."
+        },
+        {
+            "Question": "Does <Xing> have any distinctive facial features?",
+            "Answer": "I can't determine any distinctive facial features for <Xing> from the image."
+        },
+        {
+            "Question": "What is <Xing> overall build or physique?",
+            "Answer": "<Xing> has a slim build."
+        },
+        {
+            "Question": "What is <Xing> general expression or demeanor?",
+            "Answer": "<Xing> appears to have a curious or questioning demeanor, indicated by the hand gesture."
+        }
+    ],
+    "three_concept/concept/train/Xing/2.png": [
+        {
+            "Question": "What is <Xing> hair color?",
+            "Answer": "<Xing>'s hair color is black."
+        },
+        {
+            "Question": "What color are <Xing> eyes?",
+            "Answer": "I can't determine the eye color of <Xing> from the image."
+        },
+        {
+            "Question": "Would you describe <Xing>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<Xing>'s physique appears slim."
+        },
+        {
+            "Question": "What is <Xing> skin tone?",
+            "Answer": "I'm unable to determine <Xing>'s skin tone from the image."
+        },
+        {
+            "Question": "How would you describe <Xing> hairstyle?",
+            "Answer": "<Xing>'s hairstyle is short and neatly trimmed."
+        },
+        {
+            "Question": "Does <Xing> wear glasses or any accessories?",
+            "Answer": "<Xing> is not wearing glasses or any accessories."
+        },
+        {
+            "Question": "How would you describe <Xing>'s attire?",
+            "Answer": "<Xing> is wearing a blue plaid shirt with a beige sweater over it."
+        },
+        {
+            "Question": "Does <Xing> have any distinctive facial features?",
+            "Answer": "I can't determine any distinctive facial features for <Xing> from the image."
+        },
+        {
+            "Question": "What is <Xing> overall build or physique?",
+            "Answer": "<Xing> has a slim build."
+        },
+        {
+            "Question": "What is <Xing> general expression or demeanor?",
+            "Answer": "I can't determine <Xing>'s expression or demeanor from the image."
+        }
+    ],
+    "three_concept/concept/train/Xing/3.png": [
+        {
+            "Question": "What is <Xing> hair color?",
+            "Answer": "<Xing>'s hair color is dark brown."
+        },
+        {
+            "Question": "What color are <Xing> eyes?",
+            "Answer": "I can't determine the eye color of <Xing> from the image."
+        },
+        {
+            "Question": "Would you describe <Xing>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<Xing>'s physique appears slim."
+        },
+        {
+            "Question": "What is <Xing> skin tone?",
+            "Answer": "<Xing>'s skin tone is light."
+        },
+        {
+            "Question": "How would you describe <Xing> hairstyle?",
+            "Answer": "<Xing>'s hairstyle is short and neatly trimmed."
+        },
+        {
+            "Question": "Does <Xing> wear glasses or any accessories?",
+            "Answer": "<Xing> is not wearing glasses or any accessories."
+        },
+        {
+            "Question": "How would you describe <Xing>'s attire?",
+            "Answer": "<Xing> is wearing a white and navy blue top."
+        },
+        {
+            "Question": "Does <Xing> have any distinctive facial features?",
+            "Answer": "I can't determine any distinctive facial features for <Xing> from the visible parts of the image."
+        },
+        {
+            "Question": "What is <Xing> overall build or physique?",
+            "Answer": "<Xing> has a slim build."
+        },
+        {
+            "Question": "What is <Xing> general expression or demeanor?",
+            "Answer": "<Xing> has a neutral expression."
+        }
+    ],
+    "three_concept/concept/train/Xing/4.png": [
+        {
+            "Question": "What is <Xing> hair color?",
+            "Answer": "<Xing>'s hair color is black."
+        },
+        {
+            "Question": "What color are <Xing> eyes?",
+            "Answer": "I can't determine the eye color from the image."
+        },
+        {
+            "Question": "Would you describe <Xing>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<Xing>'s physique appears slim."
+        },
+        {
+            "Question": "What is <Xing> skin tone?",
+            "Answer": "I'm unable to determine <Xing>'s skin tone from the image."
+        },
+        {
+            "Question": "How would you describe <Xing> hairstyle?",
+            "Answer": "<Xing>'s hairstyle is short with a spiky top."
+        },
+        {
+            "Question": "Does <Xing> wear glasses or any accessories?",
+            "Answer": "<Xing> is not wearing glasses or any accessories."
+        },
+        {
+            "Question": "How would you describe <Xing>'s attire?",
+            "Answer": "<Xing> is wearing a red and black shirt."
+        },
+        {
+            "Question": "Does <Xing> have any distinctive facial features?",
+            "Answer": "I can't determine any distinctive facial features of <Xing> from the image."
+        },
+        {
+            "Question": "What is <Xing> overall build or physique?",
+            "Answer": "<Xing> has a slim build."
+        },
+        {
+            "Question": "What is <Xing> general expression or demeanor?",
+            "Answer": "<Xing> appears to be holding a paper and sitting in a relaxed setting."
+        }
+    ],
+    "three_concept/concept/train/Xing/5.png": [
+        {
+            "Question": "What is <Xing> hair color?",
+            "Answer": "<Xing>'s hair color is black."
+        },
+        {
+            "Question": "What color are <Xing> eyes?",
+            "Answer": "I can't determine the eye color from the image."
+        },
+        {
+            "Question": "Would you describe <Xing>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<Xing>'s physique appears slim."
+        },
+        {
+            "Question": "What is <Xing> skin tone?",
+            "Answer": "I'm unable to determine <Xing>'s skin tone from the image."
+        },
+        {
+            "Question": "How would you describe <Xing> hairstyle?",
+            "Answer": "<Xing>'s hairstyle is short and spiky on top."
+        },
+        {
+            "Question": "Does <Xing> wear glasses or any accessories?",
+            "Answer": "<Xing> is not wearing glasses or any accessories."
+        },
+        {
+            "Question": "How would you describe <Xing>'s attire?",
+            "Answer": "<Xing> is wearing a yellow shirt."
+        },
+        {
+            "Question": "Does <Xing> have any distinctive facial features?",
+            "Answer": "I can't determine any distinctive facial features for <Xing> from the image."
+        },
+        {
+            "Question": "What is <Xing> overall build or physique?",
+            "Answer": "<Xing> has a slim build."
+        },
+        {
+            "Question": "What is <Xing> general expression or demeanor?",
+            "Answer": "<Xing> appears to be sitting in a relaxed manner."
+        }
+    ],
+    "three_concept/concept/train/Xing/6.png": [
+        {
+            "Question": "What is <Xing> hair color?",
+            "Answer": "<Xing>'s hair color is black."
+        },
+        {
+            "Question": "What color are <Xing> eyes?",
+            "Answer": "I can't determine the eye color from the image."
+        },
+        {
+            "Question": "Would you describe <Xing>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<Xing>'s physique appears slim."
+        },
+        {
+            "Question": "What is <Xing> skin tone?",
+            "Answer": "<Xing>'s skin tone is light to medium."
+        },
+        {
+            "Question": "How would you describe <Xing> hairstyle?",
+            "Answer": "<Xing>'s hairstyle is short and neatly trimmed."
+        },
+        {
+            "Question": "Does <Xing> wear glasses or any accessories?",
+            "Answer": "<Xing> is not wearing glasses or any accessories."
+        },
+        {
+            "Question": "How would you describe <Xing>'s attire?",
+            "Answer": "<Xing> is wearing a dark-colored shirt with white and black trim around the collar."
+        },
+        {
+            "Question": "Does <Xing> have any distinctive facial features?",
+            "Answer": "I can't determine any distinctive facial features of <Xing> from the image."
+        },
+        {
+            "Question": "What is <Xing> overall build or physique?",
+            "Answer": "<Xing> has a youthful and slender build."
+        },
+        {
+            "Question": "What is <Xing> general expression or demeanor?",
+            "Answer": "<Xing> has a neutral expression or demeanor."
+        }
+    ],
+    "three_concept/concept/train/Xing/7.png": [
+        {
+            "Question": "What is <Xing> hair color?",
+            "Answer": "<Xing>'s hair color is dark brown."
+        },
+        {
+            "Question": "What color are <Xing> eyes?",
+            "Answer": "I can't determine the eye color of <Xing> from the image."
+        },
+        {
+            "Question": "Would you describe <Xing>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<Xing>'s physique appears slim."
+        },
+        {
+            "Question": "What is <Xing> skin tone?",
+            "Answer": "I can't determine <Xing>'s skin tone from the image."
+        },
+        {
+            "Question": "How would you describe <Xing> hairstyle?",
+            "Answer": "<Xing>'s hairstyle is short and neatly combed."
+        },
+        {
+            "Question": "Does <Xing> wear glasses or any accessories?",
+            "Answer": "<Xing> is not wearing glasses or any accessories."
+        },
+        {
+            "Question": "How would you describe <Xing>'s attire?",
+            "Answer": "<Xing> is wearing a gray jacket."
+        },
+        {
+            "Question": "Does <Xing> have any distinctive facial features?",
+            "Answer": "I can't determine any distinctive facial features for <Xing> from the image."
+        },
+        {
+            "Question": "What is <Xing> overall build or physique?",
+            "Answer": "<Xing> has a slim build."
+        },
+        {
+            "Question": "What is <Xing> general expression or demeanor?",
+            "Answer": "<Xing> has a relaxed and casual demeanor."
+        }
+    ],
+    "three_concept/concept/train/Xing/8.png": [
+        {
+            "Question": "What is <Xing> hair color?",
+            "Answer": "<Xing>'s hair color is black."
+        },
+        {
+            "Question": "What color are <Xing> eyes?",
+            "Answer": "I can't determine the eye color of <Xing> from the image."
+        },
+        {
+            "Question": "Would you describe <Xing>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<Xing>'s physique appears slim."
+        },
+        {
+            "Question": "What is <Xing> skin tone?",
+            "Answer": "I'm sorry, I can't determine <Xing>'s skin tone."
+        },
+        {
+            "Question": "How would you describe <Xing> hairstyle?",
+            "Answer": "<Xing>'s hairstyle is short and spiky on top."
+        },
+        {
+            "Question": "Does <Xing> wear glasses or any accessories?",
+            "Answer": "<Xing> is not wearing glasses or any accessories."
+        },
+        {
+            "Question": "How would you describe <Xing>'s attire?",
+            "Answer": "<Xing> is wearing a dark jacket with a light-colored shirt underneath."
+        },
+        {
+            "Question": "Does <Xing> have any distinctive facial features?",
+            "Answer": "I can't determine any distinctive facial features for <Xing> from the image."
+        },
+        {
+            "Question": "What is <Xing> overall build or physique?",
+            "Answer": "<Xing> has a medium build."
+        },
+        {
+            "Question": "What is <Xing> general expression or demeanor?",
+            "Answer": "<Xing>'s general expression or demeanor cannot be determined from the image."
+        }
+    ],
+    "three_concept/concept/train/Xing/9.png": [
+        {
+            "Question": "What is <Xing> hair color?",
+            "Answer": "<Xing>'s hair color is black."
+        },
+        {
+            "Question": "What color are <Xing> eyes?",
+            "Answer": "I can't determine the eye color of <Xing> from the image."
+        },
+        {
+            "Question": "Would you describe <Xing>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<Xing>'s physique appears slim."
+        },
+        {
+            "Question": "What is <Xing> skin tone?",
+            "Answer": "I'm unable to determine <Xing>'s skin tone from the image."
+        },
+        {
+            "Question": "How would you describe <Xing> hairstyle?",
+            "Answer": "<Xing>'s hairstyle is short and spiky."
+        },
+        {
+            "Question": "Does <Xing> wear glasses or any accessories?",
+            "Answer": "<Xing> is not wearing glasses or any accessories."
+        },
+        {
+            "Question": "How would you describe <Xing>'s attire?",
+            "Answer": "<Xing> is wearing a white and black Nike sports jersey with a logo featuring a soccer ball and wings."
+        },
+        {
+            "Question": "Does <Xing> have any distinctive facial features?",
+            "Answer": "I can't determine any distinctive facial features for <Xing> due to the blurred face."
+        },
+        {
+            "Question": "What is <Xing> overall build or physique?",
+            "Answer": "<Xing> has a slim build."
+        },
+        {
+            "Question": "What is <Xing> general expression or demeanor?",
+            "Answer": "<Xing> has a casual and relaxed demeanor."
+        }
+    ]
+}

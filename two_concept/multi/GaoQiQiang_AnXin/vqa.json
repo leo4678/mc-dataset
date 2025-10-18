@@ -1,0 +1,72 @@
+{
+    "two_concept/multi/GaoQiQiang_AnXin/0.png": [
+        {
+            "Human": "What is the background setting behind <GaoQiQiang>?",
+            "AI": "The background behind <GaoQiQiang> appears to be a brightly lit indoor setting with some hanging objects and blurred details."
+        },
+        {
+            "Human": "What is <AnXin> wearing in the image?",
+            "AI": "<AnXin> is wearing a jacket with a hoodie underneath."
+        },
+        {
+            "Human": "What type of clothing are <GaoQiQiang> and <AnXin> wearing in the image?",
+            "AI": "<GaoQiQiang> is wearing a dark jacket, while <AnXin> is wearing a light-colored jacket with a hood underneath."
+        }
+    ],
+    "two_concept/multi/GaoQiQiang_AnXin/1.png": [
+        {
+            "Human": "Where is <GaoQiQiang> standing in the image?",
+            "AI": "<GaoQiQiang> is standing on a street at night with cars and a motorcycle in the background."
+        },
+        {
+            "Human": "What is hanging on <AnXin>'s arm in the image?",
+            "AI": "<AnXin> has a white sling wrapped around his arm."
+        },
+        {
+            "Human": "What is <GaoQiQiang> wearing and what is <AnXin> holding in the image?",
+            "AI": "<GaoQiQiang> is wearing a light-colored jacket, while <AnXin> is holding an arm sling."
+        }
+    ],
+    "two_concept/multi/GaoQiQiang_AnXin/2.png": [
+        {
+            "Human": "What is <GaoQiQiang>'s body position in the image?",
+            "AI": "<GaoQiQiang> is seated on the ground with knees bent, and arms resting on his knees."
+        },
+        {
+            "Human": "What kind of jacket is <AnXin> wearing in the image?",
+            "AI": "<AnXin> is wearing a black leather jacket."
+        },
+        {
+            "Human": "What are <GaoQiQiang> and <AnXin> doing in the image?",
+            "AI": "<GaoQiQiang> and <AnXin> are sitting against a wall with red graffiti."
+        }
+    ],
+    "two_concept/multi/GaoQiQiang_AnXin/3.png": [
+        {
+            "Human": "What is <GaoQiQiang> wearing in the image?",
+            "AI": "<GaoQiQiang> is wearing a beige coat over a white shirt."
+        },
+        {
+            "Human": "What color is the coat that <AnXin> is wearing in the image?",
+            "AI": "<AnXin> is wearing a black coat."
+        },
+        {
+            "Human": "What are <GaoQiQiang> and <AnXin> doing in the image?",
+            "AI": "<GaoQiQiang> and <AnXin> are walking together, with <AnXin> supporting <GaoQiQiang> by holding his arm."
+        }
+    ],
+    "two_concept/multi/GaoQiQiang_AnXin/4.png": [
+        {
+            "Human": "What type of clothing is <GaoQiQiang> wearing?",
+            "AI": "<GaoQiQiang> is wearing a light brown jacket and grey pants."
+        },
+        {
+            "Human": "What type of setting is <AnXin> in?",
+            "AI": "<AnXin> is in a waiting area, likely in a hospital or clinic."
+        },
+        {
+            "Human": "What are <GaoQiQiang> and <AnXin> doing in the image?",
+            "AI": "<GaoQiQiang> and <AnXin> are sitting next to each other on chairs."
+        }
+    ]
+}

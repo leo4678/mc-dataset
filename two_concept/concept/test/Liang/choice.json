@@ -1,0 +1,22 @@
+{
+    "two_concept/concept/test/Liang/0.png": {
+        "Human": "What is <Liang> doing in the image? A. Reading a book; B. Sitting in a car; C. Playing a musical instrument;",
+        "AI": "B"
+    },
+    "two_concept/concept/test/Liang/1.png": {
+        "Human": "What type of clothing is <Liang> wearing?  A. Casual jacket;  B. Blazer;  C. Hoodie;",
+        "AI": "B"
+    },
+    "two_concept/concept/test/Liang/2.png": {
+        "Human": "What is <Liang> holding in his hand?  A. A cigar; B. A chocolate bar;",
+        "AI": "A"
+    },
+    "two_concept/concept/test/Liang/3.png": {
+        "Human": "What is <Liang> wearing in the image?  A. A black jacket; B. A grey suit; C. A striped shirt;",
+        "AI": "B"
+    },
+    "two_concept/concept/test/Liang/4.png": {
+        "Human": "What is <Liang> holding in his hand?  A. A book;  B. A microphone;  C. A pen;",
+        "AI": "B"
+    }
+}

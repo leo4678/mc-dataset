@@ -1,0 +1,22 @@
+[
+    {
+        "question": "What type of animal is <Xiyangyang>? A. Sheep  B. Dog",
+        "answer": "A"
+    },
+    {
+        "question": "What color is <Xiyangyang>'s wool? A. White  B. Black",
+        "answer": "A"
+    },
+    {
+        "question": "Does <Xiyangyang> have horns? A. Yes  B. No",
+        "answer": "A"
+    },
+    {
+        "question": "What is <Xiyangyang> wearing? A. Spacesuit  B. Tuxedo",
+        "answer": "A"
+    },
+    {
+        "question": "What accessory does <Xiyangyang> have around the neck? A. Bell  B. Bowtie",
+        "answer": "A"
+    }
+]

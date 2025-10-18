@@ -1,0 +1,22 @@
+{
+    "two_concept/concept/test/Rose/0.png": {
+        "Human": "What type of jewelry is <Rose> wearing?  A. Necklace; B. Earrings; C. Bracelet;",
+        "AI": "A"
+    },
+    "two_concept/concept/test/Rose/1.png": {
+        "Human": "What is the condition of <Rose>'s hair in the image?  A. Dry; B. Wet;",
+        "AI": "B"
+    },
+    "two_concept/concept/test/Rose/2.png": {
+        "Human": "What type of jewelry is <Rose> wearing around her neck?  A. A pearl necklace; B. A diamond necklace; C. A gold necklace;",
+        "AI": "B"
+    },
+    "two_concept/concept/test/Rose/3.png": {
+        "Human": "What type of necklace is <Rose> wearing?  A. A pearl necklace; B. A pendant necklace; C. A choker necklace;",
+        "AI": "B"
+    },
+    "two_concept/concept/test/Rose/4.png": {
+        "Human": "What type of hat is <Rose> wearing?  A. A small cap; B. A large, wide-brimmed hat;",
+        "AI": "B"
+    }
+}

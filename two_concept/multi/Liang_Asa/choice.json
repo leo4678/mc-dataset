@@ -1,0 +1,72 @@
+{
+    "two_concept/multi/Liang_Asa/0.png": [
+        {
+            "Human": "What is <Liang> wearing in the image? A. A brown suit. B. A gray suit.",
+            "AI": "B"
+        },
+        {
+            "Human": "What is <Asa> wearing in the image? A. A blue suit. B. A patterned dress with a pink cardigan.",
+            "AI": "B"
+        },
+        {
+            "Human": "What is <Asa> wearing in the image? A. A polka dot dress. B. A striped blouse with a cardigan. C. A plain t-shirt and jeans.",
+            "AI": "B"
+        }
+    ],
+    "two_concept/multi/Liang_Asa/1.png": [
+        {
+            "Human": "What is the attire of <Liang> in the image? A. Casual outfit. B. Formal suit. C. Sportswear.",
+            "AI": "B"
+        },
+        {
+            "Human": "What is <Asa> wearing in the image? A. A blue suit. B. A patterned blouse. C. A black hoodie.",
+            "AI": "B"
+        },
+        {
+            "Human": "What are <Liang> and <Asa> doing in the image? A. Giving a speech. B. Watching a performance. C. Eating dinner.",
+            "AI": "A"
+        }
+    ],
+    "two_concept/multi/Liang_Asa/2.png": [
+        {
+            "Human": "What type of clothing is <Liang> wearing? A. Casual wear B. Formal wear",
+            "AI": "B"
+        },
+        {
+            "Human": "What kind of accessory is <Asa> wearing? A. Necklace. B. Hat.",
+            "AI": "A"
+        },
+        {
+            "Human": "What type of clothing are <Liang> and <Asa> wearing? A. Casual. B. Formal. C. Sportswear.",
+            "AI": "B"
+        }
+    ],
+    "two_concept/multi/Liang_Asa/3.png": [
+        {
+            "Human": "What is the color of <Liang>'s jacket? A.blue. B.green.",
+            "AI": "A"
+        },
+        {
+            "Human": "What color is the coat of <Asa>? A. Blue B. Green",
+            "AI": "A"
+        },
+        {
+            "Human": "What is the color of <Asa>'s coat? A. Red. B. Blue. C. Green",
+            "AI": "B"
+        }
+    ],
+    "two_concept/multi/Liang_Asa/4.png": [
+        {
+            "Human": "What item is <Liang> holding in his hand? A. A book. B. Binoculars.",
+            "AI": "B"
+        },
+        {
+            "Human": "What is <Asa> holding in their hands? A. A book. B. Binoculars.",
+            "AI": "B"
+        },
+        {
+            "Human": "What accessories are <Liang> and <Asa> wearing around their necks? A. ID badges. B. Binoculars. C. Cameras.",
+            "AI": "B"
+        }
+    ]
+}

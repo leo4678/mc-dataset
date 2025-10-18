@@ -1,0 +1,22 @@
+{
+    "two_concept/concept/test/sakura/0.jpg": {
+        "Human": "What color are <sakura>'s eyes in the image?",
+        "AI": "<sakura> has green eyes in the image."
+    },
+    "two_concept/concept/test/sakura/1.jpg": {
+        "Human": "What color are <sakura>'s eyes in the image?",
+        "AI": "<sakura> has green eyes in the image."
+    },
+    "two_concept/concept/test/sakura/2.jpg": {
+        "Human": "What is <sakura> wearing in the image?",
+        "AI": "<sakura> is wearing a white dress with puffy sleeves and a star-shaped accessory on her chest."
+    },
+    "two_concept/concept/test/sakura/3.jpg": {
+        "Human": "What color is <sakura>'s hair in the image?",
+        "AI": "In the image, <sakura> has brown hair with a hint of yellow highlights."
+    },
+    "two_concept/concept/test/sakura/4.jpg": {
+        "Human": "What is <sakura> wearing on her head in the image?",
+        "AI": "<sakura> is wearing a yellow crown on her head in the image."
+    }
+}

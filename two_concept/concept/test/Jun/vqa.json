@@ -1,0 +1,22 @@
+{
+    "two_concept/concept/test/Jun/0.jpg": {
+        "Human": "What is <Jun> holding in his hands?",
+        "AI": "<Jun> is holding a book in his hands."
+    },
+    "two_concept/concept/test/Jun/1.jpg": {
+        "Human": "What type of clothing is <Jun> wearing in the image?",
+        "AI": "<Jun> is wearing a blue uniform with a high collar and a single pocket on the left side."
+    },
+    "two_concept/concept/test/Jun/2.jpg": {
+        "Human": "What is <Jun> holding in his hand?",
+        "AI": "<Jun> is holding a photograph in his hand."
+    },
+    "two_concept/concept/test/Jun/3.jpg": {
+        "Human": "What type of uniform is <Jun> wearing in the image?",
+        "AI": "<Jun> is wearing a blue military-style uniform with a matching cap."
+    },
+    "two_concept/concept/test/Jun/4.jpg": {
+        "Human": "What color is <Jun>'s jacket in the image?",
+        "AI": "<Jun>'s jacket is blue."
+    }
+}

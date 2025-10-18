@@ -1,0 +1,22 @@
+{
+    "two_concept/concept/test/Ezra/0.png": {
+        "Human": "What is the color of the <Ezra> hat? \n A. Orange; \n B. Blue; \n C. Green;",
+        "AI": "A"
+    },
+    "two_concept/concept/test/Ezra/1.png": {
+        "Human": "What is the main decorative feature on the <Ezra> hat? \n A. Feathers; \n B. Prayer beads; \n C. Ribbons;\n",
+        "AI": "B"
+    },
+    "two_concept/concept/test/Ezra/2.png": {
+        "Human": "What is the primary color of <Ezra>? \n A. Blue; \n B. Orange; \n C. Red;",
+        "AI": "B"
+    },
+    "two_concept/concept/test/Ezra/3.png": {
+        "Human": "What is the expression on the faces of the emblems on <Ezra>? \n A. Both are smiling; \n B. One is smiling and one is frowning; \n C. Both are frowning;\n",
+        "AI": "B"
+    },
+    "two_concept/concept/test/Ezra/4.png": {
+        "Human": "What is the color of the cowboy hat worn by <Ezra>? \n A. Brown; \n B. Black; \n C. Red;",
+        "AI": "A"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "two_concept/concept/test/Huiye/0.png": {
+        "Human": "What color accessory does <Huiye> have in her hair?",
+        "AI": "<Huiye> has a red accessory in her hair."
+    },
+    "two_concept/concept/test/Huiye/1.png": {
+        "Human": "What is <Huiye> doing in the image?",
+        "AI": "<Huiye> is leaning against a wall in the image."
+    },
+    "two_concept/concept/test/Huiye/2.png": {
+        "Human": "What color are <Huiye>'s eyes in the image?",
+        "AI": "<Huiye>'s eyes are red."
+    },
+    "two_concept/concept/test/Huiye/3.png": {
+        "Human": "What is the eye color of <Huiye> in the image?",
+        "AI": "The eye color of <Huiye> is red."
+    },
+    "two_concept/concept/test/Huiye/4.png": {
+        "Human": "What color are <Huiye>'s eyes in the image?",
+        "AI": "<Huiye>'s eyes are red in the image."
+    }
+}

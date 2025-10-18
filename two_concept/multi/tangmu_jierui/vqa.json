@@ -1,0 +1,72 @@
+{
+    "two_concept/multi/tangmu_jierui/0.jpg": [
+        {
+            "Human": "What is <tangmu> holding in the image?",
+            "AI": "<tangmu> is holding a small mouse."
+        },
+        {
+            "Human": "What is <jierui> doing in the image?",
+            "AI": "<jierui> is being held by another character in the image."
+        },
+        {
+            "Human": "What are <tangmu> and <jierui> doing in the image?",
+            "AI": "<tangmu> is holding <jierui> while standing in a garden with tomatoes."
+        }
+    ],
+    "two_concept/multi/tangmu_jierui/1.jpg": [
+        {
+            "Human": "What is <tangmu> wearing on his head in the image?",
+            "AI": "<tangmu> is wearing a blue bucket on his head."
+        },
+        {
+            "Human": "What is <jierui> hiding inside in the image?",
+            "AI": "<jierui> is hiding inside a tomato."
+        },
+        {
+            "Human": "What is <tangmu> wearing on his head in the image?",
+            "AI": "<tangmu> is wearing a blue bucket on his head."
+        }
+    ],
+    "two_concept/multi/tangmu_jierui/2.jpg": [
+        {
+            "Human": "What is <tangmu> doing in the image?",
+            "AI": "<tangmu> is having a close face-to-face interaction with a small brown mouse."
+        },
+        {
+            "Human": "What is <jierui> doing in the image?",
+            "AI": "<jierui> is pressing his nose against the face of the blue cat."
+        },
+        {
+            "Human": "What are <tangmu> and <jierui> doing in the image?",
+            "AI": "<tangmu> and <jierui> are pressing their faces together."
+        }
+    ],
+    "two_concept/multi/tangmu_jierui/3.jpg": [
+        {
+            "Human": "What is <tangmu> wearing on his head?",
+            "AI": "<tangmu> is wearing a blue bucket on his head."
+        },
+        {
+            "Human": "What is <jierui> holding in the image?",
+            "AI": "<jierui> is holding a pumpkin."
+        },
+        {
+            "Human": "What is <tangmu> holding while <jierui> is hanging onto it?",
+            "AI": "<tangmu> is holding a pumpkin while <jierui> is hanging onto it."
+        }
+    ],
+    "two_concept/multi/tangmu_jierui/4.jpg": [
+        {
+            "Human": "What is <tangmu> wearing in the image?",
+            "AI": "<tangmu> is wearing a red bandana and a colorful striped shirt."
+        },
+        {
+            "Human": "What is <jierui> doing in the image?",
+            "AI": "<jierui> is sitting on the back of a character wearing a colorful outfit."
+        },
+        {
+            "Human": "What is the expression on <tangmu>'s face and what is <jierui> doing?",
+            "AI": "<tangmu> has an angry expression on his face, while <jierui> is sitting on <tangmu>'s back and smiling."
+        }
+    ]
+}

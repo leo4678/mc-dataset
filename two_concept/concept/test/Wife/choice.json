@@ -1,0 +1,22 @@
+{
+    "two_concept/concept/test/Wife/0.png": {
+        "Human": "What type of collar is <Wife> wearing?  A. Mandarin collar; B. Peter Pan collar;",
+        "AI": "A"
+    },
+    "two_concept/concept/test/Wife/1.png": {
+        "Human": "What is visible in the background behind <Wife>?  A. A cityscape; B. A rural field; C. A beach;",
+        "AI": "B"
+    },
+    "two_concept/concept/test/Wife/2.png": {
+        "Human": "What color is the cardigan that <Wife> is wearing?  A. Blue; B. Red; C. Green;",
+        "AI": "A"
+    },
+    "two_concept/concept/test/Wife/3.png": {
+        "Human": "What is <Wife> doing in the image?  A. Sitting on a chair; B. Lying on a bed; C. Standing by the window;",
+        "AI": "B"
+    },
+    "two_concept/concept/test/Wife/4.png": {
+        "Human": "What type of clothing is <Wife> wearing?  A. A plaid shirt with a cardigan; B. A striped shirt with a jacket;",
+        "AI": "A"
+    }
+}

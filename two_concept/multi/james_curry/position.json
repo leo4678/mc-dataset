@@ -1,0 +1,22 @@
+{
+    "0.jpg": {
+        "<james>": "left",
+        "<curry>": "right"
+    },
+    "1.jpg": {
+        "<james>": "right",
+        "<curry>": "left"
+    },
+    "2.jpg": {
+        "<james>": "right",
+        "<curry>": "left"
+    },
+    "3.jpg": {
+        "<james>": "right",
+        "<curry>": "left"
+    },
+    "4.jpg": {
+        "<james>": "left",
+        "<curry>": "right"
+    }
+}

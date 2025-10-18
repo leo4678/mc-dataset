@@ -1,0 +1,22 @@
+{
+    "two_concept/concept/test/Modi/0.jpg": {
+        "Human": "What is the expression on <Modi>'s face?  A. Happy; B. Scared; C. Angry;",
+        "AI": "B"
+    },
+    "two_concept/concept/test/Modi/1.jpg": {
+        "Human": "What is <Modi> wearing in the image?  A. A white shirt; B. A blue jacket;",
+        "AI": "A"
+    },
+    "two_concept/concept/test/Modi/2.jpg": {
+        "Human": "What color is <Modi>'s shirt?  A. Yellow; B. Blue; C. Red;",
+        "AI": "A"
+    },
+    "two_concept/concept/test/Modi/3.jpg": {
+        "Human": "What is <Modi> doing in the image?  A. Standing with arms outstretched; B. Sitting on a chair;",
+        "AI": "A"
+    },
+    "two_concept/concept/test/Modi/4.jpg": {
+        "Human": "What is <Modi> wearing in the image?  A. A white outfit with buttons; B. A blue outfit with stripes;",
+        "AI": "A"
+    }
+}

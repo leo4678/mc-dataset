@@ -1,0 +1,152 @@
+{
+    "three_concept/multi/Lixun_Zhuyun_Laogao/0.png": [
+        {
+            "Human": "What is <Lixun> holding in the image? A.a book. B.a laptop. C.a tablet.",
+            "AI": "B"
+        },
+        {
+            "Human": "What is <Zhuyun> holding in the image? A.a book. B.a laptop. C.a tablet.",
+            "AI": "B"
+        },
+        {
+            "Human": "What is <Laogao> wearing in the image? A.green jacket. B.blue hoodie. C.red sweater",
+            "AI": "A"
+        },
+        {
+            "Human": "What is <Lixun> holding in the image? A.a book. B.a laptop. C.a tablet.",
+            "AI": "B"
+        },
+        {
+            "Human": "What is <Lixun> holding in the image? A.a book. B.a laptop. C.a tablet",
+            "AI": "B"
+        },
+        {
+            "Human": "What are <Zhuyun> and <Laogao> doing in the image? A.sitting outdoors. B.playing a sport. C.shopping indoors.",
+            "AI": "A"
+        },
+        {
+            "Human": "What are <Lixun>, <Zhuyun>, and <Laogao> doing in the image? A.having a picnic. B.using a laptop. C.playing a game",
+            "AI": "B"
+        }
+    ],
+    "three_concept/multi/Lixun_Zhuyun_Laogao/1.png": [
+        {
+            "Human": "What type of clothing is <Lixun> wearing? A.jacket. B.sweater. C.t-shirt",
+            "AI": "A"
+        },
+        {
+            "Human": "What type of clothing is <Zhuyun> wearing? A.jacket. B.sweater. C.t-shirt",
+            "AI": "A"
+        },
+        {
+            "Human": "What type of clothing is <Laogao> wearing? A.Orange hoodie. B.Blue jacket.",
+            "AI": "A"
+        },
+        {
+            "Human": "What type of clothing are <Lixun> and <Zhuyun> wearing? A.jackets. B.t-shirts. C.sweaters",
+            "AI": "A"
+        },
+        {
+            "Human": "What type of clothing are <Lixun> and <Laogao> wearing? A.jackets. B.t-shirts. C.sweaters",
+            "AI": "A"
+        },
+        {
+            "Human": "What type of clothing are <Zhuyun> and <Laogao> wearing? A.jackets. B.t-shirts. C.sweaters",
+            "AI": "A"
+        },
+        {
+            "Human": "What type of clothing are <Lixun>, <Zhuyun>, and <Laogao> wearing? A.casual jackets. B.formal suits. C.sportswear",
+            "AI": "A"
+        }
+    ],
+    "three_concept/multi/Lixun_Zhuyun_Laogao/2.png": [
+        {
+            "Human": "What is <Lixun> wearing in the image? A.blue denim jacket. B.orange hoodie.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is <Zhuyun> wearing in the image? A.a denim jacket. B.a leather jacket. C.a hoodie",
+            "AI": "A"
+        },
+        {
+            "Human": "What is <Laogao> wearing in the image? A.blue denim jacket. B.orange hoodie.",
+            "AI": "A"
+        },
+        {
+            "Human": "What are <Lixun> and <Zhuyun> wearing in the image? A.blue denim jackets. B.black leather jackets. C.red hoodies.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is the setting of the room where <Lixun> and <Laogao> are located? A.office. B.kitchen. C.library",
+            "AI": "A"
+        },
+        {
+            "Human": "What is the setting of the room where <Zhuyun> and <Laogao> are located? A.office. B.kitchen. C.library",
+            "AI": "A"
+        },
+        {
+            "Human": "What is the main activity happening in the image with <Lixun>, <Zhuyun>, and <Laogao>? A.discussing a project. B.playing a game. C.cooking a meal.",
+            "AI": "A"
+        }
+    ],
+    "three_concept/multi/Lixun_Zhuyun_Laogao/3.png": [
+        {
+            "Human": "What is <Lixun> wearing in the image? A.a white shirt. B.a blue sweater. C.a black jacket",
+            "AI": "A"
+        },
+        {
+            "Human": "What is <Zhuyun> holding in the image? A.a certificate. B.a book. C.a trophy.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is <Laogao> wearing in the image? A. A sweater vest and tie. B. A T-shirt. C. A jacket.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is <Zhuyun> holding in the image? A.a certificate. B.a book. C.a trophy",
+            "AI": "A"
+        },
+        {
+            "Human": "What is <Lixun> wearing in the image? A.a white shirt. B.a blue sweater vest. C.a black jacket",
+            "AI": "A"
+        },
+        {
+            "Human": "What is <Zhuyun> holding in the image? A.a certificate. B.a book. C.a pen",
+            "AI": "A"
+        },
+        {
+            "Human": "What is <Zhuyun> holding in the image? A.a certificate. B.a book. C.a trophy",
+            "AI": "A"
+        }
+    ],
+    "three_concept/multi/Lixun_Zhuyun_Laogao/4.png": [
+        {
+            "Human": "What is <Lixun> holding in the image? A.a book. B.a backpack. C.a laptop",
+            "AI": "B"
+        },
+        {
+            "Human": "What is <Zhuyun> holding in the image? A.a book. B.a folder. C.a map",
+            "AI": "B"
+        },
+        {
+            "Human": "What is <Laogao> holding in the image? A.a book. B.a backpack. C.a camera.",
+            "AI": "B"
+        },
+        {
+            "Human": "What are <Lixun> and <Zhuyun> holding in the image? A.books. B.backpacks. C.laptops",
+            "AI": "B"
+        },
+        {
+            "Human": "What are <Lixun> and <Laogao> holding in the image? A.books. B.backpacks. C.umbrellas",
+            "AI": "B"
+        },
+        {
+            "Human": "What are <Zhuyun> and <Laogao> holding in the image? A.books. B.backpacks. C.umbrellas",
+            "AI": "B"
+        },
+        {
+            "Human": "What are <Lixun>, <Zhuyun>, and <Laogao> holding or carrying? A.books. B.backpacks. C.laptops",
+            "AI": "B"
+        }
+    ]
+}

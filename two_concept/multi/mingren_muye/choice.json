@@ -1,0 +1,72 @@
+{
+    "two_concept/multi/mingren_muye/0.png": [
+        {
+            "Human": "What is <mingren> wearing on his forehead? A.a headband with a leaf symbol. B.a cap. C.a helmet",
+            "AI": "A"
+        },
+        {
+            "Human": "What is the color of the hair of the character wearing the <muye>? A.black. B.blonde. C.brown.",
+            "AI": "B"
+        },
+        {
+            "Human": "What is the color of <mingren>'s hair in the image? A.black. B.yellow. C.brown.",
+            "AI": "B"
+        }
+    ],
+    "two_concept/multi/mingren_muye/1.png": [
+        {
+            "Human": "What is <mingren> wearing on his head? A.a headband. B.a hat. C.a helmet",
+            "AI": "A"
+        },
+        {
+            "Human": "What color is the hair of the character wearing the <muye> headband? A.black. B.yellow. C.brown",
+            "AI": "B"
+        },
+        {
+            "Human": "What is <mingren> wearing on his head in the image? A.<muye> ninja headband. B.a baseball cap. C.a helmet",
+            "AI": "A"
+        }
+    ],
+    "two_concept/multi/mingren_muye/2.png": [
+        {
+            "Human": "What expression is <mingren> showing in the image? A.smiling. B.crying. C.angry",
+            "AI": "A"
+        },
+        {
+            "Human": "What symbol is depicted on the <muye> headband in the image? A. A leaf symbol. B. A star symbol. C. A wave symbol.",
+            "AI": "A"
+        },
+        {
+            "Human": "What expression is <mingren> showing while wearing the <muye>? A.smiling. B.crying. C.angry",
+            "AI": "A"
+        }
+    ],
+    "two_concept/multi/mingren_muye/3.png": [
+        {
+            "Human": "What is the color of <mingren>'s hair in the image? A. Black B. Yellow C. Brown",
+            "AI": "B"
+        },
+        {
+            "Human": "What color is the hair of the character wearing the <muye> headband? A. Black B. Yellow C. Brown",
+            "AI": "B"
+        },
+        {
+            "Human": "What is <mingren> wearing on his head? A. a baseball cap. B. <muye> ninja headband. C. a crown.",
+            "AI": "B"
+        }
+    ],
+    "two_concept/multi/mingren_muye/4.png": [
+        {
+            "Human": "What is <mingren> wearing on his forehead? A.a headband with a leaf symbol. B.a cap. C.a helmet",
+            "AI": "A"
+        },
+        {
+            "Human": "What symbol is depicted on the <muye> headband in the image? A. A leaf. B. A star. C. A cloud.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is the expression on <mingren>'s face while wearing the <muye>? A. Happy. B. Serious. C. Surprised.",
+            "AI": "B"
+        }
+    ]
+}

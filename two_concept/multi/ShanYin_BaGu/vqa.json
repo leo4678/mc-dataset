@@ -1,0 +1,72 @@
+{
+    "two_concept/multi/ShanYin_BaGu/1.png": [
+        {
+            "Human": "What type of clothing is <ShanYin> wearing in the image?",
+            "AI": "<ShanYin> is wearing a gray knitted sweater in the image."
+        },
+        {
+            "Human": "What is <BaGu> wearing in the image?",
+            "AI": "<BaGu> is wearing a white top with a beige knitted cardigan."
+        },
+        {
+            "Human": "What are <ShanYin> and <BaGu> wearing in the image?",
+            "AI": "<ShanYin> is wearing a blue sweater, and <BaGu> is wearing a white shirt with a beige cardigan."
+        }
+    ],
+    "two_concept/multi/ShanYin_BaGu/2.png": [
+        {
+            "Human": "What is <ShanYin> holding in the image?",
+            "AI": "<ShanYin> is holding a magazine."
+        },
+        {
+            "Human": "What is <BaGu> holding in the image?",
+            "AI": "<BaGu> is holding a bouquet of flowers."
+        },
+        {
+            "Human": "What is <ShanYin> holding in the image?",
+            "AI": "<ShanYin> is holding a rolled-up magazine."
+        }
+    ],
+    "two_concept/multi/ShanYin_BaGu/3.png": [
+        {
+            "Human": "What kind of outerwear is <ShanYin> wearing in the image?",
+            "AI": "<ShanYin> is wearing a two-tone jacket with light and darker shades over a dark top."
+        },
+        {
+            "Human": "What is <BaGu> doing in the image?",
+            "AI": "<BaGu> is taking a selfie by the beach."
+        },
+        {
+            "Human": "What activity are <ShanYin> and <BaGu> engaging in at the beach?",
+            "AI": "<ShanYin> and <BaGu> are taking a selfie at the beach."
+        }
+    ],
+    "two_concept/multi/ShanYin_BaGu/4.png": [
+        {
+            "Human": "What is <ShanYin> holding in the image?",
+            "AI": "<ShanYin> is holding a drink with a straw."
+        },
+        {
+            "Human": "What is <BaGu> holding in the image?",
+            "AI": "<BaGu> is holding a bubble tea drink."
+        },
+        {
+            "Human": "What are <ShanYin> and <BaGu> doing in the image?",
+            "AI": "<ShanYin> and <BaGu> are sitting on a couch and drinking bubble tea."
+        }
+    ],
+    "two_concept/multi/ShanYin_BaGu/5.png": [
+        {
+            "Human": "What is <ShanYin> holding in the image?",
+            "AI": "<ShanYin> is holding a pack of drinks and a can."
+        },
+        {
+            "Human": "What is <BaGu> holding in the image?",
+            "AI": "<BaGu> is holding a pack of canned drinks."
+        },
+        {
+            "Human": "What are <ShanYin> and <BaGu> holding in the image?",
+            "AI": "<ShanYin> and <BaGu> are holding packs of drinks and each is holding a can."
+        }
+    ]
+}

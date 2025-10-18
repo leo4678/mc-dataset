@@ -1,0 +1,22 @@
+[
+    {
+        "question": "Are all <LiKe>, <LeiGu>, and <NaNaQi> animals or humans? A. Animal. B. Human",
+        "answer": "B"
+    },
+    {
+        "question": "What are the genders of <LiKe>, <LeiGu>, and <NaNaQi> respectively? A. Girl, boy, girl. B. Boy, girl, boy",
+        "answer": "A"
+    },
+    {
+        "question": "What are the hair colors of <LiKe> and <NaNaQi> respectively? A. Blonde, white. B. Black, white",
+        "answer": "A"
+    },
+    {
+        "question": "Do <LiKe> and <LeiGu> often wear glasses? A. Yes. B. No",
+        "answer": "A"
+    },
+    {
+        "question": "What type of headgear do <LeiGu> and <NaNaQi> often wear? A. Helmet, hat. B. Hat, helmet",
+        "answer": "A"
+    }
+]

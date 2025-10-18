@@ -1,0 +1,52 @@
+{
+    "two_concept/multi/datong_kaiqi/0.jpg": [
+        {
+            "Human": "Where is <datong> located in the photo? A. left B. right.",
+            "AI": "A"
+        },
+        {
+            "Human": "Where is <kaiqi> located in the photo? A. left B. right.",
+            "AI": "B"
+        }
+    ],
+    "two_concept/multi/datong_kaiqi/1.jpg": [
+        {
+            "Human": "Where is <datong> located in the photo? A. left B. right.",
+            "AI": "B"
+        },
+        {
+            "Human": "Where is <kaiqi> located in the photo? A. left B. right.",
+            "AI": "A"
+        }
+    ],
+    "two_concept/multi/datong_kaiqi/2.jpg": [
+        {
+            "Human": "Where is <datong> located in the photo? A. left B. right.",
+            "AI": "A"
+        },
+        {
+            "Human": "Where is <kaiqi> located in the photo? A. left B. right.",
+            "AI": "B"
+        }
+    ],
+    "two_concept/multi/datong_kaiqi/3.jpg": [
+        {
+            "Human": "Where is <datong> located in the photo? A. left B. right.",
+            "AI": "B"
+        },
+        {
+            "Human": "Where is <kaiqi> located in the photo? A. left B. right.",
+            "AI": "A"
+        }
+    ],
+    "two_concept/multi/datong_kaiqi/4.jpg": [
+        {
+            "Human": "Where is <datong> located in the photo? A. left B. right.",
+            "AI": "B"
+        },
+        {
+            "Human": "Where is <kaiqi> located in the photo? A. left B. right.",
+            "AI": "A"
+        }
+    ]
+}

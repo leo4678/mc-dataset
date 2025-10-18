@@ -1,0 +1,216 @@
+{
+    "three_concept/multi/yifei_zhangwei_meijia_ziqiao/0.png": [
+        {
+            "Human": "What is <yifei> wearing in the image? A. A yellow sweater. B. A plaid jacket. C. A black shirt with a cat design.",
+            "AI": "B"
+        },
+        {
+            "Human": "What is <zhangwei> wearing in the image? A.yellow sweater. B.red jacket. C.blue shirt.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is <meijia> wearing in the image? A.yellow sweater. B.overalls with a pink sweater. C.checkered jacket with red sweater.",
+            "AI": "B"
+        },
+        {
+            "Human": "What is <ziqiao> wearing in the image? A.a yellow sweater. B.a checkered jacket. C.a black hoodie.",
+            "AI": "B"
+        },
+        {
+            "Human": "What is <yifei> wearing in the image? A.a sweater with a cat design. B.a yellow sweater. C.a plaid jacket",
+            "AI": "A"
+        },
+        {
+            "Human": "What are <yifei> and <meijia> doing in the image? A.taking a selfie. B.reading a book. C.playing a game",
+            "AI": "A"
+        },
+        {
+            "Human": "What are <yifei> and <ziqiao> doing in the image? A.taking a selfie. B.reading a book. C.playing a game",
+            "AI": "A"
+        },
+        {
+            "Human": "What is <zhangwei> wearing in the image? A.yellow sweater. B.red jacket. C.blue shirt.",
+            "AI": "A"
+        },
+        {
+            "Human": "What are <zhangwei> and <ziqiao> doing in the image? A.taking a selfie. B.reading a book. C.playing a game",
+            "AI": "A"
+        },
+        {
+            "Human": "What is <meijia> wearing in the image? A.Overalls with a pink sweater. B.A yellow sweater. C.A red jacket.",
+            "AI": "A"
+        },
+        {
+            "Human": "What are <yifei>, <zhangwei>, and <meijia> doing in the image? A.taking a selfie. B.reading a book. C.playing a game",
+            "AI": "A"
+        },
+        {
+            "Human": "What are <yifei>, <zhangwei>, and <ziqiao> doing in the image? A.taking a selfie. B.reading a book. C.playing a game",
+            "AI": "A"
+        },
+        {
+            "Human": "What are <yifei>, <meijia>, and <ziqiao> doing in the image? A.taking a selfie. B.reading a book. C.playing a game",
+            "AI": "A"
+        },
+        {
+            "Human": "What are <zhangwei>, <meijia>, and <ziqiao> doing in the image? A.taking a selfie. B.reading a book. C.playing a game",
+            "AI": "A"
+        },
+        {
+            "Human": "What are <yifei>, <zhangwei>, <meijia>, and <ziqiao> doing in the image? A.taking a selfie. B.reading a book. C.playing a game",
+            "AI": "A"
+        }
+    ],
+    "three_concept/multi/yifei_zhangwei_meijia_ziqiao/1.png": [
+        {
+            "Human": "What is <yifei> wearing in the image? A.a red dress. B.a blue suit. C.a pink dress",
+            "AI": "A"
+        },
+        {
+            "Human": "What is <zhangwei> wearing in the image? A.a checkered shirt and jeans. B.a suit. C.a red dress",
+            "AI": "A"
+        },
+        {
+            "Human": "What is <meijia> wearing in the image? A.a pink dress. B.a red dress. C.a blue suit",
+            "AI": "A"
+        },
+        {
+            "Human": "What is <ziqiao> wearing in the image? A.a plaid suit. B.a red dress. C.a checkered shirt",
+            "AI": "A"
+        },
+        {
+            "Human": "What is the clothing style of <yifei> and <zhangwei>? A.casual. B.formal. C.sporty",
+            "AI": "A"
+        },
+        {
+            "Human": "What are <yifei> and <meijia> wearing in the image? A.casual outfits. B.formal dresses. C.sportswear",
+            "AI": "B"
+        },
+        {
+            "Human": "What is the color of the dress worn by <yifei>? A.red. B.blue. C.green.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is <zhangwei> wearing in the image? A.checkered shirt and jeans. B.suit and tie. C.red dress",
+            "AI": "A"
+        },
+        {
+            "Human": "What is the clothing style of <zhangwei> and <ziqiao>? A.casual and formal. B.sporty and casual. C.formal and sporty",
+            "AI": "A"
+        },
+        {
+            "Human": "What is the color of the dress worn by <meijia>? A.pink. B.red. C.blue",
+            "AI": "B"
+        },
+        {
+            "Human": "What is the color of the dress worn by <meijia>? A.pink. B.red. C.blue",
+            "AI": "B"
+        },
+        {
+            "Human": "What is the color of the dress worn by <yifei>? A.red. B.blue. C.green",
+            "AI": "A"
+        },
+        {
+            "Human": "What is the color of the dress worn by <yifei>? A.pink. B.red. C.blue",
+            "AI": "B"
+        },
+        {
+            "Human": "What is the color of the dress worn by <meijia>? A.pink. B.red. C.blue",
+            "AI": "B"
+        },
+        {
+            "Human": "What is the color of the dress worn by <meijia>? A.pink. B.red. C.blue",
+            "AI": "A"
+        }
+    ],
+    "three_concept/multi/yifei_zhangwei_meijia_ziqiao/2.png": [
+        {
+            "Human": "What is <yifei> wearing in the image? A.an apron with a cartoon character. B.a formal suit.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is <meijia> wearing in the image? A.a pink jacket. B.a blue apron. C.a white shirt",
+            "AI": "A"
+        },
+        {
+            "Human": "What is <ziqiao> wearing in the image? A.a suit. B.a hoodie. C.an apron",
+            "AI": "A"
+        },
+        {
+            "Human": "What is <yifei> wearing in the image? A.an apron with a cartoon character. B.a formal suit.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is <yifei> wearing in the image? A.an apron with a cartoon character. B.a formal suit. C.a sports jersey",
+            "AI": "A"
+        },
+        {
+            "Human": "What is <meijia> wearing in the image? A.a pink jacket. B.a blue apron. C.a white shirt",
+            "AI": "A"
+        },
+        {
+            "Human": "What is <yifei> wearing in the image? A.a blue apron. B.a pink jacket. C.a gray suit",
+            "AI": "A"
+        }
+    ],
+    "three_concept/multi/yifei_zhangwei_meijia_ziqiao/3.png": [
+        {
+            "Human": "What is <yifei> holding in the image? A.a red banner. B.a bouquet of flowers.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is <zhangwei> wearing in the image? A.a red plaid suit. B.a blue striped suit.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is <meijia> holding in the image? A.a red banner. B.a bouquet of flowers.",
+            "AI": "A"
+        },
+        {
+            "Human": "What are <yifei> and <zhangwei> holding in the image? A.red banners. B.flowers. C.gifts",
+            "AI": "A"
+        },
+        {
+            "Human": "What are <yifei> and <meijia> holding in the image? A.flowers. B.banners. C.gifts.",
+            "AI": "B"
+        },
+        {
+            "Human": "What are <zhangwei> and <meijia> holding in the image? A.red banners. B.flowers. C.gifts",
+            "AI": "A"
+        },
+        {
+            "Human": "What color are the outfits of <yifei>, <zhangwei>, and <meijia>? A.red. B.blue. C.green.",
+            "AI": "A"
+        }
+    ],
+    "three_concept/multi/yifei_zhangwei_meijia_ziqiao/4.png": [
+        {
+            "Human": "What is <yifei> wearing in the image? A.casual outfit. B.racing suit.",
+            "AI": "B"
+        },
+        {
+            "Human": "What is <meijia> wearing in the image? A.a racing suit. B.a formal dress. C.casual clothes",
+            "AI": "B"
+        },
+        {
+            "Human": "What is <ziqiao> wearing in the image? A.a suit with a bow tie. B.a racing suit. C.a casual t-shirt",
+            "AI": "A"
+        },
+        {
+            "Human": "What is <yifei> wearing in the image? A.casual outfit. B.racing suit. C.formal suit.",
+            "AI": "B"
+        },
+        {
+            "Human": "What is <yifei> wearing in the image? A.casual outfit. B.racing suit. C.formal suit.",
+            "AI": "B"
+        },
+        {
+            "Human": "What is <meijia> wearing in the image? A.a red racing suit. B.a beige dress with a hat.",
+            "AI": "B"
+        },
+        {
+            "Human": "What is <yifei> wearing in the image? A.casual suit. B.racing suit. C.formal dress",
+            "AI": "B"
+        }
+    ]
+}

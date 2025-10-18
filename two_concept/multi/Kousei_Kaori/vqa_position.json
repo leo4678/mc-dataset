@@ -1,0 +1,52 @@
+{
+    "two_concept/multi/Kousei_Kaori/0.png": [
+        {
+            "Human": "Where is <Kousei> located in the photo? A. left B. right.",
+            "AI": "A"
+        },
+        {
+            "Human": "Where is <Kaori> located in the photo? A. left B. right.",
+            "AI": "B"
+        }
+    ],
+    "two_concept/multi/Kousei_Kaori/1.png": [
+        {
+            "Human": "Where is <Kousei> located in the photo? A. left B. right.",
+            "AI": "A"
+        },
+        {
+            "Human": "Where is <Kaori> located in the photo? A. left B. right.",
+            "AI": "B"
+        }
+    ],
+    "two_concept/multi/Kousei_Kaori/2.png": [
+        {
+            "Human": "Where is <Kousei> located in the photo? A. left B. right.",
+            "AI": "A"
+        },
+        {
+            "Human": "Where is <Kaori> located in the photo? A. left B. right.",
+            "AI": "B"
+        }
+    ],
+    "two_concept/multi/Kousei_Kaori/3.png": [
+        {
+            "Human": "Where is <Kousei> located in the photo? A. left B. right.",
+            "AI": "B"
+        },
+        {
+            "Human": "Where is <Kaori> located in the photo? A. left B. right.",
+            "AI": "A"
+        }
+    ],
+    "two_concept/multi/Kousei_Kaori/4.png": [
+        {
+            "Human": "Where is <Kousei> located in the photo? A. left B. right.",
+            "AI": "A"
+        },
+        {
+            "Human": "Where is <Kaori> located in the photo? A. left B. right.",
+            "AI": "B"
+        }
+    ]
+}

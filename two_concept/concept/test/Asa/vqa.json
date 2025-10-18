@@ -1,0 +1,22 @@
+{
+    "two_concept/concept/test/Asa/0.png": {
+        "Human": "What is <Asa> doing in the image?",
+        "AI": "<Asa> is talking on a corded phone."
+    },
+    "two_concept/concept/test/Asa/1.png": {
+        "Human": "What type of vehicle is <Asa> standing in front of?",
+        "AI": "<Asa> is standing in front of a Toyota car."
+    },
+    "two_concept/concept/test/Asa/2.png": {
+        "Human": "What color is the blazer <Asa> is wearing?",
+        "AI": "<Asa> is wearing a blue blazer."
+    },
+    "two_concept/concept/test/Asa/3.png": {
+        "Human": "What type of clothing is <Asa> wearing in the image?",
+        "AI": "<Asa> is wearing a dark pinstripe suit with a light-colored shirt underneath."
+    },
+    "two_concept/concept/test/Asa/4.png": {
+        "Human": "What color is the outfit worn by <Asa>?",
+        "AI": "<Asa> is wearing a black outfit."
+    }
+}

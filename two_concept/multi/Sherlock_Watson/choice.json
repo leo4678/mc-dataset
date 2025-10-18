@@ -1,0 +1,72 @@
+{
+    "two_concept/multi/Sherlock_Watson/0.png": [
+        {
+            "Human": "Where is <Sherlock> standing in the image? A. Inside the cafe. B. Outside the cafe.",
+            "AI": "B"
+        },
+        {
+            "Human": "What is <Watson> doing in the image? A. Drinking from a cup. B. Reading a book. C. Using a laptop.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is <Watson> doing in the image? A. Drinking from a cup. B. Reading a book. C. Using a laptop.",
+            "AI": "A"
+        }
+    ],
+    "two_concept/multi/Sherlock_Watson/1.png": [
+        {
+            "Human": "What are <Sherlock> and the other person holding in their hands? A. Books. B. Hats. C. Flowers.",
+            "AI": "B"
+        },
+        {
+            "Human": "What is <Watson> holding in his hand? A. A book. B. A hat.",
+            "AI": "B"
+        },
+        {
+            "Human": "What are <Sherlock> and <Watson> holding in their hands? A. Flowers. B. Hats. C. Books.",
+            "AI": "B"
+        }
+    ],
+    "two_concept/multi/Sherlock_Watson/2.png": [
+        {
+            "Human": "What are <Sherlock> and the other person doing in the image? A. Running. B. Walking. C. Standing.",
+            "AI": "A"
+        },
+        {
+            "Human": "What are <Watson> and the other person doing in the image? A. Running. B. Walking. C. Standing.",
+            "AI": "A"
+        },
+        {
+            "Human": "What are <Sherlock> and <Watson> doing in the image? A. Running. B. Sitting. C. Eating.",
+            "AI": "A"
+        }
+    ],
+    "two_concept/multi/Sherlock_Watson/3.png": [
+        {
+            "Human": "What is written in red text in the image with <Sherlock>? A. Fire on Fire. B. Fire and Ice. C. Fire and Water.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is written in red text in the image with <Watson>? A. Fire on Fire. B. Fire and Ice.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is written in red text in the image with <Sherlock> and <Watson>? A. Fire on Fire. B. Fire and Ice. C. Fire and Water.",
+            "AI": "A"
+        }
+    ],
+    "two_concept/multi/Sherlock_Watson/4.png": [
+        {
+            "Human": "What is <Sherlock> wearing around his neck? A. A scarf. B. A tie.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is <Watson> wearing in the image? A. A blue coat. B. A red scarf.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is the address behind <Sherlock> and <Watson>? A. 221A. B. 221B. C. 221C",
+            "AI": "B"
+        }
+    ]
+}

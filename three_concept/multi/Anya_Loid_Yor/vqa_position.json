@@ -1,0 +1,72 @@
+{
+    "three_concept/multi/Anya_Loid_Yor/0.jpg": [
+        {
+            "Human": "Where is <Anya> located in the photo? A. left B. middle C. right.",
+            "AI": "A"
+        },
+        {
+            "Human": "Where is <Loid> located in the photo? A. left B. middle C. right.",
+            "AI": "B"
+        },
+        {
+            "Human": "Where is <Yor> located in the photo? A. left B. middle C. right.",
+            "AI": "C"
+        }
+    ],
+    "three_concept/multi/Anya_Loid_Yor/1.jpg": [
+        {
+            "Human": "Where is <Anya> located in the photo? A. left B. middle C. right.",
+            "AI": "B"
+        },
+        {
+            "Human": "Where is <Loid> located in the photo? A. left B. middle C. right.",
+            "AI": "A"
+        },
+        {
+            "Human": "Where is <Yor> located in the photo? A. left B. middle C. right.",
+            "AI": "C"
+        }
+    ],
+    "three_concept/multi/Anya_Loid_Yor/2.jpg": [
+        {
+            "Human": "Where is <Anya> located in the photo? A. left B. middle C. right.",
+            "AI": "B"
+        },
+        {
+            "Human": "Where is <Loid> located in the photo? A. left B. middle C. right.",
+            "AI": "A"
+        },
+        {
+            "Human": "Where is <Yor> located in the photo? A. left B. middle C. right.",
+            "AI": "C"
+        }
+    ],
+    "three_concept/multi/Anya_Loid_Yor/3.jpg": [
+        {
+            "Human": "Where is <Anya> located in the photo? A. left B. middle C. right.",
+            "AI": "C"
+        },
+        {
+            "Human": "Where is <Loid> located in the photo? A. left B. middle C. right.",
+            "AI": "B"
+        },
+        {
+            "Human": "Where is <Yor> located in the photo? A. left B. middle C. right.",
+            "AI": "A"
+        }
+    ],
+    "three_concept/multi/Anya_Loid_Yor/4.jpg": [
+        {
+            "Human": "Where is <Anya> located in the photo? A. left B. middle C. right.",
+            "AI": "B"
+        },
+        {
+            "Human": "Where is <Loid> located in the photo? A. left B. middle C. right.",
+            "AI": "C"
+        },
+        {
+            "Human": "Where is <Yor> located in the photo? A. left B. middle C. right.",
+            "AI": "A"
+        }
+    ]
+}

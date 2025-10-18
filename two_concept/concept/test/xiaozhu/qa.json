@@ -1,0 +1,22 @@
+[
+    {
+        "question": "What animal is <xiaozhu>? A.Pig.  B.Rabbit",
+        "answer": "A"
+    },
+    {
+        "question": "What color is <xiaozhu>'s body? A.Pink.  B.Blue",
+        "answer": "A"
+    },
+    {
+        "question": "What type of clothing does <xiaozhu> wear? A.Striped shirt.  B.Polka dot shirt",
+        "answer": "A"
+    },
+    {
+        "question": "What is the color of <xiaozhu>'s ears? A.Pink.  B.Green",
+        "answer": "A"
+    },
+    {
+        "question": "What is <xiaozhu> holding in one of the images? A.Flower.  B.Balloon",
+        "answer": "A"
+    }
+]

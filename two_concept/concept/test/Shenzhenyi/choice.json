@@ -1,0 +1,22 @@
+{
+    "two_concept/concept/test/Shenzhenyi/0.jpg": {
+        "Human": "What is the primary color of <Shenzhenyi>'s outfit?  A. Red;  B. Blue;  C. Green;",
+        "AI": "B"
+    },
+    "two_concept/concept/test/Shenzhenyi/1.jpg": {
+        "Human": "What color is the clothing of <Shenzhenyi>?  A. Red; B. Blue; C. Green;",
+        "AI": "B"
+    },
+    "two_concept/concept/test/Shenzhenyi/2.jpg": {
+        "Human": "What color is <Shenzhenyi>'s hair?  A. Black;  B. Blue;  C. Blonde;",
+        "AI": "B"
+    },
+    "two_concept/concept/test/Shenzhenyi/3.jpg": {
+        "Human": "What color is <Shenzhenyi>'s hair?  A. Blue; B. Red; C. Black;",
+        "AI": "A"
+    },
+    "two_concept/concept/test/Shenzhenyi/4.jpg": {
+        "Human": "What color is <Shenzhenyi>'s hair?  A. Blue; B. Green; C. Red;",
+        "AI": "A"
+    }
+}

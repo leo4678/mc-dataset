@@ -1,0 +1,422 @@
+{
+    "three_concept/concept/train/LiKe/0.png": [
+        {
+            "Question": "What is <LiKe> hair color?",
+            "Answer": "<LiKe>'s hair color is blonde."
+        },
+        {
+            "Question": "What color are <LiKe> eyes?",
+            "Answer": "<LiKe>'s eyes are green."
+        },
+        {
+            "Question": "Would you describe <LiKe>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<LiKe>'s physique is slim."
+        },
+        {
+            "Question": "What is <LiKe> skin tone?",
+            "Answer": "I can't determine the skin tone of <LiKe> from the image."
+        },
+        {
+            "Question": "How would you describe <LiKe> hairstyle?",
+            "Answer": "<LiKe> has long, straight hair with two pigtails."
+        },
+        {
+            "Question": "Does <LiKe> wear glasses or any accessories?",
+            "Answer": "<LiKe> is wearing glasses and a helmet with goggles."
+        },
+        {
+            "Question": "How would you describe <LiKe>'s attire?",
+            "Answer": "<LiKe> is wearing an explorer outfit, including a helmet with goggles, a brown jacket, gloves, and boots. The attire is complemented by a belt and knee-high socks."
+        },
+        {
+            "Question": "Does <LiKe> have any distinctive facial features?",
+            "Answer": "<LiKe> has large, round glasses and green eyes."
+        },
+        {
+            "Question": "What is <LiKe> overall build or physique?",
+            "Answer": "<LiKe> has a petite and slender build."
+        },
+        {
+            "Question": "What is <LiKe> general expression or demeanor?",
+            "Answer": "<LiKe> has a cheerful and adventurous expression."
+        }
+    ],
+    "three_concept/concept/train/LiKe/1.png": [
+        {
+            "Question": "What is <LiKe> hair color?",
+            "Answer": "<LiKe>'s hair color is blonde."
+        },
+        {
+            "Question": "What color are <LiKe> eyes?",
+            "Answer": "<LiKe>'s eyes are green."
+        },
+        {
+            "Question": "Would you describe <LiKe>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<Likey>'s physique appears slim."
+        },
+        {
+            "Question": "What is <LiKe> skin tone?",
+            "Answer": "<LiKe>'s skin tone is light."
+        },
+        {
+            "Question": "How would you describe <LiKe> hairstyle?",
+            "Answer": "<LiKe> has long, straight hair with bangs and wears it in two low pigtails."
+        },
+        {
+            "Question": "Does <LiKe> wear glasses or any accessories?",
+            "Answer": "<LiKe> is wearing glasses and a hat."
+        },
+        {
+            "Question": "How would you describe <LiKe>'s attire?",
+            "Answer": "<LiKe> is wearing a hat, glasses, and a light-colored outfit with a collar."
+        },
+        {
+            "Question": "Does <LiKe> have any distinctive facial features?",
+            "Answer": "<LiKe> has large, round glasses and wide, expressive eyes."
+        },
+        {
+            "Question": "What is <LiKe> overall build or physique?",
+            "Answer": "<LiKe> has a small and childlike build."
+        },
+        {
+            "Question": "What is <LiKe> general expression or demeanor?",
+            "Answer": "<LiKe> has a curious and slightly surprised expression."
+        }
+    ],
+    "three_concept/concept/train/LiKe/2.png": [
+        {
+            "Question": "What is <LiKe> hair color?",
+            "Answer": "<LiKe>'s hair color is blonde."
+        },
+        {
+            "Question": "What color are <LiKe> eyes?",
+            "Answer": "<LiKe>'s eyes are green."
+        },
+        {
+            "Question": "Would you describe <LiKe>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<Likey>'s physique appears slim."
+        },
+        {
+            "Question": "What is <LiKe> skin tone?",
+            "Answer": "I can't determine the skin tone of <LiKe> from the image."
+        },
+        {
+            "Question": "How would you describe <LiKe> hairstyle?",
+            "Answer": "<LiKe> has short, straight, blonde hair with bangs."
+        },
+        {
+            "Question": "Does <LiKe> wear glasses or any accessories?",
+            "Answer": "<LiKe> is wearing glasses and a hat with a headlamp."
+        },
+        {
+            "Question": "How would you describe <LiKe>'s attire?",
+            "Answer": "<LiKe> is wearing a beige explorer outfit with a matching hat, gloves, and glasses. The hat has a camera or light attached to it."
+        },
+        {
+            "Question": "Does <LiKe> have any distinctive facial features?",
+            "Answer": "<LiKe> has large, round glasses and green eyes."
+        },
+        {
+            "Question": "What is <LiKe> overall build or physique?",
+            "Answer": "<LiKe> has a small and youthful build."
+        },
+        {
+            "Question": "What is <LiKe> general expression or demeanor?",
+            "Answer": "<LiKe> appears surprised or startled."
+        }
+    ],
+    "three_concept/concept/train/LiKe/3.png": [
+        {
+            "Question": "What is <LiKe> hair color?",
+            "Answer": "<LiKe>'s hair color is blonde."
+        },
+        {
+            "Question": "What color are <LiKe> eyes?",
+            "Answer": "<LiKe>'s eyes are green."
+        },
+        {
+            "Question": "Would you describe <LiKe>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<LiKe>'s physique appears slim."
+        },
+        {
+            "Question": "What is <LiKe> skin tone?",
+            "Answer": "I can't determine the skin tone of <LiKe> from the image."
+        },
+        {
+            "Question": "How would you describe <LiKe> hairstyle?",
+            "Answer": "<LiKe> has short, blonde hair styled in pigtails."
+        },
+        {
+            "Question": "Does <LiKe> wear glasses or any accessories?",
+            "Answer": "<LiKe> is wearing glasses and gloves."
+        },
+        {
+            "Question": "How would you describe <LiKe>'s attire?",
+            "Answer": "<LiKe> is wearing a sleeveless top and gloves."
+        },
+        {
+            "Question": "Does <LiKe> have any distinctive facial features?",
+            "Answer": "<LiKe> has large, round glasses and big green eyes."
+        },
+        {
+            "Question": "What is <LiKe> overall build or physique?",
+            "Answer": "<LiKe> has a petite and slender build."
+        },
+        {
+            "Question": "What is <LiKe> general expression or demeanor?",
+            "Answer": "<LiKe> has a curious and focused expression while eating."
+        }
+    ],
+    "three_concept/concept/train/LiKe/4.png": [
+        {
+            "Question": "What is <LiKe> hair color?",
+            "Answer": "<LiKe>'s hair color is blonde."
+        },
+        {
+            "Question": "What color are <LiKe> eyes?",
+            "Answer": "<LiKe>'s eyes are green."
+        },
+        {
+            "Question": "Would you describe <LiKe>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<LiKe>'s physique appears slim."
+        },
+        {
+            "Question": "What is <LiKe> skin tone?",
+            "Answer": "I can't determine the skin tone of <LiKe> from the image."
+        },
+        {
+            "Question": "How would you describe <LiKe> hairstyle?",
+            "Answer": "<LiKe> has short, blonde hair styled in two small pigtails."
+        },
+        {
+            "Question": "Does <LiKe> wear glasses or any accessories?",
+            "Answer": "<LiKe> is wearing glasses and a hat."
+        },
+        {
+            "Question": "How would you describe <LiKe>'s attire?",
+            "Answer": "<LiKe> is wearing a beige hat, glasses, and a brown outfit with gloves."
+        },
+        {
+            "Question": "Does <LiKe> have any distinctive facial features?",
+            "Answer": "<LiKe> has large green eyes and wears glasses."
+        },
+        {
+            "Question": "What is <LiKe> overall build or physique?",
+            "Answer": "<LiKe> has a small and youthful build."
+        },
+        {
+            "Question": "What is <LiKe> general expression or demeanor?",
+            "Answer": "<LiKe> has a cheerful and excited expression."
+        }
+    ],
+    "three_concept/concept/train/LiKe/5.png": [
+        {
+            "Question": "What is <LiKe> hair color?",
+            "Answer": "<LiKe>'s hair color is blonde."
+        },
+        {
+            "Question": "What color are <LiKe> eyes?",
+            "Answer": "<LiKe>'s eyes are green."
+        },
+        {
+            "Question": "Would you describe <LiKe>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<LiKe>'s physique is slim."
+        },
+        {
+            "Question": "What is <LiKe> skin tone?",
+            "Answer": "<LiKe>'s skin tone is light."
+        },
+        {
+            "Question": "How would you describe <LiKe> hairstyle?",
+            "Answer": "<LiKe> has long, straight blonde hair with bangs."
+        },
+        {
+            "Question": "Does <LiKe> wear glasses or any accessories?",
+            "Answer": "<LiKe> is wearing glasses."
+        },
+        {
+            "Question": "How would you describe <LiKe>'s attire?",
+            "Answer": "<LiKe> is not wearing any attire."
+        },
+        {
+            "Question": "Does <LiKe> have any distinctive facial features?",
+            "Answer": "<LiKe> has large, round glasses and big green eyes."
+        },
+        {
+            "Question": "What is <LiKe> overall build or physique?",
+            "Answer": "<LiKe> has a petite and slender build."
+        },
+        {
+            "Question": "What is <LiKe> general expression or demeanor?",
+            "Answer": "<LiKe> has a calm and content expression."
+        }
+    ],
+    "three_concept/concept/train/LiKe/6.png": [
+        {
+            "Question": "What is <LiKe> hair color?",
+            "Answer": "<LiKe>'s hair color is blonde."
+        },
+        {
+            "Question": "What color are <LiKe> eyes?",
+            "Answer": "<Liko>'s eyes are closed in the image."
+        },
+        {
+            "Question": "Would you describe <LiKe>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<LiKe>'s physique appears slim."
+        },
+        {
+            "Question": "What is <LiKe> skin tone?",
+            "Answer": "I can't determine the skin tone of <LiKe> from the image."
+        },
+        {
+            "Question": "How would you describe <LiKe> hairstyle?",
+            "Answer": "<LiKe> has long, straight blonde hair with bangs."
+        },
+        {
+            "Question": "Does <LiKe> wear glasses or any accessories?",
+            "Answer": "<LiKe> is wearing glasses."
+        },
+        {
+            "Question": "How would you describe <LiKe>'s attire?",
+            "Answer": "<LiKe> is wearing a gray cloak with a clasp at the neck and glasses."
+        },
+        {
+            "Question": "Does <LiKe> have any distinctive facial features?",
+            "Answer": "<LiKe> has glasses and a cheerful expression with closed eyes."
+        },
+        {
+            "Question": "What is <LiKe> overall build or physique?",
+            "Answer": "<LiKe> has a small and childlike build."
+        },
+        {
+            "Question": "What is <LiKe> general expression or demeanor?",
+            "Answer": "<LiKe> has a cheerful and content expression, with eyes closed and a slight smile."
+        }
+    ],
+    "three_concept/concept/train/LiKe/7.png": [
+        {
+            "Question": "What is <LiKe> hair color?",
+            "Answer": "<LiKe>'s hair color is blonde."
+        },
+        {
+            "Question": "What color are <LiKe> eyes?",
+            "Answer": "<LiKe>'s eyes are not visible in the image."
+        },
+        {
+            "Question": "Would you describe <LiKe>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<LiKe>'s physique is slim."
+        },
+        {
+            "Question": "What is <LiKe> skin tone?",
+            "Answer": "<LiKe>'s skin tone is light."
+        },
+        {
+            "Question": "How would you describe <LiKe> hairstyle?",
+            "Answer": "<LiKe>'s hairstyle is long and blonde, with two pigtails."
+        },
+        {
+            "Question": "Does <LiKe> wear glasses or any accessories?",
+            "Answer": "<LiKe> is wearing glasses."
+        },
+        {
+            "Question": "How would you describe <LiKe>'s attire?",
+            "Answer": "<LiKe> is not wearing any attire."
+        },
+        {
+            "Question": "Does <LiKe> have any distinctive facial features?",
+            "Answer": "<LiKe> has a flushed face with eyes closed and mouth wide open, expressing a strong emotion."
+        },
+        {
+            "Question": "What is <LiKe> overall build or physique?",
+            "Answer": "<LiKe> has a small and slender build."
+        },
+        {
+            "Question": "What is <LiKe> general expression or demeanor?",
+            "Answer": "<LiKe> has an expression of surprise or shock, with wide open mouth and eyes."
+        }
+    ],
+    "three_concept/concept/train/LiKe/8.png": [
+        {
+            "Question": "What is <LiKe> hair color?",
+            "Answer": "<LiKe>'s hair color is blonde."
+        },
+        {
+            "Question": "What color are <LiKe> eyes?",
+            "Answer": "<LiKe>'s eyes are green."
+        },
+        {
+            "Question": "Would you describe <LiKe>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<LiKe>'s physique appears slim."
+        },
+        {
+            "Question": "What is <LiKe> skin tone?",
+            "Answer": "<LiKe>'s skin tone is light."
+        },
+        {
+            "Question": "How would you describe <LiKe> hairstyle?",
+            "Answer": "<LiKe> has blonde hair styled in two low pigtails."
+        },
+        {
+            "Question": "Does <LiKe> wear glasses or any accessories?",
+            "Answer": "<LiKe> is wearing glasses."
+        },
+        {
+            "Question": "How would you describe <LiKe>'s attire?",
+            "Answer": "<LiKe> is not wearing any visible attire in the image."
+        },
+        {
+            "Question": "Does <LiKe> have any distinctive facial features?",
+            "Answer": "<LiKe> has large, round glasses and wide, expressive eyes."
+        },
+        {
+            "Question": "What is <LiKe> overall build or physique?",
+            "Answer": "<LiKe> has a small and slender build."
+        },
+        {
+            "Question": "What is <LiKe> general expression or demeanor?",
+            "Answer": "<LiKe> has a surprised or startled expression, with wide eyes and an open mouth."
+        }
+    ],
+    "three_concept/concept/train/LiKe/9.png": [
+        {
+            "Question": "What is <LiKe> hair color?",
+            "Answer": "<LiKe>'s hair color is blonde."
+        },
+        {
+            "Question": "What color are <LiKe> eyes?",
+            "Answer": "<LiKe>'s eyes are green."
+        },
+        {
+            "Question": "Would you describe <LiKe>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<LiKe>'s physique is slim."
+        },
+        {
+            "Question": "What is <LiKe> skin tone?",
+            "Answer": "I can't determine the skin tone of <LiKe> from the image."
+        },
+        {
+            "Question": "How would you describe <LiKe> hairstyle?",
+            "Answer": "<LiKe> has long, straight blonde hair with bangs."
+        },
+        {
+            "Question": "Does <LiKe> wear glasses or any accessories?",
+            "Answer": "<LiKe> is not wearing glasses or any accessories."
+        },
+        {
+            "Question": "How would you describe <LiKe>'s attire?",
+            "Answer": "<LiKe> is wearing a light brown vest over a white shirt, with a red tie or scarf."
+        },
+        {
+            "Question": "Does <LiKe> have any distinctive facial features?",
+            "Answer": "I can't identify or describe any distinctive facial features of <LiKe>."
+        },
+        {
+            "Question": "What is <LiKe> overall build or physique?",
+            "Answer": "<LiKe> has a small and childlike build."
+        },
+        {
+            "Question": "What is <LiKe> general expression or demeanor?",
+            "Answer": "<LiKe> appears to be happy and excited, with a wide smile and hands on their cheeks."
+        }
+    ]
+}

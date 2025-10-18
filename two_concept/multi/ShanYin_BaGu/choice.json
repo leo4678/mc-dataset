@@ -1,0 +1,72 @@
+{
+    "two_concept/multi/ShanYin_BaGu/1.png": [
+        {
+            "Human": "What is <ShanYin> wearing in the image? A. A black jacket. B. A blue sweater.",
+            "AI": "B"
+        },
+        {
+            "Human": "What is <BaGu> wearing in the image? A. A blue jacket. B. A white shirt and a knitted cardigan. C. A black t-shirt.",
+            "AI": "B"
+        },
+        {
+            "Human": "What type of clothing are <ShanYin> and <BaGu> wearing? A. Sweaters B. T-shirts C. Jackets",
+            "AI": "A"
+        }
+    ],
+    "two_concept/multi/ShanYin_BaGu/2.png": [
+        {
+            "Human": "What is <ShanYin> holding in the image? A. A bouquet of flowers. B. A book. C. A toy.",
+            "AI": "B"
+        },
+        {
+            "Human": "What is <BaGu> holding in the image? A. A bouquet of flowers.  B. A book.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is <ShanYin> holding in the image? A. A textbook B. A DVD C. A bouquet of flowers",
+            "AI": "B"
+        }
+    ],
+    "two_concept/multi/ShanYin_BaGu/3.png": [
+        {
+            "Human": "What is <ShanYin> doing in the image? A. Taking a selfie. B. Eating ice cream. C. Reading a book.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is <BaGu> holding in the image? A. A hat. B. A camera. C. A phone.",
+            "AI": "C"
+        },
+        {
+            "Human": "What background is behind <ShanYin> and <BaGu>? A. forest. B. beach. C. mountains",
+            "AI": "B"
+        }
+    ],
+    "two_concept/multi/ShanYin_BaGu/4.png": [
+        {
+            "Human": "What is <ShanYin> holding in the image? A. A cup of coffee. B. A book.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is <BaGu> holding in the image? A. A book. B. A cup of bubble tea.",
+            "AI": "B"
+        },
+        {
+            "Human": "What are <ShanYin> and <BaGu> drinking? A. Smoothies. B. Milk tea. C. Coffee",
+            "AI": "B"
+        }
+    ],
+    "two_concept/multi/ShanYin_BaGu/5.png": [
+        {
+            "Human": "What is <ShanYin> holding in the image? A. A book. B. A pack of soda. C. A box of chocolates.",
+            "AI": "B"
+        },
+        {
+            "Human": "What is <BaGu> holding in the image? A. A camera and a notebook. B. A can and a pack of bottled water. C. A book and a pen.",
+            "AI": "B"
+        },
+        {
+            "Human": "What are <ShanYin> and <BaGu> holding in the image? A.Books. B.Packaged beverages. C.Flowers.",
+            "AI": "B"
+        }
+    ]
+}

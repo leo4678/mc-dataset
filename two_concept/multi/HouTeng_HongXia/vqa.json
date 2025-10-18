@@ -1,0 +1,72 @@
+{
+    "two_concept/multi/HouTeng_HongXia/0.png": [
+        {
+            "Human": "What is the expression of <HouTeng> in the image?",
+            "AI": "<HouTeng> looks surprised or shocked in the image."
+        },
+        {
+            "Human": "What is the expression of <HongXia> in the image?",
+            "AI": "<HongXia> is smiling and appears to be happy."
+        },
+        {
+            "Human": "What are <HouTeng> and <HongXia> doing in the image?",
+            "AI": "<HouTeng> and <HongXia> are holding hands and appear to be dancing or celebrating."
+        }
+    ],
+    "two_concept/multi/HouTeng_HongXia/1.png": [
+        {
+            "Human": "What is the hair color of <HouTeng> in the image?",
+            "AI": "<HouTeng> has pink hair in the image."
+        },
+        {
+            "Human": "What is the background color behind <HongXia>?",
+            "AI": "The background color behind <HongXia> is yellow."
+        },
+        {
+            "Human": "What are the hair colors of <HouTeng> and <HongXia> in the image?",
+            "AI": "<HouTeng> has pink hair, and <HongXia> has blonde hair."
+        }
+    ],
+    "two_concept/multi/HouTeng_HongXia/2.png": [
+        {
+            "Human": "What is <HouTeng> wearing in the image?",
+            "AI": "<HouTeng> is wearing a black t-shirt."
+        },
+        {
+            "Human": "What is <HongXia> doing in the image?",
+            "AI": "<HongXia> is making a peace sign with her hand."
+        },
+        {
+            "Human": "What are <HouTeng> and <HongXia> wearing in the image?",
+            "AI": "<HouTeng> and <HongXia> are both wearing black t-shirts with a logo on them."
+        }
+    ],
+    "two_concept/multi/HouTeng_HongXia/3.png": [
+        {
+            "Human": "What is <HouTeng> wearing in the image?",
+            "AI": "<HouTeng> is wearing a pink hoodie."
+        },
+        {
+            "Human": "What is the expression of <HongXia> in the image?",
+            "AI": "<HongXia> is smiling with her eyes closed."
+        },
+        {
+            "Human": "What are <HouTeng> and <HongXia> doing in the image?",
+            "AI": "<HouTeng> and <HongXia> are smiling and appear to be very happy."
+        }
+    ],
+    "two_concept/multi/HouTeng_HongXia/4.png": [
+        {
+            "Human": "What color is the jacket that <HouTeng> is wearing?",
+            "AI": "<HouTeng> is wearing a pink jacket."
+        },
+        {
+            "Human": "What color is the jacket that <HongXia> is wearing?",
+            "AI": "<HongXia> is wearing a yellow jacket."
+        },
+        {
+            "Human": "What are <HouTeng> and <HongXia> wearing in the image?",
+            "AI": "<HouTeng> is wearing a pink jacket, and <HongXia> is wearing a yellow jacket with a hood."
+        }
+    ]
+}

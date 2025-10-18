@@ -1,0 +1,422 @@
+{
+    "two_concept/two_concept/concept/train/muye/0.png": [
+        {
+            "Question": "What color is <muye>?",
+            "Answer": "<muye> is black with a silver metal plate."
+        },
+        {
+            "Question": "What shape does <muye> have?",
+            "Answer": "<muye> has a rectangular shape with rounded edges."
+        },
+        {
+            "Question": "What is the overall vibe of <muye>?",
+            "Answer": "The overall vibe of <muye> is sleek and iconic, with a polished metal plate featuring a distinctive symbol, giving it a sense of belonging to a fictional ninja world."
+        },
+        {
+            "Question": "What material is <muye> made of?",
+            "Answer": "<muye> is made of metal and fabric."
+        },
+        {
+            "Question": "What size is this <muye>?",
+            "Answer": "The size of the <muye> is not explicitly clear from the image, as there is no reference object for scale. However, it appears to be a standard-sized ninja headband."
+        },
+        {
+            "Question": "Does <muye> have any patterns or markings?",
+            "Answer": "<muye> has a spiral leaf symbol as a marking."
+        },
+        {
+            "Question": "What type of <muye> is this subject?",
+            "Answer": "This <muye> is a ninja headband featuring the symbol of the Hidden Leaf Village (Konoha) from the Naruto series."
+        },
+        {
+            "Question": "Does <muye> have any distinctive features or details?",
+            "Answer": "<muye> has a distinctive metal plate with a spiral leaf symbol engraved on it, secured by six rivets."
+        },
+        {
+            "Question": "What's <muye> general texture like?",
+            "Answer": "<muye> has a smooth metallic texture with a polished finish."
+        },
+        {
+            "Question": "How would you describe <muye> overall appearance?",
+            "Answer": "<muye> has a black fabric band with a metallic plate featuring a spiral leaf symbol and six rivets."
+        }
+    ],
+    "two_concept/two_concept/concept/train/muye/1.png": [
+        {
+            "Question": "What color is <muye>?",
+            "Answer": "<muye> is black with a silver metal plate."
+        },
+        {
+            "Question": "What shape does <muye> have?",
+            "Answer": "The metal plate on <muye> is rectangular with rounded edges."
+        },
+        {
+            "Question": "What is the overall vibe of <muye>?",
+            "Answer": "The overall vibe of <muye> is traditional and iconic, representing a sense of belonging and identity within the ninja culture."
+        },
+        {
+            "Question": "What material is <muye> made of?",
+            "Answer": "<muye> is made of a metal plate attached to a black fabric band."
+        },
+        {
+            "Question": "What size is this <muye>?",
+            "Answer": "The size of the <muye> ninja headband is not explicitly indicated in the image."
+        },
+        {
+            "Question": "Does <muye> have any patterns or markings?",
+            "Answer": "<muye> has a spiral leaf symbol marking on it."
+        },
+        {
+            "Question": "What type of <muye> is this subject?",
+            "Answer": "This <muye> is a ninja headband with the symbol of the Hidden Leaf Village from the anime series Naruto."
+        },
+        {
+            "Question": "Does <muye> have any distinctive features or details?",
+            "Answer": "<muye> has a distinctive metal plate with a spiral leaf symbol engraved on it."
+        },
+        {
+            "Question": "What's <muye> general texture like?",
+            "Answer": "<muye> has a smooth metal plate with a polished finish and a fabric band that appears to be soft and flexible."
+        },
+        {
+            "Question": "How would you describe <muye> overall appearance?",
+            "Answer": "<muye> is a black fabric headband with a metallic plate featuring a spiral leaf symbol engraved on it."
+        }
+    ],
+    "two_concept/two_concept/concept/train/muye/2.png": [
+        {
+            "Question": "What color is <muye>?",
+            "Answer": "<muye> is black with a silver metal plate."
+        },
+        {
+            "Question": "What shape does <muye> have?",
+            "Answer": "<muye> has a rectangular shape with a metal plate featuring a spiral leaf symbol."
+        },
+        {
+            "Question": "What is the overall vibe of <muye>?",
+            "Answer": "The overall vibe of <muye> is traditional and iconic, representing a sense of belonging and identity within the ninja community."
+        },
+        {
+            "Question": "What material is <muye> made of?",
+            "Answer": "<muye> is made of metal and fabric."
+        },
+        {
+            "Question": "What size is this <muye>?",
+            "Answer": "The size of this <muye> is not specified in the image."
+        },
+        {
+            "Question": "Does <muye> have any patterns or markings?",
+            "Answer": "Yes, <muye> has a spiral leaf symbol as a marking."
+        },
+        {
+            "Question": "What type of <muye> is this subject?",
+            "Answer": "This is a Leaf Village ninja headband from the anime series Naruto."
+        },
+        {
+            "Question": "Does <muye> have any distinctive features or details?",
+            "Answer": "<muye> has a distinctive spiral leaf symbol on a metallic plate, secured with six rivets."
+        },
+        {
+            "Question": "What's <muye> general texture like?",
+            "Answer": "<muye> has a smooth metal plate with a fabric band."
+        },
+        {
+            "Question": "How would you describe <muye> overall appearance?",
+            "Answer": "<muye> is a ninja headband with a black fabric base and a metallic plate featuring a spiral leaf symbol, secured by six rivets."
+        }
+    ],
+    "two_concept/two_concept/concept/train/muye/3.png": [
+        {
+            "Question": "What color is <muye>?",
+            "Answer": "<muye> is silver with a black symbol and black fabric."
+        },
+        {
+            "Question": "What shape does <muye> have?",
+            "Answer": "<muye> has a rectangular shape with a metal plate featuring a spiral leaf symbol in the center."
+        },
+        {
+            "Question": "What is the overall vibe of <muye>?",
+            "Answer": "The overall vibe of <muye> is sleek and iconic, with a polished metal plate featuring a distinctive symbol, giving it a sense of belonging to a fictional ninja world."
+        },
+        {
+            "Question": "What material is <muye> made of?",
+            "Answer": "<muye> is made of metal and fabric."
+        },
+        {
+            "Question": "What size is this <muye>?",
+            "Answer": "The size of the <muye> is not explicitly clear from the image, but it appears to be a standard-sized ninja headband, typically fitting around the forehead."
+        },
+        {
+            "Question": "Does <muye> have any patterns or markings?",
+            "Answer": "<muye> has a spiral leaf symbol in the center."
+        },
+        {
+            "Question": "What type of <muye> is this subject?",
+            "Answer": "This <muye> is a ninja headband with the symbol of the Hidden Leaf Village (Konoha) from the Naruto series."
+        },
+        {
+            "Question": "Does <muye> have any distinctive features or details?",
+            "Answer": "<muye> has a distinctive metal plate with a spiral leaf symbol engraved on it, secured by four rivets."
+        },
+        {
+            "Question": "What's <muye> general texture like?",
+            "Answer": "<muye> has a smooth metallic texture with a reflective surface."
+        },
+        {
+            "Question": "How would you describe <muye> overall appearance?",
+            "Answer": "<muye> has a metallic plate with a spiral leaf symbol engraved on it, secured by four rivets, and is attached to a black fabric band."
+        }
+    ],
+    "two_concept/two_concept/concept/train/muye/4.png": [
+        {
+            "Question": "What color is <muye>?",
+            "Answer": "<muye> is silver with a black symbol and black fabric."
+        },
+        {
+            "Question": "What shape does <muye> have?",
+            "Answer": "<muye> has a rectangular shape with a metal plate featuring a spiral leaf symbol in the center."
+        },
+        {
+            "Question": "What is the overall vibe of <muye>?",
+            "Answer": "The overall vibe of <muye> is sleek and traditional, with a polished metal plate and a distinctive symbol, giving it an iconic and recognizable appearance."
+        },
+        {
+            "Question": "What material is <muye> made of?",
+            "Answer": "<muye> is made of metal and fabric."
+        },
+        {
+            "Question": "What size is this <muye>?",
+            "Answer": "The size of the <muye> is standard for a ninja headband, with a metal plate approximately 4-5 inches wide and 1-2 inches tall."
+        },
+        {
+            "Question": "Does <muye> have any patterns or markings?",
+            "Answer": "<muye> has a spiral leaf symbol as a marking on it."
+        },
+        {
+            "Question": "What type of <muye> is this subject?",
+            "Answer": "This <muye> is a ninja headband featuring the symbol of the Hidden Leaf Village (Konoha) from the Naruto series."
+        },
+        {
+            "Question": "Does <muye> have any distinctive features or details?",
+            "Answer": "<muye> has a distinctive metal plate with a spiral leaf symbol engraved on it, secured by four rivets."
+        },
+        {
+            "Question": "What's <muye> general texture like?",
+            "Answer": "<muye> has a smooth metallic texture with a reflective surface."
+        },
+        {
+            "Question": "How would you describe <muye> overall appearance?",
+            "Answer": "<muye> has a metallic plate with a black spiral symbol in the center, secured by four rivets, and is attached to a black fabric band."
+        }
+    ],
+    "two_concept/two_concept/concept/train/muye/5.png": [
+        {
+            "Question": "What color is <muye>?",
+            "Answer": "<muye> is blue with a metallic silver plate."
+        },
+        {
+            "Question": "What shape does <muye> have?",
+            "Answer": "<muye> has a rectangular shape with rounded edges."
+        },
+        {
+            "Question": "What is the overall vibe of <muye>?",
+            "Answer": "The overall vibe of <muye> is traditional and symbolic, representing a connection to the ninja culture and the Hidden Leaf Village."
+        },
+        {
+            "Question": "What material is <muye> made of?",
+            "Answer": "<muye> is made of metal and fabric."
+        },
+        {
+            "Question": "What size is this <muye>?",
+            "Answer": "The size of the <muye> appears to be standard for a ninja headband, with a metal plate approximately covering the forehead and a cloth strap long enough to tie around the head."
+        },
+        {
+            "Question": "Does <muye> have any patterns or markings?",
+            "Answer": "<muye> has a spiral leaf symbol marking on it."
+        },
+        {
+            "Question": "What type of <muye> is this subject?",
+            "Answer": "This <muye> is a ninja headband with the symbol of the Hidden Leaf Village."
+        },
+        {
+            "Question": "Does <muye> have any distinctive features or details?",
+            "Answer": "<muye> has a distinctive metal plate with the engraved symbol of the Hidden Leaf Village, featuring a spiral design."
+        },
+        {
+            "Question": "What's <muye> general texture like?",
+            "Answer": "<muye> has a smooth metal plate with a fabric band."
+        },
+        {
+            "Question": "How would you describe <muye> overall appearance?",
+            "Answer": "<muye> is a ninja headband with a metallic plate featuring a spiral leaf symbol, and it is attached to a dark blue fabric."
+        }
+    ],
+    "two_concept/two_concept/concept/train/muye/6.png": [
+        {
+            "Question": "What color is <muye>?",
+            "Answer": "<muye> is blue."
+        },
+        {
+            "Question": "What shape does <muye> have?",
+            "Answer": "<muye> has a rectangular shape with rounded edges."
+        },
+        {
+            "Question": "What is the overall vibe of <muye>?",
+            "Answer": "The overall vibe of <muye> is traditional and iconic, with a sleek and polished appearance, symbolizing allegiance to the ninja village."
+        },
+        {
+            "Question": "What material is <muye> made of?",
+            "Answer": "<muye> is made of a metal plate attached to a fabric band."
+        },
+        {
+            "Question": "What size is this <muye>?",
+            "Answer": "The size of <muye> appears to be standard for a ninja headband, designed to fit around the forehead."
+        },
+        {
+            "Question": "Does <muye> have any patterns or markings?",
+            "Answer": "<muye> has a spiral leaf symbol as a marking."
+        },
+        {
+            "Question": "What type of <muye> is this subject?",
+            "Answer": "This <muye> is a ninja headband with the symbol of the Hidden Leaf Village (Konoha) from the anime series Naruto."
+        },
+        {
+            "Question": "Does <muye> have any distinctive features or details?",
+            "Answer": "<muye> has a distinctive spiral leaf symbol on its metal plate."
+        },
+        {
+            "Question": "What's <muye> general texture like?",
+            "Answer": "<muye> has a smooth metallic texture on the plate with a soft fabric band."
+        },
+        {
+            "Question": "How would you describe <muye> overall appearance?",
+            "Answer": "<muye> has a blue fabric band with a metallic plate featuring a spiral leaf symbol engraved on it."
+        }
+    ],
+    "two_concept/two_concept/concept/train/muye/7.png": [
+        {
+            "Question": "What color is <muye>?",
+            "Answer": "<muye> is dark blue."
+        },
+        {
+            "Question": "What shape does <muye> have?",
+            "Answer": "<muye> has a rectangular shape with a metal plate featuring a spiral leaf symbol."
+        },
+        {
+            "Question": "What is the overall vibe of <muye>?",
+            "Answer": "The overall vibe of <muye> is traditional and iconic, representing a sense of belonging and identity within the ninja community."
+        },
+        {
+            "Question": "What material is <muye> made of?",
+            "Answer": "<muye> is made of fabric with a metal plate."
+        },
+        {
+            "Question": "What size is this <muye>?",
+            "Answer": "The image does not provide specific measurements, so the size of <muye> cannot be determined from the image alone."
+        },
+        {
+            "Question": "Does <muye> have any patterns or markings?",
+            "Answer": "<muye> has a spiral leaf symbol as a marking on its metal plate."
+        },
+        {
+            "Question": "What type of <muye> is this subject?",
+            "Answer": "This <muye> is a ninja headband featuring the symbol of the Hidden Leaf Village (Konohagakure) from the Naruto series."
+        },
+        {
+            "Question": "Does <muye> have any distinctive features or details?",
+            "Answer": "<muye> has a distinctive metal plate with a spiral leaf symbol engraved on it, and it is attached to a dark blue fabric."
+        },
+        {
+            "Question": "What's <muye> general texture like?",
+            "Answer": "<muye> has a smooth metal plate with a fabric band."
+        },
+        {
+            "Question": "How would you describe <muye> overall appearance?",
+            "Answer": "<muye> has a dark blue fabric band with a metallic plate featuring a spiral leaf symbol in the center, secured by rivets."
+        }
+    ],
+    "two_concept/two_concept/concept/train/muye/8.png": [
+        {
+            "Question": "What color is <muye>?",
+            "Answer": "<muye> is blue."
+        },
+        {
+            "Question": "What shape does <muye> have?",
+            "Answer": "<muye> has a rectangular shape with a metal plate featuring a spiral leaf symbol."
+        },
+        {
+            "Question": "What is the overall vibe of <muye>?",
+            "Answer": "The overall vibe of <muye> is traditional and iconic, representing a sense of belonging and identity within the ninja community."
+        },
+        {
+            "Question": "What material is <muye> made of?",
+            "Answer": "<muye> is made of a fabric band with a metal plate."
+        },
+        {
+            "Question": "What size is this <muye>?",
+            "Answer": "The size of <muye> is not explicitly indicated in the image, but it appears to be a standard-sized ninja headband suitable for wearing around the forehead."
+        },
+        {
+            "Question": "Does <muye> have any patterns or markings?",
+            "Answer": "Yes, <muye> has a spiral leaf symbol on it."
+        },
+        {
+            "Question": "What type of <muye> is this subject?",
+            "Answer": "This <muye> is a Leaf Village ninja headband."
+        },
+        {
+            "Question": "Does <muye> have any distinctive features or details?",
+            "Answer": "<muye> has a distinctive metal plate with a spiral leaf symbol engraved on it."
+        },
+        {
+            "Question": "What's <muye> general texture like?",
+            "Answer": "<muye> has a smooth and shiny metal plate with a fabric band."
+        },
+        {
+            "Question": "How would you describe <muye> overall appearance?",
+            "Answer": "<muye> is a blue ninja headband with a metallic plate featuring a stylized leaf symbol."
+        }
+    ],
+    "two_concept/two_concept/concept/train/muye/9.png": [
+        {
+            "Question": "What color is <muye>?",
+            "Answer": "<muye> is black with a silver metal plate."
+        },
+        {
+            "Question": "What shape does <muye> have?",
+            "Answer": "<muye> has a rectangular shape with a metal plate featuring a spiral leaf symbol."
+        },
+        {
+            "Question": "What is the overall vibe of <muye>?",
+            "Answer": "The overall vibe of <muye> is sleek and iconic, with a sense of mystery and strength associated with ninja culture."
+        },
+        {
+            "Question": "What material is <muye> made of?",
+            "Answer": "<muye> is made of fabric with a metal plate."
+        },
+        {
+            "Question": "What size is this <muye>?",
+            "Answer": "The size of the <muye> ninja headband is not explicitly indicated in the image, but it appears to be a standard size typically used for cosplay or costume purposes."
+        },
+        {
+            "Question": "Does <muye> have any patterns or markings?",
+            "Answer": "<muye> has a spiral leaf symbol as a marking."
+        },
+        {
+            "Question": "What type of <muye> is this subject?",
+            "Answer": "This <muye> is a ninja headband featuring the symbol of the Hidden Leaf Village from the anime series Naruto."
+        },
+        {
+            "Question": "Does <muye> have any distinctive features or details?",
+            "Answer": "<muye> has a distinctive metal plate with the symbol of a leaf, which is associated with the Hidden Leaf Village in the Naruto series."
+        },
+        {
+            "Question": "What's <muye> general texture like?",
+            "Answer": "<muye> has a smooth metal plate with a fabric band."
+        },
+        {
+            "Question": "How would you describe <muye> overall appearance?",
+            "Answer": "<muye> is a black fabric headband with a metal plate featuring a spiral leaf symbol, secured by six rivets."
+        }
+    ]
+}

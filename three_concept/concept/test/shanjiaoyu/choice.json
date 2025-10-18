@@ -1,0 +1,22 @@
+{
+    "three_concept/concept/test/shanjiaoyu/0.png": {
+        "Human": "What is the primary color of the <shanjiaoyu>? \n A. Brown; \n B. Blue; \n C. Green;",
+        "AI": "A"
+    },
+    "three_concept/concept/test/shanjiaoyu/1.png": {
+        "Human": "What is the primary color of <shanjiaoyu>? \n A. Brown; \n B. Blue; \n C. Green;",
+        "AI": "A"
+    },
+    "three_concept/concept/test/shanjiaoyu/2.png": {
+        "Human": "What is the primary color of <shanjiaoyu>? \n A. Gray; \n B. Blue; \n C. Green;",
+        "AI": "A"
+    },
+    "three_concept/concept/test/shanjiaoyu/3.png": {
+        "Human": "What is the primary color of <shanjiaoyu>? \n A. Brown; \n B. Green; \n C. Blue;",
+        "AI": "A"
+    },
+    "three_concept/concept/test/shanjiaoyu/4.png": {
+        "Human": "What is the primary color of <shanjiaoyu>? \n A. Brown; \n B. Blue; \n C. Green;\n",
+        "AI": "A"
+    }
+}

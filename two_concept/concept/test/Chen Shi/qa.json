@@ -1,0 +1,22 @@
+[
+    {
+        "question": "What is <Chen Shi> holding in one of the images? A.Cigar.  B.Pen",
+        "answer": "A"
+    },
+    {
+        "question": "What type of clothing does <Chen Shi> wear? A.Casual.  B.Formal",
+        "answer": "B"
+    },
+    {
+        "question": "What accessory is <Chen Shi> seen wearing? A.Bow tie.  B.Necklace",
+        "answer": "A"
+    },
+    {
+        "question": "What is <Chen Shi> doing in one of the images? A.Drinking tea.  B.Holding a weapon",
+        "answer": "B"
+    },
+    {
+        "question": "What is the predominant color of <Chen Shi>'s hair? A.Black.  B.Blonde",
+        "answer": "A"
+    }
+]

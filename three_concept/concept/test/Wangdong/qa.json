@@ -1,0 +1,22 @@
+[
+    {
+        "question": "What color is <Wangdong>'s hair? A.Blue.  B.Red",
+        "answer": "A"
+    },
+    {
+        "question": "What type of clothing does <Wangdong> wear? A.Armor.  B.Robe",
+        "answer": "B"
+    },
+    {
+        "question": "Does <Wangdong> have any accessories? A.Necklace.  B.Hat",
+        "answer": "A"
+    },
+    {
+        "question": "What is the primary color of <Wangdong>'s outfit? A.Blue.  B.Green",
+        "answer": "A"
+    },
+    {
+        "question": "Is <Wangdong>'s attire formal or casual? A.Formal.  B.Casual",
+        "answer": "A"
+    }
+]

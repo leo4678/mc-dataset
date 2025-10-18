@@ -1,0 +1,414 @@
+{
+    "two_concept/concept/train/KuaiDou/0.png": [
+        {
+            "Question": "What is <KuaiDou> hair color?",
+            "Answer": "<KuaiDou>'s hair color is black."
+        },
+        {
+            "Question": "What color are <KuaiDou> eyes?",
+            "Answer": "<KuaiDou>'s eyes are brown."
+        },
+        {
+            "Question": "Would you describe <KuaiDou>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<KuaiDou>'s physique appears to be slim."
+        },
+        {
+            "Question": "What is <KuaiDou> skin tone?",
+            "Answer": "<KuaiDou>'s skin tone is light."
+        },
+        {
+            "Question": "How would you describe <KuaiDou> hairstyle?",
+            "Answer": "<KuaiDou>'s hairstyle is short and black, with some strands styled to stick out slightly."
+        },
+        {
+            "Question": "Does <KuaiDou> wear glasses or any accessories?",
+            "Answer": "<KuaiDou> wears glasses and a white hat with a blue band."
+        },
+        {
+            "Question": "How would you describe <KuaiDou>'s attire?",
+            "Answer": "<KuaiDou> is wearing a white suit with a blue shirt and a red tie. He also has a white hat with a blue band and is holding a large, sparkling gem."
+        },
+        {
+            "Question": "Does <KuaiDou> have any distinctive facial features?",
+            "Answer": "I cannot determine any distinctive facial features of <KuaiDou> from the given image."
+        },
+        {
+            "Question": "What is <KuaiDou> overall build or physique?",
+            "Answer": "<KuaiDou> has a slim and athletic build."
+        },
+        {
+            "Question": "What is <KuaiDou> general expression or demeanor?",
+            "Answer": "<KuaiDou> has a confident and stylish demeanor, characterized by his sharp attire and the way he holds a sparkling gem."
+        }
+    ],
+    "two_concept/concept/train/KuaiDou/1.png": [
+        {
+            "Question": "What is <KuaiDou> hair color?",
+            "Answer": "<KuaiDou>'s hair color is dark brown."
+        },
+        {
+            "Question": "What color are <KuaiDou> eyes?",
+            "Answer": "I cannot determine the color of <KuaiDou>'s eyes from the image provided."
+        },
+        {
+            "Question": "Would you describe <KuaiDou>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<KuaiDou>'s physique can be described as slim."
+        },
+        {
+            "Question": "What is <KuaiDou> skin tone?",
+            "Answer": "<KuaiDou>'s skin tone is light."
+        },
+        {
+            "Question": "How would you describe <KuaiDou> hairstyle?",
+            "Answer": "<KuaiDou>'s hairstyle is short with spiky ends, particularly noticeable at the sides and back."
+        },
+        {
+            "Question": "Does <KuaiDou> wear glasses or any accessories?",
+            "Answer": "<KuaiDou> wears glasses and a white top hat with a blue band."
+        },
+        {
+            "Question": "How would you describe <KuaiDou>'s attire?",
+            "Answer": "<KuaiDou> is wearing a white suit with a matching white top hat. He has a blue shirt underneath the suit and a red tie."
+        },
+        {
+            "Question": "Does <KuaiDou> have any distinctive facial features?",
+            "Answer": "<KuaiDou> is wearing a white suit with a red tie and a white top hat with a blue band."
+        },
+        {
+            "Question": "What is <KuaiDou> overall build or physique?",
+            "Answer": "<KuaiDou> has a slim and lean build."
+        },
+        {
+            "Question": "What is <KuaiDou> general expression or demeanor?",
+            "Answer": "<KuaiDou> has a formal and sophisticated demeanor, characterized by his white suit, red tie, and top hat."
+        }
+    ],
+    "two_concept/concept/train/KuaiDou/2.png": [
+        {
+            "Question": "What is <KuaiDou> hair color?",
+            "Answer": "<KuaiDou>'s hair color is black."
+        },
+        {
+            "Question": "Would you describe <KuaiDou>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<KuaiDou>'s physique appears to be slim."
+        },
+        {
+            "Question": "What is <KuaiDou> skin tone?",
+            "Answer": "<KuaiDou>'s skin tone is light."
+        },
+        {
+            "Question": "How would you describe <KuaiDou> hairstyle?",
+            "Answer": "<KuaiDou>'s hairstyle is short and spiky, with the hair sticking outwards."
+        },
+        {
+            "Question": "Does <KuaiDou> wear glasses or any accessories?",
+            "Answer": "<KuaiDou> wears a monocle as an accessory."
+        },
+        {
+            "Question": "How would you describe <KuaiDou>'s attire?",
+            "Answer": "<KuaiDou> is wearing a white suit with a white shirt and a dark tie. He also has a white hat with a dark band and a monocle."
+        },
+        {
+            "Question": "Does <KuaiDou> have any distinctive facial features?",
+            "Answer": "<KuaiDou> is wearing a white hat with a blue ribbon and a monocle."
+        },
+        {
+            "Question": "What is <KuaiDou> overall build or physique?",
+            "Answer": "<KuaiDou> has a slim and lean build."
+        },
+        {
+            "Question": "What is <KuaiDou> general expression or demeanor?",
+            "Answer": "<KuaiDou> has a confident and composed demeanor, wearing a white suit and hat, with a monocle on his left eye."
+        }
+    ],
+    "two_concept/concept/train/KuaiDou/3.png": [
+        {
+            "Question": "What is <KuaiDou> hair color?",
+            "Answer": "<KuaiDou>'s hair color is dark brown."
+        },
+        {
+            "Question": "What color are <KuaiDou> eyes?",
+            "Answer": "<KuaiDou>'s eyes are blue."
+        },
+        {
+            "Question": "Would you describe <KuaiDou>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<KuaiDou>'s physique is slim."
+        },
+        {
+            "Question": "What is <KuaiDou> skin tone?",
+            "Answer": "<KuaiDou>'s skin tone is light."
+        },
+        {
+            "Question": "How would you describe <KuaiDou> hairstyle?",
+            "Answer": "<KuaiDou>'s hairstyle is short, dark, and spiky, with the hair styled upwards and slightly back."
+        },
+        {
+            "Question": "Does <KuaiDou> wear glasses or any accessories?",
+            "Answer": "<KuaiDou> wears a monocle as an accessory."
+        },
+        {
+            "Question": "How would you describe <KuaiDou>'s attire?",
+            "Answer": "<KuaiDou> is wearing a white suit with a blue shirt and an orange tie. He also has a white top hat with a blue band and is holding it with one hand. Additionally, he is wearing a monocle."
+        },
+        {
+            "Question": "Does <KuaiDou> have any distinctive facial features?",
+            "Answer": "<KuaiDou> has a monocle over one eye, which is a distinctive facial feature."
+        },
+        {
+            "Question": "What is <KuaiDou> overall build or physique?",
+            "Answer": "<KuaiDou> has a slim and athletic build."
+        },
+        {
+            "Question": "What is <KuaiDou> general expression or demeanor?",
+            "Answer": "<KuaiDou> has a confident and composed expression."
+        }
+    ],
+    "two_concept/concept/train/KuaiDou/4.png": [
+        {
+            "Question": "What is <KuaiDou> hair color?",
+            "Answer": "<KuaiDou>'s hair color is black."
+        },
+        {
+            "Question": "What color are <KuaiDou> eyes?",
+            "Answer": "<KuaiDou>'s eyes are blue."
+        },
+        {
+            "Question": "Would you describe <KuaiDou>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<KuaiDou>'s physique appears to be slim."
+        },
+        {
+            "Question": "What is <KuaiDou> skin tone?",
+            "Answer": "<KuaiDou>'s skin tone is light."
+        },
+        {
+            "Question": "How would you describe <KuaiDou> hairstyle?",
+            "Answer": "<KuaiDou>'s hairstyle is short and slightly messy, with bangs that fall over his forehead and sides."
+        },
+        {
+            "Question": "Does <KuaiDou> wear glasses or any accessories?",
+            "Answer": "<KuaiDou> wears a monocle as an accessory."
+        },
+        {
+            "Question": "How would you describe <KuaiDou>'s attire?",
+            "Answer": "<KuaiDou> is wearing a white suit with a red tie, a white cape, and a white top hat. He also has a monocle with a chain attached to it."
+        },
+        {
+            "Question": "Does <KuaiDou> have any distinctive facial features?",
+            "Answer": "<KuaiDou> has a distinctive monocle over one eye."
+        },
+        {
+            "Question": "What is <KuaiDou> overall build or physique?",
+            "Answer": "<KuaiDou> has a slim and athletic build."
+        },
+        {
+            "Question": "What is <KuaiDou> general expression or demeanor?",
+            "Answer": "<KuaiDou> has a confident and determined expression."
+        }
+    ],
+    "two_concept/concept/train/KuaiDou/5.png": [
+        {
+            "Question": "What is <KuaiDou> hair color?",
+            "Answer": "<KuaiDou>'s hair color is brown."
+        },
+        {
+            "Question": "What color are <KuaiDou> eyes?",
+            "Answer": "I cannot determine the color of <KuaiDou>'s eyes from the image."
+        },
+        {
+            "Question": "Would you describe <KuaiDou>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<KuaiDou>'s physique appears to be slim."
+        },
+        {
+            "Question": "What is <KuaiDou> skin tone?",
+            "Answer": "<KuaiDou>'s skin tone is light."
+        },
+        {
+            "Question": "How would you describe <KuaiDou> hairstyle?",
+            "Answer": "<KuaiDou>'s hairstyle is medium-length and slightly wavy, with hair extending out from under a large white top hat."
+        },
+        {
+            "Question": "Does <KuaiDou> wear glasses or any accessories?",
+            "Answer": "<KuaiDou> is wearing a white top hat with a blue band and a monocle."
+        },
+        {
+            "Question": "How would you describe <KuaiDou>'s attire?",
+            "Answer": "<KuaiDou> is wearing a white suit with a blue tie and a white cape. He also has a large white top hat with a blue band."
+        },
+        {
+            "Question": "Does <KuaiDou> have any distinctive facial features?",
+            "Answer": "I cannot determine any distinctive facial features of <KuaiDou> from the image."
+        },
+        {
+            "Question": "What is <KuaiDou> overall build or physique?",
+            "Answer": "<KuaiDou> has a slender and lean build."
+        },
+        {
+            "Question": "What is <KuaiDou> general expression or demeanor?",
+            "Answer": "<KuaiDou> has a confident and stylish demeanor, characterized by his distinctive white top hat and cape."
+        }
+    ],
+    "two_concept/concept/train/KuaiDou/6.png": [
+        {
+            "Question": "What is <KuaiDou> hair color?",
+            "Answer": "<KuaiDou>'s hair color is black."
+        },
+        {
+            "Question": "What color are <KuaiDou> eyes?",
+            "Answer": "\"I cannot determine the color of <KuaiDou>'s eyes from the image provided.\""
+        },
+        {
+            "Question": "Would you describe <KuaiDou>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<KuaiDou>'s physique appears to be slim."
+        },
+        {
+            "Question": "What is <KuaiDou> skin tone?",
+            "Answer": "<KuaiDou>'s skin tone is light."
+        },
+        {
+            "Question": "How would you describe <KuaiDou> hairstyle?",
+            "Answer": "<KuaiDou> is wearing a white hat that covers their hairstyle."
+        },
+        {
+            "Question": "Does <KuaiDou> wear glasses or any accessories?",
+            "Answer": "<KuaiDou> is wearing glasses and a hat."
+        },
+        {
+            "Question": "How would you describe <KuaiDou>'s attire?",
+            "Answer": "<KuaiDou> is wearing a white suit with a black shirt and an orange tie. He also has on white gloves and a white hat with a blue band."
+        },
+        {
+            "Question": "Does <KuaiDou> have any distinctive facial features?",
+            "Answer": "<KuaiDou> is depicted wearing a white hat and white gloves, with a suit that includes a black tie and an orange shirt."
+        },
+        {
+            "Question": "What is <KuaiDou> overall build or physique?",
+            "Answer": "<KuaiDou> has a slender build."
+        },
+        {
+            "Question": "What is <KuaiDou> general expression or demeanor?",
+            "Answer": "<KuaiDou> has a confident and composed demeanor, as indicated by the poised hand gesture adjusting the hat."
+        }
+    ],
+    "two_concept/concept/train/KuaiDou/7.png": [
+        {
+            "Question": "What is <KuaiDou> hair color?",
+            "Answer": "<KuaiDou>'s hair color is black."
+        },
+        {
+            "Question": "What color are <KuaiDou> eyes?",
+            "Answer": "I cannot determine the color of <KuaiDou>'s eyes from the image."
+        },
+        {
+            "Question": "Would you describe <KuaiDou>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<KuaiDou>'s physique appears to be slim."
+        },
+        {
+            "Question": "What is <KuaiDou> skin tone?",
+            "Answer": "<KuaiDou>'s skin tone is light."
+        },
+        {
+            "Question": "How would you describe <KuaiDou> hairstyle?",
+            "Answer": "<KuaiDou>'s hairstyle is short with spiky strands at the back."
+        },
+        {
+            "Question": "Does <KuaiDou> wear glasses or any accessories?",
+            "Answer": "<KuaiDou> wears a white top hat and a tie."
+        },
+        {
+            "Question": "How would you describe <KuaiDou>'s attire?",
+            "Answer": "<KuaiDou> is wearing a white suit with a matching white cape and a top hat. He also has a dark tie and a pendant hanging from his suit."
+        },
+        {
+            "Question": "Does <KuaiDou> have any distinctive facial features?",
+            "Answer": "<KuaiDou> is depicted wearing a white top hat and a white suit with a pink tie."
+        },
+        {
+            "Question": "What is <KuaiDou> overall build or physique?",
+            "Answer": "<KuaiDou> has a slender build."
+        },
+        {
+            "Question": "What is <KuaiDou> general expression or demeanor?",
+            "Answer": "<KuaiDou> has a composed and confident demeanor, holding a sword while dressed in a white suit and top hat."
+        }
+    ],
+    "two_concept/concept/train/KuaiDou/8.png": [
+        {
+            "Question": "What is <KuaiDou> hair color?",
+            "Answer": "<KuaiDou>'s hair color is black."
+        },
+        {
+            "Question": "Would you describe <KuaiDou>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<KuaiDou>'s physique can be described as slim."
+        },
+        {
+            "Question": "What is <KuaiDou> skin tone?",
+            "Answer": "<KuaiDou>'s skin tone is light."
+        },
+        {
+            "Question": "How would you describe <KuaiDou> hairstyle?",
+            "Answer": "<KuaiDou> has short, dark hair with a few strands sticking out from under the hat."
+        },
+        {
+            "Question": "Does <KuaiDou> wear glasses or any accessories?",
+            "Answer": "<KuaiDou> is wearing a white top hat with a blue band and a monocle."
+        },
+        {
+            "Question": "How would you describe <KuaiDou>'s attire?",
+            "Answer": "<KuaiDou> is wearing a white suit with a matching white top hat. He has a blue shirt underneath the suit and a pink tie. He is also holding a large red gem."
+        },
+        {
+            "Question": "Does <KuaiDou> have any distinctive facial features?",
+            "Answer": "<KuaiDou> is depicted wearing a white top hat and a white suit with a pink tie, holding a large red gem."
+        },
+        {
+            "Question": "What is <KuaiDou> overall build or physique?",
+            "Answer": "<KuaiDou> has a slim and athletic build."
+        },
+        {
+            "Question": "What is <KuaiDou> general expression or demeanor?",
+            "Answer": "<KuaiDou> has a confident and charismatic demeanor, as indicated by the dynamic pose and the way he is holding the large red gem."
+        }
+    ],
+    "two_concept/concept/train/KuaiDou/9.png": [
+        {
+            "Question": "What is <KuaiDou> hair color?",
+            "Answer": "<KuaiDou>'s hair color is black."
+        },
+        {
+            "Question": "What color are <KuaiDou> eyes?",
+            "Answer": "I cannot determine the color of <KuaiDou>'s eyes from the image."
+        },
+        {
+            "Question": "Would you describe <KuaiDou>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<KuaiDou>'s physique appears to be slim."
+        },
+        {
+            "Question": "What is <KuaiDou> skin tone?",
+            "Answer": "<KuaiDou>'s skin tone is light."
+        },
+        {
+            "Question": "How would you describe <KuaiDou> hairstyle?",
+            "Answer": "<KuaiDou>'s hairstyle is short and slightly tousled, with some strands sticking out from under the hat."
+        },
+        {
+            "Question": "Does <KuaiDou> wear glasses or any accessories?",
+            "Answer": "<KuaiDou> is wearing a hat and a monocle."
+        },
+        {
+            "Question": "How would you describe <KuaiDou>'s attire?",
+            "Answer": "<KuaiDou> is wearing a white suit with large, decorative bows on the shoulders, a black shirt, and a red tie. He also has a white hat with a black band."
+        },
+        {
+            "Question": "Does <KuaiDou> have any distinctive facial features?",
+            "Answer": "I cannot determine any distinctive facial features of <KuaiDou> from the image."
+        },
+        {
+            "Question": "What is <KuaiDou> overall build or physique?",
+            "Answer": "<KuaiDou> has a slender and tall build."
+        },
+        {
+            "Question": "What is <KuaiDou> general expression or demeanor?",
+            "Answer": "<KuaiDou> has a confident and stylish demeanor, accentuated by his elaborate outfit and hat."
+        }
+    ]
+}

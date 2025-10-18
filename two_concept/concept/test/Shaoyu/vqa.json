@@ -1,0 +1,22 @@
+{
+    "two_concept/concept/test/Shaoyu/0.jpg": {
+        "Human": "What color is the robe that <Shaoyu> is wearing?",
+        "AI": "<Shaoyu> is wearing a purple robe."
+    },
+    "two_concept/concept/test/Shaoyu/1.jpg": {
+        "Human": "What color is the outfit that <Shaoyu> is wearing?",
+        "AI": "<Shaoyu> is wearing a purple outfit."
+    },
+    "two_concept/concept/test/Shaoyu/2.jpg": {
+        "Human": "What color is <Shaoyu>'s outfit in the image?",
+        "AI": "<Shaoyu>'s outfit is purple with white and black accents."
+    },
+    "two_concept/concept/test/Shaoyu/3.jpg": {
+        "Human": "What color is the clothing that <Shaoyu> is wearing in the image?",
+        "AI": "<Shaoyu> is wearing a purple outfit in the image."
+    },
+    "two_concept/concept/test/Shaoyu/4.jpg": {
+        "Human": "What color is <Shaoyu>'s outfit?",
+        "AI": "<Shaoyu>'s outfit is purple."
+    }
+}

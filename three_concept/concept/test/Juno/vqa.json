@@ -1,0 +1,22 @@
+{
+    "three_concept/concept/test/Juno/0.png": {
+        "Human": "What is the color of the band around the base of <Juno>?",
+        "AI": "The band around the base of <Juno> is red."
+    },
+    "three_concept/concept/test/Juno/1.png": {
+        "Human": "What color is the band on the anime style yellow straw hat <Juno>?",
+        "AI": "The band on the anime style yellow straw hat <Juno> is red."
+    },
+    "three_concept/concept/test/Juno/2.png": {
+        "Human": "What color is the band on the anime style straw hat <Juno>?",
+        "AI": "The band on the anime style straw hat <Juno> is red."
+    },
+    "three_concept/concept/test/Juno/3.png": {
+        "Human": "What color is the band on the anime style yellow straw hat <Juno>?",
+        "AI": "The band on the anime style yellow straw hat <Juno> is red."
+    },
+    "three_concept/concept/test/Juno/4.png": {
+        "Human": "What unique feature does the anime style yellow straw hat <Juno> have?",
+        "AI": "The anime style yellow straw hat <Juno> has two distinctive black and white horns protruding from the top."
+    }
+}

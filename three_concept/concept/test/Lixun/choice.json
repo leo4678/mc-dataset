@@ -1,0 +1,22 @@
+{
+    "three_concept/concept/test/Lixun/0.png": {
+        "Human": "What type of clothing is <Lixun> wearing? A. T-shirt; B. Hoodie; C. Jacket;",
+        "AI": "B"
+    },
+    "three_concept/concept/test/Lixun/1.png": {
+        "Human": "What is <Lixun> doing in the image? A. Writing notes; B. Playing a game; C. Watching a video;",
+        "AI": "A"
+    },
+    "three_concept/concept/test/Lixun/2.png": {
+        "Human": "What color is <Lixun>'s jacket? A. Blue; B. Red; C. Green;",
+        "AI": "A"
+    },
+    "three_concept/concept/test/Lixun/3.png": {
+        "Human": "What is the hairstyle of <Lixun>? A. Curly; B. Straight; C. Wavy;",
+        "AI": "C"
+    },
+    "three_concept/concept/test/Lixun/4.png": {
+        "Human": "What type of clothing is <Lixun> wearing? A. Leather jacket; B. Denim jacket; C. Sweater;",
+        "AI": "B"
+    }
+}

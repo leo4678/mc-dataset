@@ -1,0 +1,152 @@
+{
+    "three_concept/multi/Harry_Hermione_Ron/0.png": [
+        {
+            "Human": "What is <Harry> wearing on his head? A.earmuffs. B.hat. C.helmet",
+            "AI": "A"
+        },
+        {
+            "Human": "What is <Hermione> holding in the image? A.a book. B.a plant. C.a wand.",
+            "AI": "B"
+        },
+        {
+            "Human": "What is <Ron> holding in the image? A.a book. B.a plant. C.a wand.",
+            "AI": "B"
+        },
+        {
+            "Human": "What are <Harry> and <Hermione> wearing on their heads? A.hats. B.earmuffs. C.helmets",
+            "AI": "B"
+        },
+        {
+            "Human": "What are <Harry> and <Ron> wearing on their heads? A.hats. B.earmuffs. C.helmets",
+            "AI": "B"
+        },
+        {
+            "Human": "What are <Hermione> and <Ron> holding in the image? A.a book. B.a plant. C.a wand.",
+            "AI": "B"
+        },
+        {
+            "Human": "What are <Harry>, <Hermione>, and <Ron> wearing on their heads? A.hats. B.earmuffs. C.helmets",
+            "AI": "B"
+        }
+    ],
+    "three_concept/multi/Harry_Hermione_Ron/1.png": [
+        {
+            "Human": "What is <Harry> wearing in the image? A. a blue robe. B. a black robe with a tie. C. a red jacket.",
+            "AI": "B"
+        },
+        {
+            "Human": "What is <Hermione> wearing in the image? A.a red dress. B.a school uniform with a tie. C.a casual t-shirt.",
+            "AI": "B"
+        },
+        {
+            "Human": "What is <Ron> holding in the image? A.a book. B.a wand. C.a bag",
+            "AI": "A"
+        },
+        {
+            "Human": "What are <Harry> and <Hermione> wearing in the image? A.casual clothes. B.school uniforms. C.sports attire.",
+            "AI": "B"
+        },
+        {
+            "Human": "What are <Harry> and <Ron> wearing in the image? A.casual clothes. B.school uniforms. C.sports attire.",
+            "AI": "B"
+        },
+        {
+            "Human": "What are <Hermione> and <Ron> wearing in the image? A.casual clothes. B.school uniforms. C.sports attire.",
+            "AI": "B"
+        },
+        {
+            "Human": "What are <Harry>, <Hermione>, and <Ron> wearing in the image? A.casual clothes. B.school uniforms. C.sports attire.",
+            "AI": "B"
+        }
+    ],
+    "three_concept/multi/Harry_Hermione_Ron/2.png": [
+        {
+            "Human": "What is <Harry> doing in the image? A.reading a book. B.holding a golden object. C.writing notes",
+            "AI": "A"
+        },
+        {
+            "Human": "What is <Hermione> wearing in the image? A.a pink sweater. B.a blue jacket. C.a red coat.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is <Ron> holding in the image? A.a book. B.a golden egg. C.a wand.",
+            "AI": "B"
+        },
+        {
+            "Human": "What is <Hermione> wearing in the image? A.a pink sweater. B.a blue jacket. C.a red coat.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is <Ron> holding in the image? A.a book. B.a golden egg. C.a wand.",
+            "AI": "B"
+        },
+        {
+            "Human": "What is <Ron> holding in the image? A.a book. B.a golden egg. C.a wand",
+            "AI": "B"
+        },
+        {
+            "Human": "What is <Ron> holding in the image? A.a book. B.a golden egg. C.a wand",
+            "AI": "B"
+        }
+    ],
+    "three_concept/multi/Harry_Hermione_Ron/3.png": [
+        {
+            "Human": "What is <Harry> holding in the image? A.a book. B.a wand. C.nothing",
+            "AI": "C"
+        },
+        {
+            "Human": "What is <Hermione> wearing in the image? A.a pink hoodie. B.a blue jacket. C.a red sweater.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is <Ron> holding in the image? A.a book. B.a small animal. C.a wand",
+            "AI": "B"
+        },
+        {
+            "Human": "What is <Hermione> wearing in the image? A.a pink hoodie. B.a blue jacket. C.a red sweater",
+            "AI": "A"
+        },
+        {
+            "Human": "What is <Ron> holding in the image? A.a book. B.a small animal. C.a wand.",
+            "AI": "B"
+        },
+        {
+            "Human": "What is <Ron> holding in the image? A.a book. B.a small animal. C.a wand.",
+            "AI": "B"
+        },
+        {
+            "Human": "What is <Ron> holding in the image? A.a book. B.a small animal. C.a wand.",
+            "AI": "B"
+        }
+    ],
+    "three_concept/multi/Harry_Hermione_Ron/4.png": [
+        {
+            "Human": "What is <Harry> wearing in the image? A.a blue shirt and a black jacket. B.a red sweater and jeans.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is <Hermione> wearing in the image? A.a pink jacket. B.a blue dress. C.a green sweater.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is <Ron> holding in the image? A.a book. B.a small animal. C.a wand.",
+            "AI": "B"
+        },
+        {
+            "Human": "What is the setting behind <Harry> and <Hermione>? A.library. B.wooden cabin. C.classroom",
+            "AI": "B"
+        },
+        {
+            "Human": "What is <Ron> holding in the image? A.a book. B.a small animal. C.a wand.",
+            "AI": "B"
+        },
+        {
+            "Human": "What is <Hermione> wearing in the image? A.a pink jacket. B.a blue sweater. C.a red coat.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is <Ron> holding in the image? A.a book. B.a small animal. C.a wand.",
+            "AI": "B"
+        }
+    ]
+}

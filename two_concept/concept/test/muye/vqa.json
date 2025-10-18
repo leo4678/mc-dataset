@@ -1,0 +1,22 @@
+{
+    "two_concept/concept/test/muye/0.png": {
+        "Human": "What is the symbol on the <muye> headband in the image?",
+        "AI": "The symbol on the <muye> headband in the image is a stylized leaf, representing the Hidden Leaf Village from the Naruto series."
+    },
+    "two_concept/concept/test/muye/1.png": {
+        "Human": "What symbol is engraved on the <muye> ninja headband?",
+        "AI": "The <muye> ninja headband has a spiral leaf symbol engraved on it."
+    },
+    "two_concept/concept/test/muye/2.png": {
+        "Human": "What symbol is engraved on the <muye> ninja headband?",
+        "AI": "The <muye> ninja headband has a spiral leaf symbol engraved on it."
+    },
+    "two_concept/concept/test/muye/3.png": {
+        "Human": "What symbol is engraved on the <muye> ninja headband?",
+        "AI": "The <muye> ninja headband has a spiral leaf symbol engraved on it."
+    },
+    "two_concept/concept/test/muye/4.png": {
+        "Human": "What symbol is engraved on the <muye> ninja headband?",
+        "AI": "The <muye> ninja headband has a spiral leaf symbol engraved on it."
+    }
+}

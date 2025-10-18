@@ -1,0 +1,22 @@
+{
+    "0.png": {
+        "<Ye Wen>": "left",
+        "<Wife>": "right"
+    },
+    "1.png": {
+        "<Ye Wen>": "right",
+        "<Wife>": "left"
+    },
+    "2.png": {
+        "<Ye Wen>": "left",
+        "<Wife>": "right"
+    },
+    "3.png": {
+        "<Ye Wen>": "right",
+        "<Wife>": "left"
+    },
+    "4.png": {
+        "<Ye Wen>": "right",
+        "<Wife>": "left"
+    }
+}

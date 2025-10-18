@@ -1,0 +1,22 @@
+[
+    {
+        "question": "What is the hair color of <QianShu>? A. Black. B. Blonde",
+        "answer": "B"
+    },
+    {
+        "question": "Does <QianShu> wear a hair accessory? A. Yes. B. No",
+        "answer": "A"
+    },
+    {
+        "question": "What is the eye color of <QianShu>? A. Red. B. Blue",
+        "answer": "A"
+    },
+    {
+        "question": "What type of clothing does <QianShu> wear? A. Casual. B. Uniform",
+        "answer": "B"
+    },
+    {
+        "question": "Does <QianShu> wear glasses in any scene? A. Yes. B. No",
+        "answer": "A"
+    }
+]

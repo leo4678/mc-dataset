@@ -1,0 +1,52 @@
+{
+    "two_concept/multi/james_curry/0.jpg": [
+        {
+            "Human": "Where is <james> located in the photo? A. left B. right.",
+            "AI": "A"
+        },
+        {
+            "Human": "Where is <curry> located in the photo? A. left B. right.",
+            "AI": "B"
+        }
+    ],
+    "two_concept/multi/james_curry/1.jpg": [
+        {
+            "Human": "Where is <james> located in the photo? A. left B. right.",
+            "AI": "B"
+        },
+        {
+            "Human": "Where is <curry> located in the photo? A. left B. right.",
+            "AI": "A"
+        }
+    ],
+    "two_concept/multi/james_curry/2.jpg": [
+        {
+            "Human": "Where is <james> located in the photo? A. left B. right.",
+            "AI": "B"
+        },
+        {
+            "Human": "Where is <curry> located in the photo? A. left B. right.",
+            "AI": "A"
+        }
+    ],
+    "two_concept/multi/james_curry/3.jpg": [
+        {
+            "Human": "Where is <james> located in the photo? A. left B. right.",
+            "AI": "B"
+        },
+        {
+            "Human": "Where is <curry> located in the photo? A. left B. right.",
+            "AI": "A"
+        }
+    ],
+    "two_concept/multi/james_curry/4.jpg": [
+        {
+            "Human": "Where is <james> located in the photo? A. left B. right.",
+            "AI": "A"
+        },
+        {
+            "Human": "Where is <curry> located in the photo? A. left B. right.",
+            "AI": "B"
+        }
+    ]
+}

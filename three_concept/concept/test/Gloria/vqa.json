@@ -1,0 +1,22 @@
+{
+    "three_concept/concept/test/Gloria/0.png": {
+        "Human": "What is <Gloria> holding in the image?",
+        "AI": "<Gloria> is holding a cake with a lit candle on top."
+    },
+    "three_concept/concept/test/Gloria/1.png": {
+        "Human": "What is <Gloria> doing in this scene?",
+        "AI": "<Gloria> is standing with a curious expression, looking at something off to the side."
+    },
+    "three_concept/concept/test/Gloria/2.png": {
+        "Human": "What is <Gloria> doing in the image?",
+        "AI": "<Gloria> is splashing in the water."
+    },
+    "three_concept/concept/test/Gloria/3.png": {
+        "Human": "What is <Gloria> doing in the image?",
+        "AI": "<Gloria> is leaning on a railing with a relaxed expression."
+    },
+    "three_concept/concept/test/Gloria/4.png": {
+        "Human": "What is <Gloria> doing in the image?",
+        "AI": "<Gloria> is lounging and looking relaxed in the image."
+    }
+}

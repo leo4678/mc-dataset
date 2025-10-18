@@ -1,0 +1,152 @@
+{
+    "three_concept/multi/LiKe_LeiGu_NaNaQi/0.png": [
+        {
+            "Human": "What is <LiKe> wearing on their head? A.a cap. B.a helmet. C.a hat",
+            "AI": "A"
+        },
+        {
+            "Human": "What is <LeiGu> wearing on their head? A.helmet. B.hat. C.crown",
+            "AI": "A"
+        },
+        {
+            "Human": "What is <NaNaQi> wearing on their head? A.helmet. B.hat with ears. C.crown",
+            "AI": "B"
+        },
+        {
+            "Human": "What is <LiKe> wearing on their head? A.helmet. B.hat. C.cap",
+            "AI": "B"
+        },
+        {
+            "Human": "What type of headwear is <LiKe> wearing? A.helmet. B.cap. C.hat",
+            "AI": "B"
+        },
+        {
+            "Human": "What is <NaNaQi> wearing on their head? A.a helmet. B.a hat with ears. C.a crown",
+            "AI": "B"
+        },
+        {
+            "Human": "What type of headgear is <LiKe> wearing? A.helmet. B.cap. C.hat",
+            "AI": "B"
+        }
+    ],
+    "three_concept/multi/LiKe_LeiGu_NaNaQi/1.png": [
+        {
+            "Human": "What is <LiKe> wearing on their head? A.a helmet. B.a hat with an animal. C.a crown",
+            "AI": "B"
+        },
+        {
+            "Human": "What is <LeiGu> wearing on their head? A.helmet. B.hat. C.cap",
+            "AI": "C"
+        },
+        {
+            "Human": "What is <NaNaQi> wearing on their head? A.a hat with ears. B.a helmet. C.a cap",
+            "AI": "A"
+        },
+        {
+            "Human": "What is the expression on <LiKe>'s face compared to <LeiGu>? A.surprised. B.sad. C.angry",
+            "AI": "A"
+        },
+        {
+            "Human": "What is the expression on <LiKe> and <NaNaQi>'s faces? A.surprised. B.sad. C.angry",
+            "AI": "A"
+        },
+        {
+            "Human": "What is the expression on the faces of <LeiGu> and <NaNaQi>? A.surprised. B.sad. C.angry",
+            "AI": "A"
+        },
+        {
+            "Human": "What is the expression on the faces of <LiKe>, <LeiGu>, and <NaNaQi>? A.surprised. B.angry. C.sad",
+            "AI": "A"
+        }
+    ],
+    "three_concept/multi/LiKe_LeiGu_NaNaQi/2.png": [
+        {
+            "Human": "What is <LiKe> wearing on their head? A.a helmet. B.a hat. C.a hood",
+            "AI": "B"
+        },
+        {
+            "Human": "What is <LeiGu> wearing on their head? A.helmet. B.hat. C.cap",
+            "AI": "A"
+        },
+        {
+            "Human": "What is <NaNaQi> looking at in the image? A.a map. B.a device. C.a book",
+            "AI": "B"
+        },
+        {
+            "Human": "What are <LiKe> and <LeiGu> looking at in the image? A.a map. B.a creature. C.a gadget",
+            "AI": "B"
+        },
+        {
+            "Human": "What is <NaNaQi> wearing on their head? A.a helmet. B.a hat with ears. C.a cap",
+            "AI": "B"
+        },
+        {
+            "Human": "What is <LeiGu> wearing on their head? A.helmet. B.hat. C.nothing",
+            "AI": "A"
+        },
+        {
+            "Human": "What are <LiKe>, <LeiGu>, and <NaNaQi> looking at in the image? A.a map. B.a creature. C.a gadget",
+            "AI": "B"
+        }
+    ],
+    "three_concept/multi/LiKe_LeiGu_NaNaQi/3.png": [
+        {
+            "Human": "What is <LiKe> wearing on their head? A.a helmet. B.a hat. C.goggles",
+            "AI": "C"
+        },
+        {
+            "Human": "What is <LeiGu> wearing on their head? A.helmet. B.hat. C.crown",
+            "AI": "A"
+        },
+        {
+            "Human": "What is <NaNaQi> wearing on their head? A.a helmet. B.a hat. C.a hood",
+            "AI": "C"
+        },
+        {
+            "Human": "What is the expression of <LiKe> compared to <LeiGu>? A.excited. B.sad. C.angry.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is the expression of <LiKe> and <NaNaQi>? A.surprised and calm. B.happy and sad. C.angry and excited.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is the expression of <LeiGu> and <NaNaQi>? A.surprised. B.calm. C.angry",
+            "AI": "B"
+        },
+        {
+            "Human": "What is the expression of <LiKe>, <LeiGu>, and <NaNaQi>? A.surprised. B.sad. C.angry",
+            "AI": "A"
+        }
+    ],
+    "three_concept/multi/LiKe_LeiGu_NaNaQi/4.png": [
+        {
+            "Human": "What is <LiKe> doing in the image? A.looking up. B.sitting down.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is <LeiGu> looking at in the image? A.the sky. B.a tree. C.a bird",
+            "AI": "A"
+        },
+        {
+            "Human": "What is <NaNaQi> doing in the image? A.looking up. B.sitting down.",
+            "AI": "A"
+        },
+        {
+            "Human": "What are <LiKe> and <LeiGu> doing in the image? A.looking up. B.sitting down. C.running",
+            "AI": "A"
+        },
+        {
+            "Human": "What are <LiKe> and <NaNaQi> doing in the image? A.looking up. B.sitting down. C.running",
+            "AI": "A"
+        },
+        {
+            "Human": "What are <LeiGu> and <NaNaQi> looking at? A.the sky. B.a tree. C.a river",
+            "AI": "A"
+        },
+        {
+            "Human": "What are <LiKe>, <LeiGu>, and <NaNaQi> doing in the image? A.looking up. B.sitting down. C.running",
+            "AI": "A"
+        }
+    ]
+}

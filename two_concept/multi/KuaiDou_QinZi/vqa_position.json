@@ -1,0 +1,52 @@
+{
+    "two_concept/multi/KuaiDou_QinZi/0.png": [
+        {
+            "Human": "Where is <KuaiDou> located in the photo? A. left B. right.",
+            "AI": "B"
+        },
+        {
+            "Human": "Where is <QinZi> located in the photo? A. left B. right.",
+            "AI": "A"
+        }
+    ],
+    "two_concept/multi/KuaiDou_QinZi/1.png": [
+        {
+            "Human": "Where is <KuaiDou> located in the photo? A. left B. right.",
+            "AI": "B"
+        },
+        {
+            "Human": "Where is <QinZi> located in the photo? A. left B. right.",
+            "AI": "A"
+        }
+    ],
+    "two_concept/multi/KuaiDou_QinZi/2.png": [
+        {
+            "Human": "Where is <KuaiDou> located in the photo? A. left B. right.",
+            "AI": "A"
+        },
+        {
+            "Human": "Where is <QinZi> located in the photo? A. left B. right.",
+            "AI": "B"
+        }
+    ],
+    "two_concept/multi/KuaiDou_QinZi/3.png": [
+        {
+            "Human": "Where is <KuaiDou> located in the photo? A. left B. right.",
+            "AI": "B"
+        },
+        {
+            "Human": "Where is <QinZi> located in the photo? A. left B. right.",
+            "AI": "A"
+        }
+    ],
+    "two_concept/multi/KuaiDou_QinZi/4.png": [
+        {
+            "Human": "Where is <KuaiDou> located in the photo? A. left B. right.",
+            "AI": "B"
+        },
+        {
+            "Human": "Where is <QinZi> located in the photo? A. left B. right.",
+            "AI": "A"
+        }
+    ]
+}

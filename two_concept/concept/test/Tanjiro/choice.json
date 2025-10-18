@@ -1,0 +1,22 @@
+{
+    "two_concept/concept/test/Tanjiro/0.png": {
+        "Human": "What color is <Tanjiro>'s haori?  A. Green and black; B. Red and white; C. Blue and yellow;",
+        "AI": "A"
+    },
+    "two_concept/concept/test/Tanjiro/1.png": {
+        "Human": "What color is the scarf that <Tanjiro> is wearing?  A. Red; B. Blue; C. Green;",
+        "AI": "B"
+    },
+    "two_concept/concept/test/Tanjiro/2.png": {
+        "Human": "What color is <Tanjiro>'s haori?  A. Red and black; B. Green and black; C. Blue and white;",
+        "AI": "B"
+    },
+    "two_concept/concept/test/Tanjiro/3.png": {
+        "Human": "What pattern is on <Tanjiro>'s clothing?  A. Stripes; B. Checkered; C. Polka dots;",
+        "AI": "B"
+    },
+    "two_concept/concept/test/Tanjiro/4.png": {
+        "Human": "What is <Tanjiro> holding in his hand?  A. A sword; B. A fan; C. A shield;",
+        "AI": "A"
+    }
+}

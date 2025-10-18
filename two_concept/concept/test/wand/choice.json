@@ -1,0 +1,22 @@
+{
+    "two_concept/concept/test/wand/0.jpg": {
+        "Human": "What is the color of the <wand> in the image? \n A. Blue; \n B. Pink; \n C. Green;",
+        "AI": "B"
+    },
+    "two_concept/concept/test/wand/1.jpg": {
+        "Human": "What is the primary color of the <wand>? \n A. Pink; \n B. Blue; \n C. Yellow;",
+        "AI": "A"
+    },
+    "two_concept/concept/test/wand/2.jpg": {
+        "Human": "What is the color of the handle of the <wand>? \n A. Pink; \n B. Blue; \n C. Green;",
+        "AI": "A"
+    },
+    "two_concept/concept/test/wand/3.jpg": {
+        "Human": "What is the color of the <wand> in the image? \n A. Pink; \n B. Blue; \n C. Green;",
+        "AI": "A"
+    },
+    "two_concept/concept/test/wand/4.jpg": {
+        "Human": "What is the primary color of the <wand>? \n A. Pink; \n B. Blue; \n C. Green;",
+        "AI": "A"
+    }
+}

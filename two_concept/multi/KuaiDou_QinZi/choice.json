@@ -1,0 +1,72 @@
+{
+    "two_concept/multi/KuaiDou_QinZi/0.png": [
+        {
+            "Human": "What is <KuaiDou> wearing in the image? A. A hoodie. B. A jacket.",
+            "AI": "B"
+        },
+        {
+            "Human": "What is <QinZi> wearing in the image? A. A hoodie. B. A jacket.",
+            "AI": "A"
+        },
+        {
+            "Human": "What are <KuaiDou> and <QinZi> wearing in the image? A. School uniforms. B. Hoodies. C. Suits.",
+            "AI": "B"
+        }
+    ],
+    "two_concept/multi/KuaiDou_QinZi/1.png": [
+        {
+            "Human": "What color is <KuaiDou>'s shirt? A. Green. B. Pink. C. Blue.",
+            "AI": "B"
+        },
+        {
+            "Human": "What color is <QinZi>'s clothing? A. Green. B. Blue.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is <KuaiDou> doing in the image? A.Whispering to <QinZi>. B.Reading a book. C.Watching TV.",
+            "AI": "A"
+        }
+    ],
+    "two_concept/multi/KuaiDou_QinZi/2.png": [
+        {
+            "Human": "What is <KuaiDou> wearing in the image? A. A blue suit with a red tie. B. A green suit with a yellow tie.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is <QinZi> wearing on her head? A. A hat. B. A scarf. C. A headband.",
+            "AI": "B"
+        },
+        {
+            "Human": "What is <QinZi> wearing on her head? A. A hat. B. A scarf. C. A headband.",
+            "AI": "B"
+        }
+    ],
+    "two_concept/multi/KuaiDou_QinZi/3.png": [
+        {
+            "Human": "What shape are <KuaiDou> and the girl making with their hands? A.Star. B.Heart. C.Circle",
+            "AI": "B"
+        },
+        {
+            "Human": "What gesture is <QinZi> making in the image? A. Waving. B. Forming a heart shape with hands. C. Pointing.",
+            "AI": "B"
+        },
+        {
+            "Human": "What are <KuaiDou> and <QinZi> doing in the image? A. Making a heart shape with their hands. B. Reading a book. C. Playing a game.",
+            "AI": "A"
+        }
+    ],
+    "two_concept/multi/KuaiDou_QinZi/4.png": [
+        {
+            "Human": "What is <KuaiDou> holding in the image? A. A book. B. A phone.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is <QinZi> doing in the image? A. Reading a book. B. Resting their head on their hand.",
+            "AI": "B"
+        },
+        {
+            "Human": "What is the expression on <QinZi>'s face? A. Happy. B. Bored. C. Angry.",
+            "AI": "B"
+        }
+    ]
+}

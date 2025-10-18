@@ -1,0 +1,72 @@
+{
+    "two_concept/multi/Judy_Nick/0.png": [
+        {
+            "Human": "What is <Judy> wearing in the image?",
+            "AI": "<Judy> is wearing a blue uniform with a badge."
+        },
+        {
+            "Human": "What is <Nick> wearing in the image?",
+            "AI": "<Nick> is wearing a green shirt and a blue tie with a pink stripe."
+        },
+        {
+            "Human": "What are <Judy> and <Nick> doing in the image?",
+            "AI": "<Judy> and <Nick> are sitting at a counter, with <Judy> looking excited and <Nick> looking relaxed."
+        }
+    ],
+    "two_concept/multi/Judy_Nick/1.png": [
+        {
+            "Human": "What is <Judy> wearing in the image?",
+            "AI": "<Judy> is wearing a blue uniform with a hat and a reflective vest."
+        },
+        {
+            "Human": "What is <Nick> doing in the image?",
+            "AI": "<Nick> is leaning forward and looking at someone."
+        },
+        {
+            "Human": "What are <Nick> and <Judy> doing in the image?",
+            "AI": "<Nick> is leaning towards <Judy> and looking at her, while <Judy> is standing and looking back at <Nick>."
+        }
+    ],
+    "two_concept/multi/Judy_Nick/2.png": [
+        {
+            "Human": "What is <Judy> wearing in the image?",
+            "AI": "<Judy> is wearing a blue police uniform."
+        },
+        {
+            "Human": "What is <Nick> wearing in the image?",
+            "AI": "<Nick> is wearing a green shirt with a blue and purple striped tie."
+        },
+        {
+            "Human": "What are <Judy> and <Nick> wearing in the image?",
+            "AI": "<Judy> is wearing a blue police uniform, and <Nick> is wearing a green shirt with a purple striped tie and brown pants."
+        }
+    ],
+    "two_concept/multi/Judy_Nick/3.png": [
+        {
+            "Human": "What is <Judy> doing in the image?",
+            "AI": "<Judy> is looking up at the fox next to her with a concerned expression."
+        },
+        {
+            "Human": "What is <Nick> wearing in the image?",
+            "AI": "<Nick> is wearing a green shirt and a blue tie with pink stripes."
+        },
+        {
+            "Human": "What are <Judy> and <Nick> doing in the image?",
+            "AI": "<Judy> and <Nick> are riding on a train, with <Judy> looking at <Nick> while <Nick> appears to be lost in thought."
+        }
+    ],
+    "two_concept/multi/Judy_Nick/4.png": [
+        {
+            "Human": "What is the expression on <Judy>'s face?",
+            "AI": "<Judy> has a serious and slightly annoyed expression on her face."
+        },
+        {
+            "Human": "What is <Nick> holding in the image?",
+            "AI": "<Nick> is holding a small cup in the image."
+        },
+        {
+            "Human": "What are <Nick> and <Judy> doing in the image?",
+            "AI": "<Nick> is holding a cup and looking relaxed, while <Judy> has her arms crossed and looks serious."
+        }
+    ]
+}

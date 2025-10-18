@@ -1,0 +1,418 @@
+{
+    "two_concept/concept/train/Xingkong/0.png": [
+        {
+            "Question": "What is <Xingkong> hair color?",
+            "Answer": "<Xingkong>'s hair color is purple."
+        },
+        {
+            "Question": "What color are <Xingkong> eyes?",
+            "Answer": "<Xingkong>'s eyes are green."
+        },
+        {
+            "Question": "Would you describe <Xingkong>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<Xingkong>'s physique appears slim."
+        },
+        {
+            "Question": "What is <Xingkong> skin tone?",
+            "Answer": "<Xingkong>'s skin tone is fair."
+        },
+        {
+            "Question": "How would you describe <Xingkong> hairstyle?",
+            "Answer": "<Xingkong>'s hairstyle is a short, straight bob with bangs that frame the face."
+        },
+        {
+            "Question": "Does <Xingkong> wear glasses or any accessories?",
+            "Answer": "<Xingkong> does not wear glasses or any accessories."
+        },
+        {
+            "Question": "How would you describe <Xingkong>'s attire?",
+            "Answer": "<Xingkong> is wearing a light green hoodie."
+        },
+        {
+            "Question": "Does <Xingkong> have any distinctive facial features?",
+            "Answer": "<Xingkong> has large, green eyes and short, purple hair."
+        },
+        {
+            "Question": "What is <Xingkong> overall build or physique?",
+            "Answer": "<Xingkong> has a slim and petite build."
+        },
+        {
+            "Question": "What is <Xingkong> general expression or demeanor?",
+            "Answer": "<Xingkong> has a surprised or curious expression, with wide eyes and an open mouth."
+        }
+    ],
+    "two_concept/concept/train/Xingkong/1.png": [
+        {
+            "Question": "What is <Xingkong> hair color?",
+            "Answer": "<Xingkong>'s hair color is purple."
+        },
+        {
+            "Question": "What color are <Xingkong> eyes?",
+            "Answer": "<Xingkong>'s eyes are green."
+        },
+        {
+            "Question": "Would you describe <Xingkong>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<Xingkong>'s physique appears to be slim."
+        },
+        {
+            "Question": "What is <Xingkong> skin tone?",
+            "Answer": "<Xingkong>'s skin tone is light."
+        },
+        {
+            "Question": "How would you describe <Xingkong> hairstyle?",
+            "Answer": "<Xingkong>'s hairstyle is short, straight, and has a neat, slightly layered cut with bangs that partially cover the forehead."
+        },
+        {
+            "Question": "Does <Xingkong> wear glasses or any accessories?",
+            "Answer": "<Xingkong> does not wear glasses or any accessories."
+        },
+        {
+            "Question": "How would you describe <Xingkong>'s attire?",
+            "Answer": "<Xingkong> is wearing a red top."
+        },
+        {
+            "Question": "Does <Xingkong> have any distinctive facial features?",
+            "Answer": "<Xingkong> has large, green eyes and a surprised expression with sweat drops on their face."
+        },
+        {
+            "Question": "What is <Xingkong> overall build or physique?",
+            "Answer": "<Xingkong> has a slim build."
+        },
+        {
+            "Question": "What is <Xingkong> general expression or demeanor?",
+            "Answer": "<Xingkong> has a surprised and anxious expression, with wide eyes and sweat drops on their face."
+        }
+    ],
+    "two_concept/concept/train/Xingkong/2.png": [
+        {
+            "Question": "What is <Xingkong> hair color?",
+            "Answer": "<Xingkong>'s hair color is purple."
+        },
+        {
+            "Question": "What color are <Xingkong> eyes?",
+            "Answer": "<Xingkong>'s eyes are green."
+        },
+        {
+            "Question": "Would you describe <Xingkong>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<Xingkong>'s physique is slim."
+        },
+        {
+            "Question": "What is <Xingkong> skin tone?",
+            "Answer": "<Xingkong>'s skin tone is light."
+        },
+        {
+            "Question": "How would you describe <Xingkong> hairstyle?",
+            "Answer": "<Xingkong>'s hairstyle is short, with straight purple hair and bangs that frame the face."
+        },
+        {
+            "Question": "Does <Xingkong> wear glasses or any accessories?",
+            "Answer": "<Xingkong> does not wear glasses or any accessories."
+        },
+        {
+            "Question": "How would you describe <Xingkong>'s attire?",
+            "Answer": "<Xingkong> is wearing a light green hoodie and dark pants."
+        },
+        {
+            "Question": "Does <Xingkong> have any distinctive facial features?",
+            "Answer": "<Xingkong> has green eyes and short, purple hair."
+        },
+        {
+            "Question": "What is <Xingkong> overall build or physique?",
+            "Answer": "<Xingkong> has a slim and youthful build."
+        },
+        {
+            "Question": "What is <Xingkong> general expression or demeanor?",
+            "Answer": "<Xingkong> has a neutral and relaxed expression while lying on the bed."
+        }
+    ],
+    "two_concept/concept/train/Xingkong/3.png": [
+        {
+            "Question": "What is <Xingkong> hair color?",
+            "Answer": "<Xingkong>'s hair color is purple."
+        },
+        {
+            "Question": "What color are <Xingkong> eyes?",
+            "Answer": "I cannot determine the color of <Xingkong>'s eyes from the image."
+        },
+        {
+            "Question": "Would you describe <Xingkong>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<Xingkong>'s physique appears to be slim."
+        },
+        {
+            "Question": "What is <Xingkong> skin tone?",
+            "Answer": "<Xingkong>'s skin tone is light."
+        },
+        {
+            "Question": "How would you describe <Xingkong> hairstyle?",
+            "Answer": "<Xingkong>'s hairstyle is short and straight, with a light purple color."
+        },
+        {
+            "Question": "Does <Xingkong> wear glasses or any accessories?",
+            "Answer": "<Xingkong> does not appear to be wearing glasses or any accessories."
+        },
+        {
+            "Question": "How would you describe <Xingkong>'s attire?",
+            "Answer": "<Xingkong> is wearing a light-colored long-sleeve shirt with a teal scarf."
+        },
+        {
+            "Question": "Does <Xingkong> have any distinctive facial features?",
+            "Answer": "I cannot determine any distinctive facial features for <Xingkong> based on the provided image."
+        },
+        {
+            "Question": "What is <Xingkong> overall build or physique?",
+            "Answer": "<Xingkong> has a slender build."
+        },
+        {
+            "Question": "What is <Xingkong> general expression or demeanor?",
+            "Answer": "<Xingkong> appears to have a calm and relaxed demeanor."
+        }
+    ],
+    "two_concept/concept/train/Xingkong/4.png": [
+        {
+            "Question": "What is <Xingkong> hair color?",
+            "Answer": "<Xingkong>'s hair color is purple."
+        },
+        {
+            "Question": "What color are <Xingkong> eyes?",
+            "Answer": "<Xingkong>'s eyes are green."
+        },
+        {
+            "Question": "Would you describe <Xingkong>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<Xingkong>'s physique appears to be slim."
+        },
+        {
+            "Question": "What is <Xingkong> skin tone?",
+            "Answer": "<Xingkong>'s skin tone is light."
+        },
+        {
+            "Question": "How would you describe <Xingkong> hairstyle?",
+            "Answer": "<Xingkong>'s hairstyle is a short, straight bob with bangs that frame the face. The hair is purple and neatly styled."
+        },
+        {
+            "Question": "Does <Xingkong> wear glasses or any accessories?",
+            "Answer": "<Xingkong> does not wear glasses or any accessories."
+        },
+        {
+            "Question": "How would you describe <Xingkong>'s attire?",
+            "Answer": "<Xingkong> is wearing a blue school uniform with light blue trim, a white dress shirt, and a maroon tie."
+        },
+        {
+            "Question": "Does <Xingkong> have any distinctive facial features?",
+            "Answer": "<Xingkong> has large, green eyes."
+        },
+        {
+            "Question": "What is <Xingkong> overall build or physique?",
+            "Answer": "<Xingkong> has a slim and youthful build."
+        },
+        {
+            "Question": "What is <Xingkong> general expression or demeanor?",
+            "Answer": "<Xingkong> has a calm and confident expression."
+        }
+    ],
+    "two_concept/concept/train/Xingkong/5.png": [
+        {
+            "Question": "What is <Xingkong> hair color?",
+            "Answer": "<Xingkong>'s hair color is purple."
+        },
+        {
+            "Question": "What color are <Xingkong> eyes?",
+            "Answer": "<Xingkong>'s eyes are green."
+        },
+        {
+            "Question": "Would you describe <Xingkong>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<Xingkong>'s physique appears to be slim."
+        },
+        {
+            "Question": "What is <Xingkong> skin tone?",
+            "Answer": "<Xingkong>'s skin tone is light."
+        },
+        {
+            "Question": "How would you describe <Xingkong> hairstyle?",
+            "Answer": "<Xingkong> has short, straight hair with bangs that partially cover the forehead. The hair is purple in color and neatly styled."
+        },
+        {
+            "Question": "Does <Xingkong> wear glasses or any accessories?",
+            "Answer": "<Xingkong> does not wear glasses or any accessories."
+        },
+        {
+            "Question": "How would you describe <Xingkong>'s attire?",
+            "Answer": "<Xingkong> is wearing a red long-sleeved shirt with a white collar."
+        },
+        {
+            "Question": "Does <Xingkong> have any distinctive facial features?",
+            "Answer": "<Xingkong> has large, green eyes and a small nose."
+        },
+        {
+            "Question": "What is <Xingkong> overall build or physique?",
+            "Answer": "<Xingkong> has a slender and petite build."
+        },
+        {
+            "Question": "What is <Xingkong> general expression or demeanor?",
+            "Answer": "<Xingkong> has a surprised or curious expression, with wide eyes and slightly parted lips."
+        }
+    ],
+    "two_concept/concept/train/Xingkong/6.png": [
+        {
+            "Question": "What is <Xingkong> hair color?",
+            "Answer": "<Xingkong>'s hair color is purple."
+        },
+        {
+            "Question": "What color are <Xingkong> eyes?",
+            "Answer": "I cannot determine the color of <Xingkong>'s eyes from the image."
+        },
+        {
+            "Question": "Would you describe <Xingkong>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<Xingkong>'s physique can be described as slim."
+        },
+        {
+            "Question": "What is <Xingkong> skin tone?",
+            "Answer": "<Xingkong>'s skin tone is light."
+        },
+        {
+            "Question": "How would you describe <Xingkong> hairstyle?",
+            "Answer": "<Xingkong>'s hairstyle is short, straight, and purple, with the hair slightly covering the ears and the back extending to the nape of the neck."
+        },
+        {
+            "Question": "Does <Xingkong> wear glasses or any accessories?",
+            "Answer": "<Xingkong> does not wear glasses or any accessories."
+        },
+        {
+            "Question": "How would you describe <Xingkong>'s attire?",
+            "Answer": "<Xingkong> is wearing a light blue hoodie and dark blue pants."
+        },
+        {
+            "Question": "Does <Xingkong> have any distinctive facial features?",
+            "Answer": "I cannot determine any distinctive facial features of <Xingkong> from the image."
+        },
+        {
+            "Question": "What is <Xingkong> overall build or physique?",
+            "Answer": "<Xingkong> has a slim and average build."
+        },
+        {
+            "Question": "What is <Xingkong> general expression or demeanor?",
+            "Answer": "<Xingkong> appears to be in an energetic and expressive demeanor, holding a piece of paper aloft with one hand while standing in a dynamic pose."
+        }
+    ],
+    "two_concept/concept/train/Xingkong/7.png": [
+        {
+            "Question": "What is <Xingkong> hair color?",
+            "Answer": "<Xingkong>'s hair color is purple."
+        },
+        {
+            "Question": "What color are <Xingkong> eyes?",
+            "Answer": "<Xingkong>'s eyes are green."
+        },
+        {
+            "Question": "Would you describe <Xingkong>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<Xingkong>'s physique appears to be slim."
+        },
+        {
+            "Question": "What is <Xingkong> skin tone?",
+            "Answer": "<Xingkong> has a light skin tone."
+        },
+        {
+            "Question": "How would you describe <Xingkong> hairstyle?",
+            "Answer": "<Xingkong>'s hairstyle is a short, straight bob with bangs that are parted in the middle."
+        },
+        {
+            "Question": "Does <Xingkong> wear glasses or any accessories?",
+            "Answer": "<Xingkong> does not wear glasses or any accessories."
+        },
+        {
+            "Question": "How would you describe <Xingkong>'s attire?",
+            "Answer": "<Xingkong> is wearing a blue school uniform with a white shirt and a red tie."
+        },
+        {
+            "Question": "Does <Xingkong> have any distinctive facial features?",
+            "Answer": "<Xingkong> has large, bright green eyes."
+        },
+        {
+            "Question": "What is <Xingkong> overall build or physique?",
+            "Answer": "<Xingkong> has a slender and petite build."
+        },
+        {
+            "Question": "What is <Xingkong> general expression or demeanor?",
+            "Answer": "<Xingkong> has a neutral and calm expression."
+        }
+    ],
+    "two_concept/concept/train/Xingkong/8.png": [
+        {
+            "Question": "What is <Xingkong> hair color?",
+            "Answer": "<Xingkong>'s hair color is purple."
+        },
+        {
+            "Question": "What color are <Xingkong> eyes?",
+            "Answer": "<Xingkong>'s eyes are closed in the image."
+        },
+        {
+            "Question": "Would you describe <Xingkong>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<Xingkong>'s physique appears to be slim."
+        },
+        {
+            "Question": "How would you describe <Xingkong> hairstyle?",
+            "Answer": "<Xingkong>'s hairstyle is short with straight bangs that partially cover the forehead."
+        },
+        {
+            "Question": "Does <Xingkong> wear glasses or any accessories?",
+            "Answer": "<Xingkong> does not wear glasses or any accessories."
+        },
+        {
+            "Question": "How would you describe <Xingkong>'s attire?",
+            "Answer": "<Xingkong> is wearing a green hoodie."
+        },
+        {
+            "Question": "Does <Xingkong> have any distinctive facial features?",
+            "Answer": "<Xingkong> has a distinctive expression with furrowed brows and a clenched mouth, indicating frustration or anger."
+        },
+        {
+            "Question": "What is <Xingkong> overall build or physique?",
+            "Answer": "<Xingkong> has a slim build."
+        },
+        {
+            "Question": "What is <Xingkong> general expression or demeanor?",
+            "Answer": "<Xingkong> has an angry or frustrated expression."
+        }
+    ],
+    "two_concept/concept/train/Xingkong/9.png": [
+        {
+            "Question": "What is <Xingkong> hair color?",
+            "Answer": "<Xingkong>'s hair color is light gray."
+        },
+        {
+            "Question": "What color are <Xingkong> eyes?",
+            "Answer": "<Xingkong>'s eyes are green."
+        },
+        {
+            "Question": "Would you describe <Xingkong>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<Xingkong>'s physique appears slim."
+        },
+        {
+            "Question": "What is <Xingkong> skin tone?",
+            "Answer": "<Xingkong>'s skin tone is light."
+        },
+        {
+            "Question": "How would you describe <Xingkong> hairstyle?",
+            "Answer": "<Xingkong>'s hairstyle is short, straight, and neatly cut, with bangs that partially cover the forehead."
+        },
+        {
+            "Question": "Does <Xingkong> wear glasses or any accessories?",
+            "Answer": "<Xingkong> does not wear glasses or any accessories."
+        },
+        {
+            "Question": "How would you describe <Xingkong>'s attire?",
+            "Answer": "<Xingkong> is wearing a blue suit jacket, a white dress shirt, and a red tie."
+        },
+        {
+            "Question": "Does <Xingkong> have any distinctive facial features?",
+            "Answer": "<Xingkong> has a distinctive red mark running vertically down the right side of their face."
+        },
+        {
+            "Question": "What is <Xingkong> overall build or physique?",
+            "Answer": "<Xingkong> has a slender and youthful build."
+        },
+        {
+            "Question": "What is <Xingkong> general expression or demeanor?",
+            "Answer": "<Xingkong> has a surprised or shocked expression, with wide eyes and a slightly open mouth."
+        }
+    ]
+}

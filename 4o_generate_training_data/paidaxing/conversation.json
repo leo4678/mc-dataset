@@ -1,0 +1,422 @@
+{
+    "three_concept/concept/train/paidaxing/0.png": [
+        {
+            "Question": "What is <paidaxing> hair color?",
+            "Answer": "<paidaxing> does not have any hair."
+        },
+        {
+            "Question": "What color are <paidaxing> eyes?",
+            "Answer": "<paidaxing>'s eyes are white with black pupils."
+        },
+        {
+            "Question": "Would you describe <paidaxing>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<paidaxing>'s physique is otherwise; it is round and not athletic or slim."
+        },
+        {
+            "Question": "What is <paidaxing> skin tone?",
+            "Answer": "The skin tone of <paidaxing> is pink."
+        },
+        {
+            "Question": "How would you describe <paidaxing> hairstyle?",
+            "Answer": "<paidaxing> doesn't have any hair."
+        },
+        {
+            "Question": "Does <paidaxing> wear glasses or any accessories?",
+            "Answer": "No, <paidaxing> is not wearing glasses or any accessories."
+        },
+        {
+            "Question": "How would you describe <paidaxing>'s attire?",
+            "Answer": "<paidaxing> is wearing green shorts with purple floral patterns."
+        },
+        {
+            "Question": "Does <paidaxing> have any distinctive facial features?",
+            "Answer": "<paidaxing> has large, round eyes and a wide, smiling mouth."
+        },
+        {
+            "Question": "What is <paidaxing> overall build or physique?",
+            "Answer": "`<paidaxing>` has a round and chubby physique."
+        },
+        {
+            "Question": "What is <paidaxing> general expression or demeanor?",
+            "Answer": "<paidaxing> has a happy and excited expression."
+        }
+    ],
+    "three_concept/concept/train/paidaxing/1.png": [
+        {
+            "Question": "What is <paidaxing> hair color?",
+            "Answer": "<paidaxing> does not have any hair."
+        },
+        {
+            "Question": "What color are <paidaxing> eyes?",
+            "Answer": "<paidaxing>'s eyes are black and white."
+        },
+        {
+            "Question": "Would you describe <paidaxing>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<paidaxing>'s physique is round and not athletic or slim."
+        },
+        {
+            "Question": "What is <paidaxing> skin tone?",
+            "Answer": "The skin tone of <paidaxing> is pink."
+        },
+        {
+            "Question": "How would you describe <paidaxing> hairstyle?",
+            "Answer": "I can't identify the hairstyle of <paidaxing> in the image."
+        },
+        {
+            "Question": "Does <paidaxing> wear glasses or any accessories?",
+            "Answer": "<paidaxing> is not wearing glasses or any accessories."
+        },
+        {
+            "Question": "How would you describe <paidaxing>'s attire?",
+            "Answer": "<paidaxing> is not wearing any attire."
+        },
+        {
+            "Question": "Does <paidaxing> have any distinctive facial features?",
+            "Answer": "<paidaxing> has large, round eyes and a wide smile."
+        },
+        {
+            "Question": "What is <paidaxing> overall build or physique?",
+            "Answer": "The overall build of <paidaxing> is round and star-shaped."
+        },
+        {
+            "Question": "What is <paidaxing> general expression or demeanor?",
+            "Answer": "<paidaxing> has a cheerful and content expression."
+        }
+    ],
+    "three_concept/concept/train/paidaxing/2.png": [
+        {
+            "Question": "What is <paidaxing> hair color?",
+            "Answer": "<paidaxing> does not have any hair."
+        },
+        {
+            "Question": "What color are <paidaxing> eyes?",
+            "Answer": "<paidaxing>'s eyes are black and white."
+        },
+        {
+            "Question": "Would you describe <paidaxing>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<paidaxing>'s physique is best described as stocky."
+        },
+        {
+            "Question": "What is <paidaxing> skin tone?",
+            "Answer": "The skin tone of <paidaxing> is pink."
+        },
+        {
+            "Question": "How would you describe <paidaxing> hairstyle?",
+            "Answer": "<paidaxing> has no hair."
+        },
+        {
+            "Question": "Does <paidaxing> wear glasses or any accessories?",
+            "Answer": "<paidaxing> is not wearing glasses or any accessories."
+        },
+        {
+            "Question": "How would you describe <paidaxing>'s attire?",
+            "Answer": "<paidaxing> is wearing green shorts with purple floral patterns."
+        },
+        {
+            "Question": "Does <paidaxing> have any distinctive facial features?",
+            "Answer": "<paidaxing> has a wide smile and large, round eyes."
+        },
+        {
+            "Question": "What is <paidaxing> overall build or physique?",
+            "Answer": "The overall build or physique of <paidaxing> is round and stocky."
+        },
+        {
+            "Question": "What is <paidaxing> general expression or demeanor?",
+            "Answer": "<paidaxing> has a cheerful and happy expression."
+        }
+    ],
+    "three_concept/concept/train/paidaxing/3.png": [
+        {
+            "Question": "What is <paidaxing> hair color?",
+            "Answer": "I can't determine the hair color of <paidaxing> from this image."
+        },
+        {
+            "Question": "What color are <paidaxing> eyes?",
+            "Answer": "<paidaxing>'s eyes are white with black pupils."
+        },
+        {
+            "Question": "Would you describe <paidaxing>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<paidaxing>'s physique is round and not athletic or slim."
+        },
+        {
+            "Question": "What is <paidaxing> skin tone?",
+            "Answer": "<paidaxing>'s skin tone is pink."
+        },
+        {
+            "Question": "How would you describe <paidaxing> hairstyle?",
+            "Answer": "The character <paidaxing> is bald."
+        },
+        {
+            "Question": "Does <paidaxing> wear glasses or any accessories?",
+            "Answer": "No, <paidaxing> does not wear glasses or any accessories."
+        },
+        {
+            "Question": "How would you describe <paidaxing>'s attire?",
+            "Answer": "<paidaxing> is wearing green shorts with purple flower patterns."
+        },
+        {
+            "Question": "Does <paidaxing> have any distinctive facial features?",
+            "Answer": "<paidaxing> has large, round eyes and a wide, open mouth with a big smile."
+        },
+        {
+            "Question": "What is <paidaxing> overall build or physique?",
+            "Answer": "The overall build or physique of <paidaxing> is round and chubby."
+        },
+        {
+            "Question": "What is <paidaxing> general expression or demeanor?",
+            "Answer": "<paidaxing> has a joyful and excited expression."
+        }
+    ],
+    "three_concept/concept/train/paidaxing/4.png": [
+        {
+            "Question": "What is <paidaxing> hair color?",
+            "Answer": "<paidaxing> does not have any hair."
+        },
+        {
+            "Question": "What color are <paidaxing> eyes?",
+            "Answer": "<paidaxing>'s eyes are black and white."
+        },
+        {
+            "Question": "Would you describe <paidaxing>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<paidaxing>'s physique is not athletic or slim; it is more rounded and stocky."
+        },
+        {
+            "Question": "What is <paidaxing> skin tone?",
+            "Answer": "The skin tone of <paidaxing> is pink."
+        },
+        {
+            "Question": "How would you describe <paidaxing> hairstyle?",
+            "Answer": "<paidaxing> doesn't have any hair."
+        },
+        {
+            "Question": "Does <paidaxing> wear glasses or any accessories?",
+            "Answer": "<paidaxing> is not wearing glasses or any accessories."
+        },
+        {
+            "Question": "How would you describe <paidaxing>'s attire?",
+            "Answer": "<paidaxing> is wearing green shorts with a purple floral pattern."
+        },
+        {
+            "Question": "Does <paidaxing> have any distinctive facial features?",
+            "Answer": "I can't identify or describe any distinctive facial features of <paidaxing>."
+        },
+        {
+            "Question": "What is <paidaxing> overall build or physique?",
+            "Answer": "<paidaxing> has a round and chubby physique."
+        },
+        {
+            "Question": "What is <paidaxing> general expression or demeanor?",
+            "Answer": "<paidaxing> has a cheerful and friendly expression."
+        }
+    ],
+    "three_concept/concept/train/paidaxing/5.png": [
+        {
+            "Question": "What is <paidaxing> hair color?",
+            "Answer": "<paidaxing> does not have any hair."
+        },
+        {
+            "Question": "What color are <paidaxing> eyes?",
+            "Answer": "<paidaxing>'s eyes are white with black pupils."
+        },
+        {
+            "Question": "Would you describe <paidaxing>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<paidaxing>'s physique is not athletic or slim; it is more rounded and stocky."
+        },
+        {
+            "Question": "What is <paidaxing> skin tone?",
+            "Answer": "The skin tone of <paidaxing> is pink."
+        },
+        {
+            "Question": "How would you describe <paidaxing> hairstyle?",
+            "Answer": "<paidaxing> has no hair."
+        },
+        {
+            "Question": "Does <paidaxing> wear glasses or any accessories?",
+            "Answer": "<paidaxing> is not wearing glasses or any accessories."
+        },
+        {
+            "Question": "How would you describe <paidaxing>'s attire?",
+            "Answer": "<paidaxing> is wearing green shorts with purple floral patterns."
+        },
+        {
+            "Question": "Does <paidaxing> have any distinctive facial features?",
+            "Answer": "<paidaxing> has large, round eyes and a wide, open mouth."
+        },
+        {
+            "Question": "What is <paidaxing> overall build or physique?",
+            "Answer": "<paidaxing> has a round and chubby physique."
+        },
+        {
+            "Question": "What is <paidaxing> general expression or demeanor?",
+            "Answer": "<paidaxing> has a happy and cheerful expression."
+        }
+    ],
+    "three_concept/concept/train/paidaxing/6.png": [
+        {
+            "Question": "What is <paidaxing> hair color?",
+            "Answer": "<paidaxing> does not have any hair."
+        },
+        {
+            "Question": "What color are <paidaxing> eyes?",
+            "Answer": "<paidaxing>'s eyes are white with black pupils."
+        },
+        {
+            "Question": "Would you describe <paidaxing>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<paidaxing>'s physique is best described as round."
+        },
+        {
+            "Question": "What is <paidaxing> skin tone?",
+            "Answer": "The skin tone of <paidaxing> is pink."
+        },
+        {
+            "Question": "How would you describe <paidaxing> hairstyle?",
+            "Answer": "<paidaxing> doesn't have any hair."
+        },
+        {
+            "Question": "Does <paidaxing> wear glasses or any accessories?",
+            "Answer": "No, <paidaxing> is not wearing glasses or any accessories."
+        },
+        {
+            "Question": "How would you describe <paidaxing>'s attire?",
+            "Answer": "<paidaxing> is wearing green shorts with purple floral patterns."
+        },
+        {
+            "Question": "Does <paidaxing> have any distinctive facial features?",
+            "Answer": "<paidaxing> has large, round eyes and a wide, toothy smile."
+        },
+        {
+            "Question": "What is <paidaxing> overall build or physique?",
+            "Answer": "<paidaxing> has a round and chubby physique."
+        },
+        {
+            "Question": "What is <paidaxing> general expression or demeanor?",
+            "Answer": "<paidaxing> has a happy and excited expression."
+        }
+    ],
+    "three_concept/concept/train/paidaxing/7.png": [
+        {
+            "Question": "What is <paidaxing> hair color?",
+            "Answer": "<paidaxing> does not have any hair."
+        },
+        {
+            "Question": "What color are <paidaxing> eyes?",
+            "Answer": "<paidaxing>'s eyes are white with black pupils."
+        },
+        {
+            "Question": "Would you describe <paidaxing>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<paidaxing>'s physique is otherwise, appearing round and not athletic or slim."
+        },
+        {
+            "Question": "What is <paidaxing> skin tone?",
+            "Answer": "The character <paidaxing> has a pink skin tone."
+        },
+        {
+            "Question": "How would you describe <paidaxing> hairstyle?",
+            "Answer": "<paidaxing> is bald."
+        },
+        {
+            "Question": "Does <paidaxing> wear glasses or any accessories?",
+            "Answer": "<paidaxing> is not wearing glasses or any accessories."
+        },
+        {
+            "Question": "How would you describe <paidaxing>'s attire?",
+            "Answer": "<paidaxing> is wearing green shorts with purple flower patterns."
+        },
+        {
+            "Question": "Does <paidaxing> have any distinctive facial features?",
+            "Answer": "<paidaxing> has large, wide eyes and a big, open mouth with a prominent smile."
+        },
+        {
+            "Question": "What is <paidaxing> overall build or physique?",
+            "Answer": "The character has a round and chubby physique."
+        },
+        {
+            "Question": "What is <paidaxing> general expression or demeanor?",
+            "Answer": "<paidaxing> has a joyful and excited expression."
+        }
+    ],
+    "three_concept/concept/train/paidaxing/8.png": [
+        {
+            "Question": "What is <paidaxing> hair color?",
+            "Answer": "<paidaxing> does not have any hair."
+        },
+        {
+            "Question": "What color are <paidaxing> eyes?",
+            "Answer": "<paidaxing>'s eyes are white with black pupils."
+        },
+        {
+            "Question": "Would you describe <paidaxing>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<paidaxing>'s physique is not athletic or slim; it is more rounded and relaxed."
+        },
+        {
+            "Question": "What is <paidaxing> skin tone?",
+            "Answer": "The skin tone of <paidaxing> is pink."
+        },
+        {
+            "Question": "How would you describe <paidaxing> hairstyle?",
+            "Answer": "I can't identify the hairstyle of <paidaxing> in the image."
+        },
+        {
+            "Question": "Does <paidaxing> wear glasses or any accessories?",
+            "Answer": "<paidaxing> is not wearing glasses but is holding a drink with a straw."
+        },
+        {
+            "Question": "How would you describe <paidaxing>'s attire?",
+            "Answer": "\\<paidaxing> is wearing green shorts with purple floral patterns."
+        },
+        {
+            "Question": "Does <paidaxing> have any distinctive facial features?",
+            "Answer": "Yes, <paidaxing> has distinctive thick eyebrows and a relaxed expression."
+        },
+        {
+            "Question": "What is <paidaxing> overall build or physique?",
+            "Answer": "\"<paidaxing> has a round and plump physique.\""
+        },
+        {
+            "Question": "What is <paidaxing> general expression or demeanor?",
+            "Answer": "<paidaxing> has a relaxed and laid-back demeanor."
+        }
+    ],
+    "three_concept/concept/train/paidaxing/9.png": [
+        {
+            "Question": "What is <paidaxing> hair color?",
+            "Answer": "<paidaxing> does not have any hair."
+        },
+        {
+            "Question": "What color are <paidaxing> eyes?",
+            "Answer": "<paidaxing>'s eyes are white with black pupils."
+        },
+        {
+            "Question": "Would you describe <paidaxing>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<paidaxing>'s physique is not athletic or slim; it is more rounded and stocky."
+        },
+        {
+            "Question": "What is <paidaxing> skin tone?",
+            "Answer": "<paidaxing>'s skin tone is pink."
+        },
+        {
+            "Question": "How would you describe <paidaxing> hairstyle?",
+            "Answer": "<paidaxing> doesn't have any hair."
+        },
+        {
+            "Question": "Does <paidaxing> wear glasses or any accessories?",
+            "Answer": "No, <paidaxing> is not wearing glasses or any accessories."
+        },
+        {
+            "Question": "How would you describe <paidaxing>'s attire?",
+            "Answer": "<paidaxing> is wearing green shorts with purple flower patterns."
+        },
+        {
+            "Question": "Does <paidaxing> have any distinctive facial features?",
+            "Answer": "Yes, <paidaxing> has large, starry eyes and a wide smile."
+        },
+        {
+            "Question": "What is <paidaxing> overall build or physique?",
+            "Answer": "<paidaxing> has a round and chubby physique."
+        },
+        {
+            "Question": "What is <paidaxing> general expression or demeanor?",
+            "Answer": "<paidaxing> has a cheerful and excited expression."
+        }
+    ]
+}

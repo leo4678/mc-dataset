@@ -1,0 +1,22 @@
+[
+    {
+        "question": "Are both <xiaoxiong> and <xiaozhu> animals or humans? A. Animals. B. Humans",
+        "answer": "A"
+    },
+    {
+        "question": "What are the primary colors of <xiaoxiong> and <xiaozhu> respectively? A. Yellow, Pink. B. Pink, Yellow",
+        "answer": "A"
+    },
+    {
+        "question": "What type of clothing does <xiaoxiong> and <xiaozhu> often wear? A. Red shirt, Striped outfit. B. Striped outfit, Red shirt",
+        "answer": "A"
+    },
+    {
+        "question": "Do <xiaoxiong> and <xiaozhu> have similar body shapes? A. Yes. B. No",
+        "answer": "B"
+    },
+    {
+        "question": "What is the main activity <xiaoxiong> and <xiaozhu> are often seen doing? A. Eating honey, Holding a flower. B. Holding a flower, Eating honey",
+        "answer": "A"
+    }
+]

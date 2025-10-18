@@ -1,0 +1,22 @@
+{
+    "two_concept/concept/test/Watson/0.png": {
+        "Human": "What color is <Watson>'s hair in the image?",
+        "AI": "<Watson>'s hair is gray."
+    },
+    "two_concept/concept/test/Watson/1.png": {
+        "Human": "What color is <Watson>'s hair in the image?",
+        "AI": "<Watson>'s hair is light brown."
+    },
+    "two_concept/concept/test/Watson/2.png": {
+        "Human": "What color is <Watson>'s hair in the image?",
+        "AI": "<Watson>'s hair is gray."
+    },
+    "two_concept/concept/test/Watson/3.png": {
+        "Human": "What is <Watson> wearing around his neck in the image?",
+        "AI": "<Watson> is wearing a red collared shirt around his neck in the image."
+    },
+    "two_concept/concept/test/Watson/4.png": {
+        "Human": "What type of hat is <Watson> wearing in the image?",
+        "AI": "<Watson> is wearing a brown bowler hat in the image."
+    }
+}

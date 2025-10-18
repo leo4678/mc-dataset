@@ -1,0 +1,22 @@
+{
+    "two_concept/concept/test/mingren/0.png": {
+        "Human": "What is the expression on <mingren>'s face in the image?",
+        "AI": "<mingren> has a joyful and wide smile on his face in the image."
+    },
+    "two_concept/concept/test/mingren/1.png": {
+        "Human": "What is the color of <mingren>'s hair in the image?",
+        "AI": "<mingren> has yellow hair in the image."
+    },
+    "two_concept/concept/test/mingren/2.png": {
+        "Human": "What is the color of <mingren>'s hair in the image?",
+        "AI": "<mingren> has yellow hair in the image."
+    },
+    "two_concept/concept/test/mingren/3.png": {
+        "Human": "What is the color of <mingren>'s hair in the image?",
+        "AI": "<mingren> has yellow hair in the image."
+    },
+    "two_concept/concept/test/mingren/4.png": {
+        "Human": "What is the expression on <mingren>'s face in the image?",
+        "AI": "<mingren> has a cheerful and smiling expression on his face in the image."
+    }
+}

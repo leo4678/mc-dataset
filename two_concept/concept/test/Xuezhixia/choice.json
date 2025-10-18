@@ -1,0 +1,22 @@
+{
+    "two_concept/concept/test/Xuezhixia/0.png": {
+        "Human": "What color is <Xuezhixia>'s necktie?  A. Blue; B. Red; C. Green;",
+        "AI": "B"
+    },
+    "two_concept/concept/test/Xuezhixia/1.png": {
+        "Human": "What is <Xuezhixia> wearing around the neck?  A. A red ribbon; B. A black tie;",
+        "AI": "A"
+    },
+    "two_concept/concept/test/Xuezhixia/2.png": {
+        "Human": "What accessory is <Xuezhixia> wearing in her hair?  A. A red headband; B. Red hair ties; C. A blue ribbon;",
+        "AI": "B"
+    },
+    "two_concept/concept/test/Xuezhixia/3.png": {
+        "Human": "What is the color of <Xuezhixia>'s dress?  A. Purple; B. Blue;",
+        "AI": "A"
+    },
+    "two_concept/concept/test/Xuezhixia/4.png": {
+        "Human": "What is the expression on <Xuezhixia>'s face?  A. Happy; B. Sad; C. Serious;",
+        "AI": "C"
+    }
+}

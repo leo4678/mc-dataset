@@ -1,0 +1,22 @@
+{
+    "three_concept/concept/test/paidaxing/0.png": {
+        "Human": "What color are <paidaxing>'s shorts? A. Green with purple flowers; B. Blue with yellow stripes; C. Red with white dots;",
+        "AI": "A"
+    },
+    "three_concept/concept/test/paidaxing/1.png": {
+        "Human": "What is <paidaxing> carrying on his back? A. A backpack; B. A surfboard; C. A treasure chest;",
+        "AI": "A"
+    },
+    "three_concept/concept/test/paidaxing/2.png": {
+        "Human": "What is <paidaxing> doing in the image? A. Climbing a rope; B. Riding a bicycle; C. Swimming;",
+        "AI": "A"
+    },
+    "three_concept/concept/test/paidaxing/3.png": {
+        "Human": "What is <paidaxing> doing in the image? A. Eating a burger; B. Drinking a slushie; C. Sleeping;",
+        "AI": "B"
+    },
+    "three_concept/concept/test/paidaxing/4.png": {
+        "Human": "What color are <paidaxing>'s shorts? A. Green; B. Blue; C. Yellow;",
+        "AI": "A"
+    }
+}

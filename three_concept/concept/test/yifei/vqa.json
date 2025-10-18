@@ -1,0 +1,22 @@
+{
+    "three_concept/concept/test/yifei/0.png": {
+        "Human": "What color is the shirt that <yifei> is wearing?",
+        "AI": "<yifei> is wearing a red shirt."
+    },
+    "three_concept/concept/test/yifei/1.png": {
+        "Human": "What type of clothing is <yifei> wearing in the image?",
+        "AI": "<yifei> is wearing a white jacket with black stripes."
+    },
+    "three_concept/concept/test/yifei/2.png": {
+        "Human": "What type of hairstyle does <yifei> have in the image?",
+        "AI": "<yifei> has a ponytail hairstyle in the image."
+    },
+    "three_concept/concept/test/yifei/3.png": {
+        "Human": "What type of clothing is <yifei> wearing in the image?",
+        "AI": "<yifei> is wearing a sheer white shirt with floral embroidery over a graphic t-shirt."
+    },
+    "three_concept/concept/test/yifei/4.png": {
+        "Human": "What is <yifei> wearing in the image?",
+        "AI": "<yifei> is wearing a navy and white striped shirt and red earrings."
+    }
+}

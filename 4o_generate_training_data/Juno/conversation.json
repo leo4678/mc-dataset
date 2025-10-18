@@ -1,0 +1,422 @@
+{
+    "three_concept/three_concept/concept/train/Juno/0.png": [
+        {
+            "Question": "What color is <Juno>?",
+            "Answer": "<Juno> is yellow with a red band."
+        },
+        {
+            "Question": "What shape does <Juno> have?",
+            "Answer": "<Juno> has a round shape with a wide brim."
+        },
+        {
+            "Question": "What is the overall vibe of <Juno>?",
+            "Answer": "The overall vibe of <Juno> is playful and adventurous, typical of anime style."
+        },
+        {
+            "Question": "What material is <Juno> made of?",
+            "Answer": "<Juno> is made of straw."
+        },
+        {
+            "Question": "What size is this <Juno>?",
+            "Answer": "The size of <Juno> appears to be medium, covering the top portion of the head in the image."
+        },
+        {
+            "Question": "Does <Juno> have any patterns or markings?",
+            "Answer": "<Juno> does not have any patterns or markings; it is a plain yellow straw hat with a red band."
+        },
+        {
+            "Question": "What type of <Juno> is this subject?",
+            "Answer": "<Juno> is a yellow straw hat with a red band, in an anime style."
+        },
+        {
+            "Question": "Does <Juno> have any distinctive features or details?",
+            "Answer": "<Juno> has a distinctive red band around it."
+        },
+        {
+            "Question": "What's <Juno> general texture like?",
+            "Answer": "<Juno> has a smooth texture typical of a straw hat."
+        },
+        {
+            "Question": "How would you describe <Juno> overall appearance?",
+            "Answer": "<Juno> is a yellow straw hat with a red band, featuring a simple and classic anime style."
+        }
+    ],
+    "three_concept/three_concept/concept/train/Juno/1.png": [
+        {
+            "Question": "What color is <Juno>?",
+            "Answer": "<Juno> is yellow with a red band."
+        },
+        {
+            "Question": "What shape does <Juno> have?",
+            "Answer": "<Juno> has a round shape with a flat top and a wide brim."
+        },
+        {
+            "Question": "What is the overall vibe of <Juno>?",
+            "Answer": "<Juno> has a casual and adventurous vibe, typical of a classic anime style straw hat."
+        },
+        {
+            "Question": "What material is <Juno> made of?",
+            "Answer": "<Juno> is made of straw."
+        },
+        {
+            "Question": "What size is this <Juno>?",
+            "Answer": "<Juno> is a medium-sized straw hat."
+        },
+        {
+            "Question": "Does <Juno> have any patterns or markings?",
+            "Answer": "<Juno> has a red band around it."
+        },
+        {
+            "Question": "What type of <Juno> is this subject?",
+            "Answer": "<Juno> is a wide-brimmed yellow straw hat with a red band."
+        },
+        {
+            "Question": "Does <Juno> have any distinctive features or details?",
+            "Answer": "<Juno> has a red band around it, which is a distinctive feature."
+        },
+        {
+            "Question": "What's <Juno> general texture like?",
+            "Answer": "<Juno> has a smooth and slightly glossy texture typical of a straw hat."
+        },
+        {
+            "Question": "How would you describe <Juno> overall appearance?",
+            "Answer": "<Juno> is a yellow straw hat with a red band, featuring an anime style."
+        }
+    ],
+    "three_concept/three_concept/concept/train/Juno/2.png": [
+        {
+            "Question": "What color is <Juno>?",
+            "Answer": "<Juno> is yellow."
+        },
+        {
+            "Question": "What shape does <Juno> have?",
+            "Answer": "<Juno> has a round shape with a slightly floppy brim."
+        },
+        {
+            "Question": "What is the overall vibe of <Juno>?",
+            "Answer": "The overall vibe of <Juno> is casual and adventurous, typical of an anime style yellow straw hat."
+        },
+        {
+            "Question": "What material is <Juno> made of?",
+            "Answer": "<Juno> is made of straw."
+        },
+        {
+            "Question": "What size is this <Juno>?",
+            "Answer": "The size of <Juno> is medium, covering the top of the head and extending slightly over the forehead."
+        },
+        {
+            "Question": "Does <Juno> have any patterns or markings?",
+            "Answer": "<Juno> has a red band around it but no other distinct patterns or markings."
+        },
+        {
+            "Question": "What type of <Juno> is this subject?",
+            "Answer": "<Juno> is a yellow straw hat with a red band, typical of anime style."
+        },
+        {
+            "Question": "Does <Juno> have any distinctive features or details?",
+            "Answer": "<Juno> has a red band around it and a slightly frayed brim."
+        },
+        {
+            "Question": "What's <Juno> general texture like?",
+            "Answer": "<Juno> has a rough, woven texture typical of a straw hat."
+        },
+        {
+            "Question": "How would you describe <Juno> overall appearance?",
+            "Answer": "<Juno> is a yellow straw hat with a red band, featuring a slightly worn and rugged look typical of anime style."
+        }
+    ],
+    "three_concept/three_concept/concept/train/Juno/3.png": [
+        {
+            "Question": "What color is <Juno>?",
+            "Answer": "<Juno> is yellow with a red band."
+        },
+        {
+            "Question": "What shape does <Juno> have?",
+            "Answer": "<Juno> has a round shape with a wide brim."
+        },
+        {
+            "Question": "What is the overall vibe of <Juno>?",
+            "Answer": "The overall vibe of <Juno> is casual and adventurous, typical of a classic anime straw hat."
+        },
+        {
+            "Question": "What material is <Juno> made of?",
+            "Answer": "<Juno> is made of straw."
+        },
+        {
+            "Question": "What size is this <Juno>?",
+            "Answer": "<Juno> is a medium-sized straw hat."
+        },
+        {
+            "Question": "Does <Juno> have any patterns or markings?",
+            "Answer": "<Juno> has simple line markings that resemble straw texture."
+        },
+        {
+            "Question": "What type of <Juno> is this subject?",
+            "Answer": "<Juno> is a wide-brimmed yellow straw hat with a red band."
+        },
+        {
+            "Question": "Does <Juno> have any distinctive features or details?",
+            "Answer": "<Juno> has a distinctive red band around it."
+        },
+        {
+            "Question": "What's <Juno> general texture like?",
+            "Answer": "<Juno> has a rough, straw-like texture."
+        },
+        {
+            "Question": "How would you describe <Juno> overall appearance?",
+            "Answer": "<Juno> is a yellow straw hat with a wide brim and a red band around the crown."
+        }
+    ],
+    "three_concept/three_concept/concept/train/Juno/4.png": [
+        {
+            "Question": "What color is <Juno>?",
+            "Answer": "<Juno> is yellow."
+        },
+        {
+            "Question": "What shape does <Juno> have?",
+            "Answer": "<Juno> has a round shape with a wide brim."
+        },
+        {
+            "Question": "What is the overall vibe of <Juno>?",
+            "Answer": "The overall vibe of <Juno> is cheerful and adventurous, typical of a classic anime straw hat."
+        },
+        {
+            "Question": "What material is <Juno> made of?",
+            "Answer": "<Juno> is made of straw."
+        },
+        {
+            "Question": "What size is this <Juno>?",
+            "Answer": "<Juno> is a large straw hat that covers the top of the head and extends outward."
+        },
+        {
+            "Question": "Does <Juno> have any patterns or markings?",
+            "Answer": "<Juno> has a red band around it and some line patterns on the brim."
+        },
+        {
+            "Question": "What type of <Juno> is this subject?",
+            "Answer": "<Juno> is a wide-brimmed yellow straw hat with a red band."
+        },
+        {
+            "Question": "Does <Juno> have any distinctive features or details?",
+            "Answer": "<Juno> has a red band around it and a slightly curved brim."
+        },
+        {
+            "Question": "What's <Juno> general texture like?",
+            "Answer": "<Juno> has a smooth texture with visible straw patterns."
+        },
+        {
+            "Question": "How would you describe <Juno> overall appearance?",
+            "Answer": "<Juno> is a yellow straw hat with a red band, featuring an anime style."
+        }
+    ],
+    "three_concept/three_concept/concept/train/Juno/5.png": [
+        {
+            "Question": "What color is <Juno>?",
+            "Answer": "<Juno> is yellow."
+        },
+        {
+            "Question": "What shape does <Juno> have?",
+            "Answer": "<Juno> has a round, dome-like shape."
+        },
+        {
+            "Question": "What is the overall vibe of <Juno>?",
+            "Answer": "The overall vibe of <Juno> is playful and adventurous, with a touch of whimsy due to the snow covering it."
+        },
+        {
+            "Question": "What material is <Juno> made of?",
+            "Answer": "<Juno> is made of straw."
+        },
+        {
+            "Question": "What size is this <Juno>?",
+            "Answer": "<Juno> is a medium-sized straw hat."
+        },
+        {
+            "Question": "Does <Juno> have any patterns or markings?",
+            "Answer": "<Juno> has a simple design with no distinct patterns or markings, but it does have a small white patch on the side."
+        },
+        {
+            "Question": "What type of <Juno> is this subject?",
+            "Answer": "<Juno> is a yellow straw hat covered with snow."
+        },
+        {
+            "Question": "Does <Juno> have any distinctive features or details?",
+            "Answer": "<Juno> has a distinctive feature of being covered in snow, with a small piece of paper or tag attached to it."
+        },
+        {
+            "Question": "What's <Juno> general texture like?",
+            "Answer": "<Juno> has a smooth texture with a layer of snow on top."
+        },
+        {
+            "Question": "How would you describe <Juno> overall appearance?",
+            "Answer": "<Juno> is a yellow straw hat covered with snow, featuring a simple design with a red band around it."
+        }
+    ],
+    "three_concept/three_concept/concept/train/Juno/6.png": [
+        {
+            "Question": "What color is <Juno>?",
+            "Answer": "<Juno> is yellow with a red band."
+        },
+        {
+            "Question": "What shape does <Juno> have?",
+            "Answer": "<Juno> has a round shape with a wide brim."
+        },
+        {
+            "Question": "What is the overall vibe of <Juno>?",
+            "Answer": "The overall vibe of <Juno> is playful and adventurous, typical of an anime style yellow straw hat."
+        },
+        {
+            "Question": "What material is <Juno> made of?",
+            "Answer": "<Juno> is made of straw."
+        },
+        {
+            "Question": "What size is this <Juno>?",
+            "Answer": "The size of <Juno> is not explicitly clear from the image, but it appears to be a standard-sized straw hat suitable for wearing."
+        },
+        {
+            "Question": "Does <Juno> have any patterns or markings?",
+            "Answer": "<Juno> has black stitch-like markings on it."
+        },
+        {
+            "Question": "What type of <Juno> is this subject?",
+            "Answer": "<Juno> is a yellow straw hat with a red band and patchwork details, in an anime style."
+        },
+        {
+            "Question": "Does <Juno> have any distinctive features or details?",
+            "Answer": "<Juno> has a red band around it and several black stitch-like markings on the yellow straw surface."
+        },
+        {
+            "Question": "What's <Juno> general texture like?",
+            "Answer": "<Juno> has a smooth texture with visible patchwork details."
+        },
+        {
+            "Question": "How would you describe <Juno> overall appearance?",
+            "Answer": "<Juno> is a yellow straw hat with a red band and black stitching details, giving it an anime style appearance."
+        }
+    ],
+    "three_concept/three_concept/concept/train/Juno/7.png": [
+        {
+            "Question": "What color is <Juno>?",
+            "Answer": "<Juno> is yellow with a red band."
+        },
+        {
+            "Question": "What shape does <Juno> have?",
+            "Answer": "<Juno> has a round shape with a wide brim."
+        },
+        {
+            "Question": "What is the overall vibe of <Juno>?",
+            "Answer": "The overall vibe of <Juno> is casual and adventurous, typical of a classic anime style straw hat."
+        },
+        {
+            "Question": "What material is <Juno> made of?",
+            "Answer": "<Juno> is made of straw."
+        },
+        {
+            "Question": "What size is this <Juno>?",
+            "Answer": "The size of <Juno> appears to be medium, covering the top of the head with a wide brim."
+        },
+        {
+            "Question": "Does <Juno> have any patterns or markings?",
+            "Answer": "<Juno> has a red band around it but no other distinct patterns or markings."
+        },
+        {
+            "Question": "What type of <Juno> is this subject?",
+            "Answer": "<Juno> is a yellow straw hat with a red band."
+        },
+        {
+            "Question": "Does <Juno> have any distinctive features or details?",
+            "Answer": "<Juno> has a distinctive red band around it."
+        },
+        {
+            "Question": "What's <Juno> general texture like?",
+            "Answer": "<Juno> has a woven straw texture."
+        },
+        {
+            "Question": "How would you describe <Juno> overall appearance?",
+            "Answer": "<Juno> is a yellow straw hat with a wide brim and a red band around the base."
+        }
+    ],
+    "three_concept/three_concept/concept/train/Juno/8.png": [
+        {
+            "Question": "What color is <Juno>?",
+            "Answer": "<Juno> is yellow with a red band."
+        },
+        {
+            "Question": "What shape does <Juno> have?",
+            "Answer": "<Juno> has a round shape with a wide brim."
+        },
+        {
+            "Question": "What is the overall vibe of <Juno>?",
+            "Answer": "The overall vibe of <Juno> is casual and adventurous, typical of a classic anime straw hat."
+        },
+        {
+            "Question": "What material is <Juno> made of?",
+            "Answer": "<Juno> is made of straw."
+        },
+        {
+            "Question": "What size is this <Juno>?",
+            "Answer": "The size of <Juno> is large enough to cover the top of the head and provide shade over the face."
+        },
+        {
+            "Question": "Does <Juno> have any patterns or markings?",
+            "Answer": "<Juno> has simple line markings on the top, resembling straw texture."
+        },
+        {
+            "Question": "What type of <Juno> is this subject?",
+            "Answer": "<Juno> is a wide-brimmed yellow straw hat with a red band."
+        },
+        {
+            "Question": "Does <Juno> have any distinctive features or details?",
+            "Answer": "<Juno> has a red band around it and a slightly curved brim."
+        },
+        {
+            "Question": "What's <Juno> general texture like?",
+            "Answer": "<Juno> has a smooth texture with visible straw patterns."
+        },
+        {
+            "Question": "How would you describe <Juno> overall appearance?",
+            "Answer": "<Juno> is a wide-brimmed yellow straw hat with a red band around it."
+        }
+    ],
+    "three_concept/three_concept/concept/train/Juno/9.png": [
+        {
+            "Question": "What color is <Juno>?",
+            "Answer": "<Juno> is yellow with a red band."
+        },
+        {
+            "Question": "What shape does <Juno> have?",
+            "Answer": "<Juno> has a round shape with a wide brim."
+        },
+        {
+            "Question": "What is the overall vibe of <Juno>?",
+            "Answer": "The overall vibe of <Juno> is casual and adventurous, typical of a classic anime style straw hat."
+        },
+        {
+            "Question": "What material is <Juno> made of?",
+            "Answer": "<Juno> is made of straw."
+        },
+        {
+            "Question": "What size is this <Juno>?",
+            "Answer": "The size of <Juno> is medium, fitting comfortably on a person's head."
+        },
+        {
+            "Question": "Does <Juno> have any patterns or markings?",
+            "Answer": "<Juno> has a simple design with no distinct patterns or markings, featuring a red band around it."
+        },
+        {
+            "Question": "What type of <Juno> is this subject?",
+            "Answer": "<Juno> is a yellow straw hat with a red band."
+        },
+        {
+            "Question": "Does <Juno> have any distinctive features or details?",
+            "Answer": "<Juno> has a red band around it, which is a distinctive feature."
+        },
+        {
+            "Question": "What's <Juno> general texture like?",
+            "Answer": "<Juno> has a woven straw texture with a smooth, slightly rough surface typical of straw hats."
+        },
+        {
+            "Question": "How would you describe <Juno> overall appearance?",
+            "Answer": "<Juno> is a yellow straw hat with a red band around it, featuring a wide brim and an anime style."
+        }
+    ]
+}

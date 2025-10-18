@@ -1,0 +1,422 @@
+{
+    "three_concept/concept/train/NaNaQi/0.png": [
+        {
+            "Question": "What is <NaNaQi> hair color?",
+            "Answer": "I can't determine the hair color of <NaNaQi> from the image."
+        },
+        {
+            "Question": "What color are <NaNaQi> eyes?",
+            "Answer": "I can't determine the eye color of <NaNaQi> from the image."
+        },
+        {
+            "Question": "Would you describe <NaNaQi>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<NaNaQi>'s physique is slim."
+        },
+        {
+            "Question": "What is <NaNaQi> skin tone?",
+            "Answer": "<NaNaQi>'s skin tone is light beige."
+        },
+        {
+            "Question": "How would you describe <NaNaQi> hairstyle?",
+            "Answer": "<NaNaQi>'s hairstyle features long, floppy ears adorned with a blue headpiece."
+        },
+        {
+            "Question": "Does <NaNaQi> wear glasses or any accessories?",
+            "Answer": "<NaNaQi> is wearing a blue headband with gold accents and has long ears."
+        },
+        {
+            "Question": "How would you describe <NaNaQi>'s attire?",
+            "Answer": "<NaNaQi> is wearing a blue and gold outfit with a decorative headpiece and has long ears."
+        },
+        {
+            "Question": "Does <NaNaQi> have any distinctive facial features?",
+            "Answer": "I can't determine any distinctive facial features of <NaNaQi> from the image."
+        },
+        {
+            "Question": "What is <NaNaQi> overall build or physique?",
+            "Answer": "<NaNaQi> has a slender and petite build."
+        },
+        {
+            "Question": "What is <NaNaQi> general expression or demeanor?",
+            "Answer": "<NaNaQi> has a confident and poised demeanor, with a strong and ready stance."
+        }
+    ],
+    "three_concept/concept/train/NaNaQi/1.png": [
+        {
+            "Question": "What is <NaNaQi> hair color?",
+            "Answer": "<NaNaQi>'s hair color is gray."
+        },
+        {
+            "Question": "What color are <NaNaQi> eyes?",
+            "Answer": "<NaNaQi>'s eyes are gray."
+        },
+        {
+            "Question": "Would you describe <NaNaQi>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<NaNaQi>'s physique appears slim."
+        },
+        {
+            "Question": "What is <NaNaQi> skin tone?",
+            "Answer": "<NaNaQi>'s skin tone is light."
+        },
+        {
+            "Question": "How would you describe <NaNaQi> hairstyle?",
+            "Answer": "<NaNaQi>'s hairstyle is long with straight bangs and side locks, adorned with a headpiece."
+        },
+        {
+            "Question": "Does <NaNaQi> wear glasses or any accessories?",
+            "Answer": "<NaNaQi> is wearing a hat with ear-like extensions and no glasses."
+        },
+        {
+            "Question": "How would you describe <NaNaQi>'s attire?",
+            "Answer": "<NaNaQi> is wearing a fluffy, animal-like outfit with long ears and a headpiece that resembles a creature's face. The attire includes a cloak or cape with fur trim."
+        },
+        {
+            "Question": "Does <NaNaQi> have any distinctive facial features?",
+            "Answer": "<NaNaQi> has distinctive facial features, including large eyes and a small nose."
+        },
+        {
+            "Question": "What is <NaNaQi> overall build or physique?",
+            "Answer": "<NaNaQi> has a small and slender build."
+        },
+        {
+            "Question": "What is <NaNaQi> general expression or demeanor?",
+            "Answer": "<NaNaQi> has a calm and neutral expression."
+        }
+    ],
+    "three_concept/concept/train/NaNaQi/2.png": [
+        {
+            "Question": "What is <NaNaQi> hair color?",
+            "Answer": "<NaNaQi>'s hair color is white."
+        },
+        {
+            "Question": "What color are <NaNaQi> eyes?",
+            "Answer": "<NaNaQi>'s eyes are yellow."
+        },
+        {
+            "Question": "Would you describe <NaNaQi>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<NaNaQi>'s physique appears to be small and slim."
+        },
+        {
+            "Question": "What is <NaNaQi> skin tone?",
+            "Answer": "<NaNaQi>'s skin tone is light."
+        },
+        {
+            "Question": "How would you describe <NaNaQi> hairstyle?",
+            "Answer": "<NaNaQi> has long, straight hair with bangs covering the forehead."
+        },
+        {
+            "Question": "Does <NaNaQi> wear glasses or any accessories?",
+            "Answer": "<NaNaQi> is wearing a hat with long ears, but no glasses."
+        },
+        {
+            "Question": "How would you describe <NaNaQi>'s attire?",
+            "Answer": "<NaNaQi> is wearing a fluffy hat with long ears and a layered outfit that resembles animal fur."
+        },
+        {
+            "Question": "Does <NaNaQi> have any distinctive facial features?",
+            "Answer": "<NaNaQi> has distinctive facial features, including large eyes, a small nose, and fluffy ears."
+        },
+        {
+            "Question": "What is <NaNaQi> overall build or physique?",
+            "Answer": "<NaNaQi> has a small and fluffy build, resembling a creature with animal-like features."
+        },
+        {
+            "Question": "What is <NaNaQi> general expression or demeanor?",
+            "Answer": "<NaNaQi> has a calm and slightly concerned expression."
+        }
+    ],
+    "three_concept/concept/train/NaNaQi/3.png": [
+        {
+            "Question": "What is <NaNaQi> hair color?",
+            "Answer": "<NaNaQi>'s hair color is white."
+        },
+        {
+            "Question": "What color are <NaNaQi> eyes?",
+            "Answer": "<NaNaQi>'s eyes are yellow."
+        },
+        {
+            "Question": "Would you describe <NaNaQi>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<NaNaQi>'s physique appears slim."
+        },
+        {
+            "Question": "What is <NaNaQi> skin tone?",
+            "Answer": "<NaNaQi>'s skin tone is light."
+        },
+        {
+            "Question": "How would you describe <NaNaQi> hairstyle?",
+            "Answer": "<NaNaQi>'s hairstyle is long and straight with bangs covering the forehead."
+        },
+        {
+            "Question": "Does <NaNaQi> wear glasses or any accessories?",
+            "Answer": "<NaNaQi> is wearing a distinctive hat with animal-like features, but no glasses."
+        },
+        {
+            "Question": "How would you describe <NaNaQi>'s attire?",
+            "Answer": "<NaNaQi> is wearing a distinctive hat with animal-like features, including long ears. The attire appears to be a combination of fur and fabric, giving a whimsical and fantasy-like appearance."
+        },
+        {
+            "Question": "Does <NaNaQi> have any distinctive facial features?",
+            "Answer": "<NaNaQi> has large eyes and a small mouth, with a distinctive animal-like appearance, including long ears and a unique headpiece."
+        },
+        {
+            "Question": "What is <NaNaQi> overall build or physique?",
+            "Answer": "<NaNaQi> has a small and fluffy build with animal-like features."
+        },
+        {
+            "Question": "What is <NaNaQi> general expression or demeanor?",
+            "Answer": "<NaNaQi> has a calm and slightly serious expression."
+        }
+    ],
+    "three_concept/concept/train/NaNaQi/4.png": [
+        {
+            "Question": "What is <NaNaQi> hair color?",
+            "Answer": "<NaNaQi>'s hair color is white."
+        },
+        {
+            "Question": "What color are <NaNaQi> eyes?",
+            "Answer": "<NaNaQi>'s eyes are yellow."
+        },
+        {
+            "Question": "Would you describe <NaNaQi>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<NaNaQi>'s physique appears slim."
+        },
+        {
+            "Question": "What is <NaNaQi> skin tone?",
+            "Answer": "<NaNaQi>'s skin tone is light beige."
+        },
+        {
+            "Question": "How would you describe <NaNaQi> hairstyle?",
+            "Answer": "<NaNaQi>'s hairstyle is long and straight with bangs covering the forehead."
+        },
+        {
+            "Question": "Does <NaNaQi> wear glasses or any accessories?",
+            "Answer": "<NaNaQi> is wearing a hat with large ears and holding a circular object, but not wearing glasses."
+        },
+        {
+            "Question": "How would you describe <NaNaQi>'s attire?",
+            "Answer": "<NaNaQi> is wearing a hat with large floppy ears and a fluffy collar."
+        },
+        {
+            "Question": "Does <NaNaQi> have any distinctive facial features?",
+            "Answer": "<NaNaQi> has distinctive whisker-like markings on their cheeks and sharp, cat-like eyes."
+        },
+        {
+            "Question": "What is <NaNaQi> overall build or physique?",
+            "Answer": "<NaNaQi> has a small and compact build with a fluffy appearance."
+        },
+        {
+            "Question": "What is <NaNaQi> general expression or demeanor?",
+            "Answer": "<NaNaQi> has a mischievous and confident expression."
+        }
+    ],
+    "three_concept/concept/train/NaNaQi/5.png": [
+        {
+            "Question": "What is <NaNaQi> hair color?",
+            "Answer": "<NaNaQi>'s hair color is white."
+        },
+        {
+            "Question": "What color are <NaNaQi> eyes?",
+            "Answer": "<NaNaQi>'s eyes are yellow."
+        },
+        {
+            "Question": "Would you describe <NaNaQi>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<NaNaQi>'s physique appears slim."
+        },
+        {
+            "Question": "What is <NaNaQi> skin tone?",
+            "Answer": "<NaNaQi>'s skin tone is light gray with white patches."
+        },
+        {
+            "Question": "How would you describe <NaNaQi> hairstyle?",
+            "Answer": "<NaNaQi>'s hairstyle is long and straight with bangs covering the forehead."
+        },
+        {
+            "Question": "Does <NaNaQi> wear glasses or any accessories?",
+            "Answer": "<NaNaQi> is wearing a hat but no glasses."
+        },
+        {
+            "Question": "How would you describe <NaNaQi>'s attire?",
+            "Answer": "<NaNaQi> is wearing a hat with long, white hair visible. The attire includes animal-like features, such as ears on the hat."
+        },
+        {
+            "Question": "Does <NaNaQi> have any distinctive facial features?",
+            "Answer": "<NaNaQi> has distinctive facial features, including large eyes, white hair, and markings on the cheeks."
+        },
+        {
+            "Question": "What is <NaNaQi> overall build or physique?",
+            "Answer": "<NaNaQi> has a small and slender build."
+        },
+        {
+            "Question": "What is <NaNaQi> general expression or demeanor?",
+            "Answer": "<NaNaQi> has a calm and slightly serious expression."
+        }
+    ],
+    "three_concept/concept/train/NaNaQi/6.png": [
+        {
+            "Question": "What is <NaNaQi> hair color?",
+            "Answer": "<NaNaQi>'s hair color is white."
+        },
+        {
+            "Question": "What color are <NaNaQi> eyes?",
+            "Answer": "<NaNaQi>'s eyes are green."
+        },
+        {
+            "Question": "Would you describe <NaNaQi>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<NaNaQi>'s physique appears slim."
+        },
+        {
+            "Question": "What is <NaNaQi> skin tone?",
+            "Answer": "<NaNaQi>'s skin tone is light."
+        },
+        {
+            "Question": "How would you describe <NaNaQi> hairstyle?",
+            "Answer": "<NaNaQi>'s hairstyle is short with straight bangs covering the forehead."
+        },
+        {
+            "Question": "Does <NaNaQi> wear glasses or any accessories?",
+            "Answer": "<NaNaQi> is wearing a hat with animal-like ears but no glasses."
+        },
+        {
+            "Question": "How would you describe <NaNaQi>'s attire?",
+            "Answer": "<NaNaQi> is wearing a hat with large ears and a fluffy appearance, resembling an animal."
+        },
+        {
+            "Question": "Does <NaNaQi> have any distinctive facial features?",
+            "Answer": "<NaNaQi> has distinctive facial features, including large green eyes, whisker-like markings on the cheeks, and a small nose."
+        },
+        {
+            "Question": "What is <NaNaQi> overall build or physique?",
+            "Answer": "<NaNaQi> has a small and childlike build."
+        },
+        {
+            "Question": "What is <NaNaQi> general expression or demeanor?",
+            "Answer": "<NaNaQi> has a somber and serious expression."
+        }
+    ],
+    "three_concept/concept/train/NaNaQi/7.png": [
+        {
+            "Question": "What is <NaNaQi> hair color?",
+            "Answer": "<NaNaQi>'s hair color is white."
+        },
+        {
+            "Question": "What color are <NaNaQi> eyes?",
+            "Answer": "<NaNaQi>'s eyes are purple."
+        },
+        {
+            "Question": "Would you describe <NaNaQi>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<NaNaQi>'s physique appears slim."
+        },
+        {
+            "Question": "What is <NaNaQi> skin tone?",
+            "Answer": "<NaNaQi>'s skin tone is light."
+        },
+        {
+            "Question": "How would you describe <NaNaQi> hairstyle?",
+            "Answer": "<NaNaQi>'s hairstyle is long, straight, and white with bangs covering the forehead."
+        },
+        {
+            "Question": "Does <NaNaQi> wear glasses or any accessories?",
+            "Answer": "<NaNaQi> is wearing a decorative headpiece with ear-like extensions."
+        },
+        {
+            "Question": "How would you describe <NaNaQi>'s attire?",
+            "Answer": "<NaNaQi> is wearing a fluffy, animal-like outfit with long ears and a helmet-like headpiece. The attire has a natural, fur-like appearance."
+        },
+        {
+            "Question": "Does <NaNaQi> have any distinctive facial features?",
+            "Answer": "<NaNaQi> has large, expressive eyes and a small, pouty mouth."
+        },
+        {
+            "Question": "What is <NaNaQi> overall build or physique?",
+            "Answer": "<NaNaQi> has a small and fluffy build, with features resembling a mix of animal and human characteristics."
+        },
+        {
+            "Question": "What is <NaNaQi> general expression or demeanor?",
+            "Answer": "<NaNaQi> has a sad or upset expression, with tears in their eyes."
+        }
+    ],
+    "three_concept/concept/train/NaNaQi/8.png": [
+        {
+            "Question": "What is <NaNaQi> hair color?",
+            "Answer": "<NaNaQi>'s hair color is white."
+        },
+        {
+            "Question": "What color are <NaNaQi> eyes?",
+            "Answer": "<NaNaQi>'s eyes are gray."
+        },
+        {
+            "Question": "Would you describe <NaNaQi>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<NaNaQi>'s physique appears slim."
+        },
+        {
+            "Question": "What is <NaNaQi> skin tone?",
+            "Answer": "<NaNaQi>'s skin tone is light."
+        },
+        {
+            "Question": "How would you describe <NaNaQi> hairstyle?",
+            "Answer": "<NaNaQi>'s hairstyle is long and straight with bangs covering the forehead."
+        },
+        {
+            "Question": "Does <NaNaQi> wear glasses or any accessories?",
+            "Answer": "<NaNaQi> is wearing a hat with ear-like extensions and has long hair, but no glasses."
+        },
+        {
+            "Question": "How would you describe <NaNaQi>'s attire?",
+            "Answer": "<NaNaQi> is wearing a large, fluffy hat with ear-like extensions and a layered, furry cloak."
+        },
+        {
+            "Question": "Does <NaNaQi> have any distinctive facial features?",
+            "Answer": "<NaNaQi> has large eyes and long, straight hair with bangs."
+        },
+        {
+            "Question": "What is <NaNaQi> overall build or physique?",
+            "Answer": "<NaNaQi> has a slender and petite build."
+        },
+        {
+            "Question": "What is <NaNaQi> general expression or demeanor?",
+            "Answer": "<NaNaQi> has a calm and neutral expression."
+        }
+    ],
+    "three_concept/concept/train/NaNaQi/9.png": [
+        {
+            "Question": "What is <NaNaQi> hair color?",
+            "Answer": "<NaNaQi>'s hair color is white."
+        },
+        {
+            "Question": "What color are <NaNaQi> eyes?",
+            "Answer": "<NaNaQi>'s eyes are yellow."
+        },
+        {
+            "Question": "Would you describe <NaNaQi>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<NaNaQi>'s physique appears to be slim."
+        },
+        {
+            "Question": "What is <NaNaQi> skin tone?",
+            "Answer": "<NaNaQi>'s skin tone is a light grayish color."
+        },
+        {
+            "Question": "How would you describe <NaNaQi> hairstyle?",
+            "Answer": "<NaNaQi>'s hairstyle is short with straight bangs covering the forehead."
+        },
+        {
+            "Question": "Does <NaNaQi> wear glasses or any accessories?",
+            "Answer": "<NaNaQi> is not wearing glasses but has large ears and a headpiece with pink accents."
+        },
+        {
+            "Question": "How would you describe <NaNaQi>'s attire?",
+            "Answer": "<NaNaQi> is wearing a fluffy, animal-like outfit with large ears and a hood."
+        },
+        {
+            "Question": "Does <NaNaQi> have any distinctive facial features?",
+            "Answer": "<NaNaQi> has large eyes and a small, open mouth."
+        },
+        {
+            "Question": "What is <NaNaQi> overall build or physique?",
+            "Answer": "<NaNaQi> has a small and fluffy build with animal-like features."
+        },
+        {
+            "Question": "What is <NaNaQi> general expression or demeanor?",
+            "Answer": "<NaNaQi> has a surprised or curious expression."
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "two_concept/concept/test/Huiye/0.png": {
+        "Human": "What color is <Huiye>'s hair accessory?  A. Red;  B. Blue;  C. Green;",
+        "AI": "A"
+    },
+    "two_concept/concept/test/Huiye/1.png": {
+        "Human": "What is <Huiye> leaning against?  A. A tree; B. A wall; C. A bench;",
+        "AI": "B"
+    },
+    "two_concept/concept/test/Huiye/2.png": {
+        "Human": "What is the color of <Huiye>'s eyes? A. Blue; B. Red; C. Green;",
+        "AI": "B"
+    },
+    "two_concept/concept/test/Huiye/3.png": {
+        "Human": "What color are <Huiye>'s eyes?  A. Blue; B. Red; C. Green;",
+        "AI": "B"
+    },
+    "two_concept/concept/test/Huiye/4.png": {
+        "Human": "What color are <Huiye>'s eyes?  A. Blue; B. Red; C. Green;",
+        "AI": "B"
+    }
+}

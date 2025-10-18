@@ -1,0 +1,22 @@
+[
+    {
+        "question": "What is the hair color of <Yor>? A.Black. B.Blonde",
+        "answer": "A"
+    },
+    {
+        "question": "What is the eye color of <Yor>? A.Blue. B.Red",
+        "answer": "B"
+    },
+    {
+        "question": "Does <Yor> wear a headband? A.Yes. B.No",
+        "answer": "A"
+    },
+    {
+        "question": "What type of earrings does <Yor> wear? A.Hoop. B.Dangle",
+        "answer": "B"
+    },
+    {
+        "question": "What is the primary color of <Yor>'s outfit? A.Red. B.Green",
+        "answer": "A"
+    }
+]

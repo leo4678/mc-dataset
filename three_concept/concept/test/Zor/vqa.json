@@ -1,0 +1,22 @@
+{
+    "three_concept/concept/test/Zor/0.png": {
+        "Human": "What are the colors of the roof on the <Zor> house?",
+        "AI": "The roof of the <Zor> house is two-toned with red and yellow colors."
+    },
+    "three_concept/concept/test/Zor/1.png": {
+        "Human": "What is the color pattern of the roof on <Zor>?",
+        "AI": "The roof on <Zor> has a two-tone color pattern with alternating red and white stripes."
+    },
+    "three_concept/concept/test/Zor/2.png": {
+        "Human": "What is the color scheme of the roof on <Zor>?",
+        "AI": "The roof on <Zor> has a two-tone color scheme with orange and red stripes."
+    },
+    "three_concept/concept/test/Zor/3.png": {
+        "Human": "What are the colors of the roof on the house named <Zor>?",
+        "AI": "The roof of the house named <Zor> has a two-tone color scheme of red and yellow."
+    },
+    "three_concept/concept/test/Zor/4.png": {
+        "Human": "What are the colors of the roof on the house named <Zor>?",
+        "AI": "The roof of the house named <Zor> is two-toned with red and yellow colors."
+    }
+}

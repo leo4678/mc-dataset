@@ -1,0 +1,422 @@
+{
+    "three_concept/concept/train/ziqiao/0.png": [
+        {
+            "Question": "What is <ziqiao> hair color?",
+            "Answer": "<ziqiao>'s hair color is black."
+        },
+        {
+            "Question": "What color are <ziqiao> eyes?",
+            "Answer": "I can't determine the eye color of <ziqiao> from the image."
+        },
+        {
+            "Question": "Would you describe <ziqiao>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<ziqiao>'s physique appears slim."
+        },
+        {
+            "Question": "What is <ziqiao> skin tone?",
+            "Answer": "I can't determine <ziqiao>'s skin tone from the image."
+        },
+        {
+            "Question": "How would you describe <ziqiao> hairstyle?",
+            "Answer": "<ziqiao>'s hairstyle is short on the sides with a voluminous, styled top."
+        },
+        {
+            "Question": "Does <ziqiao> wear glasses or any accessories?",
+            "Answer": "<ziqiao> is not wearing glasses or any accessories."
+        },
+        {
+            "Question": "How would you describe <ziqiao>'s attire?",
+            "Answer": "<ziqiao> is wearing a dark double-breasted suit with a white shirt and a dark tie with polka dots."
+        },
+        {
+            "Question": "Does <ziqiao> have any distinctive facial features?",
+            "Answer": "I can't determine any distinctive facial features of <ziqiao> from the image."
+        },
+        {
+            "Question": "What is <ziqiao> overall build or physique?",
+            "Answer": "<ziqiao> has a slim build."
+        },
+        {
+            "Question": "What is <ziqiao> general expression or demeanor?",
+            "Answer": "<ziqiao> has a formal and composed demeanor, wearing a suit and tie."
+        }
+    ],
+    "three_concept/concept/train/ziqiao/1.png": [
+        {
+            "Question": "What is <ziqiao> hair color?",
+            "Answer": "<ziqiao>'s hair color is black."
+        },
+        {
+            "Question": "What color are <ziqiao> eyes?",
+            "Answer": "I can't determine the eye color of <ziqiao> from the image."
+        },
+        {
+            "Question": "Would you describe <ziqiao>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<ziqiao>'s physique appears slim."
+        },
+        {
+            "Question": "What is <ziqiao> skin tone?",
+            "Answer": "I'm unable to determine <ziqiao>'s skin tone from the image."
+        },
+        {
+            "Question": "How would you describe <ziqiao> hairstyle?",
+            "Answer": "<ziqiao>'s hairstyle is short on the sides with a longer, textured top."
+        },
+        {
+            "Question": "Does <ziqiao> wear glasses or any accessories?",
+            "Answer": "<ziqiao> is not wearing glasses or any accessories."
+        },
+        {
+            "Question": "How would you describe <ziqiao>'s attire?",
+            "Answer": "<ziqiao> is wearing a dark pinstripe suit with a white shirt underneath."
+        },
+        {
+            "Question": "Does <ziqiao> have any distinctive facial features?",
+            "Answer": "I can't determine any distinctive facial features for <ziqiao> from the image."
+        },
+        {
+            "Question": "What is <ziqiao> overall build or physique?",
+            "Answer": "<ziqiao> has a slim build."
+        },
+        {
+            "Question": "What is <ziqiao> general expression or demeanor?",
+            "Answer": "<ziqiao> has a relaxed and casual demeanor, with arms crossed."
+        }
+    ],
+    "three_concept/concept/train/ziqiao/2.png": [
+        {
+            "Question": "What is <ziqiao> hair color?",
+            "Answer": "<ziqiao>'s hair color is black."
+        },
+        {
+            "Question": "What color are <ziqiao> eyes?",
+            "Answer": "I can't determine the eye color of <ziqiao> from the image."
+        },
+        {
+            "Question": "Would you describe <ziqiao>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<ziqiao>'s physique appears to be slim."
+        },
+        {
+            "Question": "What is <ziqiao> skin tone?",
+            "Answer": "I'm sorry, I can't determine <ziqiao>'s skin tone from the image."
+        },
+        {
+            "Question": "How would you describe <ziqiao> hairstyle?",
+            "Answer": "<ziqiao>'s hairstyle is short with a textured, slightly tousled look on top."
+        },
+        {
+            "Question": "Does <ziqiao> wear glasses or any accessories?",
+            "Answer": "<ziqiao> is not wearing glasses or any accessories."
+        },
+        {
+            "Question": "How would you describe <ziqiao>'s attire?",
+            "Answer": "<ziqiao> is wearing a patterned blazer over a white button-up shirt."
+        },
+        {
+            "Question": "Does <ziqiao> have any distinctive facial features?",
+            "Answer": "I can't determine any distinctive facial features for <ziqiao> due to the image quality."
+        },
+        {
+            "Question": "What is <ziqiao> overall build or physique?",
+            "Answer": "<ziqiao> has a medium build."
+        },
+        {
+            "Question": "What is <ziqiao> general expression or demeanor?",
+            "Answer": "<ziqiao> appears to have a neutral or attentive demeanor."
+        }
+    ],
+    "three_concept/concept/train/ziqiao/3.png": [
+        {
+            "Question": "What is <ziqiao> hair color?",
+            "Answer": "<ziqiao>'s hair color is black."
+        },
+        {
+            "Question": "What color are <ziqiao> eyes?",
+            "Answer": "I can't determine the eye color of <ziqiao> from the image."
+        },
+        {
+            "Question": "Would you describe <ziqiao>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<ziqiao>'s physique appears slim."
+        },
+        {
+            "Question": "What is <ziqiao> skin tone?",
+            "Answer": "I can't determine <ziqiao>'s skin tone from the image."
+        },
+        {
+            "Question": "How would you describe <ziqiao> hairstyle?",
+            "Answer": "<ziqiao> is wearing a cow-themed onesie with a hood, so the hairstyle is not visible."
+        },
+        {
+            "Question": "Does <ziqiao> wear glasses or any accessories?",
+            "Answer": "<ziqiao> is not wearing glasses or any accessories."
+        },
+        {
+            "Question": "How would you describe <ziqiao>'s attire?",
+            "Answer": "<ziqiao> is wearing a cow-patterned onesie with a hood featuring ears and a small horn."
+        },
+        {
+            "Question": "Does <ziqiao> have any distinctive facial features?",
+            "Answer": "I can't determine any distinctive facial features of <ziqiao> from the image."
+        },
+        {
+            "Question": "What is <ziqiao> overall build or physique?",
+            "Answer": "<ziqiao> has a medium build."
+        },
+        {
+            "Question": "What is <ziqiao> general expression or demeanor?",
+            "Answer": "<ziqiao> is wearing a cow-themed onesie, which suggests a playful or relaxed demeanor."
+        }
+    ],
+    "three_concept/concept/train/ziqiao/4.png": [
+        {
+            "Question": "What is <ziqiao> hair color?",
+            "Answer": "<ziqiao>'s hair color is black."
+        },
+        {
+            "Question": "What color are <ziqiao> eyes?",
+            "Answer": "I can't determine the eye color of <ziqiao> from the image."
+        },
+        {
+            "Question": "Would you describe <ziqiao>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<ziqiao>'s physique appears slim."
+        },
+        {
+            "Question": "What is <ziqiao> skin tone?",
+            "Answer": "I'm unable to determine <ziqiao>'s skin tone from the image."
+        },
+        {
+            "Question": "How would you describe <ziqiao> hairstyle?",
+            "Answer": "<ziqiao>'s hairstyle is short on the sides with a longer, voluminous top styled upwards."
+        },
+        {
+            "Question": "Does <ziqiao> wear glasses or any accessories?",
+            "Answer": "<ziqiao> is not wearing glasses or any accessories."
+        },
+        {
+            "Question": "How would you describe <ziqiao>'s attire?",
+            "Answer": "<ziqiao> is wearing a red traditional-style jacket with a mandarin collar and knot buttons."
+        },
+        {
+            "Question": "Does <ziqiao> have any distinctive facial features?",
+            "Answer": "I can't determine any distinctive facial features of <ziqiao> from the image."
+        },
+        {
+            "Question": "What is <ziqiao> overall build or physique?",
+            "Answer": "<ziqiao> has a medium build."
+        },
+        {
+            "Question": "What is <ziqiao> general expression or demeanor?",
+            "Answer": "<ziqiao> is wearing a red traditional-style outfit, which gives a formal and composed demeanor."
+        }
+    ],
+    "three_concept/concept/train/ziqiao/5.png": [
+        {
+            "Question": "What is <ziqiao> hair color?",
+            "Answer": "<ziqiao>'s hair color is black."
+        },
+        {
+            "Question": "What color are <ziqiao> eyes?",
+            "Answer": "I can't determine the eye color of <ziqiao> from the image."
+        },
+        {
+            "Question": "Would you describe <ziqiao>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<ziqiao>'s physique appears to be slim."
+        },
+        {
+            "Question": "What is <ziqiao> skin tone?",
+            "Answer": "I'm sorry, I can't determine the skin tone from the image."
+        },
+        {
+            "Question": "How would you describe <ziqiao> hairstyle?",
+            "Answer": "<ziqiao>'s hairstyle is short and styled with a textured, spiky look on top."
+        },
+        {
+            "Question": "Does <ziqiao> wear glasses or any accessories?",
+            "Answer": "<ziqiao> is not wearing glasses or any accessories."
+        },
+        {
+            "Question": "How would you describe <ziqiao>'s attire?",
+            "Answer": "<ziqiao> is wearing a light-colored blazer over a shirt."
+        },
+        {
+            "Question": "Does <ziqiao> have any distinctive facial features?",
+            "Answer": "I can't determine any distinctive facial features of <ziqiao> from the image."
+        },
+        {
+            "Question": "What is <ziqiao> overall build or physique?",
+            "Answer": "<ziqiao> has a medium build."
+        },
+        {
+            "Question": "What is <ziqiao> general expression or demeanor?",
+            "Answer": "<ziqiao> appears to have a relaxed and casual demeanor."
+        }
+    ],
+    "three_concept/concept/train/ziqiao/6.png": [
+        {
+            "Question": "What is <ziqiao> hair color?",
+            "Answer": "<ziqiao>'s hair color is black."
+        },
+        {
+            "Question": "What color are <ziqiao> eyes?",
+            "Answer": "I'm unable to determine the eye color of <ziqiao> from the image."
+        },
+        {
+            "Question": "Would you describe <ziqiao>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<ziqiao>'s physique appears slim."
+        },
+        {
+            "Question": "What is <ziqiao> skin tone?",
+            "Answer": "I'm unable to determine <ziqiao>'s skin tone."
+        },
+        {
+            "Question": "How would you describe <ziqiao> hairstyle?",
+            "Answer": "<ziqiao>'s hairstyle is short on the sides with a voluminous, textured top."
+        },
+        {
+            "Question": "Does <ziqiao> wear glasses or any accessories?",
+            "Answer": "<ziqiao> is not wearing glasses or any accessories."
+        },
+        {
+            "Question": "How would you describe <ziqiao>'s attire?",
+            "Answer": "<ziqiao> is wearing a light-colored suit jacket over a white shirt."
+        },
+        {
+            "Question": "Does <ziqiao> have any distinctive facial features?",
+            "Answer": "I can't determine any distinctive facial features for <ziqiao> due to the image quality."
+        },
+        {
+            "Question": "What is <ziqiao> overall build or physique?",
+            "Answer": "<ziqiao> has a slim build."
+        },
+        {
+            "Question": "What is <ziqiao> general expression or demeanor?",
+            "Answer": "<ziqiao> has a relaxed and casual demeanor."
+        }
+    ],
+    "three_concept/concept/train/ziqiao/7.png": [
+        {
+            "Question": "What is <ziqiao> hair color?",
+            "Answer": "I can't determine <ziqiao>'s hair color from the image."
+        },
+        {
+            "Question": "What color are <ziqiao> eyes?",
+            "Answer": "I can't determine the eye color of <ziqiao> from the image."
+        },
+        {
+            "Question": "Would you describe <ziqiao>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<ziqiao>'s physique appears to be slim."
+        },
+        {
+            "Question": "What is <ziqiao> skin tone?",
+            "Answer": "I can't determine <ziqiao>'s skin tone from the image."
+        },
+        {
+            "Question": "How would you describe <ziqiao> hairstyle?",
+            "Answer": "<ziqiao>'s hairstyle is short and slightly wavy."
+        },
+        {
+            "Question": "Does <ziqiao> wear glasses or any accessories?",
+            "Answer": "<ziqiao> is wearing a ring and holding a flashlight."
+        },
+        {
+            "Question": "How would you describe <ziqiao>'s attire?",
+            "Answer": "<ziqiao> is wearing a layered outfit with a light-colored button-up shirt underneath a dark jacket. He is holding a flashlight."
+        },
+        {
+            "Question": "Does <ziqiao> have any distinctive facial features?",
+            "Answer": "I can't determine any distinctive facial features of <ziqiao> from the image."
+        },
+        {
+            "Question": "What is <ziqiao> overall build or physique?",
+            "Answer": "<ziqiao> has a medium build, wearing layered clothing including a jacket and shirt."
+        },
+        {
+            "Question": "What is <ziqiao> general expression or demeanor?",
+            "Answer": "<ziqiao> appears to have a focused and alert demeanor, holding a flashlight and wearing layered clothing suitable for outdoor exploration."
+        }
+    ],
+    "three_concept/concept/train/ziqiao/8.png": [
+        {
+            "Question": "What is <ziqiao> hair color?",
+            "Answer": "<ziqiao>'s hair color is black."
+        },
+        {
+            "Question": "What color are <ziqiao> eyes?",
+            "Answer": "I can't determine the eye color of <ziqiao> from the image."
+        },
+        {
+            "Question": "Would you describe <ziqiao>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<ziqiao>'s physique appears athletic."
+        },
+        {
+            "Question": "What is <ziqiao> skin tone?",
+            "Answer": "I'm unable to determine <ziqiao>'s skin tone from the image."
+        },
+        {
+            "Question": "How would you describe <ziqiao> hairstyle?",
+            "Answer": "<ziqiao>'s hairstyle is short and neatly combed."
+        },
+        {
+            "Question": "Does <ziqiao> wear glasses or any accessories?",
+            "Answer": "<ziqiao> is not wearing glasses or any accessories."
+        },
+        {
+            "Question": "How would you describe <ziqiao>'s attire?",
+            "Answer": "<ziqiao> is wearing a blue and black long-sleeve athletic top."
+        },
+        {
+            "Question": "Does <ziqiao> have any distinctive facial features?",
+            "Answer": "I can't determine any distinctive facial features for <ziqiao> from the image."
+        },
+        {
+            "Question": "What is <ziqiao> overall build or physique?",
+            "Answer": "<ziqiao> has a medium build."
+        },
+        {
+            "Question": "What is <ziqiao> general expression or demeanor?",
+            "Answer": "<ziqiao> appears to have a relaxed and casual demeanor."
+        }
+    ],
+    "three_concept/concept/train/ziqiao/9.png": [
+        {
+            "Question": "What is <ziqiao> hair color?",
+            "Answer": "<ziqiao>'s hair color is black."
+        },
+        {
+            "Question": "What color are <ziqiao> eyes?",
+            "Answer": "I can't determine the eye color of <ziqiao> from the image."
+        },
+        {
+            "Question": "Would you describe <ziqiao>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<ziqiao>'s physique appears slim."
+        },
+        {
+            "Question": "What is <ziqiao> skin tone?",
+            "Answer": "I can't determine <ziqiao>'s skin tone from the image."
+        },
+        {
+            "Question": "How would you describe <ziqiao> hairstyle?",
+            "Answer": "<ziqiao>'s hairstyle is short on the sides with a voluminous, styled top."
+        },
+        {
+            "Question": "Does <ziqiao> wear glasses or any accessories?",
+            "Answer": "<ziqiao> is not wearing glasses or any accessories."
+        },
+        {
+            "Question": "How would you describe <ziqiao>'s attire?",
+            "Answer": "<ziqiao> is wearing a gray plaid suit jacket over a white collared shirt."
+        },
+        {
+            "Question": "Does <ziqiao> have any distinctive facial features?",
+            "Answer": "I can't determine any distinctive facial features of <ziqiao> from the image."
+        },
+        {
+            "Question": "What is <ziqiao> overall build or physique?",
+            "Answer": "<ziqiao> has a slim build."
+        },
+        {
+            "Question": "What is <ziqiao> general expression or demeanor?",
+            "Answer": "I can't determine <ziqiao>'s expression or demeanor from the image."
+        }
+    ]
+}

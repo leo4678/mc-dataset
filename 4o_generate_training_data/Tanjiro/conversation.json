@@ -1,0 +1,418 @@
+{
+    "two_concept/concept/train/Tanjiro/0.png": [
+        {
+            "Question": "What is <Tanjiro> hair color?",
+            "Answer": "<Tanjiro>'s hair color is dark red."
+        },
+        {
+            "Question": "What color are <Tanjiro> eyes?",
+            "Answer": "I cannot determine the color of <Tanjiro>'s eyes from the provided image."
+        },
+        {
+            "Question": "Would you describe <Tanjiro>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<Tanjiro>'s physique can be described as athletic."
+        },
+        {
+            "Question": "What is <Tanjiro> skin tone?",
+            "Answer": "<Tanjiro>'s skin tone is light."
+        },
+        {
+            "Question": "How would you describe <Tanjiro> hairstyle?",
+            "Answer": "<Tanjiro>'s hairstyle is medium-length, dark red with black tips, and styled in a spiky, tousled manner."
+        },
+        {
+            "Question": "Does <Tanjiro> wear glasses or any accessories?",
+            "Answer": "<Tanjiro> wears earrings as accessories."
+        },
+        {
+            "Question": "How would you describe <Tanjiro>'s attire?",
+            "Answer": "<Tanjiro> is wearing a traditional Japanese outfit with a green and white robe underneath a dark outer garment."
+        },
+        {
+            "Question": "Does <Tanjiro> have any distinctive facial features?",
+            "Answer": "<Tanjiro> has distinctive earrings and dark red hair with black tips."
+        },
+        {
+            "Question": "What is <Tanjiro> overall build or physique?",
+            "Answer": "<Tanjiro> has a lean and athletic build."
+        },
+        {
+            "Question": "What is <Tanjiro> general expression or demeanor?",
+            "Answer": "<Tanjiro> has a calm and composed demeanor."
+        }
+    ],
+    "two_concept/concept/train/Tanjiro/1.png": [
+        {
+            "Question": "What is <Tanjiro> hair color?",
+            "Answer": "<Tanjiro>'s hair color is dark red."
+        },
+        {
+            "Question": "What color are <Tanjiro> eyes?",
+            "Answer": "<Tanjiro>'s eyes are dark red."
+        },
+        {
+            "Question": "Would you describe <Tanjiro>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<Tanjiro>'s physique can be described as athletic."
+        },
+        {
+            "Question": "What is <Tanjiro> skin tone?",
+            "Answer": "<Tanjiro>'s skin tone is light."
+        },
+        {
+            "Question": "How would you describe <Tanjiro> hairstyle?",
+            "Answer": "<Tanjiro>'s hairstyle is short with spiky, tousled hair that has a reddish-brown color."
+        },
+        {
+            "Question": "Does <Tanjiro> wear glasses or any accessories?",
+            "Answer": "<Tanjiro> does not wear glasses or any accessories."
+        },
+        {
+            "Question": "How would you describe <Tanjiro>'s attire?",
+            "Answer": "<Tanjiro> is wearing a black and green checkered haori over a dark brown uniform. He also has a white belt and traditional Japanese pants."
+        },
+        {
+            "Question": "Does <Tanjiro> have any distinctive facial features?",
+            "Answer": "I cannot determine <Tanjiro>'s facial features from the given image."
+        },
+        {
+            "Question": "What is <Tanjiro> overall build or physique?",
+            "Answer": "<Tanjiro> has a lean and athletic build."
+        },
+        {
+            "Question": "What is <Tanjiro> general expression or demeanor?",
+            "Answer": "<Tanjiro>'s general expression or demeanor appears determined and resolute."
+        }
+    ],
+    "two_concept/concept/train/Tanjiro/2.png": [
+        {
+            "Question": "What is <Tanjiro> hair color?",
+            "Answer": "<Tanjiro>'s hair color is dark brown with reddish tips."
+        },
+        {
+            "Question": "What color are <Tanjiro> eyes?",
+            "Answer": "<Tanjiro>'s eyes are brown."
+        },
+        {
+            "Question": "Would you describe <Tanjiro>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<Tanjiro>'s physique can be described as athletic."
+        },
+        {
+            "Question": "What is <Tanjiro> skin tone?",
+            "Answer": "<Tanjiro>'s skin tone is light."
+        },
+        {
+            "Question": "How would you describe <Tanjiro> hairstyle?",
+            "Answer": "<Tanjiro>'s hairstyle is short, spiky, and slightly messy with a distinctive reddish-brown color."
+        },
+        {
+            "Question": "Does <Tanjiro> wear glasses or any accessories?",
+            "Answer": "<Tanjiro> does not wear glasses or any accessories in the image."
+        },
+        {
+            "Question": "How would you describe <Tanjiro>'s attire?",
+            "Answer": "<Tanjiro> is wearing a green and black checkered haori over a dark brown uniform. He also has a white belt and white leg wraps."
+        },
+        {
+            "Question": "Does <Tanjiro> have any distinctive facial features?",
+            "Answer": "<Tanjiro> has a distinctive scar on his forehead."
+        },
+        {
+            "Question": "What is <Tanjiro> overall build or physique?",
+            "Answer": "<Tanjiro> has a lean and athletic build."
+        },
+        {
+            "Question": "What is <Tanjiro> general expression or demeanor?",
+            "Answer": "<Tanjiro> has a determined and focused expression."
+        }
+    ],
+    "two_concept/concept/train/Tanjiro/3.png": [
+        {
+            "Question": "What is <Tanjiro> hair color?",
+            "Answer": "<Tanjiro>'s hair color is dark brown."
+        },
+        {
+            "Question": "What color are <Tanjiro> eyes?",
+            "Answer": "I cannot determine the color of <Tanjiro>'s eyes from the given image."
+        },
+        {
+            "Question": "Would you describe <Tanjiro>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<Tanjiro>'s physique can be described as athletic."
+        },
+        {
+            "Question": "What is <Tanjiro> skin tone?",
+            "Answer": "<Tanjiro>'s skin tone is light."
+        },
+        {
+            "Question": "How would you describe <Tanjiro> hairstyle?",
+            "Answer": "<Tanjiro>'s hairstyle is short, dark, and spiky with a slightly messy look."
+        },
+        {
+            "Question": "Does <Tanjiro> wear glasses or any accessories?",
+            "Answer": "<Tanjiro> is wearing a fox mask as an accessory."
+        },
+        {
+            "Question": "How would you describe <Tanjiro>'s attire?",
+            "Answer": "<Tanjiro> is wearing a blue kimono with a cloud pattern on it."
+        },
+        {
+            "Question": "Does <Tanjiro> have any distinctive facial features?",
+            "Answer": "<Tanjiro> has a distinctive scar on his forehead."
+        },
+        {
+            "Question": "What is <Tanjiro> overall build or physique?",
+            "Answer": "<Tanjiro> has a lean and athletic build."
+        },
+        {
+            "Question": "What is <Tanjiro> general expression or demeanor?",
+            "Answer": "<Tanjiro>'s general expression or demeanor appears to be serious and focused."
+        }
+    ],
+    "two_concept/concept/train/Tanjiro/4.png": [
+        {
+            "Question": "What is <Tanjiro> hair color?",
+            "Answer": "<Tanjiro>'s hair color is dark red."
+        },
+        {
+            "Question": "What color are <Tanjiro> eyes?",
+            "Answer": "<Tanjiro>'s eyes are dark red."
+        },
+        {
+            "Question": "Would you describe <Tanjiro>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<Tanjiro>'s physique can be described as slim."
+        },
+        {
+            "Question": "What is <Tanjiro> skin tone?",
+            "Answer": "<Tanjiro>'s skin tone is light."
+        },
+        {
+            "Question": "How would you describe <Tanjiro> hairstyle?",
+            "Answer": "<Tanjiro>'s hairstyle is medium-length, tied back in a ponytail with loose strands framing the face, and features a distinctive reddish-brown color with black tips."
+        },
+        {
+            "Question": "Does <Tanjiro> wear glasses or any accessories?",
+            "Answer": "<Tanjiro> does not wear glasses, but he does wear earrings."
+        },
+        {
+            "Question": "How would you describe <Tanjiro>'s attire?",
+            "Answer": "<Tanjiro> is wearing a green and black checkered haori over a blue scarf."
+        },
+        {
+            "Question": "Does <Tanjiro> have any distinctive facial features?",
+            "Answer": "<Tanjiro> has a distinctive scar on his forehead."
+        },
+        {
+            "Question": "What is <Tanjiro> overall build or physique?",
+            "Answer": "<Tanjiro> has a lean and athletic build."
+        },
+        {
+            "Question": "What is <Tanjiro> general expression or demeanor?",
+            "Answer": "<Tanjiro> has a calm and slightly curious expression."
+        }
+    ],
+    "two_concept/concept/train/Tanjiro/5.png": [
+        {
+            "Question": "What is <Tanjiro> hair color?",
+            "Answer": "<Tanjiro>'s hair color is dark red."
+        },
+        {
+            "Question": "What color are <Tanjiro> eyes?",
+            "Answer": "I cannot determine the color of <Tanjiro>'s eyes from the provided image."
+        },
+        {
+            "Question": "Would you describe <Tanjiro>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<Tanjiro>'s physique can be described as athletic."
+        },
+        {
+            "Question": "What is <Tanjiro> skin tone?",
+            "Answer": "<Tanjiro>'s skin tone is light."
+        },
+        {
+            "Question": "How would you describe <Tanjiro> hairstyle?",
+            "Answer": "<Tanjiro>'s hairstyle is medium-length, dark red, and spiky with a ponytail at the back."
+        },
+        {
+            "Question": "Does <Tanjiro> wear glasses or any accessories?",
+            "Answer": "<Tanjiro> does not wear glasses, but he does wear distinctive earrings."
+        },
+        {
+            "Question": "How would you describe <Tanjiro>'s attire?",
+            "Answer": "<Tanjiro> is wearing a blue scarf and a pair of distinctive earrings with a white and red design."
+        },
+        {
+            "Question": "Does <Tanjiro> have any distinctive facial features?",
+            "Answer": "<Tanjiro> has distinctive earrings with a unique design."
+        },
+        {
+            "Question": "What is <Tanjiro> overall build or physique?",
+            "Answer": "<Tanjiro> has a lean and athletic build."
+        },
+        {
+            "Question": "What is <Tanjiro> general expression or demeanor?",
+            "Answer": "<Tanjiro>'s general expression or demeanor appears to be serious and focused."
+        }
+    ],
+    "two_concept/concept/train/Tanjiro/6.png": [
+        {
+            "Question": "What is <Tanjiro> hair color?",
+            "Answer": "<Tanjiro>'s hair color is dark red."
+        },
+        {
+            "Question": "What color are <Tanjiro> eyes?",
+            "Answer": "<Tanjiro>'s eyes are dark red."
+        },
+        {
+            "Question": "Would you describe <Tanjiro>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<Tanjiro>'s physique can be described as athletic."
+        },
+        {
+            "Question": "What is <Tanjiro> skin tone?",
+            "Answer": "<Tanjiro>'s skin tone is light."
+        },
+        {
+            "Question": "How would you describe <Tanjiro> hairstyle?",
+            "Answer": "<Tanjiro>'s hairstyle is spiky and dark red with black tips."
+        },
+        {
+            "Question": "Does <Tanjiro> wear glasses or any accessories?",
+            "Answer": "<Tanjiro> does not wear glasses or any accessories."
+        },
+        {
+            "Question": "How would you describe <Tanjiro>'s attire?",
+            "Answer": "<Tanjiro> is wearing a green and black checkered haori over a black outfit."
+        },
+        {
+            "Question": "Does <Tanjiro> have any distinctive facial features?",
+            "Answer": "<Tanjiro> has a distinctive checkered green and black haori and spiky, dark red hair."
+        },
+        {
+            "Question": "What is <Tanjiro> overall build or physique?",
+            "Answer": "<Tanjiro> has a lean and athletic build."
+        },
+        {
+            "Question": "What is <Tanjiro> general expression or demeanor?",
+            "Answer": "<Tanjiro>'s general expression or demeanor appears to be serious and focused."
+        }
+    ],
+    "two_concept/concept/train/Tanjiro/7.png": [
+        {
+            "Question": "What is <Tanjiro> hair color?",
+            "Answer": "<Tanjiro>'s hair color is dark brown with red tips."
+        },
+        {
+            "Question": "What color are <Tanjiro> eyes?",
+            "Answer": "<Tanjiro>'s eyes are dark red."
+        },
+        {
+            "Question": "Would you describe <Tanjiro>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<Tanjiro>'s physique can be described as athletic."
+        },
+        {
+            "Question": "What is <Tanjiro> skin tone?",
+            "Answer": "<Tanjiro>'s skin tone is light."
+        },
+        {
+            "Question": "How would you describe <Tanjiro> hairstyle?",
+            "Answer": "<Tanjiro>'s hairstyle is short with spiky, tousled strands and a distinctive burgundy color."
+        },
+        {
+            "Question": "Does <Tanjiro> wear glasses or any accessories?",
+            "Answer": "<Tanjiro> does not wear glasses, but he does wear distinctive earrings and a headband with a pattern on it."
+        },
+        {
+            "Question": "How would you describe <Tanjiro>'s attire?",
+            "Answer": "<Tanjiro> is wearing a green and black checkered haori over a black uniform, with white rectangular earrings featuring a red circle and lines."
+        },
+        {
+            "Question": "Does <Tanjiro> have any distinctive facial features?",
+            "Answer": "<Tanjiro> has a distinctive scar on his forehead and large, expressive eyes."
+        },
+        {
+            "Question": "What is <Tanjiro> overall build or physique?",
+            "Answer": "<Tanjiro> has a lean and athletic build."
+        },
+        {
+            "Question": "What is <Tanjiro> general expression or demeanor?",
+            "Answer": "<Tanjiro>'s general expression or demeanor is determined and intense."
+        }
+    ],
+    "two_concept/concept/train/Tanjiro/8.png": [
+        {
+            "Question": "What is <Tanjiro> hair color?",
+            "Answer": "<Tanjiro>'s hair color is dark brown."
+        },
+        {
+            "Question": "Would you describe <Tanjiro>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<Tanjiro>'s physique can be described as athletic."
+        },
+        {
+            "Question": "What is <Tanjiro> skin tone?",
+            "Answer": "<Tanjiro>'s skin tone is light."
+        },
+        {
+            "Question": "How would you describe <Tanjiro> hairstyle?",
+            "Answer": "<Tanjiro>'s hairstyle is spiky and tousled, with a distinctive upward flick at the top."
+        },
+        {
+            "Question": "Does <Tanjiro> wear glasses or any accessories?",
+            "Answer": "<Tanjiro> does not wear glasses, but he does have earrings as accessories."
+        },
+        {
+            "Question": "How would you describe <Tanjiro>'s attire?",
+            "Answer": "<Tanjiro> is wearing a green and black checkered haori over a black outfit. He also has a white belt and is holding a sword."
+        },
+        {
+            "Question": "Does <Tanjiro> have any distinctive facial features?",
+            "Answer": "<Tanjiro> has a distinctive scar on his forehead."
+        },
+        {
+            "Question": "What is <Tanjiro> overall build or physique?",
+            "Answer": "<Tanjiro> has a lean and athletic build, suitable for agility and combat."
+        },
+        {
+            "Question": "What is <Tanjiro> general expression or demeanor?",
+            "Answer": "<Tanjiro>'s general expression or demeanor appears determined and ready for action, as indicated by his crouched stance and the way he holds his sword."
+        }
+    ],
+    "two_concept/concept/train/Tanjiro/9.png": [
+        {
+            "Question": "What is <Tanjiro> hair color?",
+            "Answer": "<Tanjiro>'s hair color is dark red."
+        },
+        {
+            "Question": "What color are <Tanjiro> eyes?",
+            "Answer": "I cannot determine the color of <Tanjiro>'s eyes from the given image."
+        },
+        {
+            "Question": "Would you describe <Tanjiro>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<Tanjiro>'s physique can be described as athletic."
+        },
+        {
+            "Question": "What is <Tanjiro> skin tone?",
+            "Answer": "<Tanjiro>'s skin tone is light."
+        },
+        {
+            "Question": "How would you describe <Tanjiro> hairstyle?",
+            "Answer": "<Tanjiro>'s hairstyle is medium-length, spiky, and dark red with black undertones."
+        },
+        {
+            "Question": "Does <Tanjiro> wear glasses or any accessories?",
+            "Answer": "<Tanjiro> wears earrings as accessories."
+        },
+        {
+            "Question": "How would you describe <Tanjiro>'s attire?",
+            "Answer": "<Tanjiro> is wearing a green and black checkered haori over a green robe with a white collar. He is also holding a sword."
+        },
+        {
+            "Question": "Does <Tanjiro> have any distinctive facial features?",
+            "Answer": "<Tanjiro> has distinctive earrings and a checkered green and black haori."
+        },
+        {
+            "Question": "What is <Tanjiro> overall build or physique?",
+            "Answer": "<Tanjiro> has a lean and athletic build."
+        },
+        {
+            "Question": "What is <Tanjiro> general expression or demeanor?",
+            "Answer": "<Tanjiro>'s general expression or demeanor appears determined and focused, as he holds a sword with a firm grip."
+        }
+    ]
+}

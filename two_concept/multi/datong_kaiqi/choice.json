@@ -1,0 +1,72 @@
+{
+    "two_concept/multi/datong_kaiqi/0.jpg": [
+        {
+            "Human": "What is <datong> wearing in the image? A. A brown and gray sweater. B. A blue jacket.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is <kaiqi> wearing on their head? A. A hat. B. A hood.",
+            "AI": "B"
+        },
+        {
+            "Human": "What color are the clothes of <datong> and <kaiqi>? A. Blue. B. Brown. C. Red.",
+            "AI": "B"
+        }
+    ],
+    "two_concept/multi/datong_kaiqi/1.jpg": [
+        {
+            "Human": "What is <datong> wearing in the image? A. A hoodie. B. A suit.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is <kaiqi> wearing in the image? A. A striped shirt. B. A plaid shirt. C. A plain black shirt.",
+            "AI": "B"
+        },
+        {
+            "Human": "What is <datong> wearing in the image? A. A hoodie. B. A suit. C. A T-shirt.",
+            "AI": "A"
+        }
+    ],
+    "two_concept/multi/datong_kaiqi/2.jpg": [
+        {
+            "Human": "What is <datong> wearing in the image? A. A hoodie. B. A suit. C. A t-shirt.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is <kaiqi> doing in the image? A.shaking hands. B.waving. C.sitting",
+            "AI": "A"
+        },
+        {
+            "Human": "What are <datong> and <kaiqi> doing in the image? A.shaking hands. B.dancing. C.eating.",
+            "AI": "A"
+        }
+    ],
+    "two_concept/multi/datong_kaiqi/3.jpg": [
+        {
+            "Human": "What color is <datong>'s shirt? A. Blue B. Red",
+            "AI": "A"
+        },
+        {
+            "Human": "What is <kaiqi> wearing in the image? A. A black top. B. A blue shirt. C. A white dress.",
+            "AI": "A"
+        },
+        {
+            "Human": "What color is <datong>'s shirt? A. Blue B. Red C. Green",
+            "AI": "A"
+        }
+    ],
+    "two_concept/multi/datong_kaiqi/4.jpg": [
+        {
+            "Human": "What color is <datong>'s outfit? A. Red B. Purple C. Blue",
+            "AI": "B"
+        },
+        {
+            "Human": "What color is <kaiqi>'s dress? A. Red. B. Blue. C. Pink.",
+            "AI": "C"
+        },
+        {
+            "Human": "What color is the traditional outfit worn by <kaiqi>? A. Red. B. Blue. C. Green.",
+            "AI": "A"
+        }
+    ]
+}

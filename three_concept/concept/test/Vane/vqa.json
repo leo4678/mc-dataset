@@ -1,0 +1,22 @@
+{
+    "three_concept/concept/test/Vane/0.png": {
+        "Human": "What colors are prominently featured in the design of <Vane>?",
+        "AI": "<Vane> prominently features yellow and orange colors in its design."
+    },
+    "three_concept/concept/test/Vane/1.png": {
+        "Human": "What colors are prominently featured in the design of <Vane>?",
+        "AI": "<Vane> prominently features yellow and orange colors in its design."
+    },
+    "three_concept/concept/test/Vane/2.png": {
+        "Human": "What colors are predominantly featured in the design of <Vane>?",
+        "AI": "The design of <Vane> predominantly features yellow and orange colors."
+    },
+    "three_concept/concept/test/Vane/3.png": {
+        "Human": "What colors are predominant in the design of <Vane>?",
+        "AI": "The design of <Vane> predominantly features yellow and orange colors."
+    },
+    "three_concept/concept/test/Vane/4.png": {
+        "Human": "What colors are prominently featured in the design of <Vane>?",
+        "AI": "The design of <Vane> prominently features yellow and orange colors."
+    }
+}

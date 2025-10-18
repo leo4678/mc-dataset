@@ -1,0 +1,22 @@
+{
+    "two_concept/concept/test/Houtarou/0.png": {
+        "Human": "What color is <Houtarou>'s hair?  A. Brown; B. Black; C. Blonde;",
+        "AI": "A"
+    },
+    "two_concept/concept/test/Houtarou/1.png": {
+        "Human": "What is the background setting in the image with <Houtarou>?  A. A beach; B. A brick wall; C. A forest;",
+        "AI": "B"
+    },
+    "two_concept/concept/test/Houtarou/2.png": {
+        "Human": "What is the background setting behind <Houtarou>?  A. Forest; B. Height measurement wall;",
+        "AI": "B"
+    },
+    "two_concept/concept/test/Houtarou/3.png": {
+        "Human": "What is <Houtarou> wearing?  A. A black suit; B. A white shirt; C. A blue hoodie;",
+        "AI": "A"
+    },
+    "two_concept/concept/test/Houtarou/4.png": {
+        "Human": "What is <Houtarou> doing in the image?  A. Walking on a road; B. Waving to someone;",
+        "AI": "B"
+    }
+}

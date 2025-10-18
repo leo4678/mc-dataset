@@ -1,0 +1,22 @@
+{
+    "two_concept/concept/test/Hai/0.jpg": {
+        "Human": "What is <Hai> holding in her hand? A. A book; B. A bag;",
+        "AI": "B"
+    },
+    "two_concept/concept/test/Hai/1.jpg": {
+        "Human": "What type of uniform is <Hai> wearing? A. Sailor uniform; B. Sports uniform;",
+        "AI": "A"
+    },
+    "two_concept/concept/test/Hai/2.jpg": {
+        "Human": "What is <Hai> wearing in the image?  A. A school uniform with a red bow; B. A casual outfit;",
+        "AI": "A"
+    },
+    "two_concept/concept/test/Hai/3.jpg": {
+        "Human": "What type of hairstyle does <Hai> have?  A. Ponytail; B. Braids; C. Bun;",
+        "AI": "B"
+    },
+    "two_concept/concept/test/Hai/4.jpg": {
+        "Human": "What color is <Hai>'s cardigan?  A. Blue; B. Pink; C. Green;",
+        "AI": "B"
+    }
+}

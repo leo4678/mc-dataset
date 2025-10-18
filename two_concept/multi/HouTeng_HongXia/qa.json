@@ -1,0 +1,22 @@
+[
+    {
+        "question": "Are both <HouTeng> and <HongXia> animals or humans? A. Animal. B. Human",
+        "answer": "B"
+    },
+    {
+        "question": "What are the hair colors of <HouTeng> and <HongXia> respectively? A. Pink, Blonde. B. Blonde, Pink",
+        "answer": "A"
+    },
+    {
+        "question": "What are the eye colors of <HouTeng> and <HongXia> respectively? A. Blue, Red. B. Red, Blue",
+        "answer": "A"
+    },
+    {
+        "question": "What type of clothing do <HouTeng> and <HongXia> often wear? A. Casual, School Uniform. B. Both Casual",
+        "answer": "A"
+    },
+    {
+        "question": "Do <HouTeng> and <HongXia> both have long hair? A. Yes. B. No",
+        "answer": "A"
+    }
+]

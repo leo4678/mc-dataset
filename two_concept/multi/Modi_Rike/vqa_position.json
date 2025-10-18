@@ -1,0 +1,52 @@
+{
+    "two_concept/multi/Modi_Rike/0.jpg": [
+        {
+            "Human": "Where is <Modi> located in the photo? A. left B. right.",
+            "AI": "B"
+        },
+        {
+            "Human": "Where is <Rike> located in the photo? A. left B. right.",
+            "AI": "A"
+        }
+    ],
+    "two_concept/multi/Modi_Rike/1.jpg": [
+        {
+            "Human": "Where is <Modi> located in the photo? A. left B. right.",
+            "AI": "B"
+        },
+        {
+            "Human": "Where is <Rike> located in the photo? A. left B. right.",
+            "AI": "A"
+        }
+    ],
+    "two_concept/multi/Modi_Rike/2.jpg": [
+        {
+            "Human": "Where is <Modi> located in the photo? A. left B. right.",
+            "AI": "A"
+        },
+        {
+            "Human": "Where is <Rike> located in the photo? A. left B. right.",
+            "AI": "B"
+        }
+    ],
+    "two_concept/multi/Modi_Rike/3.png": [
+        {
+            "Human": "Where is <Modi> located in the photo? A. left B. right.",
+            "AI": "A"
+        },
+        {
+            "Human": "Where is <Rike> located in the photo? A. left B. right.",
+            "AI": "B"
+        }
+    ],
+    "two_concept/multi/Modi_Rike/4.jpg": [
+        {
+            "Human": "Where is <Modi> located in the photo? A. left B. right.",
+            "AI": "A"
+        },
+        {
+            "Human": "Where is <Rike> located in the photo? A. left B. right.",
+            "AI": "B"
+        }
+    ]
+}

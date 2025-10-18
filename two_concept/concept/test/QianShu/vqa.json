@@ -1,0 +1,22 @@
+{
+    "two_concept/concept/test/QianShu/0.png": {
+        "Human": "What color is the bow in <QianShu>'s hair?",
+        "AI": "The bow in <QianShu>'s hair is red."
+    },
+    "two_concept/concept/test/QianShu/1.png": {
+        "Human": "What is <QianShu> holding in the image?",
+        "AI": "<QianShu> is holding a gun in the image."
+    },
+    "two_concept/concept/test/QianShu/2.png": {
+        "Human": "What color is the jacket that <QianShu> is wearing?",
+        "AI": "<QianShu> is wearing a red jacket."
+    },
+    "two_concept/concept/test/QianShu/3.png": {
+        "Human": "What color is <QianShu>'s hair?",
+        "AI": "<QianShu> has light blonde hair."
+    },
+    "two_concept/concept/test/QianShu/4.png": {
+        "Human": "What is <QianShu> holding in their hand?",
+        "AI": "<QianShu> is holding a pink smartphone in their hand."
+    }
+}

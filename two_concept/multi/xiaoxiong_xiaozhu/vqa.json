@@ -1,0 +1,72 @@
+{
+    "two_concept/multi/xiaoxiong_xiaozhu/0.png": [
+        {
+            "Human": "What is <xiaoxiong> holding in the image?",
+            "AI": "<xiaoxiong> is holding a flower in the image."
+        },
+        {
+            "Human": "What is <xiaozhu> holding in the image?",
+            "AI": "<xiaozhu> is holding a flower in the image."
+        },
+        {
+            "Human": "What are <xiaoxiong> and <xiaozhu> doing in the image?",
+            "AI": "<xiaoxiong> and <xiaozhu> are picking flowers in the image."
+        }
+    ],
+    "two_concept/multi/xiaoxiong_xiaozhu/1.png": [
+        {
+            "Human": "What is <xiaoxiong> wearing in the image?",
+            "AI": "<xiaoxiong> is wearing a red shirt."
+        },
+        {
+            "Human": "What is <xiaozhu> doing in the image?",
+            "AI": "<xiaozhu> is standing next to a bear and smiling."
+        },
+        {
+            "Human": "What are <xiaoxiong> and <xiaozhu> doing in the image?",
+            "AI": "<xiaoxiong> and <xiaozhu> are standing together and smiling."
+        }
+    ],
+    "two_concept/multi/xiaoxiong_xiaozhu/2.png": [
+        {
+            "Human": "What is <xiaoxiong> holding in the image?",
+            "AI": "<xiaoxiong> is holding a heart-shaped object with the word 'Valet' on it."
+        },
+        {
+            "Human": "What is <xiaozhu> holding in the image?",
+            "AI": "<xiaozhu> is holding nothing in the image."
+        },
+        {
+            "Human": "What is <xiaoxiong> holding while standing next to <xiaozhu>?",
+            "AI": "<xiaoxiong> is holding a heart-shaped object while standing next to <xiaozhu>."
+        }
+    ],
+    "two_concept/multi/xiaoxiong_xiaozhu/3.png": [
+        {
+            "Human": "What is <xiaoxiong> holding in the image?",
+            "AI": "<xiaoxiong> is holding a honey pot."
+        },
+        {
+            "Human": "What is <xiaozhu> doing in the image?",
+            "AI": "<xiaozhu> is sitting and hugging a bear while smiling."
+        },
+        {
+            "Human": "What are <xiaoxiong> and <xiaozhu> doing in the image?",
+            "AI": "<xiaoxiong> and <xiaozhu> are sitting together on a log, with <xiaoxiong> holding a pot and <xiaozhu> leaning against <xiaoxiong>."
+        }
+    ],
+    "two_concept/multi/xiaoxiong_xiaozhu/4.png": [
+        {
+            "Human": "What is <xiaoxiong> holding in the image?",
+            "AI": "<xiaoxiong> is holding a pot of honey labeled 'HUNNY'."
+        },
+        {
+            "Human": "What is <xiaozhu> doing in the image?",
+            "AI": "<xiaozhu> is holding hands with Winnie the Pooh and walking."
+        },
+        {
+            "Human": "What are <xiaoxiong> and <xiaozhu> doing in the image?",
+            "AI": "<xiaoxiong> and <xiaozhu> are holding hands and walking together."
+        }
+    ]
+}

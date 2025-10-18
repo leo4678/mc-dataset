@@ -1,0 +1,22 @@
+[
+    {
+        "question": "Are both <Xiaobai> and <Xuxian> humans or animals? A. Humans. B. Animals",
+        "answer": "A"
+    },
+    {
+        "question": "What are the genders of <Xiaobai> and <Xuxian> respectively? A. Girl, Boy. B. Boy, Girl",
+        "answer": "A"
+    },
+    {
+        "question": "What is the common hair color of <Xiaobai> and <Xuxian>? A. Black. B. Brown",
+        "answer": "A"
+    },
+    {
+        "question": "What type of clothing do <Xiaobai> and <Xuxian> often wear? A. Traditional. B. Modern",
+        "answer": "A"
+    },
+    {
+        "question": "Do <Xiaobai> and <Xuxian> often wear hair accessories? A. Yes. B. No",
+        "answer": "A"
+    }
+]

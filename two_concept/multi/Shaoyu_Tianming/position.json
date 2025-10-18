@@ -1,0 +1,22 @@
+{
+    "0.jpg": {
+        "<Shaoyu>": "left",
+        "<Tianming>": "right"
+    },
+    "1.jpg": {
+        "<Shaoyu>": "right",
+        "<Tianming>": "left"
+    },
+    "2.jpg": {
+        "<Shaoyu>": "left",
+        "<Tianming>": "right"
+    },
+    "3.jpg": {
+        "<Shaoyu>": "right",
+        "<Tianming>": "left"
+    },
+    "4.jpg": {
+        "<Shaoyu>": "left",
+        "<Tianming>": "right"
+    }
+}

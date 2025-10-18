@@ -1,0 +1,22 @@
+{
+    "two_concept/concept/test/datong/0.jpg": {
+        "Human": "What color is the jacket that <datong> is wearing?  A. Yellow; B. Blue; C. Red;",
+        "AI": "A"
+    },
+    "two_concept/concept/test/datong/1.jpg": {
+        "Human": "What is <datong> wearing?  A. A black jacket and white shirt; B. A blue jacket and white shirt; C. A black jacket and blue shirt;",
+        "AI": "A"
+    },
+    "two_concept/concept/test/datong/2.jpg": {
+        "Human": "What color is the jacket that <datong> is wearing?  A. Black; B. White; C. Blue;",
+        "AI": "A"
+    },
+    "two_concept/concept/test/datong/3.jpg": {
+        "Human": "What is <datong> holding in the image?  A. A guitar; B. A microphone; C. A book;",
+        "AI": "B"
+    },
+    "two_concept/concept/test/datong/4.jpg": {
+        "Human": "What is <datong> holding in his hand?  A. A book; B. A microphone; C. A phone;",
+        "AI": "B"
+    }
+}

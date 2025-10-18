@@ -1,0 +1,72 @@
+{
+    "two_concept/multi/mingren_muye/0.png": [
+        {
+            "Human": "What is the distinctive feature of <mingren>'s appearance in the image?",
+            "AI": "<mingren> has spiky yellow hair and is wearing a headband with a symbol on it."
+        },
+        {
+            "Human": "What is the design on the <muye> headband?",
+            "AI": "The <muye> headband features a symbol that resembles a stylized leaf."
+        },
+        {
+            "Human": "What is <mingren> wearing on his head in the image?",
+            "AI": "<mingren> is wearing a <muye>, which is a ninja headband."
+        }
+    ],
+    "two_concept/multi/mingren_muye/1.png": [
+        {
+            "Human": "What is the color of <mingren>'s hair in the image?",
+            "AI": "<mingren> has yellow hair in the image."
+        },
+        {
+            "Human": "What is the color of the hair of the person wearing <muye> in the image?",
+            "AI": "The person wearing <muye> has bright yellow hair."
+        },
+        {
+            "Human": "What is <mingren> wearing on his head in the image?",
+            "AI": "<mingren> is wearing a <muye>, which is a ninja headband."
+        }
+    ],
+    "two_concept/multi/mingren_muye/2.png": [
+        {
+            "Human": "What expression is <mingren> showing in the image?",
+            "AI": "<mingren> is showing a wide, confident smile."
+        },
+        {
+            "Human": "What is the symbol on the <muye> headband?",
+            "AI": "The <muye> headband has a spiral leaf symbol on it."
+        },
+        {
+            "Human": "What expression is <mingren> showing while wearing the <muye> headband?",
+            "AI": "<mingren> is showing a wide, confident smile while wearing the <muye> headband."
+        }
+    ],
+    "two_concept/multi/mingren_muye/3.png": [
+        {
+            "Human": "What is the distinctive feature of <mingren>'s appearance in the image?",
+            "AI": "<mingren> has spiky yellow hair and is wearing a black headband with a metal plate."
+        },
+        {
+            "Human": "What is the color of the hair of the person wearing the <muye> headband?",
+            "AI": "The person wearing the <muye> headband has spiky yellow hair."
+        },
+        {
+            "Human": "What is the color of <mingren>'s hair and what accessory is <mingren> wearing?",
+            "AI": "<mingren> has yellow hair and is wearing a <muye> ninja headband."
+        }
+    ],
+    "two_concept/multi/mingren_muye/4.png": [
+        {
+            "Human": "What is the expression on <mingren>'s face in the image?",
+            "AI": "<mingren> has a serious and determined expression on his face."
+        },
+        {
+            "Human": "What is the symbol on the <muye> headband in the image?",
+            "AI": "The <muye> headband has a spiral leaf symbol on it."
+        },
+        {
+            "Human": "What is the expression on <mingren>'s face while wearing the <muye> headband?",
+            "AI": "<mingren> has a serious expression on his face while wearing the <muye> headband."
+        }
+    ]
+}

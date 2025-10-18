@@ -1,0 +1,152 @@
+{
+    "three_concept/multi/Juno_Kace_Lira/0.png": [
+        {
+            "Human": "What type of clothing is the character wearing along with <Juno>? A.red vest and blue shorts. B.green shirt and black pants. C.white t-shirt and brown trousers.",
+            "AI": "A"
+        },
+        {
+            "Human": "What type of clothing is <Kace> wearing in the image? A.red long sleeve shirt. B.red sleeveless vest. C.blue jacket",
+            "AI": "B"
+        },
+        {
+            "Human": "What type of clothing is <Lira> wearing in the image? A.blue shorts. B.red jacket. C.green pants",
+            "AI": "A"
+        },
+        {
+            "Human": "What is the posture of the character wearing <Juno> and <Kace>? A.Standing with arms crossed. B.Flexing muscles with one arm raised. C.Sitting with legs crossed.",
+            "AI": "B"
+        },
+        {
+            "Human": "What is the color of the vest worn by the character with <Juno> and <Lira>? A.red. B.green. C.black.",
+            "AI": "A"
+        },
+        {
+            "Human": "What type of footwear is <Kace> wearing in the image? A.sneakers. B.flip-flops. C.boots",
+            "AI": "B"
+        },
+        {
+            "Human": "What is the posture of the character wearing <Juno>, <Kace>, and <Lira>? A.Standing with arms crossed. B.Flexing one arm. C.Sitting down.",
+            "AI": "B"
+        }
+    ],
+    "three_concept/multi/Juno_Kace_Lira/1.png": [
+        {
+            "Human": "What is the background setting behind <Juno>? A. a forest. B. a beach. C. a cityscape.",
+            "AI": "B"
+        },
+        {
+            "Human": "What type of clothing is <Kace> wearing in the image? A.red long sleeve shirt. B.red sleeveless vest. C.blue jacket",
+            "AI": "B"
+        },
+        {
+            "Human": "What is <Lira> wearing in the image? A.blue shorts. B.red shorts. C.green shorts.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is the background setting behind <Juno> and <Kace>? A. beach. B. forest. C. cityscape.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is the color of <Juno> and <Lira> in the image? A.yellow and blue. B.red and green. C.black and white.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is the background setting behind <Kace> and <Lira>? A. a beach. B. a forest. C. a cityscape.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is the background setting behind <Juno>, <Kace>, and <Lira>? A. a forest. B. a beach. C. a cityscape.",
+            "AI": "B"
+        }
+    ],
+    "three_concept/multi/Juno_Kace_Lira/2.png": [
+        {
+            "Human": "What is the background setting where <Juno> is located? A. a bustling city. B. a quiet village. C. a tropical island.",
+            "AI": "C"
+        },
+        {
+            "Human": "What is the background setting behind <Kace>? A.urban street. B.desert. C.mountain range",
+            "AI": "A"
+        },
+        {
+            "Human": "What is the background setting in the image where <Lira> is present? A.urban street. B.beach. C.forest",
+            "AI": "A"
+        },
+        {
+            "Human": "What is the setting in the background of <Juno> and <Kace>? A.urban street. B.beach. C.mountain trail",
+            "AI": "A"
+        },
+        {
+            "Human": "What is the setting of the background where <Juno> and <Lira> are located? A.urban street. B.beach. C.forest",
+            "AI": "A"
+        },
+        {
+            "Human": "What is the setting in the background of <Kace> and <Lira>? A.urban cityscape. B.tropical village. C.mountainous region",
+            "AI": "B"
+        },
+        {
+            "Human": "What is the setting of the background where <Juno>, <Kace>, and <Lira> are located? A.urban street. B.beach. C.mountain trail",
+            "AI": "A"
+        }
+    ],
+    "three_concept/multi/Juno_Kace_Lira/3.png": [
+        {
+            "Human": "What is the color of the clothing worn by the character with <Juno>? A.red and blue. B.green and yellow. C.black and white.",
+            "AI": "A"
+        },
+        {
+            "Human": "What type of hat is <Kace> wearing in the image? A. baseball cap. B. straw hat. C. beanie.",
+            "AI": "B"
+        },
+        {
+            "Human": "What is <Lira> wearing on the upper body in the image? A.a red jacket. B.a blue shirt. C.a green sweater.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is the color of the pants worn by the character with <Juno> and <Kace>? A.blue. B.green. C.black.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is the color of the clothing worn by the character with <Juno> and <Lira>? A.red. B.green. C.black.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is the color of the clothing worn by <Kace> and <Lira>? A.red and blue. B.green and yellow. C.black and white.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is the color of the shorts worn by <Lira> in the image? A.green. B.blue. C.red.",
+            "AI": "B"
+        }
+    ],
+    "three_concept/multi/Juno_Kace_Lira/4.png": [
+        {
+            "Human": "What is <Juno> doing in the image? A. Resting under a tree. B. Walking on the beach. C. Climbing a mountain.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is <Kace> doing in the image? A. Sitting under a tree. B. Running in a field. C. Climbing a tree.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is <Lira> doing in the image? A.sitting under a tree. B.walking in a park. C.swimming in a pool.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is the setting in which <Juno> and <Kace> are depicted? A.on a beach. B.in a grassy field under a tree. C.in a city park.",
+            "AI": "B"
+        },
+        {
+            "Human": "What is the character wearing in the image? A.<Juno> and <Lira>. B.<Juno> and a red shirt. C.<Lira> and a green shirt.",
+            "AI": "B"
+        },
+        {
+            "Human": "What is the character wearing in the image that represents <Kace> and <Lira>? A.red long sleeve shirt and blue shorts. B.red sleeveless vest and blue shorts. C.red long sleeve shirt and white pants.",
+            "AI": "B"
+        },
+        {
+            "Human": "What is the character wearing in the image? A.<Juno> and <Kace>. B.<Kace> and <Lira>. C.<Juno> and <Lira>.",
+            "AI": "B"
+        }
+    ]
+}

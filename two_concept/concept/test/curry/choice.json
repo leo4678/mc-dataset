@@ -1,0 +1,22 @@
+{
+    "two_concept/concept/test/curry/0.jpg": {
+        "Human": "What sport is <curry> playing in the image?  A. Basketball; B. Soccer; C. Tennis;",
+        "AI": "A"
+    },
+    "two_concept/concept/test/curry/1.jpg": {
+        "Human": "What sport is <curry> playing in the image?  A. Soccer; B. Basketball; C. Tennis;",
+        "AI": "B"
+    },
+    "two_concept/concept/test/curry/2.jpg": {
+        "Human": "What sport is <curry> playing in the image?  A. Soccer; B. Basketball; C. Tennis;",
+        "AI": "B"
+    },
+    "two_concept/concept/test/curry/3.jpg": {
+        "Human": "How many championship trophies are displayed in the image with <curry>?  A. Four; B. Five; C. Six;",
+        "AI": "B"
+    },
+    "two_concept/concept/test/curry/4.jpg": {
+        "Human": "What team does <curry> play for in the image?  A. Los Angeles Lakers; B. Golden State Warriors; C. Chicago Bulls;",
+        "AI": "B"
+    }
+}

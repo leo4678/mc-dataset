@@ -1,0 +1,22 @@
+{
+    "two_concept/concept/test/QinZi/0.png": {
+        "Human": "What is the expression on <QinZi>'s face?  A. Happy; B. Angry; C. Sad;",
+        "AI": "B"
+    },
+    "two_concept/concept/test/QinZi/1.png": {
+        "Human": "What color is <QinZi>'s hair?  A. Black; B. Red; C. Blonde;",
+        "AI": "B"
+    },
+    "two_concept/concept/test/QinZi/2.png": {
+        "Human": "What is <QinZi> wearing in the image?  A. A striped shirt; B. A polka dot shirt; C. A plain shirt;",
+        "AI": "B"
+    },
+    "two_concept/concept/test/QinZi/3.png": {
+        "Human": "What is the expression on <QinZi>'s face?  A. Happy; B. Angry; C. Determined;",
+        "AI": "C"
+    },
+    "two_concept/concept/test/QinZi/4.png": {
+        "Human": "What color is <QinZi>'s hair?  A. Black; B. Brown; C. Blonde;",
+        "AI": "B"
+    }
+}

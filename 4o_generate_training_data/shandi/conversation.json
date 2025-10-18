@@ -1,0 +1,422 @@
+{
+    "three_concept/concept/train/shandi/0.png": [
+        {
+            "Question": "What is <shandi> hair color?",
+            "Answer": "<shandi>'s hair color is brown."
+        },
+        {
+            "Question": "What color are <shandi> eyes?",
+            "Answer": "<shandi>'s eyes are black."
+        },
+        {
+            "Question": "Would you describe <shandi>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<shandi>'s physique is athletic."
+        },
+        {
+            "Question": "What is <shandi> skin tone?",
+            "Answer": "<shandi>'s skin tone is light brown."
+        },
+        {
+            "Question": "How would you describe <shandi> hairstyle?",
+            "Answer": "\\<shandi>'s hairstyle is short with a flower accessory."
+        },
+        {
+            "Question": "Does <shandi> wear glasses or any accessories?",
+            "Answer": "<shandi> is wearing a helmet with a pink flower accessory."
+        },
+        {
+            "Question": "How would you describe <shandi>'s attire?",
+            "Answer": "<shandi> is wearing a white astronaut suit with a clear helmet."
+        },
+        {
+            "Question": "Does <shandi> have any distinctive facial features?",
+            "Answer": "Yes, <shandi> has prominent buck teeth and a pink flower on her helmet."
+        },
+        {
+            "Question": "What is <shandi> overall build or physique?",
+            "Answer": "\\<shandi> has a cartoonish, anthropomorphic squirrel build with a round body and a bushy tail."
+        },
+        {
+            "Question": "What is <shandi> general expression or demeanor?",
+            "Answer": "<shandi> has a confident and pleased expression."
+        }
+    ],
+    "three_concept/concept/train/shandi/1.png": [
+        {
+            "Question": "What is <shandi> hair color?",
+            "Answer": "<shandi>'s hair color is brown."
+        },
+        {
+            "Question": "What color are <shandi> eyes?",
+            "Answer": "<shandi>'s eyes are black."
+        },
+        {
+            "Question": "Would you describe <shandi>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<shandi>'s physique is athletic."
+        },
+        {
+            "Question": "What is <shandi> skin tone?",
+            "Answer": "<shandi> has a light brown skin tone."
+        },
+        {
+            "Question": "How would you describe <shandi> hairstyle?",
+            "Answer": "<shandi> is wearing a helmet, so the hairstyle is not visible."
+        },
+        {
+            "Question": "Does <shandi> wear glasses or any accessories?",
+            "Answer": "<shandi> is wearing a helmet with a pink flower on it."
+        },
+        {
+            "Question": "How would you describe <shandi>'s attire?",
+            "Answer": "\\<shandi> is wearing a white astronaut suit with a helmet, featuring a pink flower on top."
+        },
+        {
+            "Question": "Does <shandi> have any distinctive facial features?",
+            "Answer": "<shandi> has a large smile with prominent front teeth."
+        },
+        {
+            "Question": "What is <shandi> overall build or physique?",
+            "Answer": "<shandi> has a medium build, wearing a white spacesuit with a round helmet."
+        },
+        {
+            "Question": "What is <shandi> general expression or demeanor?",
+            "Answer": "<shandi> has a cheerful and happy expression."
+        }
+    ],
+    "three_concept/concept/train/shandi/2.png": [
+        {
+            "Question": "What is <shandi> hair color?",
+            "Answer": "<shandi>'s hair color is brown."
+        },
+        {
+            "Question": "What color are <shandi> eyes?",
+            "Answer": "<shandi>'s eyes are brown."
+        },
+        {
+            "Question": "Would you describe <shandi>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<shandi>'s physique is slim."
+        },
+        {
+            "Question": "What is <shandi> skin tone?",
+            "Answer": "<shandi>'s skin tone is light brown."
+        },
+        {
+            "Question": "How would you describe <shandi> hairstyle?",
+            "Answer": "\\<shandi>'s hairstyle features a pink flower on top of her head."
+        },
+        {
+            "Question": "Does <shandi> wear glasses or any accessories?",
+            "Answer": "<shandi> is wearing a helmet with a pink flower on top."
+        },
+        {
+            "Question": "How would you describe <shandi>'s attire?",
+            "Answer": "<shandi> is wearing a white spacesuit with a helmet and a pink flower on top."
+        },
+        {
+            "Question": "Does <shandi> have any distinctive facial features?",
+            "Answer": "<shandi> has large, round eyes and prominent buck teeth."
+        },
+        {
+            "Question": "What is <shandi> overall build or physique?",
+            "Answer": "\\<shandi> has a cartoonish, round, and chubby build."
+        },
+        {
+            "Question": "What is <shandi> general expression or demeanor?",
+            "Answer": "<shandi> has a cheerful and excited expression."
+        }
+    ],
+    "three_concept/concept/train/shandi/3.png": [
+        {
+            "Question": "What is <shandi> hair color?",
+            "Answer": "The character's hair color is brown."
+        },
+        {
+            "Question": "What color are <shandi> eyes?",
+            "Answer": "<shandi>'s eyes are white with black pupils."
+        },
+        {
+            "Question": "Would you describe <shandi>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<shandi>'s physique is slim."
+        },
+        {
+            "Question": "What is <shandi> skin tone?",
+            "Answer": "<shandi> has a light brown skin tone."
+        },
+        {
+            "Question": "How would you describe <shandi> hairstyle?",
+            "Answer": "<shandi> has short, brown hair with a pink flower accessory."
+        },
+        {
+            "Question": "Does <shandi> wear glasses or any accessories?",
+            "Answer": "<shandi> is wearing a helmet with a pink flower accessory."
+        },
+        {
+            "Question": "How would you describe <shandi>'s attire?",
+            "Answer": "<shandi> is wearing a white astronaut suit with a clear helmet and a pink flower on top."
+        },
+        {
+            "Question": "Does <shandi> have any distinctive facial features?",
+            "Answer": "<shandi> has large, round eyes and prominent front teeth."
+        },
+        {
+            "Question": "What is <shandi> overall build or physique?",
+            "Answer": "<shandi> has a small and compact build."
+        },
+        {
+            "Question": "What is <shandi> general expression or demeanor?",
+            "Answer": "<shandi> has a cheerful and excited expression."
+        }
+    ],
+    "three_concept/concept/train/shandi/4.png": [
+        {
+            "Question": "What is <shandi> hair color?",
+            "Answer": "`<shandi>`'s hair color is brown."
+        },
+        {
+            "Question": "What color are <shandi> eyes?",
+            "Answer": "<shandi>'s eyes are black."
+        },
+        {
+            "Question": "Would you describe <shandi>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<shandi>'s physique is best described as slim."
+        },
+        {
+            "Question": "What is <shandi> skin tone?",
+            "Answer": "<shandi> has a light brown skin tone."
+        },
+        {
+            "Question": "How would you describe <shandi> hairstyle?",
+            "Answer": "<shandi> has short hair with a pink flower on top."
+        },
+        {
+            "Question": "Does <shandi> wear glasses or any accessories?",
+            "Answer": "<shandi> is wearing a helmet with a pink flower on it."
+        },
+        {
+            "Question": "How would you describe <shandi>'s attire?",
+            "Answer": "<shandi> is wearing a white astronaut suit with a clear helmet and gray boots."
+        },
+        {
+            "Question": "Does <shandi> have any distinctive facial features?",
+            "Answer": "Yes, <shandi> has prominent buck teeth and a pink flower on her helmet."
+        },
+        {
+            "Question": "What is <shandi> overall build or physique?",
+            "Answer": "\\<shandi> has a small and compact build."
+        },
+        {
+            "Question": "What is <shandi> general expression or demeanor?",
+            "Answer": "<shandi> has a cheerful and friendly expression."
+        }
+    ],
+    "three_concept/concept/train/shandi/5.png": [
+        {
+            "Question": "What is <shandi> hair color?",
+            "Answer": "<shandi>'s hair color is brown."
+        },
+        {
+            "Question": "What color are <shandi> eyes?",
+            "Answer": "<shandi>'s eyes are white with black pupils."
+        },
+        {
+            "Question": "Would you describe <shandi>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<shandi>'s physique is athletic."
+        },
+        {
+            "Question": "What is <shandi> skin tone?",
+            "Answer": "I can't determine the skin tone of <shandi> from the image."
+        },
+        {
+            "Question": "How would you describe <shandi> hairstyle?",
+            "Answer": "<shandi> has short hair with a flower on top."
+        },
+        {
+            "Question": "Does <shandi> wear glasses or any accessories?",
+            "Answer": "<shandi> is wearing a clear helmet with a pink flower on top."
+        },
+        {
+            "Question": "How would you describe <shandi>'s attire?",
+            "Answer": "<shandi> is wearing a white spacesuit with colored stripes on the arms and a clear helmet."
+        },
+        {
+            "Question": "Does <shandi> have any distinctive facial features?",
+            "Answer": "<shandi> has large, wide eyes and a prominent set of teeth showing."
+        },
+        {
+            "Question": "What is <shandi> overall build or physique?",
+            "Answer": "\\<shandi> has a strong and muscular build."
+        },
+        {
+            "Question": "What is <shandi> general expression or demeanor?",
+            "Answer": "<shandi> has a determined and strained expression."
+        }
+    ],
+    "three_concept/concept/train/shandi/6.png": [
+        {
+            "Question": "What is <shandi> hair color?",
+            "Answer": "`<shandi>`'s hair color is brown."
+        },
+        {
+            "Question": "What color are <shandi> eyes?",
+            "Answer": "<shandi>'s eyes are black."
+        },
+        {
+            "Question": "Would you describe <shandi>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<shandi>'s physique is slim."
+        },
+        {
+            "Question": "What is <shandi> skin tone?",
+            "Answer": "<shandi> has a light brown fur tone."
+        },
+        {
+            "Question": "How would you describe <shandi> hairstyle?",
+            "Answer": "<shandi> has short hair with a pink flower on top."
+        },
+        {
+            "Question": "Does <shandi> wear glasses or any accessories?",
+            "Answer": "<shandi> is wearing a helmet with a pink flower on top."
+        },
+        {
+            "Question": "How would you describe <shandi>'s attire?",
+            "Answer": "<shandi> is wearing a white space suit with a clear helmet and gray boots."
+        },
+        {
+            "Question": "Does <shandi> have any distinctive facial features?",
+            "Answer": "<shandi> has prominent buck teeth and a pink flower on her helmet."
+        },
+        {
+            "Question": "What is <shandi> overall build or physique?",
+            "Answer": "\\<shandi> has a small and compact build."
+        },
+        {
+            "Question": "What is <shandi> general expression or demeanor?",
+            "Answer": "<shandi> appears surprised or concerned."
+        }
+    ],
+    "three_concept/concept/train/shandi/7.png": [
+        {
+            "Question": "What is <shandi> hair color?",
+            "Answer": "<shandi>'s hair color is brown."
+        },
+        {
+            "Question": "What color are <shandi> eyes?",
+            "Answer": "<shandi>'s eyes are black."
+        },
+        {
+            "Question": "Would you describe <shandi>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<shandi>'s physique is athletic."
+        },
+        {
+            "Question": "What is <shandi> skin tone?",
+            "Answer": "<shandi> has a light brown skin tone."
+        },
+        {
+            "Question": "How would you describe <shandi> hairstyle?",
+            "Answer": "<shandi> has short hair with a pink flower on top."
+        },
+        {
+            "Question": "Does <shandi> wear glasses or any accessories?",
+            "Answer": "<shandi> is wearing a helmet with a pink flower on it."
+        },
+        {
+            "Question": "How would you describe <shandi>'s attire?",
+            "Answer": "\\<shandi> is wearing a white space suit with a clear helmet and a pink flower on top."
+        },
+        {
+            "Question": "Does <shandi> have any distinctive facial features?",
+            "Answer": "Yes, <shandi> has prominent buck teeth and a pink nose."
+        },
+        {
+            "Question": "What is <shandi> overall build or physique?",
+            "Answer": "\\<shandi> has a small and stocky build."
+        },
+        {
+            "Question": "What is <shandi> general expression or demeanor?",
+            "Answer": "<shandi> has a confident and cheerful expression."
+        }
+    ],
+    "three_concept/concept/train/shandi/8.png": [
+        {
+            "Question": "What is <shandi> hair color?",
+            "Answer": "<shandi>'s hair color is brown."
+        },
+        {
+            "Question": "What color are <shandi> eyes?",
+            "Answer": "<shandi>'s eyes are white with black pupils."
+        },
+        {
+            "Question": "Would you describe <shandi>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<shandi>'s physique is cartoonish and not easily categorized as athletic or slim."
+        },
+        {
+            "Question": "What is <shandi> skin tone?",
+            "Answer": "<shandi>'s skin tone is light brown."
+        },
+        {
+            "Question": "How would you describe <shandi> hairstyle?",
+            "Answer": "<shandi> has short hair with a pink flower accessory."
+        },
+        {
+            "Question": "Does <shandi> wear glasses or any accessories?",
+            "Answer": "<shandi> is wearing a helmet with a pink flower accessory."
+        },
+        {
+            "Question": "How would you describe <shandi>'s attire?",
+            "Answer": "<shandi> is wearing a white astronaut suit with a helmet. The suit has red and blue stripes on the arms, an acorn emblem on the chest, and gray boots. There's a pink flower on the helmet."
+        },
+        {
+            "Question": "Does <shandi> have any distinctive facial features?",
+            "Answer": "<shandi> has large front teeth and a big smile."
+        },
+        {
+            "Question": "What is <shandi> overall build or physique?",
+            "Answer": "<shandi> has a cartoonish, anthropomorphic squirrel build with a round body and a bushy tail."
+        },
+        {
+            "Question": "What is <shandi> general expression or demeanor?",
+            "Answer": "<shandi> has a cheerful and friendly expression."
+        }
+    ],
+    "three_concept/concept/train/shandi/9.png": [
+        {
+            "Question": "What is <shandi> hair color?",
+            "Answer": "<shandi>'s hair color is brown."
+        },
+        {
+            "Question": "What color are <shandi> eyes?",
+            "Answer": "<shandi>'s eyes are black."
+        },
+        {
+            "Question": "Would you describe <shandi>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<shandi>'s physique is slim."
+        },
+        {
+            "Question": "What is <shandi> skin tone?",
+            "Answer": "<shandi> has a light brown skin tone."
+        },
+        {
+            "Question": "How would you describe <shandi> hairstyle?",
+            "Answer": "<shandi> has short, brown hair with two small tufts on top."
+        },
+        {
+            "Question": "Does <shandi> wear glasses or any accessories?",
+            "Answer": "<shandi> is wearing a clear helmet as an accessory."
+        },
+        {
+            "Question": "How would you describe <shandi>'s attire?",
+            "Answer": "<shandi> is wearing a white astronaut suit with a helmet, featuring red and blue stripes on the arms and an acorn emblem on the chest."
+        },
+        {
+            "Question": "Does <shandi> have any distinctive facial features?",
+            "Answer": "Yes, <shandi> has prominent buck teeth and a pink nose."
+        },
+        {
+            "Question": "What is <shandi> overall build or physique?",
+            "Answer": "\\<shandi> has a cartoonish, anthropomorphic squirrel build with a round body and a bushy tail."
+        },
+        {
+            "Question": "What is <shandi> general expression or demeanor?",
+            "Answer": "<shandi> has a cheerful and content expression."
+        }
+    ]
+}

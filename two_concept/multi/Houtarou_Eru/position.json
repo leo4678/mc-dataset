@@ -1,0 +1,22 @@
+{
+    "0.png": {
+        "<Houtarou>": "left",
+        "<Eru>": "right"
+    },
+    "1.png": {
+        "<Houtarou>": "right",
+        "<Eru>": "left"
+    },
+    "2.png": {
+        "<Houtarou>": "right",
+        "<Eru>": "left"
+    },
+    "3.png": {
+        "<Houtarou>": "left",
+        "<Eru>": "right"
+    },
+    "4.png": {
+        "<Houtarou>": "right",
+        "<Eru>": "left"
+    }
+}

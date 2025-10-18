@@ -1,0 +1,152 @@
+{
+    "three_concept/multi/Alex_Gloria_Marty/0.png": [
+        {
+            "Human": "What is <Alex> doing in the image?",
+            "AI": "<Alex> is standing and smiling."
+        },
+        {
+            "Human": "What is <Gloria> doing in the image?",
+            "AI": "<Gloria> is standing and looking forward with a surprised expression."
+        },
+        {
+            "Human": "What expression does <Marty> have in the image?",
+            "AI": "<Marty> looks surprised in the image."
+        },
+        {
+            "Human": "What is the expression on the faces of <Alex> and <Gloria>?",
+            "AI": "<Alex> looks happy while <Gloria> appears surprised."
+        },
+        {
+            "Human": "What is the expression on <Alex> and <Marty>'s faces in the image?",
+            "AI": "<Alex> looks happy while <Marty> appears surprised."
+        },
+        {
+            "Human": "What are <Gloria> and <Marty> looking at in the image?",
+            "AI": "<Gloria> and <Marty> are looking ahead with surprised expressions."
+        },
+        {
+            "Human": "What are <Alex>, <Gloria>, and <Marty> looking at in the image?",
+            "AI": "<Alex>, <Gloria>, and <Marty> are looking at something in the distance with interest."
+        }
+    ],
+    "three_concept/multi/Alex_Gloria_Marty/1.png": [
+        {
+            "Human": "What expression does <Alex> have in the image?",
+            "AI": "<Alex> has a concerned expression in the image."
+        },
+        {
+            "Human": "What expression does <Gloria> have in the image?",
+            "AI": "<Gloria> has a concerned expression."
+        },
+        {
+            "Human": "What is <Marty> wearing on his head in the image?",
+            "AI": "<Marty> is wearing a blue helmet with stars on it."
+        },
+        {
+            "Human": "What is the expression on <Alex> and <Gloria>'s faces?",
+            "AI": "<Alex> looks concerned while <Gloria> appears thoughtful."
+        },
+        {
+            "Human": "What expression do <Alex> and <Marty> have in the image?",
+            "AI": "<Alex> looks concerned, while <Marty> appears curious."
+        },
+        {
+            "Human": "What expressions do <Gloria> and <Marty> have in the image?",
+            "AI": "<Gloria> looks concerned while <Marty> appears curious."
+        },
+        {
+            "Human": "What expressions do <Alex>, <Gloria>, and <Marty> have in the image?",
+            "AI": "<Alex> looks concerned, <Gloria> appears thoughtful, and <Marty> seems curious."
+        }
+    ],
+    "three_concept/multi/Alex_Gloria_Marty/2.png": [
+        {
+            "Human": "What expression does <Alex> have in the image?",
+            "AI": "<Alex> has a surprised expression in the image."
+        },
+        {
+            "Human": "What expression does <Gloria> have in the image?",
+            "AI": "<Gloria> looks surprised in the image."
+        },
+        {
+            "Human": "What expression does <Marty> have in the image?",
+            "AI": "<Marty> looks surprised or concerned in the image."
+        },
+        {
+            "Human": "What expressions do <Alex> and <Gloria> have in the image?",
+            "AI": "<Alex> looks surprised while <Gloria> appears concerned."
+        },
+        {
+            "Human": "What expressions do <Alex> and <Marty> have in the image?",
+            "AI": "<Alex> looks surprised, while <Marty> appears curious."
+        },
+        {
+            "Human": "What expressions do <Gloria> and <Marty> have in the image?",
+            "AI": "<Gloria> and <Marty> both appear to have surprised expressions in the image."
+        },
+        {
+            "Human": "What expressions do <Alex>, <Gloria>, and <Marty> have in the image?",
+            "AI": "<Alex>, <Gloria>, and <Marty> appear to have surprised expressions in the image."
+        }
+    ],
+    "three_concept/multi/Alex_Gloria_Marty/3.png": [
+        {
+            "Human": "What is the expression on <Alex>'s face in the image?",
+            "AI": "<Alex> looks surprised or confused."
+        },
+        {
+            "Human": "What is the expression on <Gloria>'s face in the image?",
+            "AI": "<Gloria> looks curious or slightly concerned."
+        },
+        {
+            "Human": "What is the expression on <Marty>'s face in the image?",
+            "AI": "<Marty> looks surprised or confused."
+        },
+        {
+            "Human": "What is the setting where <Alex> and <Gloria> are located?",
+            "AI": "<Alex> and <Gloria> are on a beach with the ocean in the background."
+        },
+        {
+            "Human": "What is the expression on <Alex>'s face while standing next to <Marty>?",
+            "AI": "<Alex> looks surprised while standing next to <Marty>."
+        },
+        {
+            "Human": "What is the setting where <Gloria> and <Marty> are standing?",
+            "AI": "<Gloria> and <Marty> are standing on a beach with the ocean in the background."
+        },
+        {
+            "Human": "What is the setting where <Alex>, <Gloria>, and <Marty> are standing?",
+            "AI": "<Alex>, <Gloria>, and <Marty> are standing on a beach with the ocean in the background."
+        }
+    ],
+    "three_concept/multi/Alex_Gloria_Marty/4.png": [
+        {
+            "Human": "What is <Alex> doing in the image?",
+            "AI": "<Alex> is carrying other animals on his shoulders."
+        },
+        {
+            "Human": "What is <Gloria> doing in the image?",
+            "AI": "<Gloria> is sitting on top of a giraffe, looking surprised."
+        },
+        {
+            "Human": "What is <Marty> doing in the image?",
+            "AI": "<Marty> is balancing on top of a lion's head with a surprised expression."
+        },
+        {
+            "Human": "What are <Alex> and <Gloria> doing in the image?",
+            "AI": "<Alex> is carrying <Gloria> along with other animals on his shoulders."
+        },
+        {
+            "Human": "What are <Alex> and <Marty> doing in the image?",
+            "AI": "<Alex> is carrying <Marty> along with other animals on his shoulders."
+        },
+        {
+            "Human": "What are <Gloria> and <Marty> doing in the image?",
+            "AI": "<Gloria> and <Marty> are balancing on top of a lion's head."
+        },
+        {
+            "Human": "What are <Alex>, <Gloria>, and <Marty> doing in the image?",
+            "AI": "<Alex>, <Gloria>, and <Marty> are stacked on top of each other, with <Alex> at the bottom, <Gloria> in the middle, and <Marty> on top."
+        }
+    ]
+}

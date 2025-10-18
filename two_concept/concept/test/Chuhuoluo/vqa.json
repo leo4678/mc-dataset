@@ -1,0 +1,22 @@
+{
+    "two_concept/concept/test/Chuhuoluo/0.jpg": {
+        "Human": "What kind of accessory is <Chuhuoluo> wearing in her hair?",
+        "AI": "<Chuhuoluo> is wearing a flower-shaped hairpin with golden accents in her hair."
+    },
+    "two_concept/concept/test/Chuhuoluo/1.jpg": {
+        "Human": "What color is <Chuhuoluo>'s hair in the image?",
+        "AI": "<Chuhuoluo>'s hair is brown."
+    },
+    "two_concept/concept/test/Chuhuoluo/2.jpg": {
+        "Human": "What color is the outfit that <Chuhuoluo> is wearing?",
+        "AI": "<Chuhuoluo> is wearing a red outfit with gold and purple accents."
+    },
+    "two_concept/concept/test/Chuhuoluo/3.jpg": {
+        "Human": "What kind of accessories is <Chuhuoluo> wearing in the image?",
+        "AI": "<Chuhuoluo> is wearing white and gold hair ornaments with dangling geometric shapes and beads in the image."
+    },
+    "two_concept/concept/test/Chuhuoluo/4.jpg": {
+        "Human": "What color is the crystal on <Chuhuoluo>'s accessory?",
+        "AI": "The crystal on <Chuhuoluo>'s accessory is blue."
+    }
+}

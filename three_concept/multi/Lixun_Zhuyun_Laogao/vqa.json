@@ -1,0 +1,152 @@
+{
+    "three_concept/multi/Lixun_Zhuyun_Laogao/0.png": [
+        {
+            "Human": "What is <Lixun> holding in the image?",
+            "AI": "<Lixun> is holding a laptop."
+        },
+        {
+            "Human": "What is <Zhuyun> holding in the image?",
+            "AI": "<Zhuyun> is holding a laptop."
+        },
+        {
+            "Human": "What is <Laogao> wearing in the image?",
+            "AI": "<Laogao> is wearing a green jacket and jeans."
+        },
+        {
+            "Human": "What are <Lixun> and <Zhuyun> doing in the image?",
+            "AI": "<Lixun> and <Zhuyun> are sitting outdoors with a laptop."
+        },
+        {
+            "Human": "What are <Lixun> and <Laogao> doing in the image?",
+            "AI": "<Lixun> and <Laogao> are sitting outdoors with a laptop."
+        },
+        {
+            "Human": "What are <Zhuyun> and <Laogao> doing in the image?",
+            "AI": "<Zhuyun> and <Laogao> are sitting outdoors, with <Zhuyun> holding a laptop."
+        },
+        {
+            "Human": "What are <Lixun>, <Zhuyun>, and <Laogao> doing in the image?",
+            "AI": "<Lixun>, <Zhuyun>, and <Laogao> are sitting outdoors with a laptop."
+        }
+    ],
+    "three_concept/multi/Lixun_Zhuyun_Laogao/1.png": [
+        {
+            "Human": "What is <Lixun> wearing in the image?",
+            "AI": "<Lixun> is wearing a white jacket."
+        },
+        {
+            "Human": "What is <Zhuyun> wearing in the image?",
+            "AI": "<Zhuyun> is wearing a brown jacket."
+        },
+        {
+            "Human": "What is <Laogao> wearing in the image?",
+            "AI": "<Laogao> is wearing an orange hoodie under a dark jacket."
+        },
+        {
+            "Human": "What are <Lixun> and <Zhuyun> wearing in the image?",
+            "AI": "<Lixun> is wearing a white jacket, and <Zhuyun> is wearing a brown jacket."
+        },
+        {
+            "Human": "What are <Lixun> and <Laogao> wearing in the image?",
+            "AI": "<Lixun> is wearing a white jacket, and <Laogao> is wearing an orange hoodie with a dark jacket."
+        },
+        {
+            "Human": "What are <Zhuyun> and <Laogao> wearing in the image?",
+            "AI": "<Zhuyun> is wearing a brown jacket, and <Laogao> is wearing an orange hoodie under a dark jacket."
+        },
+        {
+            "Human": "What are <Lixun>, <Zhuyun>, and <Laogao> wearing in the image?",
+            "AI": "<Lixun> is wearing a white jacket, <Zhuyun> is wearing a brown jacket, and <Laogao> is wearing a green jacket with an orange hoodie."
+        }
+    ],
+    "three_concept/multi/Lixun_Zhuyun_Laogao/2.png": [
+        {
+            "Human": "What is <Lixun> wearing in the image?",
+            "AI": "<Lixun> is wearing a denim jacket."
+        },
+        {
+            "Human": "What is <Zhuyun> wearing in the image?",
+            "AI": "<Zhuyun> is wearing a light blue denim jacket."
+        },
+        {
+            "Human": "What is <Laogao> wearing in the image?",
+            "AI": "<Laogao> is wearing a blue denim jacket."
+        },
+        {
+            "Human": "What are <Lixun> and <Zhuyun> wearing in the image?",
+            "AI": "<Lixun> and <Zhuyun> are both wearing denim jackets."
+        },
+        {
+            "Human": "What are <Lixun> and <Laogao> doing in the image?",
+            "AI": "<Lixun> is standing near a desk, while <Laogao> is sitting and working on a laptop."
+        },
+        {
+            "Human": "What are <Zhuyun> and <Laogao> wearing in the image?",
+            "AI": "<Zhuyun> is wearing a light blue denim jacket, and <Laogao> is wearing a dark blue denim jacket."
+        },
+        {
+            "Human": "What are <Lixun>, <Zhuyun>, and <Laogao> doing in the image?",
+            "AI": "<Lixun> is standing and looking to the side, <Zhuyun> is standing in front of a computer, and <Laogao> is sitting at a desk with a laptop."
+        }
+    ],
+    "three_concept/multi/Lixun_Zhuyun_Laogao/3.png": [
+        {
+            "Human": "What is <Lixun> wearing in the image?",
+            "AI": "<Lixun> is wearing a white shirt."
+        },
+        {
+            "Human": "What is <Zhuyun> holding in the image?",
+            "AI": "<Zhuyun> is holding a certificate."
+        },
+        {
+            "Human": "What is <Laogao> wearing in the image?",
+            "AI": "<Laogao> is wearing a blue sweater vest over a white shirt with a tie."
+        },
+        {
+            "Human": "What is <Zhuyun> holding in the image?",
+            "AI": "<Zhuyun> is holding a certificate."
+        },
+        {
+            "Human": "What are <Lixun> and <Laogao> wearing in the image?",
+            "AI": "<Lixun> is wearing a white shirt, and <Laogao> is wearing a blue sweater with a tie."
+        },
+        {
+            "Human": "What is <Zhuyun> holding in the image?",
+            "AI": "<Zhuyun> is holding a certificate."
+        },
+        {
+            "Human": "What are <Lixun>, <Zhuyun>, and <Laogao> holding or wearing in the image?",
+            "AI": "<Lixun> is wearing a white shirt, <Zhuyun> is holding a certificate, and <Laogao> is wearing a blue sweater with a name tag."
+        }
+    ],
+    "three_concept/multi/Lixun_Zhuyun_Laogao/4.png": [
+        {
+            "Human": "What is <Lixun> holding in the image?",
+            "AI": "<Lixun> is holding a backpack strap."
+        },
+        {
+            "Human": "What is <Zhuyun> holding in the image?",
+            "AI": "<Zhuyun> is holding a document or folder."
+        },
+        {
+            "Human": "What is <Laogao> wearing in the image?",
+            "AI": "<Laogao> is wearing a striped jacket and carrying a blue backpack."
+        },
+        {
+            "Human": "What are <Lixun> and <Zhuyun> holding in the image?",
+            "AI": "<Lixun> is holding a backpack, and <Zhuyun> is holding a folder."
+        },
+        {
+            "Human": "What are <Lixun> and <Laogao> carrying in the image?",
+            "AI": "<Lixun> is carrying a backpack and holding a folder, while <Laogao> is carrying a backpack."
+        },
+        {
+            "Human": "What are <Zhuyun> and <Laogao> carrying in the image?",
+            "AI": "<Zhuyun> is carrying a backpack and holding a folder, while <Laogao> is carrying a backpack."
+        },
+        {
+            "Human": "What are <Lixun>, <Zhuyun>, and <Laogao> holding or carrying in the image?",
+            "AI": "<Lixun> is carrying a backpack, <Zhuyun> is holding a folder, and <Laogao> is also carrying a backpack."
+        }
+    ]
+}

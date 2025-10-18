@@ -1,0 +1,22 @@
+{
+    "three_concept/concept/test/Nola/0.png": {
+        "Human": "What is the distinctive feature on the sheath of <Nola>? \n A. Cross patterns; \n B. Dragon engravings; \n C. Floral designs;\n",
+        "AI": "A"
+    },
+    "three_concept/concept/test/Nola/1.png": {
+        "Human": "What is the primary color of the sheath of <Nola>? \n A. Black; \n B. Red; \n C. White;",
+        "AI": "A"
+    },
+    "three_concept/concept/test/Nola/2.png": {
+        "Human": "What is the primary color of the scabbard of <Nola>? \n A. Black; \n B. Red; \n C. Gold;\n",
+        "AI": "A"
+    },
+    "three_concept/concept/test/Nola/3.png": {
+        "Human": "What is the color of the handle wrap on <Nola>? \n A. Red; \n B. Blue; \n C. Black;",
+        "AI": "A"
+    },
+    "three_concept/concept/test/Nola/4.png": {
+        "Human": "What is the color of the sheath of <Nola>? \n A. Green with white crosses; \n B. Black with red stripes; \n C. Blue with yellow dots;\n",
+        "AI": "A"
+    }
+}

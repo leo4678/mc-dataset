@@ -1,0 +1,22 @@
+{
+    "two_concept/concept/test/Jun/0.jpg": {
+        "Human": "What is <Jun> holding in his hands?  A. A book; B. A tablet; C. A phone;",
+        "AI": "A"
+    },
+    "two_concept/concept/test/Jun/1.jpg": {
+        "Human": "What is <Jun> wearing?  A. A blue uniform; B. A red jacket;",
+        "AI": "A"
+    },
+    "two_concept/concept/test/Jun/2.jpg": {
+        "Human": "What is <Jun> holding in his hand?  A. A book; B. A photograph; C. A letter;",
+        "AI": "B"
+    },
+    "two_concept/concept/test/Jun/3.jpg": {
+        "Human": "What is <Jun> wearing on his head?  A. A cap; B. A helmet; C. A hat;",
+        "AI": "A"
+    },
+    "two_concept/concept/test/Jun/4.jpg": {
+        "Human": "What color is <Jun>'s jacket?  A. Blue; B. Green; C. Red;",
+        "AI": "A"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "two_concept/concept/test/Chen Shi/0.png": {
+        "Human": "What weapon is <Chen Shi> holding in the image?  A. Sword; B. Dagger; C. Nunchucks;",
+        "AI": "B"
+    },
+    "two_concept/concept/test/Chen Shi/1.png": {
+        "Human": "What type of clothing is <Chen Shi> wearing? A. Casual wear; B. Formal wear; C. Sportswear;",
+        "AI": "B"
+    },
+    "two_concept/concept/test/Chen Shi/2.png": {
+        "Human": "What type of clothing is <Chen Shi> wearing?  A. A modern suit B. A traditional outfit",
+        "AI": "B"
+    },
+    "two_concept/concept/test/Chen Shi/3.png": {
+        "Human": "What type of accessories is <Chen Shi> wearing?  A. A scarf; B. A bow tie; C. A tie;",
+        "AI": "B"
+    },
+    "two_concept/concept/test/Chen Shi/4.png": {
+        "Human": "What color clothing is <Chen Shi> wearing in the image?  A. Black  B. White",
+        "AI": "A"
+    }
+}

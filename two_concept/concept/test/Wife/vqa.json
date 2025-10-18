@@ -1,0 +1,22 @@
+{
+    "two_concept/concept/test/Wife/0.png": {
+        "Human": "What type of clothing is <Wife> wearing in the image?",
+        "AI": "<Wife> is wearing a traditional high-collared, buttoned shirt."
+    },
+    "two_concept/concept/test/Wife/1.png": {
+        "Human": "What is the background scenery in the image with <Wife>?",
+        "AI": "The background scenery in the image with <Wife> is a field with some trees in the distance."
+    },
+    "two_concept/concept/test/Wife/2.png": {
+        "Human": "What color is the cardigan that <Wife> is wearing?",
+        "AI": "<Wife> is wearing a blue cardigan."
+    },
+    "two_concept/concept/test/Wife/3.png": {
+        "Human": "What is <Wife> doing in the image?",
+        "AI": "<Wife> is lying on a bed, appearing to be in a state of rest or possibly in labor."
+    },
+    "two_concept/concept/test/Wife/4.png": {
+        "Human": "What type of clothing is <Wife> wearing in the image?",
+        "AI": "<Wife> is wearing a plaid shirt and a light-colored cardigan."
+    }
+}

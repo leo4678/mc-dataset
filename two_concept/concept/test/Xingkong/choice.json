@@ -1,0 +1,22 @@
+{
+    "two_concept/concept/test/Xingkong/0.png": {
+        "Human": "What color are <Xingkong>'s eyes?  A. Blue; B. Green; C. Brown;",
+        "AI": "B"
+    },
+    "two_concept/concept/test/Xingkong/1.png": {
+        "Human": "What color are <Xingkong>'s eyes?  A. Blue; B. Green; C. Brown;",
+        "AI": "B"
+    },
+    "two_concept/concept/test/Xingkong/2.png": {
+        "Human": "What color is <Xingkong>'s hair?  A. Purple; B. Green; C. Blue;",
+        "AI": "A"
+    },
+    "two_concept/concept/test/Xingkong/3.png": {
+        "Human": "What is the expression on <Xingkong>'s face?  A. Happy; B. Embarrassed; C. Angry;",
+        "AI": "B"
+    },
+    "two_concept/concept/test/Xingkong/4.png": {
+        "Human": "What is the expression on <Xingkong>'s face?  A. Happy; B. Surprised; C. Sad;",
+        "AI": "B"
+    }
+}

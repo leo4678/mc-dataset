@@ -1,0 +1,422 @@
+{
+    "two_concept/two_concept/concept/train/meidui/0.png": [
+        {
+            "Question": "What is <meidui> hair color?",
+            "Answer": "<meidui>'s hair color is not visible due to the helmet."
+        },
+        {
+            "Question": "What color are <meidui> eyes?",
+            "Answer": "<meidui>'s eyes are blue."
+        },
+        {
+            "Question": "Would you describe <meidui>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<meidui>'s physique is athletic."
+        },
+        {
+            "Question": "What is <meidui> skin tone?",
+            "Answer": "<meidui>'s skin tone is not visible in the image."
+        },
+        {
+            "Question": "How would you describe <meidui> hairstyle?",
+            "Answer": "<meidui> is wearing a helmet, so the hairstyle is not visible."
+        },
+        {
+            "Question": "Does <meidui> wear glasses or any accessories?",
+            "Answer": "<meidui> is wearing a helmet as an accessory."
+        },
+        {
+            "Question": "How would you describe <meidui>'s attire?",
+            "Answer": "<meidui> is wearing a dark blue suit with a prominent silver star on the chest, accompanied by silver stripes and a brown strap across the shoulder."
+        },
+        {
+            "Question": "Does <meidui> have any distinctive facial features?",
+            "Answer": "<meidui> is wearing a helmet, which covers the head and does not reveal any facial features."
+        },
+        {
+            "Question": "What is <meidui> overall build or physique?",
+            "Answer": "<meidui> has a muscular and athletic build, typical of a superhero character like Captain America."
+        },
+        {
+            "Question": "What is <meidui> general expression or demeanor?",
+            "Answer": "<meidui> has a strong and heroic demeanor, characterized by the iconic star emblem on the chest and the structured, protective suit."
+        }
+    ],
+    "two_concept/two_concept/concept/train/meidui/1.png": [
+        {
+            "Question": "What is <meidui> hair color?",
+            "Answer": "<meidui>'s hair color is not visible in the image."
+        },
+        {
+            "Question": "What color are <meidui> eyes?",
+            "Answer": "The eye color of <meidui> (Captain America) is blue."
+        },
+        {
+            "Question": "Would you describe <meidui>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<meidui>'s physique is athletic."
+        },
+        {
+            "Question": "What is <meidui> skin tone?",
+            "Answer": "<meidui>'s skin tone is not visible in the image."
+        },
+        {
+            "Question": "How would you describe <meidui> hairstyle?",
+            "Answer": "<meidui> is wearing a black helmet that covers the hair completely."
+        },
+        {
+            "Question": "Does <meidui> wear glasses or any accessories?",
+            "Answer": "<meidui> is wearing a helmet and gloves as accessories."
+        },
+        {
+            "Question": "How would you describe <meidui>'s attire?",
+            "Answer": "<meidui> is wearing a dark blue tactical suit with a silver star emblem on the chest, brown straps, and gloves."
+        },
+        {
+            "Question": "Does <meidui> have any distinctive facial features?",
+            "Answer": "<meidui> is wearing a mask that covers the head, leaving no facial features visible."
+        },
+        {
+            "Question": "What is <meidui> overall build or physique?",
+            "Answer": "<meidui> has a muscular and athletic build, wearing a form-fitting suit with a star emblem on the chest."
+        },
+        {
+            "Question": "What is <meidui> general expression or demeanor?",
+            "Answer": "<meidui> has a strong and confident demeanor, characterized by a powerful and heroic stance."
+        }
+    ],
+    "two_concept/two_concept/concept/train/meidui/2.png": [
+        {
+            "Question": "What is <meidui> hair color?",
+            "Answer": "<meidui>'s hair color is blonde."
+        },
+        {
+            "Question": "What color are <meidui> eyes?",
+            "Answer": "The image does not provide visible information about <meidui>'s eye color."
+        },
+        {
+            "Question": "Would you describe <meidui>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<meidui>'s physique is athletic."
+        },
+        {
+            "Question": "What is <meidui> skin tone?",
+            "Answer": "<meidui>'s skin tone is light."
+        },
+        {
+            "Question": "How would you describe <meidui> hairstyle?",
+            "Answer": "<meidui>'s hairstyle is short and neatly combed back."
+        },
+        {
+            "Question": "Does <meidui> wear glasses or any accessories?",
+            "Answer": "<meidui> does not wear glasses or any accessories."
+        },
+        {
+            "Question": "How would you describe <meidui>'s attire?",
+            "Answer": "<meidui> is wearing a blue, red, and silver armored suit with a star emblem on the chest, featuring a tactical belt and gloves."
+        },
+        {
+            "Question": "Does <meidui> have any distinctive facial features?",
+            "Answer": "<meidui> is wearing a distinctive suit with a star emblem on the chest, but no facial features are visible."
+        },
+        {
+            "Question": "What is <meidui> overall build or physique?",
+            "Answer": "<meidui> has a muscular and athletic build, characterized by broad shoulders and a strong upper body."
+        },
+        {
+            "Question": "What is <meidui> general expression or demeanor?",
+            "Answer": "<meidui> has a confident and heroic demeanor, characterized by a strong and upright posture."
+        }
+    ],
+    "two_concept/two_concept/concept/train/meidui/3.png": [
+        {
+            "Question": "What is <meidui> hair color?",
+            "Answer": "<meidui>'s hair color is not visible in the image."
+        },
+        {
+            "Question": "What color are <meidui> eyes?",
+            "Answer": "The eye color of <meidui> is not visible in the image."
+        },
+        {
+            "Question": "Would you describe <meidui>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<meidui>'s physique is athletic."
+        },
+        {
+            "Question": "What is <meidui> skin tone?",
+            "Answer": "<meidui>'s skin tone is not visible in the image."
+        },
+        {
+            "Question": "How would you describe <meidui> hairstyle?",
+            "Answer": "<meidui> is wearing a helmet, so the hairstyle is not visible."
+        },
+        {
+            "Question": "Does <meidui> wear glasses or any accessories?",
+            "Answer": "<meidui> is wearing a helmet and gloves as accessories."
+        },
+        {
+            "Question": "How would you describe <meidui>'s attire?",
+            "Answer": "<meidui> is wearing a dark blue tactical suit with a prominent silver star on the chest, brown straps, and fingerless gloves."
+        },
+        {
+            "Question": "Does <meidui> have any distinctive facial features?",
+            "Answer": "<meidui> is wearing a helmet as part of the Captain America costume, which covers most of the head, leaving no distinctive facial features visible."
+        },
+        {
+            "Question": "What is <meidui> overall build or physique?",
+            "Answer": "<meidui> has a muscular and athletic build, wearing a form-fitting suit that emphasizes a strong upper body and broad shoulders."
+        },
+        {
+            "Question": "What is <meidui> general expression or demeanor?",
+            "Answer": "<meidui> has a confident and strong demeanor, characterized by a powerful and assertive posture."
+        }
+    ],
+    "two_concept/two_concept/concept/train/meidui/4.png": [
+        {
+            "Question": "What is <meidui> hair color?",
+            "Answer": "<meidui>'s hair color is blonde."
+        },
+        {
+            "Question": "What color are <meidui> eyes?",
+            "Answer": "The eye color of <meidui> is typically blue."
+        },
+        {
+            "Question": "Would you describe <meidui>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<meidui>'s physique is athletic."
+        },
+        {
+            "Question": "What is <meidui> skin tone?",
+            "Answer": "<meidui>'s skin tone is light."
+        },
+        {
+            "Question": "How would you describe <meidui> hairstyle?",
+            "Answer": "<meidui>'s hairstyle is short and neatly styled with a slight upward wave at the front."
+        },
+        {
+            "Question": "Does <meidui> wear glasses or any accessories?",
+            "Answer": "<meidui> does not wear glasses but is wearing a dark blue suit with a star emblem and brown straps as accessories."
+        },
+        {
+            "Question": "How would you describe <meidui>'s attire?",
+            "Answer": "<meidui>'s attire is a dark blue tactical suit with a prominent silver star on the chest, featuring silver stripes on the shoulders and a brown utility belt."
+        },
+        {
+            "Question": "Does <meidui> have any distinctive facial features?",
+            "Answer": "<meidui> is wearing a costume with a star emblem on the chest, but no distinctive facial features can be identified."
+        },
+        {
+            "Question": "What is <meidui> overall build or physique?",
+            "Answer": "<meidui> has a muscular and athletic build, characterized by broad shoulders and a well-defined chest."
+        },
+        {
+            "Question": "What is <meidui> general expression or demeanor?",
+            "Answer": "<meidui> has a confident and heroic demeanor, characterized by a strong and upright posture."
+        }
+    ],
+    "two_concept/two_concept/concept/train/meidui/5.png": [
+        {
+            "Question": "What is <meidui> hair color?",
+            "Answer": "<meidui>'s hair color is blonde."
+        },
+        {
+            "Question": "What color are <meidui> eyes?",
+            "Answer": "The eye color of <meidui> is not visible in the image."
+        },
+        {
+            "Question": "Would you describe <meidui>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<meidui>'s physique is athletic."
+        },
+        {
+            "Question": "What is <meidui> skin tone?",
+            "Answer": "<meidui>'s skin tone is light."
+        },
+        {
+            "Question": "How would you describe <meidui> hairstyle?",
+            "Answer": "<meidui>'s hairstyle is short and neatly combed back."
+        },
+        {
+            "Question": "Does <meidui> wear glasses or any accessories?",
+            "Answer": "<meidui> does not wear glasses but has brown leather straps as part of the costume."
+        },
+        {
+            "Question": "How would you describe <meidui>'s attire?",
+            "Answer": "<meidui> is wearing a dark blue tactical suit with a star emblem on the chest, featuring armor-like padding on the shoulders and arms. The suit includes a brown utility belt and gloves, with a design that emphasizes protection and mobility."
+        },
+        {
+            "Question": "Does <meidui> have any distinctive facial features?",
+            "Answer": "<meidui> does not have any visible facial features in the image."
+        },
+        {
+            "Question": "What is <meidui> overall build or physique?",
+            "Answer": "<meidui> has a muscular and athletic build, characterized by broad shoulders and a strong, defined upper body."
+        },
+        {
+            "Question": "What is <meidui> general expression or demeanor?",
+            "Answer": "<meidui> has a confident and strong demeanor, characterized by a firm stance and a powerful posture."
+        }
+    ],
+    "two_concept/two_concept/concept/train/meidui/6.png": [
+        {
+            "Question": "What is <meidui> hair color?",
+            "Answer": "<meidui>'s hair color is not visible due to the helmet."
+        },
+        {
+            "Question": "What color are <meidui> eyes?",
+            "Answer": "The image does not show <meidui>'s eyes, so their color cannot be determined."
+        },
+        {
+            "Question": "Would you describe <meidui>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<meidui>'s physique is athletic."
+        },
+        {
+            "Question": "What is <meidui> skin tone?",
+            "Answer": "<meidui>'s skin tone is not visible due to the full-body costume covering the character."
+        },
+        {
+            "Question": "How would you describe <meidui> hairstyle?",
+            "Answer": "<meidui> is wearing a helmet, so the hairstyle is not visible."
+        },
+        {
+            "Question": "Does <meidui> wear glasses or any accessories?",
+            "Answer": "<meidui> does not wear glasses but has a shield on his back as an accessory."
+        },
+        {
+            "Question": "How would you describe <meidui>'s attire?",
+            "Answer": "<meidui> is wearing a blue suit with a white star on the chest, red and white stripes on the abdomen, red gloves, and red boots. The outfit includes a brown utility belt and a shield on the back."
+        },
+        {
+            "Question": "Does <meidui> have any distinctive facial features?",
+            "Answer": "<meidui> is wearing a helmet that covers the head, leaving no distinctive facial features visible."
+        },
+        {
+            "Question": "What is <meidui> overall build or physique?",
+            "Answer": "<meidui> has a muscular and athletic build, typical of a superhero physique."
+        },
+        {
+            "Question": "What is <meidui> general expression or demeanor?",
+            "Answer": "<meidui> has a strong and heroic demeanor, characterized by a confident and powerful stance."
+        }
+    ],
+    "two_concept/two_concept/concept/train/meidui/7.png": [
+        {
+            "Question": "What is <meidui> hair color?",
+            "Answer": "<meidui>'s hair color is light brown."
+        },
+        {
+            "Question": "What color are <meidui> eyes?",
+            "Answer": "<Captain America>'s eyes are blue."
+        },
+        {
+            "Question": "Would you describe <meidui>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<meidui>'s physique is athletic."
+        },
+        {
+            "Question": "What is <meidui> skin tone?",
+            "Answer": "<meidui>'s skin tone is light."
+        },
+        {
+            "Question": "How would you describe <meidui> hairstyle?",
+            "Answer": "<meidui>'s hairstyle is short and neatly combed back."
+        },
+        {
+            "Question": "Does <meidui> wear glasses or any accessories?",
+            "Answer": "<meidui> does not wear glasses but is wearing a suit with a star emblem on the chest and shoulder straps."
+        },
+        {
+            "Question": "How would you describe <meidui>'s attire?",
+            "Answer": "<meidui> is wearing a blue suit with red and silver accents, featuring a prominent star emblem on the chest. The suit includes shoulder straps and a high collar."
+        },
+        {
+            "Question": "Does <meidui> have any distinctive facial features?",
+            "Answer": "<meidui> is wearing a suit with a star emblem on the chest, which is distinctive to Captain America."
+        },
+        {
+            "Question": "What is <meidui> overall build or physique?",
+            "Answer": "<meidui> has a muscular and athletic build, typical of a superhero character."
+        },
+        {
+            "Question": "What is <meidui> general expression or demeanor?",
+            "Answer": "<meidui> has a confident and heroic demeanor, as indicated by the upright posture and the iconic star emblem on the chest."
+        }
+    ],
+    "two_concept/two_concept/concept/train/meidui/8.png": [
+        {
+            "Question": "What is <meidui> hair color?",
+            "Answer": "<meidui>'s hair color is blonde."
+        },
+        {
+            "Question": "What color are <meidui> eyes?",
+            "Answer": "The color of <meidui>'s eyes is not visible in the image."
+        },
+        {
+            "Question": "Would you describe <meidui>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<meidui>'s physique is athletic."
+        },
+        {
+            "Question": "What is <meidui> skin tone?",
+            "Answer": "<meidui>'s skin tone is light."
+        },
+        {
+            "Question": "How would you describe <meidui> hairstyle?",
+            "Answer": "<meidui>'s hairstyle is short and neatly combed back."
+        },
+        {
+            "Question": "Does <meidui> wear glasses or any accessories?",
+            "Answer": "<meidui> does not wear glasses but has a star emblem on the chest and brown straps as accessories."
+        },
+        {
+            "Question": "How would you describe <meidui>'s attire?",
+            "Answer": "<meidui> is wearing a blue tactical suit with a star emblem on the chest, red and white stripes on the abdomen, and brown straps across the shoulders. The outfit includes blue pants, brown boots, and gloves."
+        },
+        {
+            "Question": "Does <meidui> have any distinctive facial features?",
+            "Answer": "<meidui> does not have any visible distinctive facial features in the image."
+        },
+        {
+            "Question": "What is <meidui> overall build or physique?",
+            "Answer": "<meidui> has a muscular and athletic build, typical of a superhero character."
+        },
+        {
+            "Question": "What is <meidui> general expression or demeanor?",
+            "Answer": "<meidui> has a dynamic and action-oriented demeanor, characterized by a strong and heroic posture."
+        }
+    ],
+    "two_concept/two_concept/concept/train/meidui/9.png": [
+        {
+            "Question": "What is <meidui> hair color?",
+            "Answer": "<meidui>'s hair color is not visible due to the helmet."
+        },
+        {
+            "Question": "What color are <meidui> eyes?",
+            "Answer": "<meidui>'s eyes are blue."
+        },
+        {
+            "Question": "Would you describe <meidui>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<meidui>'s physique is athletic."
+        },
+        {
+            "Question": "What is <meidui> skin tone?",
+            "Answer": "<meidui>'s skin tone is not visible in the image."
+        },
+        {
+            "Question": "How would you describe <meidui> hairstyle?",
+            "Answer": "<meidui> is wearing a helmet, so the hairstyle is not visible."
+        },
+        {
+            "Question": "Does <meidui> wear glasses or any accessories?",
+            "Answer": "<meidui> does not wear glasses or any accessories."
+        },
+        {
+            "Question": "How would you describe <meidui>'s attire?",
+            "Answer": "<meidui> is wearing a blue suit with a prominent white star on the chest, red and white stripes on the abdomen, and a blue helmet with a white A on the forehead."
+        },
+        {
+            "Question": "Does <meidui> have any distinctive facial features?",
+            "Answer": "<meidui> has no visible distinctive facial features in the image."
+        },
+        {
+            "Question": "What is <meidui> overall build or physique?",
+            "Answer": "<meidui> has a muscular and athletic build, typical of a superhero character."
+        },
+        {
+            "Question": "What is <meidui> general expression or demeanor?",
+            "Answer": "<meidui> has a strong and heroic demeanor, characterized by a confident and authoritative presence."
+        }
+    ]
+}

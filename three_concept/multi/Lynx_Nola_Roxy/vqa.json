@@ -1,0 +1,152 @@
+{
+    "three_concept/multi/Lynx_Nola_Roxy/0.png": [
+        {
+            "Human": "What is <Lynx> holding in the image?",
+            "AI": "<Lynx> is holding a sword with a red handle and a cross pattern on the blade."
+        },
+        {
+            "Human": "What is the design on the handle of <Nola>?",
+            "AI": "The handle of <Nola> has a red wrapping with a black and white cross pattern."
+        },
+        {
+            "Human": "What is the color of the <Roxy> logo on the character's shirt?",
+            "AI": "The <Roxy> logo on the character's shirt is yellow."
+        },
+        {
+            "Human": "What is the design on the clothing of the character holding <Lynx> and <Nola>?",
+            "AI": "The clothing features a large yellow smiley face design with a cross pattern on the character holding <Lynx> and <Nola>."
+        },
+        {
+            "Human": "What is the color scheme of <Lynx> and <Roxy> in the image?",
+            "AI": "<Lynx> is a black and white hat, and <Roxy> is a yellow anime style logo on a dark blue shirt."
+        },
+        {
+            "Human": "What is the color of the handle of <Nola> and the design on <Roxy> in the image?",
+            "AI": "The handle of <Nola> is red, and <Roxy> features a yellow smiley face logo with a crossbones design."
+        },
+        {
+            "Human": "What are the distinct features of <Lynx>, <Nola>, and <Roxy> in the image?",
+            "AI": "<Lynx> is a black and white spotted hat, <Nola> is a Japanese katana with a red handle, and <Roxy> is a yellow anime style logo on the shirt."
+        }
+    ],
+    "three_concept/multi/Lynx_Nola_Roxy/1.png": [
+        {
+            "Human": "What is the design on <Lynx>'s hat in the image?",
+            "AI": "<Lynx>'s hat has a black and white spotted design."
+        },
+        {
+            "Human": "What is the design on the sheath of <Nola> in the image?",
+            "AI": "The sheath of <Nola> has a black and white cross pattern design."
+        },
+        {
+            "Human": "What is the setting or background environment where <Roxy> is located in the image?",
+            "AI": "<Roxy> is located in a setting with cherry blossom trees and a tiled ground."
+        },
+        {
+            "Human": "What is the setting or environment surrounding <Lynx> and <Nola> in the image?",
+            "AI": "The setting surrounding <Lynx> and <Nola> includes cherry blossom trees and a tiled ground."
+        },
+        {
+            "Human": "What is the background setting in the image featuring <Lynx> and <Roxy>?",
+            "AI": "The background setting in the image featuring <Lynx> and <Roxy> includes cherry blossom trees and a tiled ground."
+        },
+        {
+            "Human": "What is the position of <Nola> and <Roxy> in the image?",
+            "AI": "<Nola> is held in the character's right hand, and <Roxy> is on the character's chest as a tattoo."
+        },
+        {
+            "Human": "What is the setting or environment surrounding <Lynx>, <Nola>, and <Roxy> in the image?",
+            "AI": "The setting surrounding <Lynx>, <Nola>, and <Roxy> includes cherry blossom trees and a tiled ground, suggesting a serene and traditional Japanese environment."
+        }
+    ],
+    "three_concept/multi/Lynx_Nola_Roxy/2.png": [
+        {
+            "Human": "What is the design on <Lynx>'s chest in the image?",
+            "AI": "<Lynx> has a tattoo of a smiling face with a cross on its chest."
+        },
+        {
+            "Human": "What is the color of the handle of <Nola> in the image?",
+            "AI": "The handle of <Nola> is red."
+        },
+        {
+            "Human": "What is the prominent feature of the clothing worn by the character in the image with the <Roxy> logo in the background?",
+            "AI": "The character is wearing a black and white robe with a distinctive tattoo on the chest and a sword in hand."
+        },
+        {
+            "Human": "What is the design on the clothing of the figure holding <Lynx> and <Nola>?",
+            "AI": "The clothing features a black robe with a white symbol on the chest and yellow detailing on the collar."
+        },
+        {
+            "Human": "What is the design on the clothing of <Lynx> and <Roxy> in the image?",
+            "AI": "<Lynx> is wearing a black and white hat with a spotted pattern, and <Roxy> is represented by an anime style logo on the clothing."
+        },
+        {
+            "Human": "What is the position of <Nola> and <Roxy> in the image?",
+            "AI": "<Nola> is held in the character's right hand, while <Roxy> is part of the background design."
+        },
+        {
+            "Human": "What is the position of <Lynx>, <Nola>, and <Roxy> in the image?",
+            "AI": "<Lynx> is on the head, <Nola> is held in the hand, and <Roxy> is on the chest and robe."
+        }
+    ],
+    "three_concept/multi/Lynx_Nola_Roxy/3.png": [
+        {
+            "Human": "What is <Lynx> holding in the image?",
+            "AI": "<Lynx> is holding a sword with a cross pattern on the handle."
+        },
+        {
+            "Human": "What is the design on the handle of <Nola>?",
+            "AI": "The handle of <Nola> has a cross pattern design."
+        },
+        {
+            "Human": "What is the prominent feature of the clothing in the <Roxy> logo image?",
+            "AI": "The <Roxy> logo image features a character wearing a black coat with a fur collar and a distinctive yellow emblem on the sleeve."
+        },
+        {
+            "Human": "What is the design pattern on <Lynx> and what is <Nola> being held by?",
+            "AI": "<Lynx> has a black and white spotted pattern, and <Nola> is being held by a hand with 'DEATH' tattooed on the fingers."
+        },
+        {
+            "Human": "What is the design on <Lynx> and <Roxy> in the image?",
+            "AI": "<Lynx> has a black and white spotted pattern, while <Roxy> features a yellow anime style logo with a skull and crossbones design."
+        },
+        {
+            "Human": "What is the relationship between <Nola> and <Roxy> in the image?",
+            "AI": "<Nola> is being held by the character, while <Roxy> is displayed as a logo on the character's coat."
+        },
+        {
+            "Human": "What is the relationship between <Lynx>, <Nola>, and <Roxy> in the image?",
+            "AI": "<Lynx> is the hat worn by the character, <Nola> is the katana held by the character, and <Roxy> is the logo on the character's coat."
+        }
+    ],
+    "three_concept/multi/Lynx_Nola_Roxy/4.png": [
+        {
+            "Human": "What is <Lynx> holding in the image?",
+            "AI": "<Lynx> is holding a long sword with a cross pattern on the sheath."
+        },
+        {
+            "Human": "What is the design on the sheath of <Nola> in the image?",
+            "AI": "The sheath of <Nola> has a cross pattern design."
+        },
+        {
+            "Human": "What is <Roxy> holding in the image?",
+            "AI": "<Roxy> is holding a sword with a cross pattern on the sheath."
+        },
+        {
+            "Human": "What is the color scheme of <Lynx> and <Nola> in the image?",
+            "AI": "<Lynx> is black and white, while <Nola> features a dark blue with white and red accents."
+        },
+        {
+            "Human": "What is the design on the clothing of the character wearing <Lynx> and <Roxy>?",
+            "AI": "The character wearing <Lynx> and <Roxy> has a long black coat with yellow patterns at the bottom and a cross design on the sword sheath."
+        },
+        {
+            "Human": "What is the design on the sheath of <Nola> and the clothing of the character holding it?",
+            "AI": "The sheath of <Nola> has a cross pattern, and the clothing of the character holding it features a yellow logo similar to <Roxy> at the bottom."
+        },
+        {
+            "Human": "What is the color scheme of <Lynx>, <Nola>, and <Roxy> in the image?",
+            "AI": "<Lynx> is black and white, <Nola> is primarily blue with white and red accents, and <Roxy> is yellow on a dark background."
+        }
+    ]
+}

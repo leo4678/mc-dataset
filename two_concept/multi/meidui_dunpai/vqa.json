@@ -1,0 +1,72 @@
+{
+    "two_concept/multi/meidui_dunpai/0.png": [
+        {
+            "Human": "What is <meidui> holding in the image?",
+            "AI": "<meidui> is holding a shield with a star emblem, characteristic of Captain America."
+        },
+        {
+            "Human": "What is the color scheme of <dunpai> in the image?",
+            "AI": "<dunpai> has a red, white, and blue color scheme with a star in the center."
+        },
+        {
+            "Human": "What is <meidui> doing in the image while holding <dunpai>?",
+            "AI": "<meidui> is saluting while holding <dunpai> in the image."
+        }
+    ],
+    "two_concept/multi/meidui_dunpai/1.png": [
+        {
+            "Human": "What is <meidui> holding in the image?",
+            "AI": "<meidui> is holding a shield with a star emblem."
+        },
+        {
+            "Human": "What is the design on <dunpai> in the image?",
+            "AI": "<dunpai> features a circular design with a star in the center, surrounded by red, white, and blue rings."
+        },
+        {
+            "Human": "What is the weather like in the scene with <meidui> and <dunpai>?",
+            "AI": "The scene with <meidui> and <dunpai> is set in a rainy environment, as evidenced by the raindrops on <meidui>'s suit and <dunpai>."
+        }
+    ],
+    "two_concept/multi/meidui_dunpai/2.png": [
+        {
+            "Human": "What is <meidui> using to defend against the attacks in the image?",
+            "AI": "<meidui> is using a shield to defend against the attacks."
+        },
+        {
+            "Human": "What is happening to <dunpai> in the image?",
+            "AI": "<dunpai> is being struck by bullets, as shown by the sparks and impact marks on the shield."
+        },
+        {
+            "Human": "What is <meidui> doing with <dunpai> in the image?",
+            "AI": "<meidui> is using <dunpai> to block incoming projectiles in the image."
+        }
+    ],
+    "two_concept/multi/meidui_dunpai/3.png": [
+        {
+            "Human": "What is <meidui> holding in the image?",
+            "AI": "<meidui> is holding a shield in the image."
+        },
+        {
+            "Human": "What is the position of <dunpai> in the image?",
+            "AI": "<dunpai> is held in front of the character's body, prominently displayed in the center of the image."
+        },
+        {
+            "Human": "What is <meidui> holding in the image?",
+            "AI": "<meidui> is holding <dunpai>, the shield of Captain America."
+        }
+    ],
+    "two_concept/multi/meidui_dunpai/4.png": [
+        {
+            "Human": "What iconic item is <meidui> holding in the image?",
+            "AI": "<meidui> is holding Captain America's shield, which is red, white, and blue with a star in the center."
+        },
+        {
+            "Human": "What is the design on <dunpai> in the image?",
+            "AI": "<dunpai> features a circular design with red, white, and blue colors, and a star in the center."
+        },
+        {
+            "Human": "What is <meidui> holding in the image?",
+            "AI": "<meidui> is holding <dunpai>, which is Captain America's shield."
+        }
+    ]
+}

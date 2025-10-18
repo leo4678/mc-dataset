@@ -1,0 +1,22 @@
+{
+    "three_concept/concept/test/Xing/0.png": {
+        "Human": "What is the color of the shirt worn by <Xing>? A. Red and white; B. Blue and yellow; C. Green and black;",
+        "AI": "A"
+    },
+    "three_concept/concept/test/Xing/1.png": {
+        "Human": "What is <Xing> doing in the image? A. Sitting in front of a basket; B. Playing a sport; C. Reading a book;",
+        "AI": "A"
+    },
+    "three_concept/concept/test/Xing/2.png": {
+        "Human": "What is the background behind <Xing>? A. A group photo; B. A landscape painting; C. A plain wall;",
+        "AI": "A"
+    },
+    "three_concept/concept/test/Xing/3.png": {
+        "Human": "What is the hairstyle of <Xing>? A. Curly; B. Spiky; C. Straight;",
+        "AI": "B"
+    },
+    "three_concept/concept/test/Xing/4.png": {
+        "Human": "What color is <Xing>'s shirt? A. Blue; B. Yellow; C. Red;",
+        "AI": "B"
+    }
+}

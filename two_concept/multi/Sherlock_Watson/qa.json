@@ -1,0 +1,22 @@
+[
+    {
+        "question": "Are both <Sherlock> and <Watson> humans or animals? A. Humans. B. Animals",
+        "answer": "A"
+    },
+    {
+        "question": "What are the hair colors of <Sherlock> and <Watson> respectively? A. Dark, Light. B. Light, Dark",
+        "answer": "A"
+    },
+    {
+        "question": "What type of clothing do <Sherlock> and <Watson> often wear? A. Formal, Casual. B. Both Casual",
+        "answer": "A"
+    },
+    {
+        "question": "Do <Sherlock> and <Watson> often wear hats? A. Yes. B. No",
+        "answer": "A"
+    },
+    {
+        "question": "What is the common accessory worn by <Sherlock> and <Watson>? A. Scarf. B. Glasses",
+        "answer": "A"
+    }
+]

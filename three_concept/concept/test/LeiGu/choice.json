@@ -1,0 +1,22 @@
+{
+    "three_concept/concept/test/LeiGu/0.png": {
+        "Human": "What is <LeiGu> wearing on their head? A. A helmet with goggles; B. A baseball cap; C. A cowboy hat;",
+        "AI": "A"
+    },
+    "three_concept/concept/test/LeiGu/1.png": {
+        "Human": "What is <LeiGu> wearing on their head? A. A helmet with goggles; B. A cap with a feather; C. A hat with a flower;",
+        "AI": "A"
+    },
+    "three_concept/concept/test/LeiGu/2.png": {
+        "Human": "What is <LeiGu> wearing on their head? A. A helmet; B. A hat; C. A crown;",
+        "AI": "A"
+    },
+    "three_concept/concept/test/LeiGu/3.png": {
+        "Human": "What is the expression on <LeiGu>'s face? A. Happy; B. Angry; C. Surprised;",
+        "AI": "C"
+    },
+    "three_concept/concept/test/LeiGu/4.png": {
+        "Human": "What is <LeiGu> wearing on their head? A. A helmet with goggles; B. A cap with a feather; C. A hood with a mask;",
+        "AI": "A"
+    }
+}

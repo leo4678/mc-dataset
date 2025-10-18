@@ -1,0 +1,22 @@
+[
+    {
+        "question": "Are both <datong> and <kaiqi> wearing formal or casual clothing in some images? A.Formal. B.Casual",
+        "answer": "A"
+    },
+    {
+        "question": "What are the genders of <datong> and <kaiqi> respectively? A.Male, Female. B.Female, Male",
+        "answer": "A"
+    },
+    {
+        "question": "Do <datong> and <kaiqi> both have dark hair? A.Yes. B.No",
+        "answer": "A"
+    },
+    {
+        "question": "Do <datong> and <kaiqi> often wear accessories like bow ties or jewelry? A.Yes. B.No",
+        "answer": "A"
+    },
+    {
+        "question": "What type of clothing does <datong> and <kaiqi> often wear? A.Both wear sweaters. B.Both wear dresses",
+        "answer": "A"
+    }
+]

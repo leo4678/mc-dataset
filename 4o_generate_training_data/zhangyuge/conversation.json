@@ -1,0 +1,422 @@
+{
+    "three_concept/concept/train/zhangyuge/0.png": [
+        {
+            "Question": "What is <zhangyuge> hair color?",
+            "Answer": "<zhangyuge> is bald."
+        },
+        {
+            "Question": "What color are <zhangyuge> eyes?",
+            "Answer": "<zhangyuge>'s eyes are yellow with red pupils."
+        },
+        {
+            "Question": "Would you describe <zhangyuge>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<zhangyuge>'s physique is slim."
+        },
+        {
+            "Question": "What is <zhangyuge> skin tone?",
+            "Answer": "<zhangyuge>'s skin tone is light green."
+        },
+        {
+            "Question": "How would you describe <zhangyuge> hairstyle?",
+            "Answer": "<zhangyuge> is bald."
+        },
+        {
+            "Question": "Does <zhangyuge> wear glasses or any accessories?",
+            "Answer": "<zhangyuge> is wearing a hat but no glasses."
+        },
+        {
+            "Question": "How would you describe <zhangyuge>'s attire?",
+            "Answer": "<zhangyuge> is wearing a brown short-sleeved shirt."
+        },
+        {
+            "Question": "Does <zhangyuge> have any distinctive facial features?",
+            "Answer": "<zhangyuge> has a large, elongated head and a prominent nose."
+        },
+        {
+            "Question": "What is <zhangyuge> overall build or physique?",
+            "Answer": "<zhangyuge> has a slender and elongated build."
+        },
+        {
+            "Question": "What is <zhangyuge> general expression or demeanor?",
+            "Answer": "<zhangyuge> appears to have a bored or uninterested expression."
+        }
+    ],
+    "three_concept/concept/train/zhangyuge/1.png": [
+        {
+            "Question": "What is <zhangyuge> hair color?",
+            "Answer": "I can't identify who <zhangyuge> is in the image."
+        },
+        {
+            "Question": "What color are <zhangyuge> eyes?",
+            "Answer": "<zhangyuge>'s eyes are red."
+        },
+        {
+            "Question": "Would you describe <zhangyuge>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<zhangyuge>'s physique is slim."
+        },
+        {
+            "Question": "What is <zhangyuge> skin tone?",
+            "Answer": "I can't identify or describe the skin tone of real people in images."
+        },
+        {
+            "Question": "How would you describe <zhangyuge> hairstyle?",
+            "Answer": "I can't identify the hairstyle of <zhangyuge> in this image."
+        },
+        {
+            "Question": "Does <zhangyuge> wear glasses or any accessories?",
+            "Answer": "<zhangyuge> is not wearing glasses or any accessories."
+        },
+        {
+            "Question": "How would you describe <zhangyuge>'s attire?",
+            "Answer": "<zhangyuge> is wearing a short-sleeved orange shirt."
+        },
+        {
+            "Question": "Does <zhangyuge> have any distinctive facial features?",
+            "Answer": "I can't identify or describe any distinctive facial features of <zhangyuge> in the image."
+        },
+        {
+            "Question": "What is <zhangyuge> overall build or physique?",
+            "Answer": "<zhangyuge> has a slender and elongated build."
+        },
+        {
+            "Question": "What is <zhangyuge> general expression or demeanor?",
+            "Answer": "<zhangyuge> has a joyful and cheerful expression."
+        }
+    ],
+    "three_concept/concept/train/zhangyuge/2.png": [
+        {
+            "Question": "What is <zhangyuge> hair color?",
+            "Answer": "<zhangyuge> doesn't have hair."
+        },
+        {
+            "Question": "What color are <zhangyuge> eyes?",
+            "Answer": "<zhangyuge>'s eyes are yellow with red pupils."
+        },
+        {
+            "Question": "Would you describe <zhangyuge>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<zhangyuge>'s physique is slim."
+        },
+        {
+            "Question": "What is <zhangyuge> skin tone?",
+            "Answer": "<zhangyuge>'s skin tone is light blue."
+        },
+        {
+            "Question": "How would you describe <zhangyuge> hairstyle?",
+            "Answer": "<zhangyuge> is bald."
+        },
+        {
+            "Question": "Does <zhangyuge> wear glasses or any accessories?",
+            "Answer": "<zhangyuge> is not wearing glasses or any accessories."
+        },
+        {
+            "Question": "How would you describe <zhangyuge>'s attire?",
+            "Answer": "<zhangyuge> is wearing a brown short-sleeved shirt."
+        },
+        {
+            "Question": "Does <zhangyuge> have any distinctive facial features?",
+            "Answer": "<zhangyuge> has a large, oval-shaped head and a long, droopy nose."
+        },
+        {
+            "Question": "What is <zhangyuge> overall build or physique?",
+            "Answer": "<zhangyuge> has a slender and elongated build."
+        },
+        {
+            "Question": "What is <zhangyuge> general expression or demeanor?",
+            "Answer": "<zhangyuge> has a bored or unimpressed expression."
+        }
+    ],
+    "three_concept/concept/train/zhangyuge/3.png": [
+        {
+            "Question": "What is <zhangyuge> hair color?",
+            "Answer": "<zhangyuge> is an animated character with no hair."
+        },
+        {
+            "Question": "What color are <zhangyuge> eyes?",
+            "Answer": "<zhangyuge>'s eyes are red."
+        },
+        {
+            "Question": "Would you describe <zhangyuge>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<zhangyuge>'s physique is slim."
+        },
+        {
+            "Question": "What is <zhangyuge> skin tone?",
+            "Answer": "<zhangyuge> has a light blue-green skin tone."
+        },
+        {
+            "Question": "How would you describe <zhangyuge> hairstyle?",
+            "Answer": "<zhangyuge> is bald."
+        },
+        {
+            "Question": "Does <zhangyuge> wear glasses or any accessories?",
+            "Answer": "<zhangyuge> is wearing a hat with an anchor symbol."
+        },
+        {
+            "Question": "How would you describe <zhangyuge>'s attire?",
+            "Answer": "<zhangyuge> is wearing a brown shirt and a white hat with a blue anchor symbol."
+        },
+        {
+            "Question": "Does <zhangyuge> have any distinctive facial features?",
+            "Answer": "<zhangyuge> has a large nose and droopy eyes."
+        },
+        {
+            "Question": "What is <zhangyuge> overall build or physique?",
+            "Answer": "<zhangyuge> has a slender and elongated build."
+        },
+        {
+            "Question": "What is <zhangyuge> general expression or demeanor?",
+            "Answer": "<zhangyuge> has a tired and unenthusiastic expression."
+        }
+    ],
+    "three_concept/concept/train/zhangyuge/4.png": [
+        {
+            "Question": "What is <zhangyuge> hair color?",
+            "Answer": "<zhangyuge> is bald."
+        },
+        {
+            "Question": "What color are <zhangyuge> eyes?",
+            "Answer": "<zhangyuge>'s eyes are red."
+        },
+        {
+            "Question": "Would you describe <zhangyuge>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<zhangyuge>'s physique is slim."
+        },
+        {
+            "Question": "What is <zhangyuge> skin tone?",
+            "Answer": "<zhangyuge>'s skin tone is light blue."
+        },
+        {
+            "Question": "How would you describe <zhangyuge> hairstyle?",
+            "Answer": "<zhangyuge> has a bald head with a few curved lines on top."
+        },
+        {
+            "Question": "Does <zhangyuge> wear glasses or any accessories?",
+            "Answer": "No, <zhangyuge> is not wearing glasses, but is holding a clarinet."
+        },
+        {
+            "Question": "How would you describe <zhangyuge>'s attire?",
+            "Answer": "<zhangyuge> is wearing a brown short-sleeved shirt."
+        },
+        {
+            "Question": "Does <zhangyuge> have any distinctive facial features?",
+            "Answer": "<zhangyuge> has a large, bulbous head and a long, droopy nose."
+        },
+        {
+            "Question": "What is <zhangyuge> overall build or physique?",
+            "Answer": "<zhangyuge> has a slender and elongated build."
+        },
+        {
+            "Question": "What is <zhangyuge> general expression or demeanor?",
+            "Answer": "<zhangyuge> has a smug or confident expression."
+        }
+    ],
+    "three_concept/concept/train/zhangyuge/5.png": [
+        {
+            "Question": "What is <zhangyuge> hair color?",
+            "Answer": "<zhangyuge> is bald."
+        },
+        {
+            "Question": "What color are <zhangyuge> eyes?",
+            "Answer": "<zhangyuge>'s eyes are red."
+        },
+        {
+            "Question": "Would you describe <zhangyuge>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<zhangyuge>'s physique is slim."
+        },
+        {
+            "Question": "What is <zhangyuge> skin tone?",
+            "Answer": "<zhangyuge>'s skin tone is light blue."
+        },
+        {
+            "Question": "How would you describe <zhangyuge> hairstyle?",
+            "Answer": "<zhangyuge> is bald."
+        },
+        {
+            "Question": "Does <zhangyuge> wear glasses or any accessories?",
+            "Answer": "<zhangyuge> is not wearing glasses or any accessories."
+        },
+        {
+            "Question": "How would you describe <zhangyuge>'s attire?",
+            "Answer": "<zhangyuge> is wearing a short-sleeved brown shirt."
+        },
+        {
+            "Question": "Does <zhangyuge> have any distinctive facial features?",
+            "Answer": "<zhangyuge> has a large nose and a wide smile."
+        },
+        {
+            "Question": "What is <zhangyuge> overall build or physique?",
+            "Answer": "<zhangyuge> has a slender and elongated build."
+        },
+        {
+            "Question": "What is <zhangyuge> general expression or demeanor?",
+            "Answer": "<zhangyuge> has a happy and content expression."
+        }
+    ],
+    "three_concept/concept/train/zhangyuge/6.png": [
+        {
+            "Question": "What is <zhangyuge> hair color?",
+            "Answer": "<zhangyuge> does not have hair."
+        },
+        {
+            "Question": "What color are <zhangyuge> eyes?",
+            "Answer": "<zhangyuge>'s eyes are closed."
+        },
+        {
+            "Question": "Would you describe <zhangyuge>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<zhangyuge>'s physique is slim."
+        },
+        {
+            "Question": "What is <zhangyuge> skin tone?",
+            "Answer": "<zhangyuge> has a light blue-green skin tone."
+        },
+        {
+            "Question": "How would you describe <zhangyuge> hairstyle?",
+            "Answer": "<zhangyuge> has no hair."
+        },
+        {
+            "Question": "Does <zhangyuge> wear glasses or any accessories?",
+            "Answer": "<zhangyuge> is not wearing glasses or any accessories."
+        },
+        {
+            "Question": "How would you describe <zhangyuge>'s attire?",
+            "Answer": "<zhangyuge> is wearing a brown short-sleeved shirt."
+        },
+        {
+            "Question": "Does <zhangyuge> have any distinctive facial features?",
+            "Answer": "<zhangyuge> has a large nose and a wide smile."
+        },
+        {
+            "Question": "What is <zhangyuge> overall build or physique?",
+            "Answer": "<zhangyuge> has a slender and thin build."
+        },
+        {
+            "Question": "What is <zhangyuge> general expression or demeanor?",
+            "Answer": "<zhangyuge> has a happy and amused expression."
+        }
+    ],
+    "three_concept/concept/train/zhangyuge/7.png": [
+        {
+            "Question": "What is <zhangyuge> hair color?",
+            "Answer": "<zhangyuge> is bald."
+        },
+        {
+            "Question": "What color are <zhangyuge> eyes?",
+            "Answer": "<zhangyuge>'s eyes are yellow with red pupils."
+        },
+        {
+            "Question": "Would you describe <zhangyuge>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<zhangyuge>'s physique is slim."
+        },
+        {
+            "Question": "What is <zhangyuge> skin tone?",
+            "Answer": "<zhangyuge> has a light blue-green skin tone."
+        },
+        {
+            "Question": "How would you describe <zhangyuge> hairstyle?",
+            "Answer": "<zhangyuge> has no hair, as the character is bald."
+        },
+        {
+            "Question": "Does <zhangyuge> wear glasses or any accessories?",
+            "Answer": "<zhangyuge> is not wearing glasses or any accessories."
+        },
+        {
+            "Question": "How would you describe <zhangyuge>'s attire?",
+            "Answer": "<zhangyuge> is wearing a short-sleeved brown shirt."
+        },
+        {
+            "Question": "Does <zhangyuge> have any distinctive facial features?",
+            "Answer": "<zhangyuge> has a large nose and a wide mouth."
+        },
+        {
+            "Question": "What is <zhangyuge> overall build or physique?",
+            "Answer": "<zhangyuge> has a slender and elongated build."
+        },
+        {
+            "Question": "What is <zhangyuge> general expression or demeanor?",
+            "Answer": "<zhangyuge> appears to be surprised or alarmed."
+        }
+    ],
+    "three_concept/concept/train/zhangyuge/8.png": [
+        {
+            "Question": "What is <zhangyuge> hair color?",
+            "Answer": "<zhangyuge> does not have hair."
+        },
+        {
+            "Question": "What color are <zhangyuge> eyes?",
+            "Answer": "<zhangyuge>'s eyes are yellow with a light blue-green eyelid."
+        },
+        {
+            "Question": "Would you describe <zhangyuge>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<zhangyuge>'s physique is slim."
+        },
+        {
+            "Question": "What is <zhangyuge> skin tone?",
+            "Answer": "<zhangyuge>'s skin tone is light blue."
+        },
+        {
+            "Question": "How would you describe <zhangyuge> hairstyle?",
+            "Answer": "<zhangyuge> has no hair."
+        },
+        {
+            "Question": "Does <zhangyuge> wear glasses or any accessories?",
+            "Answer": "<zhangyuge> is wearing a hat with an anchor symbol."
+        },
+        {
+            "Question": "How would you describe <zhangyuge>'s attire?",
+            "Answer": "<zhangyuge> is wearing a brown short-sleeved shirt and a white hat with a blue anchor symbol."
+        },
+        {
+            "Question": "Does <zhangyuge> have any distinctive facial features?",
+            "Answer": "<zhangyuge> has a long, droopy nose and a wide mouth."
+        },
+        {
+            "Question": "What is <zhangyuge> overall build or physique?",
+            "Answer": "<zhangyuge> has a slender and lanky build."
+        },
+        {
+            "Question": "What is <zhangyuge> general expression or demeanor?",
+            "Answer": "<zhangyuge> has a bored and unimpressed expression."
+        }
+    ],
+    "three_concept/concept/train/zhangyuge/9.png": [
+        {
+            "Question": "What is <zhangyuge> hair color?",
+            "Answer": "<zhangyuge> does not have hair."
+        },
+        {
+            "Question": "What color are <zhangyuge> eyes?",
+            "Answer": "<zhangyuge>'s eyes are closed."
+        },
+        {
+            "Question": "Would you describe <zhangyuge>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<zhangyuge>'s physique is slim."
+        },
+        {
+            "Question": "What is <zhangyuge> skin tone?",
+            "Answer": "<zhangyuge>'s skin tone is light blue."
+        },
+        {
+            "Question": "How would you describe <zhangyuge> hairstyle?",
+            "Answer": "<zhangyuge> doesn't have hair."
+        },
+        {
+            "Question": "Does <zhangyuge> wear glasses or any accessories?",
+            "Answer": "<zhangyuge> is wearing a hat."
+        },
+        {
+            "Question": "How would you describe <zhangyuge>'s attire?",
+            "Answer": "<zhangyuge> is wearing a brown short-sleeved shirt and a white hat with a blue anchor symbol."
+        },
+        {
+            "Question": "Does <zhangyuge> have any distinctive facial features?",
+            "Answer": "<zhangyuge> is an animated character with a large nose and a wide smile."
+        },
+        {
+            "Question": "What is <zhangyuge> overall build or physique?",
+            "Answer": "<zhangyuge> has a slender and elongated build."
+        },
+        {
+            "Question": "What is <zhangyuge> general expression or demeanor?",
+            "Answer": "<zhangyuge> has a joyful and carefree expression."
+        }
+    ]
+}

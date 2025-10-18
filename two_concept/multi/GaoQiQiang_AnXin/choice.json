@@ -1,0 +1,72 @@
+{
+    "two_concept/multi/GaoQiQiang_AnXin/0.png": [
+        {
+            "Human": "What is <GaoQiQiang> wearing in the image? A. A jacket with a hoodie. B. A suit. C. A t-shirt.",
+            "AI": "A"
+        },
+        {
+            "Human": "What color jacket is <AnXin> wearing? A. Black. B. White.",
+            "AI": "B"
+        },
+        {
+            "Human": "What color is the jacket that <AnXin> is wearing? A. White. B. Blue.",
+            "AI": "A"
+        }
+    ],
+    "two_concept/multi/GaoQiQiang_AnXin/1.png": [
+        {
+            "Human": "What is <GaoQiQiang> wearing in the image? A. a leather jacket. B. a beige jacket C. a red shirt.",
+            "AI": "B"
+        },
+        {
+            "Human": "What is <AnXin> wearing on his left arm? A. A cast. B. A sling. C. A bandage.",
+            "AI": "B"
+        },
+        {
+            "Human": "What is <AnXin> wearing on his left arm? A. A watch. B. A bandage. C. A glove.",
+            "AI": "B"
+        }
+    ],
+    "two_concept/multi/GaoQiQiang_AnXin/2.png": [
+        {
+            "Human": "What is <GaoQiQiang> wearing in the image? A. A leather jacket. B. A trench coat. C. A hoodie.",
+            "AI": "B"
+        },
+        {
+            "Human": "What is <AnXin> wearing in the image? A. A leather jacket. B. A trench coat.",
+            "AI": "A"
+        },
+        {
+            "Human": "What type of jackets are <GaoQiQiang> and <AnXin> wearing? A. Leather and windbreaker B. Denim and parka C. Hoodie and trench coat",
+            "AI": "A"
+        }
+    ],
+    "two_concept/multi/GaoQiQiang_AnXin/3.png": [
+        {
+            "Human": "What is <GaoQiQiang> wearing in the image? A. A light-colored coat. B. A dark-colored coat.",
+            "AI": "A"
+        },
+        {
+            "Human": "What type of coat is <AnXin> wearing? A.long trench coat. B.short leather jacket.",
+            "AI": "A"
+        },
+        {
+            "Human": "What are <GaoQiQiang> and <AnXin> wearing in the image? A. T-shirts. B. Jackets. C. Sweaters.",
+            "AI": "B"
+        }
+    ],
+    "two_concept/multi/GaoQiQiang_AnXin/4.png": [
+        {
+            "Human": "What type of jacket is <GaoQiQiang> wearing in the image? A. Leather. B. Fabric.",
+            "AI": "B"
+        },
+        {
+            "Human": "What type of outfit is <AnXin> wearing in the image? A. A suit. B. A casual jacket. C. A hoodie.",
+            "AI": "B"
+        },
+        {
+            "Human": "What color jacket is <GaoQiQiang> wearing? A.gray. B.black.",
+            "AI": "A"
+        }
+    ]
+}

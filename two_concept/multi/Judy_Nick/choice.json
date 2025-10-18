@@ -1,0 +1,72 @@
+{
+    "two_concept/multi/Judy_Nick/0.png": [
+        {
+            "Human": "What is <Judy> wearing in the image? A. A police uniform. B. A green shirt. C. A red dress.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is <Nick> wearing in the image? A. A green shirt and a tie. B. A blue uniform. C. A red jacket.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is the expression on <Judy>'s face? A. Happy. B. Sad. C. Angry",
+            "AI": "A"
+        }
+    ],
+    "two_concept/multi/Judy_Nick/1.png": [
+        {
+            "Human": "What is <Judy> wearing in the image? A. A police uniform. B. A casual outfit.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is <Nick> wearing in the image? A. A yellow shirt. B. A blue jacket.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is <Nick> doing in the image? A. Laughing. B. Leaning towards <Judy>. C. Running away.",
+            "AI": "B"
+        }
+    ],
+    "two_concept/multi/Judy_Nick/2.png": [
+        {
+            "Human": "What is <Judy> wearing in the image? A. A green shirt and purple tie. B. A blue police uniform.",
+            "AI": "B"
+        },
+        {
+            "Human": "What is <Nick> wearing in the image? A. A green shirt and a purple tie. B. A blue shirt and a red tie.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is <Nick> wearing in the image? A. A green shirt and purple tie. B. A blue shirt and red tie. C. A yellow shirt and blue tie.",
+            "AI": "A"
+        }
+    ],
+    "two_concept/multi/Judy_Nick/3.png": [
+        {
+            "Human": "What is <Judy> looking at in the image? A. A book. B. A fox.",
+            "AI": "B"
+        },
+        {
+            "Human": "What is <Nick> wearing in the image? A. A green shirt and a tie. B. A blue jacket. C. A red sweater.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is the expression on <Nick>'s face? A. Happy B. Sad C. Angry",
+            "AI": "B"
+        }
+    ],
+    "two_concept/multi/Judy_Nick/4.png": [
+        {
+            "Human": "What is <Judy> doing in the image? A. Drinking coffee. B. Crossing her arms.",
+            "AI": "B"
+        },
+        {
+            "Human": "What is <Nick> holding in the image? A. A cup. B. A book. C. A phone.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is <Nick> holding in the image? A. A cup. B. A book. C. A phone.",
+            "AI": "A"
+        }
+    ]
+}

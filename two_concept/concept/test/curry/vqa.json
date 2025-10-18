@@ -1,0 +1,22 @@
+{
+    "two_concept/concept/test/curry/0.jpg": {
+        "Human": "What team does <curry> play for in the image?",
+        "AI": "<curry> plays for the Golden State Warriors."
+    },
+    "two_concept/concept/test/curry/1.jpg": {
+        "Human": "What team is <curry> playing for in the image?",
+        "AI": "<curry> is playing for the Golden State Warriors."
+    },
+    "two_concept/concept/test/curry/2.jpg": {
+        "Human": "What sport is <curry> playing in the image?",
+        "AI": "<curry> is playing basketball in the image."
+    },
+    "two_concept/concept/test/curry/3.jpg": {
+        "Human": "How many championship trophies is <curry> standing with in the image?",
+        "AI": "<curry> is standing with four championship trophies in the image."
+    },
+    "two_concept/concept/test/curry/4.jpg": {
+        "Human": "What team does <curry> play for based on the jersey in the image?",
+        "AI": "<curry> plays for the Golden State Warriors."
+    }
+}

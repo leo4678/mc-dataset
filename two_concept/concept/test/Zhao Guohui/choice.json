@@ -1,0 +1,22 @@
+{
+    "two_concept/concept/test/Zhao Guohui/0.png": {
+        "Human": "What is <Zhao Guohui> wearing over their shirt?  A. A vest; B. An apron;",
+        "AI": "B"
+    },
+    "two_concept/concept/test/Zhao Guohui/1.png": {
+        "Human": "What pattern is on <Zhao Guohui>'s clothing?  A. Stripes; B. Plaid; C. Polka dots;",
+        "AI": "B"
+    },
+    "two_concept/concept/test/Zhao Guohui/2.png": {
+        "Human": "What accessory is <Zhao Guohui> wearing in the image?  A. A hat; B. Sunglasses; C. A scarf;",
+        "AI": "A"
+    },
+    "two_concept/concept/test/Zhao Guohui/3.png": {
+        "Human": "What color is the inner shirt worn by <Zhao Guohui>?  A. Yellow; B. White; C. Green;",
+        "AI": "A"
+    },
+    "two_concept/concept/test/Zhao Guohui/4.png": {
+        "Human": "What is <Zhao Guohui> holding in the image?  A. A handbag; B. A fan; C. A book;",
+        "AI": "A"
+    }
+}

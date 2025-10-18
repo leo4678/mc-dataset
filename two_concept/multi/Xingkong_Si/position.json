@@ -1,0 +1,22 @@
+{
+    "0.png": {
+        "<Xingkong>": "right",
+        "<Si>": "left"
+    },
+    "1.png": {
+        "<Xingkong>": "left",
+        "<Si>": "right"
+    },
+    "2.png": {
+        "<Xingkong>": "left",
+        "<Si>": "right"
+    },
+    "3.png": {
+        "<Xingkong>": "right",
+        "<Si>": "left"
+    },
+    "4.png": {
+        "<Xingkong>": "right",
+        "<Si>": "left"
+    }
+}

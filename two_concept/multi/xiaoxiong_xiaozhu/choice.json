@@ -1,0 +1,72 @@
+{
+    "two_concept/multi/xiaoxiong_xiaozhu/0.png": [
+        {
+            "Human": "What is <xiaoxiong> holding in the image? A. A book. B. A flower. C. A balloon.",
+            "AI": "B"
+        },
+        {
+            "Human": "What is <xiaozhu> holding in the image? A. A book. B. A flower.",
+            "AI": "B"
+        },
+        {
+            "Human": "What are <xiaoxiong> and <xiaozhu> holding in the image? A. Books. B. Flowers. C. Toys.",
+            "AI": "B"
+        }
+    ],
+    "two_concept/multi/xiaoxiong_xiaozhu/1.png": [
+        {
+            "Human": "What is <xiaoxiong> wearing in the image? A. A red shirt. B. A blue hat.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is <xiaozhu> doing in the image? A. Waving. B. Sleeping.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is <xiaoxiong> wearing in the image? A. A red shirt. B. A blue hat.",
+            "AI": "A"
+        }
+    ],
+    "two_concept/multi/xiaoxiong_xiaozhu/2.png": [
+        {
+            "Human": "What is <xiaoxiong> holding in the image? A. A heart-shaped object. B. A book. C. A flower.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is <xiaozhu> holding in the image? A. A heart-shaped object. B. A honey pot.",
+            "AI": "B"
+        },
+        {
+            "Human": "What is <xiaoxiong> holding in the image? A. A heart-shaped object. B. A book. C. A flower.",
+            "AI": "A"
+        }
+    ],
+    "two_concept/multi/xiaoxiong_xiaozhu/3.png": [
+        {
+            "Human": "What is <xiaoxiong> holding in the image? A. A book. B. A honey pot. C. A flower.",
+            "AI": "B"
+        },
+        {
+            "Human": "What is <xiaozhu> doing in the image? A. Hugging <Winnie the Pooh>. B. Eating honey.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is <xiaoxiong> holding in the image? A. A book. B. A honey pot. C. A flower.",
+            "AI": "B"
+        }
+    ],
+    "two_concept/multi/xiaoxiong_xiaozhu/4.png": [
+        {
+            "Human": "What is <xiaoxiong> holding in the image? A. A book. B. A pot of honey. C. A balloon.",
+            "AI": "B"
+        },
+        {
+            "Human": "What is <xiaozhu> doing in the image? A. Holding hands with a friend. B. Eating honey. C. Sleeping.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is <xiaoxiong> holding in the image? A. A book. B. A pot of honey. C. A balloon.",
+            "AI": "B"
+        }
+    ]
+}

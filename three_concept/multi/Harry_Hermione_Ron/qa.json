@@ -1,0 +1,22 @@
+[
+    {
+        "question": "What are the genders of <Harry>, <Hermione>, and <Ron> respectively? A. boy, girl, boy. B. girl, boy, girl.",
+        "answer": "A"
+    },
+    {
+        "question": "What are the hair colors of <Harry>, <Hermione>, and <Ron> respectively? A. black, brown, red. B. brown, black, blonde.",
+        "answer": "A"
+    },
+    {
+        "question": "Do <Harry> and <Ron> often wear glasses? A. Yes. B. No.",
+        "answer": "A"
+    },
+    {
+        "question": "What type of clothing do <Hermione> and <Ron> often wear? A. Casual, Formal. B. Both Casual.",
+        "answer": "B"
+    },
+    {
+        "question": "Are all <Harry>, <Hermione>, and <Ron> humans or animals? A. Humans. B. Animals.",
+        "answer": "A"
+    }
+]

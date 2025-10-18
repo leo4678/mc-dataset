@@ -1,0 +1,22 @@
+[
+    {
+        "question": "What are the hair colors of <Lixun> and <Laogao>? A.Blonde, Black. B.Black, Blonde",
+        "answer": "A"
+    },
+    {
+        "question": "What are the genders of <Lixun>, <Zhuyun>, and <Laogao>? A.Male, Female, Male. B.Female, Male, Female",
+        "answer": "A"
+    },
+    {
+        "question": "Which roles often wear casual clothing? A.<Lixun> and <Zhuyun>. B.<Lixun> and <Laogao>",
+        "answer": "B"
+    },
+    {
+        "question": "Do <Zhuyun> and <Laogao> have similar hair colors? A.Yes. B.No",
+        "answer": "A"
+    },
+    {
+        "question": "Which roles are likely to wear accessories like earrings? A.<Zhuyun>. B.<Lixun> and <Laogao>",
+        "answer": "A"
+    }
+]

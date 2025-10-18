@@ -1,0 +1,22 @@
+{
+    "two_concept/concept/test/dunpai/0.png": {
+        "Human": "What is the primary color scheme of <dunpai>? \n A. Red, white, and blue; \n B. Green, yellow, and black; \n C. Purple, orange, and pink;",
+        "AI": "A"
+    },
+    "two_concept/concept/test/dunpai/1.png": {
+        "Human": "What is the primary color of the outermost ring of <dunpai>? \n A. Red; \n B. Blue; \n C. White;",
+        "AI": "A"
+    },
+    "two_concept/concept/test/dunpai/2.png": {
+        "Human": "What is the primary color of the outermost ring on <dunpai>? \n A. Blue; \n B. Red; \n C. White;",
+        "AI": "B"
+    },
+    "two_concept/concept/test/dunpai/3.png": {
+        "Human": "What is the primary color of the outermost ring of <dunpai>? \n A. Red; \n B. Blue; \n C. Silver;\n",
+        "AI": "A"
+    },
+    "two_concept/concept/test/dunpai/4.png": {
+        "Human": "What is the primary color of <dunpai>? \n A. Red; \n B. Green; \n C. Yellow;",
+        "AI": "A"
+    }
+}

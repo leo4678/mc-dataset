@@ -1,0 +1,378 @@
+{
+    "two_concept/concept/train/Hai/0.jpg": [
+        {
+            "Question": "What is <Hai> hair color?",
+            "Answer": "<Hai>'s hair color is black."
+        },
+        {
+            "Question": "What color are <Hai> eyes?",
+            "Answer": "I cannot determine the color of <Hai>'s eyes from the image."
+        },
+        {
+            "Question": "Would you describe <Hai>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<Hai>'s physique can be described as slim."
+        },
+        {
+            "Question": "What is <Hai> skin tone?",
+            "Answer": "<Hai>'s skin tone is light."
+        },
+        {
+            "Question": "How would you describe <Hai> hairstyle?",
+            "Answer": "<Hai>'s hairstyle features two pigtails."
+        },
+        {
+            "Question": "Does <Hai> wear glasses or any accessories?",
+            "Answer": "<Hai> does not wear glasses or any accessories."
+        },
+        {
+            "Question": "How would you describe <Hai>'s attire?",
+            "Answer": "<Hai> is wearing a school uniform consisting of a white blouse with a red scarf tied at the front and a dark blue skirt."
+        },
+        {
+            "Question": "What is <Hai> overall build or physique?",
+            "Answer": "<Hai> has a slender build."
+        },
+        {
+            "Question": "What is <Hai> general expression or demeanor?",
+            "Answer": "<Hai> has a determined and purposeful demeanor, as indicated by the stride and posture."
+        }
+    ],
+    "two_concept/concept/train/Hai/1.jpg": [
+        {
+            "Question": "What is <Hai> hair color?",
+            "Answer": "<Hai>'s hair color is black."
+        },
+        {
+            "Question": "Would you describe <Hai>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<Hai>'s physique can be described as slim."
+        },
+        {
+            "Question": "What is <Hai> skin tone?",
+            "Answer": "<Hai>'s skin tone is light."
+        },
+        {
+            "Question": "How would you describe <Hai> hairstyle?",
+            "Answer": "<Hai>'s hairstyle features two braided pigtails."
+        },
+        {
+            "Question": "Does <Hai> wear glasses or any accessories?",
+            "Answer": "<Hai> does not wear glasses or any accessories."
+        },
+        {
+            "Question": "How would you describe <Hai>'s attire?",
+            "Answer": "<Hai> is wearing a traditional Japanese school uniform, consisting of a white blouse with a red sailor-style collar and bow, and a dark blue pleated skirt."
+        },
+        {
+            "Question": "What is <Hai> overall build or physique?",
+            "Answer": "<Hai> has a slender build."
+        },
+        {
+            "Question": "What is <Hai> general expression or demeanor?",
+            "Answer": "<Hai> has a composed and neutral demeanor."
+        }
+    ],
+    "two_concept/concept/train/Hai/2.jpg": [
+        {
+            "Question": "What is <Hai> hair color?",
+            "Answer": "<Hai>'s hair color is dark brown."
+        },
+        {
+            "Question": "What color are <Hai> eyes?",
+            "Answer": "I cannot determine the color of <Hai>'s eyes from the image."
+        },
+        {
+            "Question": "Would you describe <Hai>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<Hai>'s physique can be described as slim."
+        },
+        {
+            "Question": "What is <Hai> skin tone?",
+            "Answer": "<Hai>'s skin tone is light."
+        },
+        {
+            "Question": "How would you describe <Hai> hairstyle?",
+            "Answer": "<Hai>'s hairstyle features two braids tied with ribbons, with the braids hanging down on either side of the head."
+        },
+        {
+            "Question": "Does <Hai> wear glasses or any accessories?",
+            "Answer": "<Hai> does not wear glasses or any accessories."
+        },
+        {
+            "Question": "How would you describe <Hai>'s attire?",
+            "Answer": "<Hai> is wearing a white sailor-style school uniform with a red neckerchief and dark blue trim."
+        },
+        {
+            "Question": "Does <Hai> have any distinctive facial features?",
+            "Answer": "I cannot determine any distinctive facial features for <Hai> based on the provided image."
+        },
+        {
+            "Question": "What is <Hai> overall build or physique?",
+            "Answer": "<Hai> has a slender build."
+        },
+        {
+            "Question": "What is <Hai> general expression or demeanor?",
+            "Answer": "<Hai> appears to have a calm and composed demeanor."
+        }
+    ],
+    "two_concept/concept/train/Hai/3.jpg": [
+        {
+            "Question": "What is <Hai> hair color?",
+            "Answer": "<Hai>'s hair color is black."
+        },
+        {
+            "Question": "What color are <Hai> eyes?",
+            "Answer": "I cannot determine the color of <Hai>'s eyes from the image."
+        },
+        {
+            "Question": "Would you describe <Hai>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<Hai>'s physique can be described as slim."
+        },
+        {
+            "Question": "What is <Hai> skin tone?",
+            "Answer": "<Hai>'s skin tone is light."
+        },
+        {
+            "Question": "How would you describe <Hai> hairstyle?",
+            "Answer": "<Hai>'s hairstyle features two pigtails, each tied with a hairband and styled with a slight curl at the ends."
+        },
+        {
+            "Question": "Does <Hai> wear glasses or any accessories?",
+            "Answer": "<Hai> does not wear glasses but has her hair styled in pigtails."
+        },
+        {
+            "Question": "How would you describe <Hai>'s attire?",
+            "Answer": "<Hai> is wearing a traditional Japanese school uniform, consisting of a white blouse with a red sailor-style collar and a blue pleated skirt. She is also carrying a black school bag."
+        },
+        {
+            "Question": "What is <Hai> overall build or physique?",
+            "Answer": "<Hai> has a slender build."
+        },
+        {
+            "Question": "What is <Hai> general expression or demeanor?",
+            "Answer": "<Hai> appears to have a calm and composed demeanor."
+        }
+    ],
+    "two_concept/concept/train/Hai/4.jpg": [
+        {
+            "Question": "What is <Hai> hair color?",
+            "Answer": "<Hai>'s hair color is black."
+        },
+        {
+            "Question": "What color are <Hai> eyes?",
+            "Answer": "I cannot determine the color of <Hai>'s eyes from the image."
+        },
+        {
+            "Question": "Would you describe <Hai>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<Hai>'s physique appears to be slim."
+        },
+        {
+            "Question": "What is <Hai> skin tone?",
+            "Answer": "<Hai>'s skin tone is light."
+        },
+        {
+            "Question": "How would you describe <Hai> hairstyle?",
+            "Answer": "<Hai>'s hairstyle features two braids, each tied with a ribbon at the end."
+        },
+        {
+            "Question": "Does <Hai> wear glasses or any accessories?",
+            "Answer": "<Hai> does not wear glasses or any accessories."
+        },
+        {
+            "Question": "How would you describe <Hai>'s attire?",
+            "Answer": "<Hai> is wearing a white sailor-style school uniform with a red scarf and navy blue trim."
+        },
+        {
+            "Question": "What is <Hai> overall build or physique?",
+            "Answer": "<Hai> has a slender build."
+        },
+        {
+            "Question": "What is <Hai> general expression or demeanor?",
+            "Answer": "<Hai> appears to have a focused and attentive demeanor."
+        }
+    ],
+    "two_concept/concept/train/Hai/5.jpg": [
+        {
+            "Question": "What is <Hai> hair color?",
+            "Answer": "<Hai>'s hair color is black."
+        },
+        {
+            "Question": "Would you describe <Hai>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<Hai>'s physique can be described as slim."
+        },
+        {
+            "Question": "What is <Hai> skin tone?",
+            "Answer": "<Hai>'s skin tone is light."
+        },
+        {
+            "Question": "How would you describe <Hai> hairstyle?",
+            "Answer": "<Hai>'s hairstyle consists of two braids, one on each side of the head."
+        },
+        {
+            "Question": "Does <Hai> wear glasses or any accessories?",
+            "Answer": "<Hai> does not wear glasses or any accessories."
+        },
+        {
+            "Question": "How would you describe <Hai>'s attire?",
+            "Answer": "<Hai> is wearing a school uniform consisting of a white blouse with a red necktie and a dark blue skirt. She is also holding a black school bag."
+        },
+        {
+            "Question": "What is <Hai> overall build or physique?",
+            "Answer": "<Hai> has a slender build."
+        },
+        {
+            "Question": "What is <Hai> general expression or demeanor?",
+            "Answer": "<Hai> has a calm and composed demeanor."
+        }
+    ],
+    "two_concept/concept/train/Hai/6.jpg": [
+        {
+            "Question": "What is <Hai> hair color?",
+            "Answer": "<Hai>'s hair color is dark brown."
+        },
+        {
+            "Question": "Would you describe <Hai>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<Hai>'s physique can be described as slim."
+        },
+        {
+            "Question": "What is <Hai> skin tone?",
+            "Answer": "<Hai>'s skin tone is light."
+        },
+        {
+            "Question": "How would you describe <Hai> hairstyle?",
+            "Answer": "<Hai>'s hairstyle features two braids, one on each side of the head."
+        },
+        {
+            "Question": "Does <Hai> wear glasses or any accessories?",
+            "Answer": "<Hai> does not wear glasses or any accessories."
+        },
+        {
+            "Question": "How would you describe <Hai>'s attire?",
+            "Answer": "<Hai> is wearing a sailor-style school uniform with a white top, navy blue collar, and a red neckerchief."
+        },
+        {
+            "Question": "Does <Hai> have any distinctive facial features?",
+            "Answer": "<Hai> has no visible distinctive facial features in the image."
+        },
+        {
+            "Question": "What is <Hai> overall build or physique?",
+            "Answer": "<Hai> has a slender build."
+        },
+        {
+            "Question": "What is <Hai> general expression or demeanor?",
+            "Answer": "<Hai> has a calm and composed demeanor."
+        }
+    ],
+    "two_concept/concept/train/Hai/7.jpg": [
+        {
+            "Question": "What is <Hai> hair color?",
+            "Answer": "<Hai>'s hair color is dark brown."
+        },
+        {
+            "Question": "What color are <Hai> eyes?",
+            "Answer": "\"I cannot determine the color of <Hai>'s eyes from the image.\""
+        },
+        {
+            "Question": "Would you describe <Hai>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<Hai>'s physique can be described as slim."
+        },
+        {
+            "Question": "What is <Hai> skin tone?",
+            "Answer": "<Hai>'s skin tone is light."
+        },
+        {
+            "Question": "How would you describe <Hai> hairstyle?",
+            "Answer": "<Hai>'s hairstyle features two pigtails tied with hairbands."
+        },
+        {
+            "Question": "Does <Hai> wear glasses or any accessories?",
+            "Answer": "<Hai> does not wear glasses or any accessories."
+        },
+        {
+            "Question": "How would you describe <Hai>'s attire?",
+            "Answer": "<Hai> is wearing a pink cardigan over a white collared shirt."
+        },
+        {
+            "Question": "What is <Hai> overall build or physique?",
+            "Answer": "<Hai> has a slender build."
+        },
+        {
+            "Question": "What is <Hai> general expression or demeanor?",
+            "Answer": "<Hai> has a calm and relaxed demeanor."
+        }
+    ],
+    "two_concept/concept/train/Hai/8.jpg": [
+        {
+            "Question": "What is <Hai> hair color?",
+            "Answer": "<Hai>'s hair color is black."
+        },
+        {
+            "Question": "What color are <Hai> eyes?",
+            "Answer": "<Hai>'s eyes are not visible in the image."
+        },
+        {
+            "Question": "Would you describe <Hai>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<Hai>'s physique can be described as slim."
+        },
+        {
+            "Question": "What is <Hai> skin tone?",
+            "Answer": "<Hai>'s skin tone is light."
+        },
+        {
+            "Question": "How would you describe <Hai> hairstyle?",
+            "Answer": "<Hai>'s hairstyle is medium-length, dark, and styled in two pigtails with curls at the ends."
+        },
+        {
+            "Question": "Does <Hai> wear glasses or any accessories?",
+            "Answer": "<Hai> does not wear glasses or any accessories."
+        },
+        {
+            "Question": "How would you describe <Hai>'s attire?",
+            "Answer": "<Hai> is wearing a light-colored shirt with a pink collar."
+        },
+        {
+            "Question": "What is <Hai> overall build or physique?",
+            "Answer": "<Hai> has a slender build."
+        },
+        {
+            "Question": "What is <Hai> general expression or demeanor?",
+            "Answer": "<Hai> has a calm and composed demeanor."
+        }
+    ],
+    "two_concept/concept/train/Hai/9.jpg": [
+        {
+            "Question": "What is <Hai> hair color?",
+            "Answer": "<Hai>'s hair color is dark brown."
+        },
+        {
+            "Question": "Would you describe <Hai>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<Hai>'s physique is slim."
+        },
+        {
+            "Question": "What is <Hai> skin tone?",
+            "Answer": "<Hai>'s skin tone is light."
+        },
+        {
+            "Question": "How would you describe <Hai> hairstyle?",
+            "Answer": "<Hai>'s hairstyle features two braids tied with ribbons."
+        },
+        {
+            "Question": "Does <Hai> wear glasses or any accessories?",
+            "Answer": "<Hai> does not wear glasses or any accessories."
+        },
+        {
+            "Question": "How would you describe <Hai>'s attire?",
+            "Answer": "<Hai> is wearing a traditional Japanese school uniform, consisting of a white sailor-style top with a red scarf and a dark collar."
+        },
+        {
+            "Question": "Does <Hai> have any distinctive facial features?",
+            "Answer": "<Hai> has two distinctive braids and is wearing a sailor-style school uniform with a red scarf."
+        },
+        {
+            "Question": "What is <Hai> overall build or physique?",
+            "Answer": "<Hai> has a slender build."
+        },
+        {
+            "Question": "What is <Hai> general expression or demeanor?",
+            "Answer": "<Hai> has a cheerful and enthusiastic demeanor, as indicated by the raised arm and the bright background."
+        }
+    ]
+}

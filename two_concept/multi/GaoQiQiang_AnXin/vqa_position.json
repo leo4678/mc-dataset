@@ -1,0 +1,52 @@
+{
+    "two_concept/multi/GaoQiQiang_AnXin/0.png": [
+        {
+            "Human": "Where is <GaoQiQiang> located in the photo? A. left B. right.",
+            "AI": "A"
+        },
+        {
+            "Human": "Where is <AnXin> located in the photo? A. left B. right.",
+            "AI": "B"
+        }
+    ],
+    "two_concept/multi/GaoQiQiang_AnXin/1.png": [
+        {
+            "Human": "Where is <GaoQiQiang> located in the photo? A. left B. right.",
+            "AI": "A"
+        },
+        {
+            "Human": "Where is <AnXin> located in the photo? A. left B. right.",
+            "AI": "B"
+        }
+    ],
+    "two_concept/multi/GaoQiQiang_AnXin/2.png": [
+        {
+            "Human": "Where is <GaoQiQiang> located in the photo? A. left B. right.",
+            "AI": "B"
+        },
+        {
+            "Human": "Where is <AnXin> located in the photo? A. left B. right.",
+            "AI": "A"
+        }
+    ],
+    "two_concept/multi/GaoQiQiang_AnXin/3.png": [
+        {
+            "Human": "Where is <GaoQiQiang> located in the photo? A. left B. right.",
+            "AI": "A"
+        },
+        {
+            "Human": "Where is <AnXin> located in the photo? A. left B. right.",
+            "AI": "B"
+        }
+    ],
+    "two_concept/multi/GaoQiQiang_AnXin/4.png": [
+        {
+            "Human": "Where is <GaoQiQiang> located in the photo? A. left B. right.",
+            "AI": "A"
+        },
+        {
+            "Human": "Where is <AnXin> located in the photo? A. left B. right.",
+            "AI": "B"
+        }
+    ]
+}

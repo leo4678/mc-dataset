@@ -1,0 +1,22 @@
+{
+    "three_concept/concept/test/Kace/0.png": {
+        "Human": "What type of clothing is <Kace>? \n A. A red long sleeve shirt; \n B. A red sleeveless vest; \n",
+        "AI": "B"
+    },
+    "three_concept/concept/test/Kace/1.png": {
+        "Human": "What type of clothing is <Kace>? \n A. A red long sleeve shirt; \n B. A red sleeveless vest; \n",
+        "AI": "A"
+    },
+    "three_concept/concept/test/Kace/2.png": {
+        "Human": "What type of clothing is <Kace>? \n A. A red long sleeve shirt; \n B. A red sleeveless vest; \n",
+        "AI": "B"
+    },
+    "three_concept/concept/test/Kace/3.png": {
+        "Human": "What is the color of the buttons on <Kace>? \n A. Red; \n B. Yellow; \n C. Blue;",
+        "AI": "B"
+    },
+    "three_concept/concept/test/Kace/4.png": {
+        "Human": "What type of clothing is <Kace> wearing in the image? \n A. Red long sleeve shirt; \n B. Red sleeveless vest; \n",
+        "AI": "B"
+    }
+}

@@ -1,0 +1,22 @@
+[
+    {
+        "question": "What are the genders of <zhongtangxi>, <sanchengmeiqin>, and <jiubuliulang>? A. male, female, male. B. female, male, female.",
+        "answer": "A"
+    },
+    {
+        "question": "Which roles often wear glasses? A. <jiubuliulang> and <donghailinxizi>. B. <sanchengmeiqin> and <zhongtangxi>.",
+        "answer": "A"
+    },
+    {
+        "question": "What is the common hair color of <zhongtangxi> and <donghailinxizi>? A. Black. B. Brown.",
+        "answer": "A"
+    },
+    {
+        "question": "Which roles are often seen in professional attire? A. <sanchengmeiqin> and <jiubuliulang>. B. <zhongtangxi> and <donghailinxizi>.",
+        "answer": "A"
+    },
+    {
+        "question": "Do <sanchengmeiqin> and <donghailinxizi> have similar hair length? A. Yes. B. No.",
+        "answer": "A"
+    }
+]

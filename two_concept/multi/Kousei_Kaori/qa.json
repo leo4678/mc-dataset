@@ -1,0 +1,22 @@
+[
+    {
+        "question": "Are both <Kousei> and <Kaori> humans or animals? A. Humans. B. Animals",
+        "answer": "A"
+    },
+    {
+        "question": "What are the genders of <Kousei> and <Kaori> respectively? A. Boy, Girl. B. Girl, Boy",
+        "answer": "A"
+    },
+    {
+        "question": "What are the hair colors of <Kousei> and <Kaori> respectively? A. Black, Blonde. B. Blonde, Black",
+        "answer": "A"
+    },
+    {
+        "question": "What type of clothing do <Kousei> and <Kaori> often wear? A. School uniform, Casual. B. Both School uniform",
+        "answer": "B"
+    },
+    {
+        "question": "Do <Kousei> and <Kaori> play musical instruments? A. Yes. B. No",
+        "answer": "A"
+    }
+]

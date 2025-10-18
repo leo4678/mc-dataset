@@ -1,0 +1,22 @@
+{
+    "two_concept/concept/test/Liang/0.png": {
+        "Human": "What accessory is <Liang> wearing on his hand?",
+        "AI": "<Liang> is wearing a ring on his hand."
+    },
+    "two_concept/concept/test/Liang/1.png": {
+        "Human": "What type of clothing is <Liang> wearing in the image?",
+        "AI": "<Liang> is wearing a plaid blazer over a white shirt and a patterned scarf."
+    },
+    "two_concept/concept/test/Liang/2.png": {
+        "Human": "What is <Liang> holding in his hand?",
+        "AI": "<Liang> is holding a cigar in his hand."
+    },
+    "two_concept/concept/test/Liang/3.png": {
+        "Human": "What kind of outfit is <Liang> wearing in the image?",
+        "AI": "<Liang> is wearing a grey suit with a black shirt underneath."
+    },
+    "two_concept/concept/test/Liang/4.png": {
+        "Human": "What clothing is <Liang> wearing?",
+        "AI": "<Liang> is wearing a black jacket over a white shirt."
+    }
+}

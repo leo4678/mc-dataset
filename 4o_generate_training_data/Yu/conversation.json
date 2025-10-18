@@ -1,0 +1,422 @@
+{
+    "three_concept/concept/train/Yu/0.png": [
+        {
+            "Question": "What is <Yu> hair color?",
+            "Answer": "<Yu>'s hair color is black."
+        },
+        {
+            "Question": "What color are <Yu> eyes?",
+            "Answer": "I can't determine the eye color of <Yu> from the image."
+        },
+        {
+            "Question": "Would you describe <Yu>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<Yu>'s physique appears to be slim."
+        },
+        {
+            "Question": "What is <Yu> skin tone?",
+            "Answer": "I can't determine <Yu>'s skin tone from the image."
+        },
+        {
+            "Question": "How would you describe <Yu> hairstyle?",
+            "Answer": "<Yu>'s hairstyle is short and neatly trimmed."
+        },
+        {
+            "Question": "Does <Yu> wear glasses or any accessories?",
+            "Answer": "<Yu> is not wearing glasses or any accessories."
+        },
+        {
+            "Question": "How would you describe <Yu>'s attire?",
+            "Answer": "<Yu> is wearing a light blue shirt."
+        },
+        {
+            "Question": "Does <Yu> have any distinctive facial features?",
+            "Answer": "I can't determine any distinctive facial features for <Yu> from the image."
+        },
+        {
+            "Question": "What is <Yu> overall build or physique?",
+            "Answer": "<Yu> has a medium build."
+        },
+        {
+            "Question": "What is <Yu> general expression or demeanor?",
+            "Answer": "<Yu> appears to have a relaxed demeanor."
+        }
+    ],
+    "three_concept/concept/train/Yu/1.png": [
+        {
+            "Question": "What is <Yu> hair color?",
+            "Answer": "<Yu>'s hair color is black."
+        },
+        {
+            "Question": "What color are <Yu> eyes?",
+            "Answer": "I can't determine the eye color of <Yu> from the image."
+        },
+        {
+            "Question": "Would you describe <Yu>'s physique as athletic, slim, or otherwise?",
+            "Answer": "I can't determine <Yu>'s physique from the image provided."
+        },
+        {
+            "Question": "What is <Yu> skin tone?",
+            "Answer": "I'm unable to determine <Yu>'s skin tone from the visible parts of the image."
+        },
+        {
+            "Question": "How would you describe <Yu> hairstyle?",
+            "Answer": "<Yu>'s hairstyle is short and neatly trimmed."
+        },
+        {
+            "Question": "Does <Yu> wear glasses or any accessories?",
+            "Answer": "<Yu> is not wearing glasses or any accessories."
+        },
+        {
+            "Question": "How would you describe <Yu>'s attire?",
+            "Answer": "<Yu> is wearing a red and green jacket."
+        },
+        {
+            "Question": "Does <Yu> have any distinctive facial features?",
+            "Answer": "I can't determine any distinctive facial features for <Yu> from the visible part of the image."
+        },
+        {
+            "Question": "What is <Yu> overall build or physique?",
+            "Answer": "I'm unable to determine <Yu>'s overall build or physique from the image provided."
+        },
+        {
+            "Question": "What is <Yu> general expression or demeanor?",
+            "Answer": "I can't determine <Yu>'s expression or demeanor from the visible parts of the image."
+        }
+    ],
+    "three_concept/concept/train/Yu/2.png": [
+        {
+            "Question": "What is <Yu> hair color?",
+            "Answer": "<Yu>'s hair color is black."
+        },
+        {
+            "Question": "What color are <Yu> eyes?",
+            "Answer": "I can't determine the eye color of <Yu> from the image."
+        },
+        {
+            "Question": "Would you describe <Yu>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<Yu>'s physique appears slim."
+        },
+        {
+            "Question": "What is <Yu> skin tone?",
+            "Answer": "I can't determine <Yu>'s skin tone from the visible parts of the image."
+        },
+        {
+            "Question": "How would you describe <Yu> hairstyle?",
+            "Answer": "<Yu>'s hairstyle is short and neatly trimmed on the sides."
+        },
+        {
+            "Question": "Does <Yu> wear glasses or any accessories?",
+            "Answer": "<Yu> is not wearing glasses or any accessories."
+        },
+        {
+            "Question": "How would you describe <Yu>'s attire?",
+            "Answer": "<Yu> is wearing a white shirt with black and red accents."
+        },
+        {
+            "Question": "Does <Yu> have any distinctive facial features?",
+            "Answer": "I can't determine any distinctive facial features for <Yu> from the image."
+        },
+        {
+            "Question": "What is <Yu> overall build or physique?",
+            "Answer": "<Yu> has a youthful and slender build."
+        },
+        {
+            "Question": "What is <Yu> general expression or demeanor?",
+            "Answer": "<Yu>'s general expression or demeanor cannot be determined from the visible parts of the image."
+        }
+    ],
+    "three_concept/concept/train/Yu/3.png": [
+        {
+            "Question": "What is <Yu> hair color?",
+            "Answer": "<Yu>'s hair color is black."
+        },
+        {
+            "Question": "What color are <Yu> eyes?",
+            "Answer": "I can't determine the eye color of <Yu> from the image."
+        },
+        {
+            "Question": "Would you describe <Yu>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<Yu>'s physique appears to be slim."
+        },
+        {
+            "Question": "What is <Yu> skin tone?",
+            "Answer": "I'm unable to determine <Yu>'s skin tone."
+        },
+        {
+            "Question": "How would you describe <Yu> hairstyle?",
+            "Answer": "<Yu>'s hairstyle is short and closely cropped."
+        },
+        {
+            "Question": "Does <Yu> wear glasses or any accessories?",
+            "Answer": "<Yu> is not wearing glasses or any accessories."
+        },
+        {
+            "Question": "How would you describe <Yu>'s attire?",
+            "Answer": "<Yu> is wearing a light gray shirt with red and navy blue accents."
+        },
+        {
+            "Question": "Does <Yu> have any distinctive facial features?",
+            "Answer": "I can't determine any distinctive facial features for <Yu> due to the blurred face."
+        },
+        {
+            "Question": "What is <Yu> overall build or physique?",
+            "Answer": "<Yu> has a small and youthful build."
+        },
+        {
+            "Question": "What is <Yu> general expression or demeanor?",
+            "Answer": "I can't determine <Yu>'s expression or demeanor."
+        }
+    ],
+    "three_concept/concept/train/Yu/4.png": [
+        {
+            "Question": "What is <Yu> hair color?",
+            "Answer": "<Yu>'s hair color is dark brown."
+        },
+        {
+            "Question": "What color are <Yu> eyes?",
+            "Answer": "I can't determine the eye color from the image."
+        },
+        {
+            "Question": "Would you describe <Yu>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<Yu>'s physique appears slim."
+        },
+        {
+            "Question": "What is <Yu> skin tone?",
+            "Answer": "I'm unable to determine <Yu>'s skin tone from the image."
+        },
+        {
+            "Question": "How would you describe <Yu> hairstyle?",
+            "Answer": "<Yu>'s hairstyle is a short buzz cut."
+        },
+        {
+            "Question": "Does <Yu> wear glasses or any accessories?",
+            "Answer": "<Yu> is not wearing glasses or any accessories."
+        },
+        {
+            "Question": "How would you describe <Yu>'s attire?",
+            "Answer": "<Yu> is wearing an orange and black top."
+        },
+        {
+            "Question": "Does <Yu> have any distinctive facial features?",
+            "Answer": "I can't determine any distinctive facial features for <Yu> from the image."
+        },
+        {
+            "Question": "What is <Yu> overall build or physique?",
+            "Answer": "<Yu> has a slim build."
+        },
+        {
+            "Question": "What is <Yu> general expression or demeanor?",
+            "Answer": "I can't determine <Yu>'s expression or demeanor."
+        }
+    ],
+    "three_concept/concept/train/Yu/5.png": [
+        {
+            "Question": "What is <Yu> hair color?",
+            "Answer": "<Yu>'s hair color is black with red highlights."
+        },
+        {
+            "Question": "What color are <Yu> eyes?",
+            "Answer": "I can't determine the eye color of <Yu> from the image."
+        },
+        {
+            "Question": "Would you describe <Yu>'s physique as athletic, slim, or otherwise?",
+            "Answer": "I can't determine <Yu>'s physique from the image provided."
+        },
+        {
+            "Question": "What is <Yu> skin tone?",
+            "Answer": "I'm unable to determine <Yu>'s skin tone from the image."
+        },
+        {
+            "Question": "How would you describe <Yu> hairstyle?",
+            "Answer": "<Yu>'s hairstyle features long, thin braids with red and black accents."
+        },
+        {
+            "Question": "Does <Yu> wear glasses or any accessories?",
+            "Answer": "<Yu> is wearing a headband with red and black details."
+        },
+        {
+            "Question": "How would you describe <Yu>'s attire?",
+            "Answer": "<Yu> is wearing a white collared shirt."
+        },
+        {
+            "Question": "Does <Yu> have any distinctive facial features?",
+            "Answer": "I can't determine any distinctive facial features of <Yu> from the image."
+        },
+        {
+            "Question": "What is <Yu> overall build or physique?",
+            "Answer": "<Yu> has a slender build."
+        },
+        {
+            "Question": "What is <Yu> general expression or demeanor?",
+            "Answer": "I can't determine <Yu>'s general expression or demeanor."
+        }
+    ],
+    "three_concept/concept/train/Yu/6.png": [
+        {
+            "Question": "What is <Yu> hair color?",
+            "Answer": "<Yu>'s hair color is black."
+        },
+        {
+            "Question": "What color are <Yu> eyes?",
+            "Answer": "I can't determine the eye color of <Yu> from the image."
+        },
+        {
+            "Question": "Would you describe <Yu>'s physique as athletic, slim, or otherwise?",
+            "Answer": "I can't determine <Yu>'s physique from the visible part of the image."
+        },
+        {
+            "Question": "What is <Yu> skin tone?",
+            "Answer": "I can't determine <Yu>'s skin tone from the image."
+        },
+        {
+            "Question": "How would you describe <Yu> hairstyle?",
+            "Answer": "<Yu>'s hairstyle is short and neatly trimmed."
+        },
+        {
+            "Question": "Does <Yu> wear glasses or any accessories?",
+            "Answer": "<Yu> is not wearing glasses or any accessories."
+        },
+        {
+            "Question": "How would you describe <Yu>'s attire?",
+            "Answer": "<Yu> is wearing a white shirt with a dark collar."
+        },
+        {
+            "Question": "Does <Yu> have any distinctive facial features?",
+            "Answer": "I can't determine any distinctive facial features for <Yu> from the visible parts of the image."
+        },
+        {
+            "Question": "What is <Yu> overall build or physique?",
+            "Answer": "<Yu> has a medium build."
+        },
+        {
+            "Question": "What is <Yu> general expression or demeanor?",
+            "Answer": "I can't determine <Yu>'s expression or demeanor."
+        }
+    ],
+    "three_concept/concept/train/Yu/7.png": [
+        {
+            "Question": "What is <Yu> hair color?",
+            "Answer": "<Yu>'s hair color is black."
+        },
+        {
+            "Question": "What color are <Yu> eyes?",
+            "Answer": "I can't determine the eye color of <Yu> from the image."
+        },
+        {
+            "Question": "Would you describe <Yu>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<Yu>'s physique appears slim."
+        },
+        {
+            "Question": "What is <Yu> skin tone?",
+            "Answer": "I can't determine <Yu>'s skin tone from the image."
+        },
+        {
+            "Question": "How would you describe <Yu> hairstyle?",
+            "Answer": "<Yu>'s hairstyle is short and neatly trimmed."
+        },
+        {
+            "Question": "Does <Yu> wear glasses or any accessories?",
+            "Answer": "<Yu> is not wearing glasses or any accessories."
+        },
+        {
+            "Question": "How would you describe <Yu>'s attire?",
+            "Answer": "<Yu> is wearing a white sleeveless shirt."
+        },
+        {
+            "Question": "Does <Yu> have any distinctive facial features?",
+            "Answer": "I can't determine any distinctive facial features for <Yu> from the image."
+        },
+        {
+            "Question": "What is <Yu> overall build or physique?",
+            "Answer": "<Yu> has a slim build."
+        },
+        {
+            "Question": "What is <Yu> general expression or demeanor?",
+            "Answer": "I can't determine <Yu>'s expression or demeanor."
+        }
+    ],
+    "three_concept/concept/train/Yu/8.png": [
+        {
+            "Question": "What is <Yu> hair color?",
+            "Answer": "<Yu>'s hair color is black."
+        },
+        {
+            "Question": "What color are <Yu> eyes?",
+            "Answer": "I can't determine the eye color of <Yu> from the image."
+        },
+        {
+            "Question": "Would you describe <Yu>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<Yu>'s physique appears slim."
+        },
+        {
+            "Question": "What is <Yu> skin tone?",
+            "Answer": "I can't determine <Yu>'s skin tone from the image."
+        },
+        {
+            "Question": "How would you describe <Yu> hairstyle?",
+            "Answer": "<Yu>'s hairstyle is short and neatly trimmed."
+        },
+        {
+            "Question": "Does <Yu> wear glasses or any accessories?",
+            "Answer": "<Yu> is not wearing glasses or any accessories."
+        },
+        {
+            "Question": "How would you describe <Yu>'s attire?",
+            "Answer": "<Yu> is wearing a sleeveless white top."
+        },
+        {
+            "Question": "Does <Yu> have any distinctive facial features?",
+            "Answer": "I can't determine any distinctive facial features for <Yu> from the image."
+        },
+        {
+            "Question": "What is <Yu> overall build or physique?",
+            "Answer": "<Yu> has a slim build."
+        },
+        {
+            "Question": "What is <Yu> general expression or demeanor?",
+            "Answer": "I can't determine <Yu>'s expression or demeanor."
+        }
+    ],
+    "three_concept/concept/train/Yu/9.png": [
+        {
+            "Question": "What is <Yu> hair color?",
+            "Answer": "<Yu>'s hair color is black."
+        },
+        {
+            "Question": "What color are <Yu> eyes?",
+            "Answer": "I can't determine the eye color of <Yu> from the image."
+        },
+        {
+            "Question": "Would you describe <Yu>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<Yu>'s physique appears to be slim."
+        },
+        {
+            "Question": "What is <Yu> skin tone?",
+            "Answer": "<Yu>'s skin tone is light."
+        },
+        {
+            "Question": "How would you describe <Yu> hairstyle?",
+            "Answer": "<Yu>'s hairstyle is short and neatly combed."
+        },
+        {
+            "Question": "Does <Yu> wear glasses or any accessories?",
+            "Answer": "<Yu> is not wearing glasses or any accessories."
+        },
+        {
+            "Question": "How would you describe <Yu>'s attire?",
+            "Answer": "<Yu> is wearing a purple shirt."
+        },
+        {
+            "Question": "Does <Yu> have any distinctive facial features?",
+            "Answer": "I can't determine any distinctive facial features for <Yu> from the image."
+        },
+        {
+            "Question": "What is <Yu> overall build or physique?",
+            "Answer": "<Yu> has a medium build."
+        },
+        {
+            "Question": "What is <Yu> general expression or demeanor?",
+            "Answer": "I can't determine <Yu>'s expression or demeanor."
+        }
+    ]
+}

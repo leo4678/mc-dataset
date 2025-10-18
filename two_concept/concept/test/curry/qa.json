@@ -1,0 +1,22 @@
+[
+    {
+        "question": "What sport does <curry> play? A.Basketball.  B.Football",
+        "answer": "A"
+    },
+    {
+        "question": "What team does <curry> play for? A.Golden State Warriors.  B.Los Angeles Lakers",
+        "answer": "A"
+    },
+    {
+        "question": "What is the primary color of <curry>'s team jersey? A.Blue.  B.Red",
+        "answer": "A"
+    },
+    {
+        "question": "What number is on <curry>'s jersey? A.30.  B.23",
+        "answer": "A"
+    },
+    {
+        "question": "Does <curry> wear a headband? A.Yes.  B.No",
+        "answer": "B"
+    }
+]

@@ -1,0 +1,22 @@
+{
+    "1.png": {
+        "<ShanYin>": "left",
+        "<BaGu>": "right"
+    },
+    "2.png": {
+        "<ShanYin>": "left",
+        "<BaGu>": "right"
+    },
+    "3.png": {
+        "<ShanYin>": "left",
+        "<BaGu>": "right"
+    },
+    "4.png": {
+        "<ShanYin>": "right",
+        "<BaGu>": "left"
+    },
+    "5.png": {
+        "<ShanYin>": "left",
+        "<BaGu>": "right"
+    }
+}

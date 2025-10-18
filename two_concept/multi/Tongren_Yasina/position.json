@@ -1,0 +1,22 @@
+{
+    "0.png": {
+        "<Tongren>": "left",
+        "<Yasina>": "right"
+    },
+    "1.png": {
+        "<Tongren>": "left",
+        "<Yasina>": "right"
+    },
+    "2.png": {
+        "<Tongren>": "right",
+        "<Yasina>": "left"
+    },
+    "3.png": {
+        "<Tongren>": "left",
+        "<Yasina>": "right"
+    },
+    "4.png": {
+        "<Tongren>": "left",
+        "<Yasina>": "right"
+    }
+}

@@ -1,0 +1,72 @@
+{
+    "two_concept/multi/HouTeng_HongXia/0.png": [
+        {
+            "Human": "What is the expression on <HouTeng>'s face? A. Happy. B. Sad. C. Neutral.",
+            "AI": "B"
+        },
+        {
+            "Human": "What is <HongXia> doing in the image? A. Holding hands with someone. B. Reading a book.",
+            "AI": "A"
+        },
+        {
+            "Human": "What are <HouTeng> and <HongXia> doing in the image? A. Holding hands. B. Playing a game. C. Eating food.",
+            "AI": "A"
+        }
+    ],
+    "two_concept/multi/HouTeng_HongXia/1.png": [
+        {
+            "Human": "What color is <HouTeng>'s hair? A. Pink. B. Blue. C. Green.",
+            "AI": "A"
+        },
+        {
+            "Human": "What color is <HongXia>'s hair? A. Pink. B. Blonde.",
+            "AI": "B"
+        },
+        {
+            "Human": "What is the hair color of <HouTeng> and <HongXia>? A. Pink and Blonde. B. Black and Brown. C. Red and Blue.",
+            "AI": "A"
+        }
+    ],
+    "two_concept/multi/HouTeng_HongXia/2.png": [
+        {
+            "Human": "What color is <HouTeng>'s hair? A. Red. B. Blue. C. Yellow.",
+            "AI": "A"
+        },
+        {
+            "Human": "What color is <HongXia>'s hair? A. Blue B. Pink C. Blonde",
+            "AI": "C"
+        },
+        {
+            "Human": "What color is <HouTeng>'s hair? A. Pink B. Red C. Blue",
+            "AI": "B"
+        }
+    ],
+    "two_concept/multi/HouTeng_HongXia/3.png": [
+        {
+            "Human": "What is <HouTeng> wearing in the image? A. A pink hoodie. B. A yellow jacket.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is <HongXia> wearing in the image? A. A white shirt with a red tie. B. A pink hoodie.",
+            "AI": "A"
+        },
+        {
+            "Human": "What are <HouTeng> and <HongXia> doing in the image? A. Laughing. B. Crying. C. Sleeping.",
+            "AI": "A"
+        }
+    ],
+    "two_concept/multi/HouTeng_HongXia/4.png": [
+        {
+            "Human": "What color is <HouTeng>'s jacket? A. Pink B. Yellow",
+            "AI": "A"
+        },
+        {
+            "Human": "What color is <HongXia>'s jacket? A. Pink B. Yellow",
+            "AI": "B"
+        },
+        {
+            "Human": "What color is the jacket that <HouTeng> is wearing? A. Pink B. Yellow",
+            "AI": "A"
+        }
+    ]
+}

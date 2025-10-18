@@ -1,0 +1,422 @@
+{
+    "two_concept/concept/train/Liang/0.png": [
+        {
+            "Question": "What is <Liang> hair color?",
+            "Answer": "<Liang>'s hair color is black."
+        },
+        {
+            "Question": "What color are <Liang> eyes?",
+            "Answer": "I cannot determine the color of <Liang>'s eyes from the image."
+        },
+        {
+            "Question": "Would you describe <Liang>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<Liang>'s physique appears to be slim."
+        },
+        {
+            "Question": "What is <Liang> skin tone?",
+            "Answer": "<Liang>'s skin tone is light."
+        },
+        {
+            "Question": "How would you describe <Liang> hairstyle?",
+            "Answer": "<Liang>'s hairstyle is short and neatly combed, with a side part."
+        },
+        {
+            "Question": "Does <Liang> wear glasses or any accessories?",
+            "Answer": "<Liang> is wearing glasses."
+        },
+        {
+            "Question": "How would you describe <Liang>'s attire?",
+            "Answer": "<Liang> is wearing a light-colored shirt and a dark jacket."
+        },
+        {
+            "Question": "Does <Liang> have any distinctive facial features?",
+            "Answer": "Based on the visible parts of the image, <Liang> has short, dark hair and wears glasses."
+        },
+        {
+            "Question": "What is <Liang> overall build or physique?",
+            "Answer": "<Liang> has a medium build with a lean physique."
+        },
+        {
+            "Question": "What is <Liang> general expression or demeanor?",
+            "Answer": "<Liang> has a calm and composed demeanor."
+        }
+    ],
+    "two_concept/concept/train/Liang/1.png": [
+        {
+            "Question": "What is <Liang> hair color?",
+            "Answer": "<Liang>'s hair color is black."
+        },
+        {
+            "Question": "What color are <Liang> eyes?",
+            "Answer": "I cannot determine the color of <Liang>'s eyes from the image."
+        },
+        {
+            "Question": "Would you describe <Liang>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<Liang>'s physique appears to be slim."
+        },
+        {
+            "Question": "What is <Liang> skin tone?",
+            "Answer": "<Liang>'s skin tone is light."
+        },
+        {
+            "Question": "How would you describe <Liang> hairstyle?",
+            "Answer": "<Liang>'s hairstyle is medium-length and neatly combed back."
+        },
+        {
+            "Question": "Does <Liang> wear glasses or any accessories?",
+            "Answer": "<Liang> is wearing a bracelet and a scarf."
+        },
+        {
+            "Question": "How would you describe <Liang>'s attire?",
+            "Answer": "<Liang> is wearing a light-colored suit with a patterned scarf around the neck and a bracelet on the wrist."
+        },
+        {
+            "Question": "Does <Liang> have any distinctive facial features?",
+            "Answer": "I cannot determine any distinctive facial features of <Liang> from the image."
+        },
+        {
+            "Question": "What is <Liang> overall build or physique?",
+            "Answer": "<Liang> has a medium build."
+        },
+        {
+            "Question": "What is <Liang> general expression or demeanor?",
+            "Answer": "<Liang>'s general expression or demeanor appears confident and assertive, as indicated by the pointing gesture and the formal attire."
+        }
+    ],
+    "two_concept/concept/train/Liang/2.png": [
+        {
+            "Question": "What is <Liang> hair color?",
+            "Answer": "<Liang>'s hair color is black."
+        },
+        {
+            "Question": "What color are <Liang> eyes?",
+            "Answer": "The color of <Liang>'s eyes cannot be determined from the image."
+        },
+        {
+            "Question": "Would you describe <Liang>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<Liang>'s physique appears to be slim."
+        },
+        {
+            "Question": "What is <Liang> skin tone?",
+            "Answer": "<Liang>'s skin tone is light."
+        },
+        {
+            "Question": "How would you describe <Liang> hairstyle?",
+            "Answer": "<Liang>'s hairstyle is medium-length, straight, and neatly combed to the side."
+        },
+        {
+            "Question": "Does <Liang> wear glasses or any accessories?",
+            "Answer": "<Liang> is wearing glasses."
+        },
+        {
+            "Question": "How would you describe <Liang>'s attire?",
+            "Answer": "<Liang> is wearing a dark suit with a white dress shirt and a dark tie."
+        },
+        {
+            "Question": "Does <Liang> have any distinctive facial features?",
+            "Answer": "I cannot determine any distinctive facial features for <Liang> based on the provided image."
+        },
+        {
+            "Question": "What is <Liang> overall build or physique?",
+            "Answer": "<Liang> has a medium build and physique."
+        },
+        {
+            "Question": "What is <Liang> general expression or demeanor?",
+            "Answer": "<Liang> has a serious and focused demeanor."
+        }
+    ],
+    "two_concept/concept/train/Liang/3.png": [
+        {
+            "Question": "What is <Liang> hair color?",
+            "Answer": "<Liang>'s hair color is black."
+        },
+        {
+            "Question": "What color are <Liang> eyes?",
+            "Answer": "The eye color of <Liang> cannot be determined from the image."
+        },
+        {
+            "Question": "Would you describe <Liang>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<Liang>'s physique appears to be slim."
+        },
+        {
+            "Question": "What is <Liang> skin tone?",
+            "Answer": "<Liang>'s skin tone is light to medium."
+        },
+        {
+            "Question": "How would you describe <Liang> hairstyle?",
+            "Answer": "<Liang>'s hairstyle is short and neatly combed back."
+        },
+        {
+            "Question": "Does <Liang> wear glasses or any accessories?",
+            "Answer": "<Liang> is wearing a hairpin."
+        },
+        {
+            "Question": "How would you describe <Liang>'s attire?",
+            "Answer": "<Liang> is wearing a dark green jacket."
+        },
+        {
+            "Question": "Does <Liang> have any distinctive facial features?",
+            "Answer": "I cannot determine any distinctive facial features of <Liang> from the image provided."
+        },
+        {
+            "Question": "What is <Liang> overall build or physique?",
+            "Answer": "<Liang> has a medium build."
+        },
+        {
+            "Question": "What is <Liang> general expression or demeanor?",
+            "Answer": "<Liang>'s general expression or demeanor appears to be serious and focused."
+        }
+    ],
+    "two_concept/concept/train/Liang/4.png": [
+        {
+            "Question": "What is <Liang> hair color?",
+            "Answer": "<Liang>'s hair color is black."
+        },
+        {
+            "Question": "What color are <Liang> eyes?",
+            "Answer": "I cannot determine the color of <Liang>'s eyes from the image."
+        },
+        {
+            "Question": "Would you describe <Liang>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<Liang>'s physique appears to be slim."
+        },
+        {
+            "Question": "What is <Liang> skin tone?",
+            "Answer": "<Liang>'s skin tone is light."
+        },
+        {
+            "Question": "How would you describe <Liang> hairstyle?",
+            "Answer": "<Liang>'s hairstyle is short and neatly combed, with a slight wave."
+        },
+        {
+            "Question": "Does <Liang> wear glasses or any accessories?",
+            "Answer": "<Liang> is wearing glasses."
+        },
+        {
+            "Question": "How would you describe <Liang>'s attire?",
+            "Answer": "<Liang> is wearing a dark-colored suit with a patterned scarf around the neck."
+        },
+        {
+            "Question": "Does <Liang> have any distinctive facial features?",
+            "Answer": "I cannot determine any distinctive facial features of <Liang> from the provided image."
+        },
+        {
+            "Question": "What is <Liang> overall build or physique?",
+            "Answer": "<Liang> has a medium build."
+        },
+        {
+            "Question": "What is <Liang> general expression or demeanor?",
+            "Answer": "<Liang> appears to have a confident and composed demeanor."
+        }
+    ],
+    "two_concept/concept/train/Liang/5.png": [
+        {
+            "Question": "What is <Liang> hair color?",
+            "Answer": "<Liang>'s hair color is black."
+        },
+        {
+            "Question": "What color are <Liang> eyes?",
+            "Answer": "I don't know what color <Liang>'s eyes are."
+        },
+        {
+            "Question": "Would you describe <Liang>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<Liang>'s physique can be described as slim."
+        },
+        {
+            "Question": "What is <Liang> skin tone?",
+            "Answer": "<Liang> has a light to medium skin tone."
+        },
+        {
+            "Question": "How would you describe <Liang> hairstyle?",
+            "Answer": "<Liang>'s hairstyle is short and neatly combed back."
+        },
+        {
+            "Question": "Does <Liang> wear glasses or any accessories?",
+            "Answer": "<Liang> is wearing a patterned tie and a pocket square. He is not wearing glasses."
+        },
+        {
+            "Question": "How would you describe <Liang>'s attire?",
+            "Answer": "<Liang> is wearing a three-piece suit with a plaid pattern, consisting of a jacket, vest, and trousers. He has accessorized with a patterned tie and a pocket square."
+        },
+        {
+            "Question": "Does <Liang> have any distinctive facial features?",
+            "Answer": "I don't know."
+        },
+        {
+            "Question": "What is <Liang> overall build or physique?",
+            "Answer": "<Liang> has a medium build and a well-tailored physique."
+        },
+        {
+            "Question": "What is <Liang> general expression or demeanor?",
+            "Answer": "<Liang>'s general expression or demeanor appears confident and composed, with a relaxed posture and hands in pockets."
+        }
+    ],
+    "two_concept/concept/train/Liang/6.png": [
+        {
+            "Question": "What is <Liang> hair color?",
+            "Answer": "<Liang>'s hair color is black."
+        },
+        {
+            "Question": "What color are <Liang> eyes?",
+            "Answer": "I don't know what color <Liang>'s eyes are."
+        },
+        {
+            "Question": "Would you describe <Liang>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<Liang>'s physique appears to be slim."
+        },
+        {
+            "Question": "What is <Liang> skin tone?",
+            "Answer": "<Liang>'s skin tone is light to medium."
+        },
+        {
+            "Question": "How would you describe <Liang> hairstyle?",
+            "Answer": "<Liang>'s hairstyle is short and neatly trimmed, with the hair slightly longer on top and combed to the side."
+        },
+        {
+            "Question": "Does <Liang> wear glasses or any accessories?",
+            "Answer": "<Liang> is not wearing glasses or any accessories."
+        },
+        {
+            "Question": "How would you describe <Liang>'s attire?",
+            "Answer": "<Liang> is wearing a light blue and white striped shirt."
+        },
+        {
+            "Question": "Does <Liang> have any distinctive facial features?",
+            "Answer": "I cannot determine any distinctive facial features for <Liang> based on the provided image."
+        },
+        {
+            "Question": "What is <Liang> overall build or physique?",
+            "Answer": "<Liang> has a medium build."
+        },
+        {
+            "Question": "What is <Liang> general expression or demeanor?",
+            "Answer": "<Liang> appears to have a calm and neutral demeanor."
+        }
+    ],
+    "two_concept/concept/train/Liang/7.png": [
+        {
+            "Question": "What is <Liang> hair color?",
+            "Answer": "<Liang>'s hair color is black."
+        },
+        {
+            "Question": "What color are <Liang> eyes?",
+            "Answer": "I cannot determine the color of <Liang>'s eyes from the image."
+        },
+        {
+            "Question": "Would you describe <Liang>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<Liang>'s physique can be described as slim."
+        },
+        {
+            "Question": "What is <Liang> skin tone?",
+            "Answer": "<Liang>'s skin tone is light."
+        },
+        {
+            "Question": "How would you describe <Liang> hairstyle?",
+            "Answer": "<Liang>'s hairstyle is medium-length, dark, and styled with a slight wave."
+        },
+        {
+            "Question": "Does <Liang> wear glasses or any accessories?",
+            "Answer": "<Liang> is holding a pair of glasses in his hands and is wearing a necklace."
+        },
+        {
+            "Question": "How would you describe <Liang>'s attire?",
+            "Answer": "<Liang> is wearing a dark blue suit jacket over a patterned shirt with a red collar."
+        },
+        {
+            "Question": "Does <Liang> have any distinctive facial features?",
+            "Answer": "I cannot determine any distinctive facial features of <Liang> from the image provided."
+        },
+        {
+            "Question": "What is <Liang> overall build or physique?",
+            "Answer": "<Liang> has a slim build."
+        },
+        {
+            "Question": "What is <Liang> general expression or demeanor?",
+            "Answer": "<Liang> has a confident and composed demeanor."
+        }
+    ],
+    "two_concept/concept/train/Liang/8.png": [
+        {
+            "Question": "What is <Liang> hair color?",
+            "Answer": "<Liang>'s hair color is black."
+        },
+        {
+            "Question": "What color are <Liang> eyes?",
+            "Answer": "I don't know what color <Liang>'s eyes are."
+        },
+        {
+            "Question": "Would you describe <Liang>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<Liang>'s physique can be described as slim."
+        },
+        {
+            "Question": "What is <Liang> skin tone?",
+            "Answer": "<Liang>'s skin tone is medium."
+        },
+        {
+            "Question": "How would you describe <Liang> hairstyle?",
+            "Answer": "<Liang>'s hairstyle is medium length and slicked back."
+        },
+        {
+            "Question": "Does <Liang> wear glasses or any accessories?",
+            "Answer": "<Liang> is wearing glasses and a patterned scarf."
+        },
+        {
+            "Question": "How would you describe <Liang>'s attire?",
+            "Answer": "<Liang> is wearing a white dress shirt with rolled-up sleeves, a grey plaid vest, and a matching tie. He also has a watch on his left wrist and a ring on his right hand."
+        },
+        {
+            "Question": "Does <Liang> have any distinctive facial features?",
+            "Answer": "I don't know."
+        },
+        {
+            "Question": "What is <Liang> overall build or physique?",
+            "Answer": "<Liang> has a medium build and physique."
+        },
+        {
+            "Question": "What is <Liang> general expression or demeanor?",
+            "Answer": "<Liang>'s general expression or demeanor appears to be confident and composed."
+        }
+    ],
+    "two_concept/concept/train/Liang/9.png": [
+        {
+            "Question": "What is <Liang> hair color?",
+            "Answer": "<Liang>'s hair color is black."
+        },
+        {
+            "Question": "What color are <Liang> eyes?",
+            "Answer": "I don't know what color <Liang>'s eyes are."
+        },
+        {
+            "Question": "Would you describe <Liang>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<Liang>'s physique can be described as slim."
+        },
+        {
+            "Question": "What is <Liang> skin tone?",
+            "Answer": "<Liang>'s skin tone is light to medium."
+        },
+        {
+            "Question": "How would you describe <Liang> hairstyle?",
+            "Answer": "<Liang>'s hairstyle is medium-length, wavy, and neatly combed back."
+        },
+        {
+            "Question": "Does <Liang> wear glasses or any accessories?",
+            "Answer": "<Liang> is wearing a tie clip as an accessory."
+        },
+        {
+            "Question": "How would you describe <Liang>'s attire?",
+            "Answer": "<Liang> is wearing a brown dress shirt with a matching tie and a tie clip."
+        },
+        {
+            "Question": "Does <Liang> have any distinctive facial features?",
+            "Answer": "I cannot determine any distinctive facial features for <Liang> based on the provided image."
+        },
+        {
+            "Question": "What is <Liang> overall build or physique?",
+            "Answer": "<Liang> has a slim build."
+        },
+        {
+            "Question": "What is <Liang> general expression or demeanor?",
+            "Answer": "<Liang>'s general expression or demeanor appears formal and professional, as indicated by his attire, which includes a dress shirt, tie, and tie clip."
+        }
+    ]
+}

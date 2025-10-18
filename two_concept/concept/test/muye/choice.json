@@ -1,0 +1,22 @@
+{
+    "two_concept/concept/test/muye/0.png": {
+        "Human": "What is the condition of the symbol on the <muye>? \n A. Intact; \n B. Scratched; \n C. Painted over;\n",
+        "AI": "B"
+    },
+    "two_concept/concept/test/muye/1.png": {
+        "Human": "What symbol is engraved on the <muye> headband? \n A. A leaf symbol; \n B. A star symbol; \n C. A wave symbol;\n",
+        "AI": "A"
+    },
+    "two_concept/concept/test/muye/2.png": {
+        "Human": "What symbol is engraved on the <muye> headband? \n A. A spiral leaf; \n B. A star; \n C. A wave;",
+        "AI": "A"
+    },
+    "two_concept/concept/test/muye/3.png": {
+        "Human": "What symbol is engraved on the <muye> headband? \n A. A spiral leaf; \n B. A star; \n C. A lightning bolt;\n",
+        "AI": "A"
+    },
+    "two_concept/concept/test/muye/4.png": {
+        "Human": "What symbol is engraved on the <muye> headband? \n A. A leaf symbol; \n B. A star symbol; \n C. A wave symbol;",
+        "AI": "A"
+    }
+}

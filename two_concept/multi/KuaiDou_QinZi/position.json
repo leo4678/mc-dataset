@@ -1,0 +1,22 @@
+{
+    "0.png": {
+        "<KuaiDou>": "right",
+        "<QinZi>": "left"
+    },
+    "1.png": {
+        "<KuaiDou>": "right",
+        "<QinZi>": "left"
+    },
+    "2.png": {
+        "<KuaiDou>": "left",
+        "<QinZi>": "right"
+    },
+    "3.png": {
+        "<KuaiDou>": "right",
+        "<QinZi>": "left"
+    },
+    "4.png": {
+        "<KuaiDou>": "right",
+        "<QinZi>": "left"
+    }
+}

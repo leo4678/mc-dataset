@@ -1,0 +1,22 @@
+{
+    "two_concept/concept/test/Tianming/0.jpg": {
+        "Human": "What accessory is <Tianming> wearing around their neck?",
+        "AI": "<Tianming> is wearing a green pendant necklace around their neck."
+    },
+    "two_concept/concept/test/Tianming/1.jpg": {
+        "Human": "What is <Tianming> holding in their hand?",
+        "AI": "<Tianming> is holding a candle in their hand."
+    },
+    "two_concept/concept/test/Tianming/2.jpg": {
+        "Human": "What is <Tianming> holding in his hand?",
+        "AI": "<Tianming> is holding a cup in his hand."
+    },
+    "two_concept/concept/test/Tianming/3.jpg": {
+        "Human": "What type of clothing is <Tianming> wearing in the image?",
+        "AI": "<Tianming> is wearing a yellow garment with a green and gray scarf."
+    },
+    "two_concept/concept/test/Tianming/4.jpg": {
+        "Human": "What type of accessory is <Tianming> wearing around their neck?",
+        "AI": "<Tianming> is wearing a green crescent-shaped necklace around their neck."
+    }
+}

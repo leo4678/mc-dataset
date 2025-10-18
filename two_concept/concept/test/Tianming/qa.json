@@ -1,0 +1,22 @@
+[
+    {
+        "question": "What is the hair color of <Tianming>? A.Black.  B.Brown",
+        "answer": "B"
+    },
+    {
+        "question": "What type of accessory does <Tianming> wear around the neck? A.Necklace.  B.Scarf",
+        "answer": "A"
+    },
+    {
+        "question": "What is the primary color of <Tianming>'s outfit? A.Yellow.  B.Blue",
+        "answer": "A"
+    },
+    {
+        "question": "Does <Tianming> wear sleeves? A.Yes.  B.No",
+        "answer": "B"
+    },
+    {
+        "question": "What is the style of <Tianming>'s hair? A.Straight.  B.Spiky",
+        "answer": "B"
+    }
+]

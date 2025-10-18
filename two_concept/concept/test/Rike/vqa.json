@@ -1,0 +1,22 @@
+{
+    "two_concept/concept/test/Rike/0.jpg": {
+        "Human": "What is <Rike> holding in his hand?",
+        "AI": "<Rike> is holding a game controller in his hand."
+    },
+    "two_concept/concept/test/Rike/1.jpg": {
+        "Human": "What is <Rike> holding in his hand?",
+        "AI": "<Rike> is holding a bottle in his hand."
+    },
+    "two_concept/concept/test/Rike/2.jpg": {
+        "Human": "What color is <Rike>'s hair in the image?",
+        "AI": "<Rike>'s hair is blue in the image."
+    },
+    "two_concept/concept/test/Rike/3.jpg": {
+        "Human": "What is <Rike> holding in his hands?",
+        "AI": "<Rike> is holding a game controller in his hands."
+    },
+    "two_concept/concept/test/Rike/4.jpg": {
+        "Human": "What is <Rike> holding in his hand?",
+        "AI": "<Rike> is holding a red object in his hand."
+    }
+}

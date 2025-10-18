@@ -1,0 +1,22 @@
+{
+    "three_concept/concept/test/Alex/0.png": {
+        "Human": "What is <Alex> doing in the image? A. Dancing; B. Sleeping; C. Eating;",
+        "AI": "A"
+    },
+    "three_concept/concept/test/Alex/1.png": {
+        "Human": "What is <Alex> looking at in the image? A. His claws; B. The sky; C. A tree;",
+        "AI": "A"
+    },
+    "three_concept/concept/test/Alex/2.png": {
+        "Human": "What is the expression on <Alex>'s face? A. Happy; B. Serious; C. Surprised;",
+        "AI": "B"
+    },
+    "three_concept/concept/test/Alex/3.png": {
+        "Human": "What is the expression on <Alex>'s face? A. Happy; B. Angry; C. Surprised;",
+        "AI": "B"
+    },
+    "three_concept/concept/test/Alex/4.png": {
+        "Human": "What is <Alex> doing in the image? A. Dancing; B. Sleeping; C. Eating;",
+        "AI": "A"
+    }
+}

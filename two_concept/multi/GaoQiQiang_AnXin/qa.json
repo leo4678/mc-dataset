@@ -1,0 +1,22 @@
+[
+    {
+        "question": "Are both <GaoQiQiang> and <AnXin> humans or animals? A. Humans. B. Animals",
+        "answer": "A"
+    },
+    {
+        "question": "What are the hair colors of <GaoQiQiang> and <AnXin> respectively? A. Black, Grey. B. Brown, Blonde",
+        "answer": "A"
+    },
+    {
+        "question": "What type of clothing does <GaoQiQiang> and <AnXin> often wear? A. Casual, Formal. B. Both Formal",
+        "answer": "B"
+    },
+    {
+        "question": "Do <GaoQiQiang> and <AnXin> often wear uniforms? A. Yes. B. No",
+        "answer": "A"
+    },
+    {
+        "question": "What are the genders of <GaoQiQiang> and <AnXin> respectively? A. Male, Female. B. Both Male",
+        "answer": "B"
+    }
+]

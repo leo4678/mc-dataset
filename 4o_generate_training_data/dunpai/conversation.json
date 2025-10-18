@@ -1,0 +1,422 @@
+{
+    "two_concept/two_concept/concept/train/dunpai/0.png": [
+        {
+            "Question": "What color is <dunpai>?",
+            "Answer": "<dunpai> is red, white, and blue with a central white star."
+        },
+        {
+            "Question": "What shape does <dunpai> have?",
+            "Answer": "<dunpai> has a circular shape."
+        },
+        {
+            "Question": "What is the overall vibe of <dunpai>?",
+            "Answer": "The overall vibe of <dunpai> is bold and patriotic, with its iconic red, white, and blue color scheme and star emblem."
+        },
+        {
+            "Question": "What material is <dunpai> made of?",
+            "Answer": "The image does not provide specific information about the material of <dunpai>, but in the context of Captain America, it is typically depicted as being made of a fictional alloy called Vibranium."
+        },
+        {
+            "Question": "What size is this <dunpai>?",
+            "Answer": "The image shows <dunpai> as a large shield, covering a significant portion of the image."
+        },
+        {
+            "Question": "Does <dunpai> have any patterns or markings?",
+            "Answer": "<dunpai> has a circular pattern with a red, white, and blue color scheme, featuring a white star in the center."
+        },
+        {
+            "Question": "What type of <dunpai> is this subject?",
+            "Answer": "The subject is a circular shield with a red, white, and blue color scheme featuring a white star in the center, characteristic of Captain America's shield."
+        },
+        {
+            "Question": "Does <dunpai> have any distinctive features or details?",
+            "Answer": "<dunpai> has a distinctive design featuring concentric circles in red, white, and blue, with a prominent white star in the center."
+        },
+        {
+            "Question": "What's <dunpai> general texture like?",
+            "Answer": "<dunpai> has a smooth and metallic texture."
+        },
+        {
+            "Question": "How would you describe <dunpai> overall appearance?",
+            "Answer": "<dunpai> has a circular design with a red, white, and blue color scheme, featuring a prominent white star in the center."
+        }
+    ],
+    "two_concept/two_concept/concept/train/dunpai/1.png": [
+        {
+            "Question": "What color is <dunpai>?",
+            "Answer": "<dunpai> is red, silver, and blue with a white star in the center."
+        },
+        {
+            "Question": "What shape does <dunpai> have?",
+            "Answer": "<dunpai> has a circular shape."
+        },
+        {
+            "Question": "What is the overall vibe of <dunpai>?",
+            "Answer": "The overall vibe of <dunpai> is bold and patriotic, with its striking red, white, and blue colors and central star design."
+        },
+        {
+            "Question": "What material is <dunpai> made of?",
+            "Answer": "The image does not provide information about the material of <dunpai>. However, in the film and television context, Captain America's shield is typically made of a fictional alloy called Vibranium."
+        },
+        {
+            "Question": "What size is this <dunpai>?",
+            "Answer": "The size of <dunpai> is not determinable from the image alone, as there is no reference for scale."
+        },
+        {
+            "Question": "Does <dunpai> have any patterns or markings?",
+            "Answer": "<dunpai> has a pattern consisting of concentric circles in red, silver, and blue, with a white star in the center."
+        },
+        {
+            "Question": "What type of <dunpai> is this subject?",
+            "Answer": "This is a circular shield with a red, white, and blue color scheme featuring a star in the center, known as Captain America's shield."
+        },
+        {
+            "Question": "Does <dunpai> have any distinctive features or details?",
+            "Answer": "<dunpai> has a distinctive design featuring a red, white, and blue color scheme with a central white star on a blue circle, surrounded by concentric red and silver rings."
+        },
+        {
+            "Question": "What's <dunpai> general texture like?",
+            "Answer": "<dunpai> has a smooth and metallic texture."
+        },
+        {
+            "Question": "How would you describe <dunpai> overall appearance?",
+            "Answer": "<dunpai> has a circular design with a red, white, and blue color scheme, featuring a prominent white star in the center."
+        }
+    ],
+    "two_concept/two_concept/concept/train/dunpai/2.png": [
+        {
+            "Question": "What color is <dunpai>?",
+            "Answer": "<dunpai> is red, white, and blue with a white star in the center."
+        },
+        {
+            "Question": "What shape does <dunpai> have?",
+            "Answer": "<dunpai> has a circular shape."
+        },
+        {
+            "Question": "What is the overall vibe of <dunpai>?",
+            "Answer": "The overall vibe of <dunpai> is bold and patriotic, with its iconic red, white, and blue color scheme and central star symbol."
+        },
+        {
+            "Question": "What material is <dunpai> made of?",
+            "Answer": "The image does not provide specific information about the material of <dunpai>, but Captain America's shield is typically depicted as being made of a fictional metal called Vibranium."
+        },
+        {
+            "Question": "What size is this <dunpai>?",
+            "Answer": "The size of this <dunpai> is not specified in the image."
+        },
+        {
+            "Question": "Does <dunpai> have any patterns or markings?",
+            "Answer": "<dunpai> has a circular pattern with a central blue circle featuring a white star, surrounded by concentric rings of red and silver."
+        },
+        {
+            "Question": "What type of <dunpai> is this subject?",
+            "Answer": "This is a circular shield with a red, white, and blue color scheme featuring a white star in the center, resembling Captain America's shield."
+        },
+        {
+            "Question": "Does <dunpai> have any distinctive features or details?",
+            "Answer": "<dunpai> has a distinctive design featuring concentric circles in red, silver, and blue, with a prominent white star in the center."
+        },
+        {
+            "Question": "What's <dunpai> general texture like?",
+            "Answer": "<dunpai> has a smooth and glossy texture."
+        },
+        {
+            "Question": "How would you describe <dunpai> overall appearance?",
+            "Answer": "<dunpai> has a circular shape with a red, white, and blue color scheme, featuring a prominent white star in the center."
+        }
+    ],
+    "two_concept/two_concept/concept/train/dunpai/3.png": [
+        {
+            "Question": "What color is <dunpai>?",
+            "Answer": "<dunpai> is red, white, and blue with a silver star in the center."
+        },
+        {
+            "Question": "What shape does <dunpai> have?",
+            "Answer": "<dunpai> has a circular shape."
+        },
+        {
+            "Question": "What is the overall vibe of <dunpai>?",
+            "Answer": "The overall vibe of <dunpai> is strong and patriotic, with its bold red, white, and blue colors and a prominent star symbol."
+        },
+        {
+            "Question": "What material is <dunpai> made of?",
+            "Answer": "<dunpai> is made of a fictional material called Vibranium."
+        },
+        {
+            "Question": "What size is this <dunpai>?",
+            "Answer": "The image does not provide a reference for scale, so the size of <dunpai> cannot be determined from the image alone."
+        },
+        {
+            "Question": "Does <dunpai> have any patterns or markings?",
+            "Answer": "<dunpai> has a circular pattern with a central star and concentric rings in red, white, and blue."
+        },
+        {
+            "Question": "What type of <dunpai> is this subject?",
+            "Answer": "This is a circular shield with a star in the center, featuring red, white, and blue colors, associated with Captain America."
+        },
+        {
+            "Question": "Does <dunpai> have any distinctive features or details?",
+            "Answer": "<dunpai> has a distinctive design featuring concentric circles in red, white, and blue, with a prominent silver star in the center."
+        },
+        {
+            "Question": "What's <dunpai> general texture like?",
+            "Answer": "<dunpai> has a metallic texture with a smooth and polished surface, featuring some visible scratches and wear."
+        },
+        {
+            "Question": "How would you describe <dunpai> overall appearance?",
+            "Answer": "<dunpai> has a circular design with a prominent star in the center, surrounded by concentric rings of red, white, and blue. The surface appears metallic and slightly weathered."
+        }
+    ],
+    "two_concept/two_concept/concept/train/dunpai/4.png": [
+        {
+            "Question": "What color is <dunpai>?",
+            "Answer": "<dunpai> is red, white, and blue."
+        },
+        {
+            "Question": "What shape does <dunpai> have?",
+            "Answer": "<dunpai> has a circular shape."
+        },
+        {
+            "Question": "What is the overall vibe of <dunpai>?",
+            "Answer": "The overall vibe of <dunpai> is heroic and iconic, symbolizing strength and patriotism."
+        },
+        {
+            "Question": "What material is <dunpai> made of?",
+            "Answer": "<dunpai> is made of a fictional material called Vibranium."
+        },
+        {
+            "Question": "What size is this <dunpai>?",
+            "Answer": "The size of <dunpai> is not directly discernible from the image alone, as there is no reference for scale. However, it is typically depicted as being about 2.5 feet (76 cm) in diameter in the context of Captain America."
+        },
+        {
+            "Question": "Does <dunpai> have any patterns or markings?",
+            "Answer": "<dunpai> has a circular pattern with a blue star in the center, surrounded by concentric red and white rings."
+        },
+        {
+            "Question": "What type of <dunpai> is this subject?",
+            "Answer": "This is a circular shield with a red, white, and blue color scheme featuring a star in the center, known as Captain America's shield."
+        },
+        {
+            "Question": "Does <dunpai> have any distinctive features or details?",
+            "Answer": "<dunpai> has a distinctive design featuring a red, white, and blue color scheme with a central white star on a blue circle, surrounded by concentric red and white rings."
+        },
+        {
+            "Question": "What's <dunpai> general texture like?",
+            "Answer": "<dunpai> has a smooth and glossy texture."
+        },
+        {
+            "Question": "How would you describe <dunpai> overall appearance?",
+            "Answer": "<dunpai> has a circular shape with a red, white, and blue color scheme, featuring a central white star on a blue background, surrounded by concentric red and white rings."
+        }
+    ],
+    "two_concept/two_concept/concept/train/dunpai/5.png": [
+        {
+            "Question": "What color is <dunpai>?",
+            "Answer": "<dunpai> is red, white, and blue with a white star in the center."
+        },
+        {
+            "Question": "What shape does <dunpai> have?",
+            "Answer": "<dunpai> has a circular shape."
+        },
+        {
+            "Question": "What is the overall vibe of <dunpai>?",
+            "Answer": "The overall vibe of <dunpai> is bold and heroic, with its iconic red, white, and blue color scheme and star emblem, symbolizing strength and patriotism."
+        },
+        {
+            "Question": "What material is <dunpai> made of?",
+            "Answer": "The image does not provide information about the material of <dunpai>. However, in the context of Captain America, <dunpai> is typically depicted as being made of vibranium."
+        },
+        {
+            "Question": "What size is this <dunpai>?",
+            "Answer": "The image does not provide a clear reference for the actual size of <dunpai>, but it appears to be a standard-sized Captain America shield, which is typically about 24 inches (61 cm) in diameter."
+        },
+        {
+            "Question": "Does <dunpai> have any patterns or markings?",
+            "Answer": "<dunpai> has a pattern of concentric circles in red, white, and blue, with a white star in the center."
+        },
+        {
+            "Question": "What type of <dunpai> is this subject?",
+            "Answer": "This is a depiction of <dunpai> as Captain America's shield, featuring a red, white, and blue color scheme with a central star."
+        },
+        {
+            "Question": "Does <dunpai> have any distinctive features or details?",
+            "Answer": "<dunpai> has a distinctive design featuring a blue circle with a white star in the center, surrounded by concentric red and white rings."
+        },
+        {
+            "Question": "What's <dunpai> general texture like?",
+            "Answer": "<dunpai> has a smooth and glossy texture."
+        },
+        {
+            "Question": "How would you describe <dunpai> overall appearance?",
+            "Answer": "<dunpai> has a circular shape with a red, white, and blue color scheme, featuring a prominent white star in the center."
+        }
+    ],
+    "two_concept/two_concept/concept/train/dunpai/6.png": [
+        {
+            "Question": "What color is <dunpai>?",
+            "Answer": "<dunpai> is red, white, and blue with a star in the center."
+        },
+        {
+            "Question": "What shape does <dunpai> have?",
+            "Answer": "<dunpai> has a circular shape."
+        },
+        {
+            "Question": "What is the overall vibe of <dunpai>?",
+            "Answer": "The overall vibe of <dunpai> is iconic and heroic, with its bold red, white, and blue colors and star emblem symbolizing strength and patriotism."
+        },
+        {
+            "Question": "What material is <dunpai> made of?",
+            "Answer": "The image does not provide specific information about the material of <dunpai>, but in the context of Captain America, the shield is typically depicted as being made of a fictional alloy called Vibranium."
+        },
+        {
+            "Question": "What size is this <dunpai>?",
+            "Answer": "The size of this <dunpai> is not specified in the image."
+        },
+        {
+            "Question": "Does <dunpai> have any patterns or markings?",
+            "Answer": "<dunpai> has a circular pattern with a central blue circle featuring a white star, surrounded by concentric rings of red and white."
+        },
+        {
+            "Question": "What type of <dunpai> is this subject?",
+            "Answer": "This <dunpai> is Captain America's shield, featuring a circular design with a red, white, and blue color scheme and a central star."
+        },
+        {
+            "Question": "Does <dunpai> have any distinctive features or details?",
+            "Answer": "<dunpai> has a distinctive design featuring a red, white, and blue color scheme with a central white star on a blue circle, surrounded by concentric red and white rings."
+        },
+        {
+            "Question": "What's <dunpai> general texture like?",
+            "Answer": "<dunpai> has a smooth and glossy texture."
+        },
+        {
+            "Question": "How would you describe <dunpai> overall appearance?",
+            "Answer": "<dunpai> has a circular design with a red, white, and blue color scheme, featuring a prominent white star in the center on a blue background, surrounded by concentric red and white rings."
+        }
+    ],
+    "two_concept/two_concept/concept/train/dunpai/7.png": [
+        {
+            "Question": "What color is <dunpai>?",
+            "Answer": "<dunpai> is red, white, and blue with a star in the center."
+        },
+        {
+            "Question": "What shape does <dunpai> have?",
+            "Answer": "<dunpai> has a circular shape."
+        },
+        {
+            "Question": "What is the overall vibe of <dunpai>?",
+            "Answer": "The overall vibe of <dunpai> is bold and patriotic, featuring a striking red, white, and blue color scheme with a prominent star in the center."
+        },
+        {
+            "Question": "What material is <dunpai> made of?",
+            "Answer": "<dunpai> is made of LEGO bricks."
+        },
+        {
+            "Question": "What size is this <dunpai>?",
+            "Answer": "The <dunpai> is a large, life-sized LEGO model of Captain America's shield."
+        },
+        {
+            "Question": "Does <dunpai> have any patterns or markings?",
+            "Answer": "<dunpai> has a pattern of concentric circles in red, white, and blue, with a white star in the center."
+        },
+        {
+            "Question": "What type of <dunpai> is this subject?",
+            "Answer": "This <dunpai> is a LEGO model of Captain America's shield."
+        },
+        {
+            "Question": "Does <dunpai> have any distinctive features or details?",
+            "Answer": "<dunpai> has a distinctive design with concentric circles in red, white, and blue, featuring a prominent white star in the center."
+        },
+        {
+            "Question": "What's <dunpai> general texture like?",
+            "Answer": "<dunpai> has a textured, blocky appearance, resembling a LEGO construction with visible studs."
+        },
+        {
+            "Question": "How would you describe <dunpai> overall appearance?",
+            "Answer": "<dunpai> has a circular shape with a red, white, and blue color scheme, featuring a prominent white star in the center."
+        }
+    ],
+    "two_concept/two_concept/concept/train/dunpai/8.png": [
+        {
+            "Question": "What color is <dunpai>?",
+            "Answer": "<dunpai> is red, silver, and blue with a white star in the center."
+        },
+        {
+            "Question": "What shape does <dunpai> have?",
+            "Answer": "<dunpai> has a circular shape."
+        },
+        {
+            "Question": "What is the overall vibe of <dunpai>?",
+            "Answer": "The overall vibe of <dunpai> is bold and patriotic, with its iconic red, white, and blue color scheme and star emblem."
+        },
+        {
+            "Question": "What material is <dunpai> made of?",
+            "Answer": "The image does not provide specific information about the material of <dunpai>. However, in the context of Captain America, <dunpai> is typically depicted as being made of a fictional alloy called Vibranium."
+        },
+        {
+            "Question": "What size is this <dunpai>?",
+            "Answer": "The <dunpai> appears to be a full-sized replica of Captain America's shield, approximately 24 inches in diameter."
+        },
+        {
+            "Question": "Does <dunpai> have any patterns or markings?",
+            "Answer": "<dunpai> has a star in the center with concentric circles in red, silver, and blue."
+        },
+        {
+            "Question": "What type of <dunpai> is this subject?",
+            "Answer": "This <dunpai> is a replica of Captain America's shield, featuring a circular design with red, white, and blue colors and a central star."
+        },
+        {
+            "Question": "Does <dunpai> have any distinctive features or details?",
+            "Answer": "<dunpai> has a distinctive design with a red, white, and blue color scheme, featuring a central star emblem."
+        },
+        {
+            "Question": "What's <dunpai> general texture like?",
+            "Answer": "<dunpai> has a smooth and glossy texture."
+        },
+        {
+            "Question": "How would you describe <dunpai> overall appearance?",
+            "Answer": "<dunpai> has a circular design with a red, white, and blue color scheme, featuring a prominent white star in the center."
+        }
+    ],
+    "two_concept/two_concept/concept/train/dunpai/9.png": [
+        {
+            "Question": "What color is <dunpai>?",
+            "Answer": "<dunpai> is red, white, and blue."
+        },
+        {
+            "Question": "What shape does <dunpai> have?",
+            "Answer": "<dunpai> has a circular shape."
+        },
+        {
+            "Question": "What is the overall vibe of <dunpai>?",
+            "Answer": "The overall vibe of <dunpai> is iconic and patriotic, featuring a bold red, white, and blue color scheme with a central star, reminiscent of Captain America's shield."
+        },
+        {
+            "Question": "What material is <dunpai> made of?",
+            "Answer": "<dunpai> is made of LEGO bricks."
+        },
+        {
+            "Question": "What size is this <dunpai>?",
+            "Answer": "The <dunpai> in the image is a LEGO model, approximately 18.5 inches (47 cm) in diameter."
+        },
+        {
+            "Question": "Does <dunpai> have any patterns or markings?",
+            "Answer": "<dunpai> has a pattern of concentric circles in red, white, and blue, with a white star in the center."
+        },
+        {
+            "Question": "What type of <dunpai> is this subject?",
+            "Answer": "This <dunpai> is a LEGO model of Captain America's shield."
+        },
+        {
+            "Question": "Does <dunpai> have any distinctive features or details?",
+            "Answer": "<dunpai> has a distinctive design featuring concentric circles of red, white, and blue, with a prominent white star in the center."
+        },
+        {
+            "Question": "What's <dunpai> general texture like?",
+            "Answer": "<dunpai> has a textured, blocky appearance, resembling a LEGO construction with visible studs."
+        },
+        {
+            "Question": "How would you describe <dunpai> overall appearance?",
+            "Answer": "<dunpai> has a circular shape with a red, white, and blue color scheme, featuring a prominent white star in the center."
+        }
+    ]
+}

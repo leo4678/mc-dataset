@@ -1,0 +1,422 @@
+{
+    "two_concept/two_concept/concept/train/Zeke/0.png": [
+        {
+            "Question": "What color is <Zeke>?",
+            "Answer": "<Zeke> is white."
+        },
+        {
+            "Question": "What shape does <Zeke> have?",
+            "Answer": "<Zeke> has a wide-brimmed, slightly wavy shape."
+        },
+        {
+            "Question": "What is the overall vibe of <Zeke>?",
+            "Answer": "The overall vibe of <Zeke> is playful and stylish, with a classic anime aesthetic."
+        },
+        {
+            "Question": "What material is <Zeke> made of?",
+            "Answer": "The image does not provide enough detail to determine the material of <Zeke>, the anime style white hat."
+        },
+        {
+            "Question": "What size is this <Zeke>?",
+            "Answer": "<Zeke> is a large hat, covering most of the upper part of the image."
+        },
+        {
+            "Question": "Does <Zeke> have any patterns or markings?",
+            "Answer": "<Zeke> does not have any patterns or markings; it is a plain white hat."
+        },
+        {
+            "Question": "What type of <Zeke> is this subject?",
+            "Answer": "<Zeke> is a wide-brimmed, anime-style white hat with a light brown trim."
+        },
+        {
+            "Question": "Does <Zeke> have any distinctive features or details?",
+            "Answer": "<Zeke> has a distinctive wide brim with a light brown outline."
+        },
+        {
+            "Question": "What's <Zeke> general texture like?",
+            "Answer": "<Zeke> has a smooth and clean texture."
+        },
+        {
+            "Question": "How would you describe <Zeke> overall appearance?",
+            "Answer": "<Zeke> is a white hat with a wide brim and a light brown outline, featuring a smooth, rounded shape typical of anime style."
+        }
+    ],
+    "two_concept/two_concept/concept/train/Zeke/1.png": [
+        {
+            "Question": "What color is <Zeke>?",
+            "Answer": "<Zeke> is white."
+        },
+        {
+            "Question": "What shape does <Zeke> have?",
+            "Answer": "<Zeke> has a wide-brimmed, triangular shape with a pointed top."
+        },
+        {
+            "Question": "What is the overall vibe of <Zeke>?",
+            "Answer": "The overall vibe of <Zeke> is playful and whimsical, with a distinctive anime style."
+        },
+        {
+            "Question": "What material is <Zeke> made of?",
+            "Answer": "The material of <Zeke> cannot be determined from the image alone."
+        },
+        {
+            "Question": "What size is this <Zeke>?",
+            "Answer": "The size of <Zeke>, the anime style white hat, is large, covering the top and sides of the head."
+        },
+        {
+            "Question": "Does <Zeke> have any patterns or markings?",
+            "Answer": "<Zeke> does not have any patterns or markings; it is a plain white hat."
+        },
+        {
+            "Question": "What type of <Zeke> is this subject?",
+            "Answer": "<Zeke> is a wide-brimmed, floppy anime style white hat."
+        },
+        {
+            "Question": "Does <Zeke> have any distinctive features or details?",
+            "Answer": "<Zeke> has a wide brim and a pointed top, with a light cream color and a slightly darker edge."
+        },
+        {
+            "Question": "What's <Zeke> general texture like?",
+            "Answer": "<Zeke> has a smooth and slightly shiny texture."
+        },
+        {
+            "Question": "How would you describe <Zeke> overall appearance?",
+            "Answer": "<Zeke> is a wide-brimmed, anime-style white hat with a distinctive, angular design that covers the top of the head and extends down the sides."
+        }
+    ],
+    "two_concept/two_concept/concept/train/Zeke/2.png": [
+        {
+            "Question": "What color is <Zeke>?",
+            "Answer": "<Zeke> is white."
+        },
+        {
+            "Question": "What shape does <Zeke> have?",
+            "Answer": "<Zeke> has a wide-brimmed, pointed shape."
+        },
+        {
+            "Question": "What is the overall vibe of <Zeke>?",
+            "Answer": "The overall vibe of <Zeke> is mysterious and adventurous, with its wide-brimmed design and anime style."
+        },
+        {
+            "Question": "What material is <Zeke> made of?",
+            "Answer": "The image does not provide enough detail to determine the material of <Zeke>, the anime style white hat."
+        },
+        {
+            "Question": "What size is this <Zeke>?",
+            "Answer": "<Zeke> is a large hat, covering the top of the head and extending outward."
+        },
+        {
+            "Question": "Does <Zeke> have any patterns or markings?",
+            "Answer": "<Zeke> does not have any patterns or markings; it is a plain white hat."
+        },
+        {
+            "Question": "What type of <Zeke> is this subject?",
+            "Answer": "<Zeke> is a wide-brimmed, pointed white hat with a black underside."
+        },
+        {
+            "Question": "Does <Zeke> have any distinctive features or details?",
+            "Answer": "<Zeke> has a distinctive wide brim with a pointed top and black edges."
+        },
+        {
+            "Question": "What's <Zeke> general texture like?",
+            "Answer": "<Zeke> has a smooth and slightly glossy texture."
+        },
+        {
+            "Question": "How would you describe <Zeke> overall appearance?",
+            "Answer": "<Zeke> is a white hat with a wide brim and a pointed top, featuring a black underside."
+        }
+    ],
+    "two_concept/two_concept/concept/train/Zeke/3.png": [
+        {
+            "Question": "What color is <Zeke>?",
+            "Answer": "<Zeke> is white."
+        },
+        {
+            "Question": "What shape does <Zeke> have?",
+            "Answer": "<Zeke> has an irregular, floppy shape with a wide brim."
+        },
+        {
+            "Question": "What is the overall vibe of <Zeke>?",
+            "Answer": "The overall vibe of <Zeke> is playful and whimsical, with its exaggerated anime style and floppy shape."
+        },
+        {
+            "Question": "What material is <Zeke> made of?",
+            "Answer": "The material of <Zeke> cannot be determined from the image."
+        },
+        {
+            "Question": "What size is this <Zeke>?",
+            "Answer": "<Zeke> is a large, floppy white hat that covers the top of the head and extends outward."
+        },
+        {
+            "Question": "Does <Zeke> have any patterns or markings?",
+            "Answer": "<Zeke> does not have any patterns or markings; it is a plain white hat."
+        },
+        {
+            "Question": "What type of <Zeke> is this subject?",
+            "Answer": "<Zeke> is a floppy, oversized white hat with an anime style."
+        },
+        {
+            "Question": "Does <Zeke> have any distinctive features or details?",
+            "Answer": "<Zeke> has a wide, floppy brim and a loose, draped appearance."
+        },
+        {
+            "Question": "What's <Zeke> general texture like?",
+            "Answer": "<Zeke> has a smooth and slightly floppy texture."
+        },
+        {
+            "Question": "How would you describe <Zeke> overall appearance?",
+            "Answer": "<Zeke> is a large, floppy white hat with an exaggerated, wavy brim, fitting the anime style."
+        }
+    ],
+    "two_concept/two_concept/concept/train/Zeke/4.png": [
+        {
+            "Question": "What color is <Zeke>?",
+            "Answer": "<Zeke> is white."
+        },
+        {
+            "Question": "What shape does <Zeke> have?",
+            "Answer": "<Zeke> has a loose, floppy shape with a wide brim that drapes over the head."
+        },
+        {
+            "Question": "What is the overall vibe of <Zeke>?",
+            "Answer": "The overall vibe of <Zeke> is playful and adventurous, with a whimsical anime style."
+        },
+        {
+            "Question": "What material is <Zeke> made of?",
+            "Answer": "The image does not provide enough detail to determine the material of <Zeke>, the anime style white hat."
+        },
+        {
+            "Question": "What size is this <Zeke>?",
+            "Answer": "The size of <Zeke> is large, covering most of the character's head and extending down to partially cover the face."
+        },
+        {
+            "Question": "Does <Zeke> have any patterns or markings?",
+            "Answer": "<Zeke> does not have any patterns or markings; it is a plain white hat."
+        },
+        {
+            "Question": "What type of <Zeke> is this subject?",
+            "Answer": "<Zeke> is a floppy, wide-brimmed anime style white hat."
+        },
+        {
+            "Question": "Does <Zeke> have any distinctive features or details?",
+            "Answer": "<Zeke> has a distinctive wide brim and a slightly floppy appearance, with a light cream color."
+        },
+        {
+            "Question": "What's <Zeke> general texture like?",
+            "Answer": "<Zeke> has a smooth and slightly floppy texture."
+        },
+        {
+            "Question": "How would you describe <Zeke> overall appearance?",
+            "Answer": "<Zeke> is a large, floppy white hat with a slightly curved brim, fitting loosely over the head."
+        }
+    ],
+    "two_concept/two_concept/concept/train/Zeke/5.png": [
+        {
+            "Question": "What color is <Zeke>?",
+            "Answer": "<Zeke> is white."
+        },
+        {
+            "Question": "What shape does <Zeke> have?",
+            "Answer": "<Zeke> has a wide-brimmed, floppy shape with a wavy edge."
+        },
+        {
+            "Question": "What is the overall vibe of <Zeke>?",
+            "Answer": "The overall vibe of <Zeke> is playful and adventurous, with a whimsical and cartoonish appearance typical of anime style."
+        },
+        {
+            "Question": "What material is <Zeke> made of?",
+            "Answer": "The image does not provide enough detail to determine the material of <Zeke>, the anime style white hat."
+        },
+        {
+            "Question": "What size is this <Zeke>?",
+            "Answer": "<Zeke> is a large hat, covering the top and sides of the head."
+        },
+        {
+            "Question": "Does <Zeke> have any patterns or markings?",
+            "Answer": "<Zeke> does not have any patterns or markings; it is a plain white hat."
+        },
+        {
+            "Question": "What type of <Zeke> is this subject?",
+            "Answer": "<Zeke> is a wide-brimmed, floppy anime style white hat."
+        },
+        {
+            "Question": "Does <Zeke> have any distinctive features or details?",
+            "Answer": "<Zeke> has a wide brim and a wavy edge, giving it a distinctive anime style."
+        },
+        {
+            "Question": "What's <Zeke> general texture like?",
+            "Answer": "<Zeke> has a smooth and slightly wavy texture."
+        },
+        {
+            "Question": "How would you describe <Zeke> overall appearance?",
+            "Answer": "<Zeke> is a wide-brimmed, floppy white hat with a slightly wavy edge, fitting in an anime style."
+        }
+    ],
+    "two_concept/two_concept/concept/train/Zeke/6.png": [
+        {
+            "Question": "What color is <Zeke>?",
+            "Answer": "<Zeke> is white."
+        },
+        {
+            "Question": "What shape does <Zeke> have?",
+            "Answer": "<Zeke> has a conical shape with a wide brim."
+        },
+        {
+            "Question": "What is the overall vibe of <Zeke>?",
+            "Answer": "The overall vibe of <Zeke> is mysterious and slightly whimsical, with its wide, flowing brim and anime style."
+        },
+        {
+            "Question": "What material is <Zeke> made of?",
+            "Answer": "The material of <Zeke> appears to be fabric."
+        },
+        {
+            "Question": "What size is this <Zeke>?",
+            "Answer": "<Zeke> is a large hat, covering most of the head and extending down to the eyes."
+        },
+        {
+            "Question": "Does <Zeke> have any patterns or markings?",
+            "Answer": "<Zeke> does not have any patterns or markings; it is a plain white hat."
+        },
+        {
+            "Question": "What type of <Zeke> is this subject?",
+            "Answer": "<Zeke> is a wide-brimmed, conical anime-style white hat."
+        },
+        {
+            "Question": "Does <Zeke> have any distinctive features or details?",
+            "Answer": "<Zeke> has a wide, floppy brim with a slightly uneven edge, giving it a unique and distinctive appearance."
+        },
+        {
+            "Question": "What's <Zeke> general texture like?",
+            "Answer": "<Zeke> has a smooth and slightly wrinkled texture."
+        },
+        {
+            "Question": "How would you describe <Zeke> overall appearance?",
+            "Answer": "<Zeke> is a wide-brimmed, white hat with a slightly wrinkled texture, covering the top part of the head and partially obscuring the eyes."
+        }
+    ],
+    "two_concept/two_concept/concept/train/Zeke/7.png": [
+        {
+            "Question": "What color is <Zeke>?",
+            "Answer": "<Zeke> is white."
+        },
+        {
+            "Question": "What shape does <Zeke> have?",
+            "Answer": "<Zeke> has a wide-brimmed, floppy shape."
+        },
+        {
+            "Question": "What is the overall vibe of <Zeke>?",
+            "Answer": "The overall vibe of <Zeke> is playful and quirky, with its exaggerated wide brim and anime style."
+        },
+        {
+            "Question": "What material is <Zeke> made of?",
+            "Answer": "The image does not provide enough information to determine the material of <Zeke>, the anime style white hat."
+        },
+        {
+            "Question": "What size is this <Zeke>?",
+            "Answer": "<Zeke> is a large hat, covering a significant portion of the head and extending outward."
+        },
+        {
+            "Question": "Does <Zeke> have any patterns or markings?",
+            "Answer": "<Zeke> does not have any patterns or markings; it is a plain white hat."
+        },
+        {
+            "Question": "What type of <Zeke> is this subject?",
+            "Answer": "<Zeke> is a wide-brimmed, floppy anime-style white hat."
+        },
+        {
+            "Question": "Does <Zeke> have any distinctive features or details?",
+            "Answer": "<Zeke> has a wide brim and a smooth, curved shape."
+        },
+        {
+            "Question": "What's <Zeke> general texture like?",
+            "Answer": "<Zeke> has a smooth and slightly glossy texture."
+        },
+        {
+            "Question": "How would you describe <Zeke> overall appearance?",
+            "Answer": "<Zeke> is a wide-brimmed, anime-style white hat with a smooth, flowing design."
+        }
+    ],
+    "two_concept/two_concept/concept/train/Zeke/8.png": [
+        {
+            "Question": "What color is <Zeke>?",
+            "Answer": "<Zeke> is white."
+        },
+        {
+            "Question": "What shape does <Zeke> have?",
+            "Answer": "<Zeke> has a wide-brimmed, cowboy-style shape."
+        },
+        {
+            "Question": "What is the overall vibe of <Zeke>?",
+            "Answer": "The overall vibe of <Zeke> is adventurous and playful, typical of an anime style with a distinctive, exaggerated shape."
+        },
+        {
+            "Question": "What material is <Zeke> made of?",
+            "Answer": "The material of <Zeke> cannot be determined from the image."
+        },
+        {
+            "Question": "What size is this <Zeke>?",
+            "Answer": "The size of <Zeke> is large, covering the top of the head and extending outward."
+        },
+        {
+            "Question": "Does <Zeke> have any patterns or markings?",
+            "Answer": "<Zeke> does not have any patterns or markings; it is a plain white hat."
+        },
+        {
+            "Question": "What type of <Zeke> is this subject?",
+            "Answer": "<Zeke> is a wide-brimmed, anime-style white hat."
+        },
+        {
+            "Question": "Does <Zeke> have any distinctive features or details?",
+            "Answer": "<Zeke> has a wide brim and a pointed top, with a light color that appears to be white."
+        },
+        {
+            "Question": "What's <Zeke> general texture like?",
+            "Answer": "<Zeke> has a smooth and slightly curved texture."
+        },
+        {
+            "Question": "How would you describe <Zeke> overall appearance?",
+            "Answer": "<Zeke> is a large, anime-style white hat with a wide brim and a distinctive, slightly curved shape."
+        }
+    ],
+    "two_concept/two_concept/concept/train/Zeke/9.png": [
+        {
+            "Question": "What color is <Zeke>?",
+            "Answer": "<Zeke> is white."
+        },
+        {
+            "Question": "What shape does <Zeke> have?",
+            "Answer": "<Zeke> has a rounded shape with a slightly flared brim."
+        },
+        {
+            "Question": "What is the overall vibe of <Zeke>?",
+            "Answer": "The overall vibe of <Zeke> is playful and adventurous, with a cartoonish and whimsical style."
+        },
+        {
+            "Question": "What material is <Zeke> made of?",
+            "Answer": "The image does not provide enough detail to determine the material of <Zeke>, the anime style white hat."
+        },
+        {
+            "Question": "What size is this <Zeke>?",
+            "Answer": "The size of <Zeke> appears to be medium, covering the top portion of the head."
+        },
+        {
+            "Question": "Does <Zeke> have any patterns or markings?",
+            "Answer": "<Zeke> does not have any patterns or markings; it is a plain white hat."
+        },
+        {
+            "Question": "What type of <Zeke> is this subject?",
+            "Answer": "<Zeke> is a white, round-brimmed anime-style hat."
+        },
+        {
+            "Question": "Does <Zeke> have any distinctive features or details?",
+            "Answer": "<Zeke> has a smooth, rounded shape with a black band around it."
+        },
+        {
+            "Question": "What's <Zeke> general texture like?",
+            "Answer": "<Zeke> has a smooth and solid texture."
+        },
+        {
+            "Question": "How would you describe <Zeke> overall appearance?",
+            "Answer": "<Zeke> is a smooth, rounded white hat with a simple, clean design, typical of anime style."
+        }
+    ]
+}

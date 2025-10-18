@@ -1,0 +1,22 @@
+[
+    {
+        "question": "What is <Xuxian>'s hairstyle? A.Bun.  B.Ponytail",
+        "answer": "A"
+    },
+    {
+        "question": "What type of clothing does <Xuxian> wear? A.Modern.  B.Traditional",
+        "answer": "B"
+    },
+    {
+        "question": "What is the primary color of <Xuxian>'s outfit? A.Blue.  B.Red",
+        "answer": "A"
+    },
+    {
+        "question": "Does <Xuxian> carry any accessories? A.Yes.  B.No",
+        "answer": "A"
+    },
+    {
+        "question": "What is <Xuxian>'s gender? A.Male.  B.Female",
+        "answer": "A"
+    }
+]

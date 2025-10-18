@@ -1,0 +1,418 @@
+{
+    "two_concept/concept/train/xiongda/0.png": [
+        {
+            "Question": "What is <xiongda> hair color?",
+            "Answer": "<xiongda> does not have visible hair."
+        },
+        {
+            "Question": "What color are <xiongda> eyes?",
+            "Answer": "I cannot determine the color of <xiongda>'s eyes from the image."
+        },
+        {
+            "Question": "Would you describe <xiongda>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<xiongda>'s physique is stocky and muscular."
+        },
+        {
+            "Question": "What is <xiongda> skin tone?",
+            "Answer": "<xiongda>'s skin tone is a reddish-brown color."
+        },
+        {
+            "Question": "How would you describe <xiongda> hairstyle?",
+            "Answer": "<xiongda> does not have visible hair."
+        },
+        {
+            "Question": "Does <xiongda> wear glasses or any accessories?",
+            "Answer": "<xiongda> does not wear glasses or any accessories."
+        },
+        {
+            "Question": "How would you describe <xiongda>'s attire?",
+            "Answer": "<xiongda> is not wearing any attire."
+        },
+        {
+            "Question": "Does <xiongda> have any distinctive facial features?",
+            "Answer": "<xiongda> has a large, muscular body with reddish-brown fur and crossed arms."
+        },
+        {
+            "Question": "What is <xiongda> overall build or physique?",
+            "Answer": "<xiongda> has a large and muscular build with broad shoulders and strong arms."
+        },
+        {
+            "Question": "What is <xiongda> general expression or demeanor?",
+            "Answer": "<xiongda> has a confident and assertive demeanor, with arms crossed."
+        }
+    ],
+    "two_concept/concept/train/xiongda/1.png": [
+        {
+            "Question": "What is <xiongda> hair color?",
+            "Answer": "<xiongda> does not have visible hair."
+        },
+        {
+            "Question": "What color are <xiongda> eyes?",
+            "Answer": "<xiongda>'s eyes are gray."
+        },
+        {
+            "Question": "Would you describe <xiongda>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<xiongda>'s physique is otherwise, appearing robust and stocky."
+        },
+        {
+            "Question": "What is <xiongda> skin tone?",
+            "Answer": "<xiongda>'s skin tone is brown with a white patch on the chest and face."
+        },
+        {
+            "Question": "How would you describe <xiongda> hairstyle?",
+            "Answer": "<xiongda> does not have any visible hair."
+        },
+        {
+            "Question": "Does <xiongda> wear glasses or any accessories?",
+            "Answer": "<xiongda> does not wear glasses or any accessories."
+        },
+        {
+            "Question": "How would you describe <xiongda>'s attire?",
+            "Answer": "<xiongda> is not wearing any attire."
+        },
+        {
+            "Question": "Does <xiongda> have any distinctive facial features?",
+            "Answer": "<xiongda> has a distinctive white face with a red nose and expressive eyes."
+        },
+        {
+            "Question": "What is <xiongda> overall build or physique?",
+            "Answer": "<xiongda> has a large and muscular build."
+        },
+        {
+            "Question": "What is <xiongda> general expression or demeanor?",
+            "Answer": "<xiongda> has an angry and aggressive expression."
+        }
+    ],
+    "two_concept/concept/train/xiongda/2.png": [
+        {
+            "Question": "What is <xiongda> hair color?",
+            "Answer": "<xiongda> does not have visible hair."
+        },
+        {
+            "Question": "Would you describe <xiongda>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<xiongda>'s physique is stocky and robust."
+        },
+        {
+            "Question": "What is <xiongda> skin tone?",
+            "Answer": "<xiongda>'s skin tone is a mix of brown and white."
+        },
+        {
+            "Question": "How would you describe <xiongda> hairstyle?",
+            "Answer": "<xiongda> does not have visible hair."
+        },
+        {
+            "Question": "Does <xiongda> wear glasses or any accessories?",
+            "Answer": "<xiongda> does not wear glasses or any accessories."
+        },
+        {
+            "Question": "How would you describe <xiongda>'s attire?",
+            "Answer": "<xiongda> is wearing a brown fur coat with a white pattern on the chest."
+        },
+        {
+            "Question": "Does <xiongda> have any distinctive facial features?",
+            "Answer": "<xiongda> has a distinctive fur pattern with a white patch on the chest and a generally brown fur coat."
+        },
+        {
+            "Question": "What is <xiongda> overall build or physique?",
+            "Answer": "<xiongda> has a large and muscular build."
+        },
+        {
+            "Question": "What is <xiongda> general expression or demeanor?",
+            "Answer": "<xiongda> has a strong and confident demeanor."
+        }
+    ],
+    "two_concept/concept/train/xiongda/3.png": [
+        {
+            "Question": "What is <xiongda> hair color?",
+            "Answer": "<xiongda> does not have hair; he has brown fur with white patches around his mouth and chest."
+        },
+        {
+            "Question": "What color are <xiongda> eyes?",
+            "Answer": "<xiongda>'s eyes are green."
+        },
+        {
+            "Question": "Would you describe <xiongda>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<xiongda>'s physique is otherwise, characterized by a large and robust build."
+        },
+        {
+            "Question": "What is <xiongda> skin tone?",
+            "Answer": "<xiongda>'s skin tone is brown with white patches around the mouth and chest."
+        },
+        {
+            "Question": "How would you describe <xiongda> hairstyle?",
+            "Answer": "<xiongda> does not have a hairstyle as he is a bear with fur."
+        },
+        {
+            "Question": "Does <xiongda> wear glasses or any accessories?",
+            "Answer": "No, <xiongda> does not wear glasses or any accessories."
+        },
+        {
+            "Question": "How would you describe <xiongda>'s attire?",
+            "Answer": "<xiongda> is not wearing any attire."
+        },
+        {
+            "Question": "Does <xiongda> have any distinctive facial features?",
+            "Answer": "<xiongda> has a large pink nose, white fur around the mouth and eyes, and thick eyebrows."
+        },
+        {
+            "Question": "What is <xiongda> overall build or physique?",
+            "Answer": "<xiongda> has a large and muscular build."
+        },
+        {
+            "Question": "What is <xiongda> general expression or demeanor?",
+            "Answer": "<xiongda> has a confident and assertive expression."
+        }
+    ],
+    "two_concept/concept/train/xiongda/4.png": [
+        {
+            "Question": "What is <xiongda> hair color?",
+            "Answer": "<xiongda>'s hair color is brown."
+        },
+        {
+            "Question": "What color are <xiongda> eyes?",
+            "Answer": "I cannot determine the color of <xiongda>'s eyes from the provided image."
+        },
+        {
+            "Question": "Would you describe <xiongda>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<xiongda>'s physique is muscular and robust."
+        },
+        {
+            "Question": "What is <xiongda> skin tone?",
+            "Answer": "<xiongda>'s skin tone is a reddish-brown with a lighter patch on the chest."
+        },
+        {
+            "Question": "How would you describe <xiongda> hairstyle?",
+            "Answer": "<xiongda> does not have any visible hair on their head."
+        },
+        {
+            "Question": "Does <xiongda> wear glasses or any accessories?",
+            "Answer": "No, <xiongda> does not wear glasses or any accessories."
+        },
+        {
+            "Question": "How would you describe <xiongda>'s attire?",
+            "Answer": "<xiongda> is not wearing any attire."
+        },
+        {
+            "Question": "Does <xiongda> have any distinctive facial features?",
+            "Answer": "<xiongda> has a distinctive white patch of fur on their chest."
+        },
+        {
+            "Question": "What is <xiongda> overall build or physique?",
+            "Answer": "<xiongda> has a muscular and robust build with broad shoulders and a strong upper body."
+        },
+        {
+            "Question": "What is <xiongda> general expression or demeanor?",
+            "Answer": "<xiongda> has a relaxed and calm demeanor."
+        }
+    ],
+    "two_concept/concept/train/xiongda/5.png": [
+        {
+            "Question": "What is <xiongda> hair color?",
+            "Answer": "<xiongda>'s hair color is brown."
+        },
+        {
+            "Question": "What color are <xiongda> eyes?",
+            "Answer": "<xiongda>'s eyes are green."
+        },
+        {
+            "Question": "Would you describe <xiongda>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<xiongda>'s physique is otherwise, appearing large and bulky."
+        },
+        {
+            "Question": "What is <xiongda> skin tone?",
+            "Answer": "<xiongda>'s skin tone is brown with white patches around the mouth and eyes."
+        },
+        {
+            "Question": "How would you describe <xiongda> hairstyle?",
+            "Answer": "<xiongda> does not have any hair on his head."
+        },
+        {
+            "Question": "Does <xiongda> wear glasses or any accessories?",
+            "Answer": "<xiongda> does not wear glasses or any accessories."
+        },
+        {
+            "Question": "How would you describe <xiongda>'s attire?",
+            "Answer": "<xiongda> is not wearing any attire."
+        },
+        {
+            "Question": "Does <xiongda> have any distinctive facial features?",
+            "Answer": "<xiongda> has a large pink nose, prominent eyebrows, and a white muzzle."
+        },
+        {
+            "Question": "What is <xiongda> overall build or physique?",
+            "Answer": "<xiongda> has a large and muscular build."
+        },
+        {
+            "Question": "What is <xiongda> general expression or demeanor?",
+            "Answer": "<xiongda> has an angry and intense expression."
+        }
+    ],
+    "two_concept/concept/train/xiongda/6.png": [
+        {
+            "Question": "What is <xiongda> hair color?",
+            "Answer": "<xiongda> does not have visible hair."
+        },
+        {
+            "Question": "What color are <xiongda> eyes?",
+            "Answer": "I cannot determine the color of <xiongda>'s eyes from the image."
+        },
+        {
+            "Question": "Would you describe <xiongda>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<xiongda>'s physique is robust and muscular."
+        },
+        {
+            "Question": "What is <xiongda> skin tone?",
+            "Answer": "<xiongda>'s skin tone is a reddish-brown with white patches."
+        },
+        {
+            "Question": "How would you describe <xiongda> hairstyle?",
+            "Answer": "<xiongda> does not have any visible hair."
+        },
+        {
+            "Question": "Does <xiongda> wear glasses or any accessories?",
+            "Answer": "No, <xiongda> does not wear glasses or any accessories."
+        },
+        {
+            "Question": "How would you describe <xiongda>'s attire?",
+            "Answer": "<xiongda> is not wearing any attire."
+        },
+        {
+            "Question": "Does <xiongda> have any distinctive facial features?",
+            "Answer": "<xiongda> has a distinctive white patch on the chest and a reddish-brown fur color."
+        },
+        {
+            "Question": "What is <xiongda> overall build or physique?",
+            "Answer": "<xiongda> has a large and muscular build with broad shoulders and a thick neck."
+        },
+        {
+            "Question": "What is <xiongda> general expression or demeanor?",
+            "Answer": "<xiongda> appears to have a contemplative or thoughtful demeanor, resting their head on their hand."
+        }
+    ],
+    "two_concept/concept/train/xiongda/7.png": [
+        {
+            "Question": "What is <xiongda> hair color?",
+            "Answer": "<xiongda> does not have visible hair."
+        },
+        {
+            "Question": "What color are <xiongda> eyes?",
+            "Answer": "I cannot determine the color of <xiongda>'s eyes from the image."
+        },
+        {
+            "Question": "Would you describe <xiongda>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<xiongda>'s physique is otherwise, appearing more on the heavier side."
+        },
+        {
+            "Question": "What is <xiongda> skin tone?",
+            "Answer": "<xiongda>'s skin tone is brown."
+        },
+        {
+            "Question": "How would you describe <xiongda> hairstyle?",
+            "Answer": "<xiongda> does not have visible hair."
+        },
+        {
+            "Question": "Does <xiongda> wear glasses or any accessories?",
+            "Answer": "<xiongda> is not wearing glasses or any accessories."
+        },
+        {
+            "Question": "How would you describe <xiongda>'s attire?",
+            "Answer": "<xiongda> is not wearing any attire."
+        },
+        {
+            "Question": "Does <xiongda> have any distinctive facial features?",
+            "Answer": "<xiongda> has a round, brown body with a large belly and is sitting cross-legged."
+        },
+        {
+            "Question": "What is <xiongda> overall build or physique?",
+            "Answer": "<xiongda> has a stocky and robust build with a round body and thick limbs."
+        },
+        {
+            "Question": "What is <xiongda> general expression or demeanor?",
+            "Answer": "<xiongda> has a calm and meditative demeanor, sitting cross-legged with hands clasped together."
+        }
+    ],
+    "two_concept/concept/train/xiongda/8.png": [
+        {
+            "Question": "What is <xiongda> hair color?",
+            "Answer": "<xiongda> does not have visible hair."
+        },
+        {
+            "Question": "What color are <xiongda> eyes?",
+            "Answer": "I cannot determine the color of <xiongda>'s eyes from the image."
+        },
+        {
+            "Question": "Would you describe <xiongda>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<xiongda>'s physique is otherwise, characterized by a round and stocky build."
+        },
+        {
+            "Question": "What is <xiongda> skin tone?",
+            "Answer": "<xiongda>'s skin tone is a reddish-brown."
+        },
+        {
+            "Question": "How would you describe <xiongda> hairstyle?",
+            "Answer": "<xiongda> does not have any visible hair."
+        },
+        {
+            "Question": "Does <xiongda> wear glasses or any accessories?",
+            "Answer": "<xiongda> does not wear glasses or any accessories."
+        },
+        {
+            "Question": "How would you describe <xiongda>'s attire?",
+            "Answer": "<xiongda> is not wearing any attire."
+        },
+        {
+            "Question": "Does <xiongda> have any distinctive facial features?",
+            "Answer": "<xiongda> has a distinctive large, round body with a reddish-brown fur color."
+        },
+        {
+            "Question": "What is <xiongda> overall build or physique?",
+            "Answer": "<xiongda> has a round and chubby build."
+        },
+        {
+            "Question": "What is <xiongda> general expression or demeanor?",
+            "Answer": "<xiongda> has a relaxed and casual demeanor, with one arm resting on the other."
+        }
+    ],
+    "two_concept/concept/train/xiongda/9.png": [
+        {
+            "Question": "What is <xiongda> hair color?",
+            "Answer": "<xiongda>'s hair color is brown with a white patch on the chest."
+        },
+        {
+            "Question": "What color are <xiongda> eyes?",
+            "Answer": "I cannot determine the color of <xiongda>'s eyes from the provided image."
+        },
+        {
+            "Question": "Would you describe <xiongda>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<xiongda>'s physique is stocky and robust."
+        },
+        {
+            "Question": "What is <xiongda> skin tone?",
+            "Answer": "<xiongda>'s skin tone is a reddish-brown with a white patch on the chest."
+        },
+        {
+            "Question": "How would you describe <xiongda> hairstyle?",
+            "Answer": "<xiongda> does not have any visible hair."
+        },
+        {
+            "Question": "Does <xiongda> wear glasses or any accessories?",
+            "Answer": "No, <xiongda> does not wear glasses or any accessories."
+        },
+        {
+            "Question": "How would you describe <xiongda>'s attire?",
+            "Answer": "<xiongda> is not wearing any attire, as the character appears to be a bear with brown fur and a white patch on the chest."
+        },
+        {
+            "Question": "Does <xiongda> have any distinctive facial features?",
+            "Answer": "<xiongda> has a distinctive white patch of fur on the chest."
+        },
+        {
+            "Question": "What is <xiongda> overall build or physique?",
+            "Answer": "<xiongda> has a large and muscular build with a broad chest and strong arms."
+        },
+        {
+            "Question": "What is <xiongda> general expression or demeanor?",
+            "Answer": "<xiongda> has a friendly and approachable demeanor."
+        }
+    ]
+}

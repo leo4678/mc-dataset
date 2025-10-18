@@ -1,0 +1,422 @@
+{
+    "two_concept/concept/train/Xiaobai/0.jpg": [
+        {
+            "Question": "What is <Xiaobai> hair color?",
+            "Answer": "<Xiaobai>'s hair color is dark brown."
+        },
+        {
+            "Question": "What color are <Xiaobai> eyes?",
+            "Answer": "<Xiaobai>'s eyes are not visible in the image."
+        },
+        {
+            "Question": "Would you describe <Xiaobai>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<Xiaobai>'s physique can be described as slim."
+        },
+        {
+            "Question": "What is <Xiaobai> skin tone?",
+            "Answer": "<Xiaobai>'s skin tone is fair."
+        },
+        {
+            "Question": "How would you describe <Xiaobai> hairstyle?",
+            "Answer": "<Xiaobai>'s hairstyle is an elegant updo with a decorative hairpin and a few loose strands framing the face."
+        },
+        {
+            "Question": "Does <Xiaobai> wear glasses or any accessories?",
+            "Answer": "<Xiaobai> is wearing a decorative hairpin."
+        },
+        {
+            "Question": "How would you describe <Xiaobai>'s attire?",
+            "Answer": "<Xiaobai> is wearing a traditional outfit with a light, flowing fabric. The attire includes a decorative hairpin with a dangling ornament."
+        },
+        {
+            "Question": "Does <Xiaobai> have any distinctive facial features?",
+            "Answer": "<Xiaobai> has long hair styled with a decorative hairpin and a few loose strands framing the face."
+        },
+        {
+            "Question": "What is <Xiaobai> overall build or physique?",
+            "Answer": "<Xiaobai> has a slender and delicate build."
+        },
+        {
+            "Question": "What is <Xiaobai> general expression or demeanor?",
+            "Answer": "<Xiaobai> has a calm and serene demeanor."
+        }
+    ],
+    "two_concept/concept/train/Xiaobai/1.jpg": [
+        {
+            "Question": "What is <Xiaobai> hair color?",
+            "Answer": "<Xiaobai>'s hair color is black."
+        },
+        {
+            "Question": "What color are <Xiaobai> eyes?",
+            "Answer": "I cannot determine the color of <Xiaobai>'s eyes from the image."
+        },
+        {
+            "Question": "Would you describe <Xiaobai>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<Xiaobai>'s physique appears to be slim."
+        },
+        {
+            "Question": "What is <Xiaobai> skin tone?",
+            "Answer": "<Xiaobai>'s skin tone is fair."
+        },
+        {
+            "Question": "How would you describe <Xiaobai> hairstyle?",
+            "Answer": "<Xiaobai>'s hairstyle is long and straight, adorned with traditional hair accessories, including a green ornament and gold pins. The hair is styled in an elegant updo with decorative elements."
+        },
+        {
+            "Question": "Does <Xiaobai> wear glasses or any accessories?",
+            "Answer": "<Xiaobai> is wearing hair accessories, including decorative hairpins and ornaments."
+        },
+        {
+            "Question": "How would you describe <Xiaobai>'s attire?",
+            "Answer": "<Xiaobai> is wearing a traditional outfit with a light green and white color scheme. The attire includes intricate hair accessories with green and gold ornaments, and dangling earrings."
+        },
+        {
+            "Question": "Does <Xiaobai> have any distinctive facial features?",
+            "Answer": "<Xiaobai> has long, dark hair styled with ornate hairpins and accessories."
+        },
+        {
+            "Question": "What is <Xiaobai> overall build or physique?",
+            "Answer": "<Xiaobai> has a slender and delicate build."
+        },
+        {
+            "Question": "What is <Xiaobai> general expression or demeanor?",
+            "Answer": "<Xiaobai> has an elegant and composed demeanor, with a traditional hairstyle adorned with decorative hairpins and accessories."
+        }
+    ],
+    "two_concept/concept/train/Xiaobai/2.jpg": [
+        {
+            "Question": "What is <Xiaobai> hair color?",
+            "Answer": "<Xiaobai>'s hair color is black."
+        },
+        {
+            "Question": "What color are <Xiaobai> eyes?",
+            "Answer": "I cannot determine the color of <Xiaobai>'s eyes from the image."
+        },
+        {
+            "Question": "Would you describe <Xiaobai>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<Xiaobai>'s physique is slim."
+        },
+        {
+            "Question": "What is <Xiaobai> skin tone?",
+            "Answer": "<Xiaobai>'s skin tone is fair."
+        },
+        {
+            "Question": "How would you describe <Xiaobai> hairstyle?",
+            "Answer": "<Xiaobai>'s hairstyle features long, straight hair adorned with traditional hair accessories."
+        },
+        {
+            "Question": "Does <Xiaobai> wear glasses or any accessories?",
+            "Answer": "<Xiaobai> is holding a traditional parasol and wearing a traditional outfit with long sleeves."
+        },
+        {
+            "Question": "How would you describe <Xiaobai>'s attire?",
+            "Answer": "<Xiaobai> is wearing a traditional white flowing robe with long sleeves and a sash around the waist. She is also holding a large, traditional parasol."
+        },
+        {
+            "Question": "Does <Xiaobai> have any distinctive facial features?",
+            "Answer": "<Xiaobai> is holding a traditional umbrella and wearing a flowing white robe with long sleeves."
+        },
+        {
+            "Question": "What is <Xiaobai> overall build or physique?",
+            "Answer": "<Xiaobai> has a slender and graceful build."
+        },
+        {
+            "Question": "What is <Xiaobai> general expression or demeanor?",
+            "Answer": "<Xiaobai>'s general expression or demeanor appears to be calm and graceful."
+        }
+    ],
+    "two_concept/concept/train/Xiaobai/3.jpg": [
+        {
+            "Question": "What is <Xiaobai> hair color?",
+            "Answer": "<Xiaobai>'s hair color is black."
+        },
+        {
+            "Question": "What color are <Xiaobai> eyes?",
+            "Answer": "I cannot determine the color of <Xiaobai>'s eyes from the image."
+        },
+        {
+            "Question": "Would you describe <Xiaobai>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<Xiaobai>'s physique can be described as slim."
+        },
+        {
+            "Question": "What is <Xiaobai> skin tone?",
+            "Answer": "<Xiaobai>'s skin tone is fair."
+        },
+        {
+            "Question": "How would you describe <Xiaobai> hairstyle?",
+            "Answer": "<Xiaobai>'s hairstyle is long and straight, adorned with intricate hair accessories and ornaments."
+        },
+        {
+            "Question": "Does <Xiaobai> wear glasses or any accessories?",
+            "Answer": "<Xiaobai> is wearing hair accessories, including decorative pins and dangling ornaments."
+        },
+        {
+            "Question": "How would you describe <Xiaobai>'s attire?",
+            "Answer": "<Xiaobai> is wearing a traditional outfit with a light-colored robe featuring intricate patterns. The attire includes a high collar and layered fabric, and is complemented by elegant hair accessories and dangling earrings."
+        },
+        {
+            "Question": "Does <Xiaobai> have any distinctive facial features?",
+            "Answer": "I cannot determine any distinctive facial features of <Xiaobai> from the image provided."
+        },
+        {
+            "Question": "What is <Xiaobai> overall build or physique?",
+            "Answer": "<Xiaobai> has a slender and delicate build."
+        },
+        {
+            "Question": "What is <Xiaobai> general expression or demeanor?",
+            "Answer": "<Xiaobai> has a serene and elegant demeanor, accentuated by her traditional attire and ornate hair accessories."
+        }
+    ],
+    "two_concept/concept/train/Xiaobai/4.jpg": [
+        {
+            "Question": "What is <Xiaobai> hair color?",
+            "Answer": "<Xiaobai>'s hair color is black."
+        },
+        {
+            "Question": "What color are <Xiaobai> eyes?",
+            "Answer": "<Xiaobai>'s eye color cannot be determined from the image."
+        },
+        {
+            "Question": "Would you describe <Xiaobai>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<Xiaobai>'s physique is slim."
+        },
+        {
+            "Question": "What is <Xiaobai> skin tone?",
+            "Answer": "<Xiaobai>'s skin tone is fair."
+        },
+        {
+            "Question": "How would you describe <Xiaobai> hairstyle?",
+            "Answer": "<Xiaobai>'s hairstyle features long, straight hair with two buns on top, adorned with decorative hairpins and accessories."
+        },
+        {
+            "Question": "Does <Xiaobai> wear glasses or any accessories?",
+            "Answer": "<Xiaobai> is wearing hair accessories, including decorative pins and ornaments. She is not wearing glasses."
+        },
+        {
+            "Question": "How would you describe <Xiaobai>'s attire?",
+            "Answer": "<Xiaobai>'s attire is a traditional, elegant outfit featuring a white robe with gold accents. The robe has long, flowing sleeves and a delicate, sheer overlay."
+        },
+        {
+            "Question": "Does <Xiaobai> have any distinctive facial features?",
+            "Answer": "I cannot determine any distinctive facial features of <Xiaobai> from the image provided."
+        },
+        {
+            "Question": "What is <Xiaobai> overall build or physique?",
+            "Answer": "<Xiaobai> has a slender and delicate build."
+        },
+        {
+            "Question": "What is <Xiaobai> general expression or demeanor?",
+            "Answer": "<Xiaobai> has a calm and composed demeanor."
+        }
+    ],
+    "two_concept/concept/train/Xiaobai/5.jpg": [
+        {
+            "Question": "What is <Xiaobai> hair color?",
+            "Answer": "<Xiaobai>'s hair color is dark brown."
+        },
+        {
+            "Question": "What color are <Xiaobai> eyes?",
+            "Answer": "The color of <Xiaobai>'s eyes cannot be determined from the image."
+        },
+        {
+            "Question": "Would you describe <Xiaobai>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<Xiaobai>'s physique can be described as slim."
+        },
+        {
+            "Question": "What is <Xiaobai> skin tone?",
+            "Answer": "<Xiaobai>'s skin tone is fair."
+        },
+        {
+            "Question": "How would you describe <Xiaobai> hairstyle?",
+            "Answer": "<Xiaobai>'s hairstyle is long and straight, adorned with decorative hairpieces."
+        },
+        {
+            "Question": "Does <Xiaobai> wear glasses or any accessories?",
+            "Answer": "<Xiaobai> is wearing a hair accessory."
+        },
+        {
+            "Question": "How would you describe <Xiaobai>'s attire?",
+            "Answer": "<Xiaobai> is wearing a traditional-style outfit with light colors, featuring a robe with blue accents and a high collar."
+        },
+        {
+            "Question": "Does <Xiaobai> have any distinctive facial features?",
+            "Answer": "I cannot determine any distinctive facial features of <Xiaobai> from the image provided."
+        },
+        {
+            "Question": "What is <Xiaobai> overall build or physique?",
+            "Answer": "<Xiaobai> has a slender and delicate build."
+        },
+        {
+            "Question": "What is <Xiaobai> general expression or demeanor?",
+            "Answer": "<Xiaobai> has a calm and composed demeanor."
+        }
+    ],
+    "two_concept/concept/train/Xiaobai/6.jpg": [
+        {
+            "Question": "What is <Xiaobai> hair color?",
+            "Answer": "<Xiaobai>'s hair color is black."
+        },
+        {
+            "Question": "What color are <Xiaobai> eyes?",
+            "Answer": "I cannot determine the color of <Xiaobai>'s eyes from the image."
+        },
+        {
+            "Question": "Would you describe <Xiaobai>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<Xiaobai>'s physique appears to be slim."
+        },
+        {
+            "Question": "What is <Xiaobai> skin tone?",
+            "Answer": "<Xiaobai>'s skin tone is fair."
+        },
+        {
+            "Question": "How would you describe <Xiaobai> hairstyle?",
+            "Answer": "<Xiaobai>'s hairstyle is long, straight, and adorned with decorative hairpieces."
+        },
+        {
+            "Question": "Does <Xiaobai> wear glasses or any accessories?",
+            "Answer": "<Xiaobai> is wearing hair accessories."
+        },
+        {
+            "Question": "How would you describe <Xiaobai>'s attire?",
+            "Answer": "<Xiaobai> is wearing a traditional outfit with flowing, light-colored robes and a high collar. The attire includes intricate designs and a layered look, giving it an elegant and classical appearance."
+        },
+        {
+            "Question": "Does <Xiaobai> have any distinctive facial features?",
+            "Answer": "<Xiaobai> has long, straight black hair adorned with decorative hairpieces."
+        },
+        {
+            "Question": "What is <Xiaobai> overall build or physique?",
+            "Answer": "<Xiaobai> has a slender and delicate build."
+        },
+        {
+            "Question": "What is <Xiaobai> general expression or demeanor?",
+            "Answer": "<Xiaobai> has a calm and composed demeanor."
+        }
+    ],
+    "two_concept/concept/train/Xiaobai/7.jpg": [
+        {
+            "Question": "What is <Xiaobai> hair color?",
+            "Answer": "<Xiaobai>'s hair color is black."
+        },
+        {
+            "Question": "What color are <Xiaobai> eyes?",
+            "Answer": "<Xiaobai>'s eyes are not visible in the image."
+        },
+        {
+            "Question": "Would you describe <Xiaobai>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<Xiaobai>'s physique can be described as slim."
+        },
+        {
+            "Question": "What is <Xiaobai> skin tone?",
+            "Answer": "<Xiaobai>'s skin tone is fair."
+        },
+        {
+            "Question": "How would you describe <Xiaobai> hairstyle?",
+            "Answer": "<Xiaobai>'s hairstyle is long, dark, and straight, with a decorative hairpin featuring blue ornaments."
+        },
+        {
+            "Question": "Does <Xiaobai> wear glasses or any accessories?",
+            "Answer": "<Xiaobai> is wearing a hair accessory with a turquoise ornament."
+        },
+        {
+            "Question": "How would you describe <Xiaobai>'s attire?",
+            "Answer": "<Xiaobai> is wearing a white traditional outfit with long sleeves."
+        },
+        {
+            "Question": "Does <Xiaobai> have any distinctive facial features?",
+            "Answer": "<Xiaobai> has long, dark hair adorned with a turquoise hairpin."
+        },
+        {
+            "Question": "What is <Xiaobai> overall build or physique?",
+            "Answer": "<Xiaobai> has a slender and delicate build."
+        },
+        {
+            "Question": "What is <Xiaobai> general expression or demeanor?",
+            "Answer": "<Xiaobai> has a calm and serene demeanor."
+        }
+    ],
+    "two_concept/concept/train/Xiaobai/8.jpg": [
+        {
+            "Question": "What is <Xiaobai> hair color?",
+            "Answer": "<Xiaobai>'s hair color is black."
+        },
+        {
+            "Question": "What color are <Xiaobai> eyes?",
+            "Answer": "<Xiaobai>'s eyes are brown."
+        },
+        {
+            "Question": "Would you describe <Xiaobai>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<Xiaobai>'s physique can be described as slim."
+        },
+        {
+            "Question": "What is <Xiaobai> skin tone?",
+            "Answer": "<Xiaobai>'s skin tone is fair."
+        },
+        {
+            "Question": "How would you describe <Xiaobai> hairstyle?",
+            "Answer": "<Xiaobai>'s hairstyle is an updo with two buns at the back and a few loose strands framing the face."
+        },
+        {
+            "Question": "Does <Xiaobai> wear glasses or any accessories?",
+            "Answer": "<Xiaobai> is not wearing glasses but is holding a green accessory in their hand."
+        },
+        {
+            "Question": "How would you describe <Xiaobai>'s attire?",
+            "Answer": "<Xiaobai> is wearing a white, flowing robe with long sleeves."
+        },
+        {
+            "Question": "Does <Xiaobai> have any distinctive facial features?",
+            "Answer": "<Xiaobai> has no visible distinctive facial features in the image."
+        },
+        {
+            "Question": "What is <Xiaobai> overall build or physique?",
+            "Answer": "<Xiaobai> has a slender and graceful build."
+        },
+        {
+            "Question": "What is <Xiaobai> general expression or demeanor?",
+            "Answer": "<Xiaobai> appears calm and focused."
+        }
+    ],
+    "two_concept/concept/train/Xiaobai/9.jpg": [
+        {
+            "Question": "What is <Xiaobai> hair color?",
+            "Answer": "<Xiaobai>'s hair color is black."
+        },
+        {
+            "Question": "What color are <Xiaobai> eyes?",
+            "Answer": "<Xiaobai>'s eyes are not visible in the image."
+        },
+        {
+            "Question": "Would you describe <Xiaobai>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<Xiaobai>'s physique appears to be slim."
+        },
+        {
+            "Question": "What is <Xiaobai> skin tone?",
+            "Answer": "<Xiaobai>'s skin tone is fair."
+        },
+        {
+            "Question": "How would you describe <Xiaobai> hairstyle?",
+            "Answer": "<Xiaobai>'s hairstyle is long, straight, and dark, with a decorative hairpin featuring a dangling ornament."
+        },
+        {
+            "Question": "Does <Xiaobai> wear glasses or any accessories?",
+            "Answer": "<Xiaobai> is wearing a hair accessory with a decorative element hanging from it."
+        },
+        {
+            "Question": "How would you describe <Xiaobai>'s attire?",
+            "Answer": "<Xiaobai> is wearing a light-colored cloak with intricate floral embroidery near the neckline. The cloak is fastened with a ribbon tie at the front. Additionally, <Xiaobai> has a decorative hairpin with dangling ornaments."
+        },
+        {
+            "Question": "Does <Xiaobai> have any distinctive facial features?",
+            "Answer": "I cannot determine any distinctive facial features of <Xiaobai> from the image provided."
+        },
+        {
+            "Question": "What is <Xiaobai> overall build or physique?",
+            "Answer": "<Xiaobai> has a slender and delicate build."
+        },
+        {
+            "Question": "What is <Xiaobai> general expression or demeanor?",
+            "Answer": "<Xiaobai> has a calm and serene demeanor."
+        }
+    ]
+}

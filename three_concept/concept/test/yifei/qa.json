@@ -1,0 +1,22 @@
+[
+    {
+        "question": "What is <yifei>'s hair color? A.Black. B.Blonde",
+        "answer": "A"
+    },
+    {
+        "question": "Is <yifei> wearing a tiara in any outfit? A.Yes. B.No",
+        "answer": "A"
+    },
+    {
+        "question": "What type of accessory is <yifei> wearing in one of the images? A.Bunny ears. B.Sunglasses",
+        "answer": "A"
+    },
+    {
+        "question": "What is the predominant style of <yifei>'s clothing? A.Casual. B.Formal",
+        "answer": "A"
+    },
+    {
+        "question": "Is <yifei> holding something in any of the images? A.Yes. B.No",
+        "answer": "A"
+    }
+]

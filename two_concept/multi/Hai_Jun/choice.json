@@ -1,0 +1,72 @@
+{
+    "two_concept/multi/Hai_Jun/0.jpg": [
+        {
+            "Human": "What color is <Hai>'s jacket? A. Blue B. Pink",
+            "AI": "B"
+        },
+        {
+            "Human": "What color is <Jun>'s uniform? A. Blue B. Green C. Red",
+            "AI": "A"
+        },
+        {
+            "Human": "What is the color of <Jun>'s uniform? A.blue. B.green. C.red",
+            "AI": "A"
+        }
+    ],
+    "two_concept/multi/Hai_Jun/1.jpg": [
+        {
+            "Human": "What is <Hai> wearing in the image? A. A white shirt with a red tie. B. A blue dress. C. A green jacket.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is <Jun> wearing in the image? A. A white shirt. B. A blue jacket.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is <Hai> wearing in the image? A. A white shirt with a red tie. B. A blue shirt with a red tie. C. A white shirt with a blue tie.",
+            "AI": "A"
+        }
+    ],
+    "two_concept/multi/Hai_Jun/2.jpg": [
+        {
+            "Human": "What is <Hai> holding in her hand? A. A book. B. A shoe. C. A hat.",
+            "AI": "B"
+        },
+        {
+            "Human": "What are <Jun> and the girl doing in the image? A. Walking down the stairs. B. Running up the stairs. C. Sitting on the stairs.",
+            "AI": "B"
+        },
+        {
+            "Human": "What are <Hai> and <Jun> holding in their hands? A. Books. B. Briefcases. C. Flowers.",
+            "AI": "B"
+        }
+    ],
+    "two_concept/multi/Hai_Jun/3.jpg": [
+        {
+            "Human": "What is <Hai> carrying in the image? A. A backpack. B. A briefcase. C. A shopping bag.",
+            "AI": "B"
+        },
+        {
+            "Human": "What is <Jun> holding in his hand? A. A book. B. A briefcase. C. A pen.",
+            "AI": "A"
+        },
+        {
+            "Human": "What are <Hai> and <Jun> carrying in the image? A. Backpacks. B. Briefcases. C. Nothing.",
+            "AI": "B"
+        }
+    ],
+    "two_concept/multi/Hai_Jun/4.jpg": [
+        {
+            "Human": "What is <Hai> holding in the image? A. A book. B. An umbrella. C. A phone.",
+            "AI": "B"
+        },
+        {
+            "Human": "What are <Jun> and the other person holding in the image? A. A book. B. An umbrella. C. A lantern.",
+            "AI": "B"
+        },
+        {
+            "Human": "What are <Hai> and <Jun> holding in the image? A. A book. B. An umbrella. C. A lantern.",
+            "AI": "B"
+        }
+    ]
+}

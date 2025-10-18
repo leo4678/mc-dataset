@@ -1,0 +1,22 @@
+[
+    {
+        "question": "What color is <Tanjiro>'s hair? A.Black.  B.Burgundy",
+        "answer": "B"
+    },
+    {
+        "question": "What type of earrings does <Tanjiro> wear? A.Studs.  B.Hanafuda",
+        "answer": "B"
+    },
+    {
+        "question": "What pattern is on <Tanjiro>'s haori? A.Stripes.  B.Checkered",
+        "answer": "B"
+    },
+    {
+        "question": "What is <Tanjiro>'s primary weapon? A.Sword.  B.Bow",
+        "answer": "A"
+    },
+    {
+        "question": "What is <Tanjiro>'s demeanor? A.Calm.  B.Aggressive",
+        "answer": "A"
+    }
+]

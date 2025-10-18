@@ -1,0 +1,22 @@
+[
+    {
+        "question": "What are the hair colors of <Anya>, <Loid>, and <Yor> respectively? A.Pink, Blonde, Black. B.Blonde, Pink, Black",
+        "answer": "A"
+    },
+    {
+        "question": "What are the eye colors of <Anya> and <Yor> respectively? A.Green, Red. B.Red, Green",
+        "answer": "A"
+    },
+    {
+        "question": "What type of clothing does <Loid> often wear? A.Casual. B.Formal",
+        "answer": "B"
+    },
+    {
+        "question": "Are <Anya> and <Yor> both humans? A.Yes. B.No",
+        "answer": "A"
+    },
+    {
+        "question": "What is the gender of <Loid> and <Yor> respectively? A.Male, Female. B.Female, Male",
+        "answer": "A"
+    }
+]

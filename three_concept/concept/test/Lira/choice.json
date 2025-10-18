@@ -1,0 +1,22 @@
+{
+    "three_concept/concept/test/Lira/0.png": {
+        "Human": "What is the distinctive feature of <Lira>? \n A. White fur trim; \n B. Red stripes; \n C. Green patches;\n",
+        "AI": "A"
+    },
+    "three_concept/concept/test/Lira/1.png": {
+        "Human": "What is the distinctive feature of the <Lira> shorts? \n A. They have a frayed hem; \n B. They have a smooth hem; \n C. They have a striped pattern;\n",
+        "AI": "A"
+    },
+    "three_concept/concept/test/Lira/2.png": {
+        "Human": "What is the color of the <Lira>? \n A. Red; \n B. Blue; \n C. Green;",
+        "AI": "B"
+    },
+    "three_concept/concept/test/Lira/3.png": {
+        "Human": "What is the distinctive feature of <Lira>? \n A. Fringed hem; \n B. Striped pattern; \n C. Polka dots;",
+        "AI": "A"
+    },
+    "three_concept/concept/test/Lira/4.png": {
+        "Human": "What is the color of <Lira>? \n A. Blue; \n B. Red; \n C. Green;",
+        "AI": "A"
+    }
+}

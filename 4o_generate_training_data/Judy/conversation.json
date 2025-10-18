@@ -1,0 +1,418 @@
+{
+    "two_concept/concept/train/Judy/0.png": [
+        {
+            "Question": "What is <Judy> hair color?",
+            "Answer": "<Judy>'s hair is grey with lighter shades around the face."
+        },
+        {
+            "Question": "What color are <Judy> eyes?",
+            "Answer": "<Judy>'s eyes are purple."
+        },
+        {
+            "Question": "Would you describe <Judy>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<Judy>'s physique is slim."
+        },
+        {
+            "Question": "What is <Judy> skin tone?",
+            "Answer": "<Judy>'s skin tone is gray with lighter fur around the cheeks and muzzle."
+        },
+        {
+            "Question": "How would you describe <Judy> hairstyle?",
+            "Answer": "<Judy>'s hairstyle is short and fluffy, with fur that is neatly groomed and ears that stand upright."
+        },
+        {
+            "Question": "Does <Judy> wear glasses or any accessories?",
+            "Answer": "<Judy> does not wear glasses but is wearing a police uniform with a badge and shoulder epaulets."
+        },
+        {
+            "Question": "How would you describe <Judy>'s attire?",
+            "Answer": "<Judy> is wearing a police uniform, which includes a dark blue shirt with a badge and gold accents, and she is holding a police hat."
+        },
+        {
+            "Question": "Does <Judy> have any distinctive facial features?",
+            "Answer": "<Judy> has large, expressive purple eyes and a small, pink nose."
+        },
+        {
+            "Question": "What is <Judy> overall build or physique?",
+            "Answer": "<Judy> has a small and slender build."
+        },
+        {
+            "Question": "What is <Judy> general expression or demeanor?",
+            "Answer": "<Judy> has a cheerful and confident expression."
+        }
+    ],
+    "two_concept/concept/train/Judy/1.png": [
+        {
+            "Question": "What is <Judy> hair color?",
+            "Answer": "<Judy> does not have hair; she has fur."
+        },
+        {
+            "Question": "Would you describe <Judy>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<Judy>'s physique is slim."
+        },
+        {
+            "Question": "What is <Judy> skin tone?",
+            "Answer": "<Judy> has a light gray fur tone."
+        },
+        {
+            "Question": "How would you describe <Judy> hairstyle?",
+            "Answer": "<Judy> has large, upright ears with a light pink inner color and a darker outer edge."
+        },
+        {
+            "Question": "Does <Judy> wear glasses or any accessories?",
+            "Answer": "<Judy> is not wearing glasses or any accessories."
+        },
+        {
+            "Question": "How would you describe <Judy>'s attire?",
+            "Answer": "<Judy> is wearing a blue police uniform."
+        },
+        {
+            "Question": "Does <Judy> have any distinctive facial features?",
+            "Answer": "<Judy> has large, upright ears and is holding a carrot."
+        },
+        {
+            "Question": "What is <Judy> overall build or physique?",
+            "Answer": "<Judy> has a slender and athletic build."
+        },
+        {
+            "Question": "What is <Judy> general expression or demeanor?",
+            "Answer": "<Judy>'s general expression or demeanor appears to be cheerful and confident, as she is holding a carrot and wearing a police uniform."
+        }
+    ],
+    "two_concept/concept/train/Judy/2.png": [
+        {
+            "Question": "What is <Judy> hair color?",
+            "Answer": "<Judy>'s hair color is brown."
+        },
+        {
+            "Question": "What color are <Judy> eyes?",
+            "Answer": "<Judy>'s eyes are brown."
+        },
+        {
+            "Question": "Would you describe <Judy>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<Judy>'s physique is slim."
+        },
+        {
+            "Question": "What is <Judy> skin tone?",
+            "Answer": "<Judy>'s skin tone is light brown."
+        },
+        {
+            "Question": "How would you describe <Judy> hairstyle?",
+            "Answer": "<Judy> is wearing a hat, so her hairstyle is not visible."
+        },
+        {
+            "Question": "Does <Judy> wear glasses or any accessories?",
+            "Answer": "<Judy> is wearing a hat with a badge on it."
+        },
+        {
+            "Question": "How would you describe <Judy>'s attire?",
+            "Answer": "<Judy> is wearing a blue uniform with a high collar and a reflective orange and yellow vest. She also has a dark hat with a badge on the front."
+        },
+        {
+            "Question": "Does <Judy> have any distinctive facial features?",
+            "Answer": "<Judy> is wearing a police hat with a badge and a high-visibility vest."
+        },
+        {
+            "Question": "What is <Judy> overall build or physique?",
+            "Answer": "<Judy> has a small and slender build."
+        },
+        {
+            "Question": "What is <Judy> general expression or demeanor?",
+            "Answer": "<Judy> appears to have a professional and serious demeanor, as indicated by her uniform and hat."
+        }
+    ],
+    "two_concept/concept/train/Judy/3.png": [
+        {
+            "Question": "What is <Judy> hair color?",
+            "Answer": "<Judy> does not have visible hair in the image."
+        },
+        {
+            "Question": "What color are <Judy> eyes?",
+            "Answer": "<Judy>'s eyes are blue."
+        },
+        {
+            "Question": "Would you describe <Judy>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<Judy>'s physique is slim."
+        },
+        {
+            "Question": "What is <Judy> skin tone?",
+            "Answer": "<Judy> has a light blue skin tone."
+        },
+        {
+            "Question": "How would you describe <Judy> hairstyle?",
+            "Answer": "<Judy>'s hairstyle features long ears that extend downwards from the sides of the head."
+        },
+        {
+            "Question": "Does <Judy> wear glasses or any accessories?",
+            "Answer": "<Judy> is wearing a police hat and a reflective safety vest."
+        },
+        {
+            "Question": "How would you describe <Judy>'s attire?",
+            "Answer": "<Judy> is wearing a blue uniform with a reflective orange safety vest and a police hat. She is also holding a device in her hands."
+        },
+        {
+            "Question": "Does <Judy> have any distinctive facial features?",
+            "Answer": "<Judy> has large, prominent ears and is wearing a police uniform with a cap."
+        },
+        {
+            "Question": "What is <Judy> overall build or physique?",
+            "Answer": "<Judy> has a slim and athletic build."
+        },
+        {
+            "Question": "What is <Judy> general expression or demeanor?",
+            "Answer": "<Judy>'s general expression or demeanor appears to be focused and determined."
+        }
+    ],
+    "two_concept/concept/train/Judy/4.png": [
+        {
+            "Question": "What is <Judy> hair color?",
+            "Answer": "<Judy> does not have hair; she has gray fur."
+        },
+        {
+            "Question": "What color are <Judy> eyes?",
+            "Answer": "<Judy>'s eyes are purple."
+        },
+        {
+            "Question": "Would you describe <Judy>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<Judy>'s physique is slim."
+        },
+        {
+            "Question": "What is <Judy> skin tone?",
+            "Answer": "<Judy>'s skin tone is gray."
+        },
+        {
+            "Question": "How would you describe <Judy> hairstyle?",
+            "Answer": "<Judy> has short, gray fur with a tuft of fur on top of her head."
+        },
+        {
+            "Question": "Does <Judy> wear glasses or any accessories?",
+            "Answer": "<Judy> does not wear glasses, but she is holding a carrot-shaped pen."
+        },
+        {
+            "Question": "How would you describe <Judy>'s attire?",
+            "Answer": "<Judy> is wearing a blue police uniform with a badge."
+        },
+        {
+            "Question": "Does <Judy> have any distinctive facial features?",
+            "Answer": "<Judy> has large, expressive eyes and prominent eyebrows."
+        },
+        {
+            "Question": "What is <Judy> overall build or physique?",
+            "Answer": "<Judy> has a slender and athletic build."
+        },
+        {
+            "Question": "What is <Judy> general expression or demeanor?",
+            "Answer": "<Judy> has a cheerful and focused expression."
+        }
+    ],
+    "two_concept/concept/train/Judy/5.png": [
+        {
+            "Question": "What is <Judy> hair color?",
+            "Answer": "<Judy>'s hair color is brown."
+        },
+        {
+            "Question": "What color are <Judy> eyes?",
+            "Answer": "<Judy>'s eyes are purple."
+        },
+        {
+            "Question": "Would you describe <Judy>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<Judy>'s physique is athletic."
+        },
+        {
+            "Question": "What is <Judy> skin tone?",
+            "Answer": "<Judy> has a grey fur tone."
+        },
+        {
+            "Question": "How would you describe <Judy> hairstyle?",
+            "Answer": "<Judy>'s hairstyle is short and neatly styled, with her ears prominently visible."
+        },
+        {
+            "Question": "Does <Judy> wear glasses or any accessories?",
+            "Answer": "<Judy> does not wear glasses but is wearing a police uniform with a utility belt and gloves."
+        },
+        {
+            "Question": "How would you describe <Judy>'s attire?",
+            "Answer": "<Judy> is wearing a blue police uniform with a black tactical vest and utility belt. She also has knee pads and gloves, and is holding a small red object in her right hand."
+        },
+        {
+            "Question": "Does <Judy> have any distinctive facial features?",
+            "Answer": "<Judy> has large, upright ears and is wearing a police uniform."
+        },
+        {
+            "Question": "What is <Judy> overall build or physique?",
+            "Answer": "<Judy> has a slim and athletic build."
+        },
+        {
+            "Question": "What is <Judy> general expression or demeanor?",
+            "Answer": "<Judy> has a determined and action-ready demeanor."
+        }
+    ],
+    "two_concept/concept/train/Judy/6.png": [
+        {
+            "Question": "What is <Judy> hair color?",
+            "Answer": "<Judy> does not have hair; she has fur."
+        },
+        {
+            "Question": "What color are <Judy> eyes?",
+            "Answer": "<Judy>'s eyes are blue."
+        },
+        {
+            "Question": "Would you describe <Judy>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<Judy>'s physique is slim."
+        },
+        {
+            "Question": "What is <Judy> skin tone?",
+            "Answer": "<Judy>'s skin tone is light gray."
+        },
+        {
+            "Question": "How would you describe <Judy> hairstyle?",
+            "Answer": "<Judy>'s hairstyle features long ears that are upright and prominent."
+        },
+        {
+            "Question": "Does <Judy> wear glasses or any accessories?",
+            "Answer": "<Judy> is wearing earphones."
+        },
+        {
+            "Question": "How would you describe <Judy>'s attire?",
+            "Answer": "<Judy> is wearing a light blue hoodie with a dark collar and white earphones."
+        },
+        {
+            "Question": "Does <Judy> have any distinctive facial features?",
+            "Answer": "<Judy> has long ears and is wearing a light blue outfit with a white collar."
+        },
+        {
+            "Question": "What is <Judy> overall build or physique?",
+            "Answer": "<Judy> has a slender and petite build."
+        },
+        {
+            "Question": "What is <Judy> general expression or demeanor?",
+            "Answer": "<Judy>'s general expression or demeanor appears to be relaxed and casual, as indicated by the earphones and the comfortable clothing."
+        }
+    ],
+    "two_concept/concept/train/Judy/7.png": [
+        {
+            "Question": "What is <Judy> hair color?",
+            "Answer": "<Judy> does not have hair; she has fur."
+        },
+        {
+            "Question": "What color are <Judy> eyes?",
+            "Answer": "<Judy>'s eyes are purple."
+        },
+        {
+            "Question": "Would you describe <Judy>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<Judy>'s physique is slim."
+        },
+        {
+            "Question": "What is <Judy> skin tone?",
+            "Answer": "<Judy>'s skin tone is light."
+        },
+        {
+            "Question": "How would you describe <Judy> hairstyle?",
+            "Answer": "<Judy> has large, upright ears that are prominently visible."
+        },
+        {
+            "Question": "Does <Judy> wear glasses or any accessories?",
+            "Answer": "<Judy> is wearing a necklace."
+        },
+        {
+            "Question": "How would you describe <Judy>'s attire?",
+            "Answer": "<Judy> is wearing a grey shirt with a black collar and a white lanyard around the neck."
+        },
+        {
+            "Question": "Does <Judy> have any distinctive facial features?",
+            "Answer": "<Judy> has large, upright ears."
+        },
+        {
+            "Question": "What is <Judy> overall build or physique?",
+            "Answer": "<Judy> has a slender and athletic build."
+        },
+        {
+            "Question": "What is <Judy> general expression or demeanor?",
+            "Answer": "<Judy> appears to have a curious and attentive demeanor."
+        }
+    ],
+    "two_concept/concept/train/Judy/8.png": [
+        {
+            "Question": "What is <Judy> hair color?",
+            "Answer": "<Judy>'s hair color is gray."
+        },
+        {
+            "Question": "What color are <Judy> eyes?",
+            "Answer": "<Judy>'s eyes are purple."
+        },
+        {
+            "Question": "Would you describe <Judy>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<Judy>'s physique is slim."
+        },
+        {
+            "Question": "What is <Judy> skin tone?",
+            "Answer": "<Judy> has a gray fur tone."
+        },
+        {
+            "Question": "How would you describe <Judy> hairstyle?",
+            "Answer": "<Judy>'s hairstyle is short and straight, with her fur neatly groomed and her ears standing upright."
+        },
+        {
+            "Question": "Does <Judy> wear glasses or any accessories?",
+            "Answer": "<Judy> does not wear glasses, but she has a utility belt with various accessories."
+        },
+        {
+            "Question": "How would you describe <Judy>'s attire?",
+            "Answer": "<Judy> is wearing a blue police uniform with a utility belt and black gloves."
+        },
+        {
+            "Question": "Does <Judy> have any distinctive facial features?",
+            "Answer": "<Judy> has large, expressive eyes and a small, pink nose."
+        },
+        {
+            "Question": "What is <Judy> overall build or physique?",
+            "Answer": "<Judy> has a slender and athletic build."
+        },
+        {
+            "Question": "What is <Judy> general expression or demeanor?",
+            "Answer": "<Judy> appears to have a concerned or worried expression."
+        }
+    ],
+    "two_concept/concept/train/Judy/9.png": [
+        {
+            "Question": "What is <Judy> hair color?",
+            "Answer": "<Judy>'s hair color is gray."
+        },
+        {
+            "Question": "What color are <Judy> eyes?",
+            "Answer": "<Judy>'s eyes are purple."
+        },
+        {
+            "Question": "Would you describe <Judy>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<Judy>'s physique can be described as slim."
+        },
+        {
+            "Question": "What is <Judy> skin tone?",
+            "Answer": "<Judy>'s skin tone is light gray."
+        },
+        {
+            "Question": "How would you describe <Judy> hairstyle?",
+            "Answer": "<Judy>'s hairstyle is short and fluffy, with fur that stands up slightly on top."
+        },
+        {
+            "Question": "Does <Judy> wear glasses or any accessories?",
+            "Answer": "<Judy> does not wear glasses or any accessories."
+        },
+        {
+            "Question": "How would you describe <Judy>'s attire?",
+            "Answer": "<Judy> is wearing a blue outfit with a high collar."
+        },
+        {
+            "Question": "Does <Judy> have any distinctive facial features?",
+            "Answer": "<Judy> has large, expressive ears that are prominent and covered in fur."
+        },
+        {
+            "Question": "What is <Judy> overall build or physique?",
+            "Answer": "<Judy> has a slender and athletic build."
+        },
+        {
+            "Question": "What is <Judy> general expression or demeanor?",
+            "Answer": "<Judy> appears to have a calm and composed demeanor."
+        }
+    ]
+}

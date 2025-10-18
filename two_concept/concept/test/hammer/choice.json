@@ -1,0 +1,22 @@
+{
+    "two_concept/concept/test/hammer/0.png": {
+        "Human": "What is the primary material of the <hammer>? \n A. Wood; \n B. Metal; \n C. Plastic;",
+        "AI": "B"
+    },
+    "two_concept/concept/test/hammer/1.png": {
+        "Human": "What is the primary color of the <hammer> in the image? \n A. Silver; \n B. Gold; \n C. Black;",
+        "AI": "A"
+    },
+    "two_concept/concept/test/hammer/2.png": {
+        "Human": "What is the color of the <hammer>? \n A. Silver; \n B. Gold; \n C. Black;",
+        "AI": "A"
+    },
+    "two_concept/concept/test/hammer/3.jpg": {
+        "Human": "What is the primary material of the <hammer> in the image? \n A. Wood; \n B. Metal; \n C. Plastic;",
+        "AI": "B"
+    },
+    "two_concept/concept/test/hammer/4.jpg": {
+        "Human": "What is the shape of the <hammer>'s head? \n A. Cylindrical; \n B. Cuboid; \n C. Spherical;\n",
+        "AI": "B"
+    }
+}

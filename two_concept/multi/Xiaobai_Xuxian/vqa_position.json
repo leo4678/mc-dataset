@@ -1,0 +1,52 @@
+{
+    "two_concept/multi/Xiaobai_Xuxian/0.jpg": [
+        {
+            "Human": "Where is <Xiaobai> located in the photo? A. left B. right.",
+            "AI": "B"
+        },
+        {
+            "Human": "Where is <Xuxian> located in the photo? A. left B. right.",
+            "AI": "A"
+        }
+    ],
+    "two_concept/multi/Xiaobai_Xuxian/1.jpg": [
+        {
+            "Human": "Where is <Xiaobai> located in the photo? A. left B. right.",
+            "AI": "A"
+        },
+        {
+            "Human": "Where is <Xuxian> located in the photo? A. left B. right.",
+            "AI": "B"
+        }
+    ],
+    "two_concept/multi/Xiaobai_Xuxian/2.jpg": [
+        {
+            "Human": "Where is <Xiaobai> located in the photo? A. left B. right.",
+            "AI": "B"
+        },
+        {
+            "Human": "Where is <Xuxian> located in the photo? A. left B. right.",
+            "AI": "A"
+        }
+    ],
+    "two_concept/multi/Xiaobai_Xuxian/3.jpg": [
+        {
+            "Human": "Where is <Xiaobai> located in the photo? A. left B. right.",
+            "AI": "A"
+        },
+        {
+            "Human": "Where is <Xuxian> located in the photo? A. left B. right.",
+            "AI": "B"
+        }
+    ],
+    "two_concept/multi/Xiaobai_Xuxian/4.jpg": [
+        {
+            "Human": "Where is <Xiaobai> located in the photo? A. left B. right.",
+            "AI": "A"
+        },
+        {
+            "Human": "Where is <Xuxian> located in the photo? A. left B. right.",
+            "AI": "B"
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "three_concept/concept/test/mayi/0.png": {
+        "Human": "What is the primary material of <mayi>? \n A. Wood; \n B. Metal; \n C. Stone;",
+        "AI": "A"
+    },
+    "three_concept/concept/test/mayi/1.png": {
+        "Human": "What is the primary material of the body of <mayi>? \n A. Metal; \n B. Wood; \n C. Plastic;",
+        "AI": "B"
+    },
+    "three_concept/concept/test/mayi/2.png": {
+        "Human": "What is the shape of <mayi>? \n A. Spider-like with multiple legs; \n B. Humanoid with two arms; \n C. Bird-like with wings;\n",
+        "AI": "A"
+    },
+    "three_concept/concept/test/mayi/3.png": {
+        "Human": "What is the color of the horns on <mayi>? \n A. Red; \n B. Blue; \n C. Green;",
+        "AI": "A"
+    },
+    "three_concept/concept/test/mayi/4.png": {
+        "Human": "What is the expression on <mayi>'s face? \n A. Smiling; \n B. Frowning; \n C. Neutral;",
+        "AI": "A"
+    }
+}

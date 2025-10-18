@@ -1,0 +1,22 @@
+{
+    "two_concept/concept/test/Ye Wen/0.png": {
+        "Human": "What type of clothing is <Ye Wen> wearing in the image?",
+        "AI": "<Ye Wen> is wearing a traditional Chinese outfit, specifically a black changshan."
+    },
+    "two_concept/concept/test/Ye Wen/1.png": {
+        "Human": "What is <Ye Wen> wearing in the image?",
+        "AI": "<Ye Wen> is wearing a dark-colored traditional Chinese outfit."
+    },
+    "two_concept/concept/test/Ye Wen/2.png": {
+        "Human": "What is the character <Ye Wen> doing in the image?",
+        "AI": "<Ye Wen> is lying on the ground."
+    },
+    "two_concept/concept/test/Ye Wen/3.png": {
+        "Human": "What is <Ye Wen> wearing in this scene?",
+        "AI": "<Ye Wen> is wearing a dark-colored suit."
+    },
+    "two_concept/concept/test/Ye Wen/4.png": {
+        "Human": "What is <Ye Wen> holding in the image?",
+        "AI": "<Ye Wen> is holding a wooden stick in the image."
+    }
+}

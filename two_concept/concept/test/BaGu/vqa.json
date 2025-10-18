@@ -1,0 +1,22 @@
+{
+    "two_concept/concept/test/BaGu/0.png": {
+        "Human": "What color is the shirt that <BaGu> is wearing?",
+        "AI": "<BaGu> is wearing a pink shirt."
+    },
+    "two_concept/concept/test/BaGu/1.png": {
+        "Human": "What type of outfit is <BaGu> wearing in this image?",
+        "AI": "<BaGu> is wearing a hoodie under a jacket."
+    },
+    "two_concept/concept/test/BaGu/2.png": {
+        "Human": "What type of accessory is <BaGu> wearing around their neck?",
+        "AI": "<BaGu> is wearing a large, colorful plaid scarf around their neck."
+    },
+    "two_concept/concept/test/BaGu/3.png": {
+        "Human": "What color is the shirt that <BaGu> is wearing in the image?",
+        "AI": "<BaGu> is wearing a teal-colored shirt in the image."
+    },
+    "two_concept/concept/test/BaGu/4.png": {
+        "Human": "What is <BaGu> doing in the image?",
+        "AI": "<BaGu> is reading a book."
+    }
+}

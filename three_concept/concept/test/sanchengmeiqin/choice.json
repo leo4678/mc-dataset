@@ -1,0 +1,22 @@
+{
+    "three_concept/concept/test/sanchengmeiqin/0.png": {
+        "Human": "What is <sanchengmeiqin> wearing over her clothes? A. A raincoat; B. A transparent protective gown; C. A lab coat;",
+        "AI": "B"
+    },
+    "three_concept/concept/test/sanchengmeiqin/1.png": {
+        "Human": "What is <sanchengmeiqin> wearing in the image? A. A casual t-shirt; B. A formal suit; C. A sweater;",
+        "AI": "B"
+    },
+    "three_concept/concept/test/sanchengmeiqin/2.png": {
+        "Human": "What is <sanchengmeiqin> wearing in the image? A. A casual t-shirt; B. A formal suit jacket; C. A sports jersey;",
+        "AI": "B"
+    },
+    "three_concept/concept/test/sanchengmeiqin/3.png": {
+        "Human": "What type of clothing is <sanchengmeiqin> wearing? A. Denim jacket; B. Leather jacket; C. Sweater;",
+        "AI": "A"
+    },
+    "three_concept/concept/test/sanchengmeiqin/4.png": {
+        "Human": "What is <sanchengmeiqin> wearing around her neck? A. A scarf; B. A necklace; C. A tie;",
+        "AI": "A"
+    }
+}

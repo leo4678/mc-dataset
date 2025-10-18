@@ -1,0 +1,22 @@
+[
+    {
+        "question": "What type of creature is <paidaxing>? A.Starfish.  B.Crab",
+        "answer": "A"
+    },
+    {
+        "question": "What color are <paidaxing>'s shorts? A.Green.  B.Blue",
+        "answer": "A"
+    },
+    {
+        "question": "Does <paidaxing> have a happy or sad expression? A.Happy.  B.Sad",
+        "answer": "A"
+    },
+    {
+        "question": "What is the primary color of <paidaxing>'s body? A.Pink.  B.Yellow",
+        "answer": "A"
+    },
+    {
+        "question": "Does <paidaxing> have eyebrows? A.Yes.  B.No",
+        "answer": "A"
+    }
+]

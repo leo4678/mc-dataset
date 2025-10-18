@@ -1,0 +1,22 @@
+{
+    "three_concept/concept/test/Lynx/0.png": {
+        "Human": "What is the pattern on the <Lynx> hat?",
+        "AI": "The <Lynx> hat has a spotted pattern with dark spots on a white background."
+    },
+    "three_concept/concept/test/Lynx/1.png": {
+        "Human": "What is the pattern on the <Lynx> hat?",
+        "AI": "The <Lynx> hat has a black and white spotted pattern."
+    },
+    "three_concept/concept/test/Lynx/2.png": {
+        "Human": "What is the pattern on the <Lynx> hat?",
+        "AI": "The <Lynx> hat has a spotted pattern with black spots on a white background."
+    },
+    "three_concept/concept/test/Lynx/3.png": {
+        "Human": "What is the pattern on the <Lynx> hat?",
+        "AI": "The <Lynx> hat has a pattern of brown spots on a white background."
+    },
+    "three_concept/concept/test/Lynx/4.png": {
+        "Human": "What pattern is featured on the <Lynx> hat in the image?",
+        "AI": "The <Lynx> hat in the image features a spotted pattern."
+    }
+}

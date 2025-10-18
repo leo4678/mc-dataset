@@ -1,0 +1,72 @@
+{
+    "two_concept/multi/Xingkong_Si/0.png": [
+        {
+            "Human": "What is <Xingkong> wearing in the image?",
+            "AI": "<Xingkong> is wearing a green hoodie with a black strap across the chest and blue pants."
+        },
+        {
+            "Human": "What is <Si> wearing in the image?",
+            "AI": "<Si> is wearing a pink apron over a white shirt."
+        },
+        {
+            "Human": "What are <Xingkong> and <Si> wearing in the image?",
+            "AI": "<Xingkong> is wearing a green hoodie and blue pants, while <Si> is wearing a pink apron over a white shirt."
+        }
+    ],
+    "two_concept/multi/Xingkong_Si/1.png": [
+        {
+            "Human": "What is <Xingkong> wearing in the image?",
+            "AI": "<Xingkong> is wearing a light blue hoodie with yellow sleeves and blue pants."
+        },
+        {
+            "Human": "What are <Si> and the other person doing in the image?",
+            "AI": "<Si> is sitting on a bench, while the other person is standing next to the bench."
+        },
+        {
+            "Human": "What are <Xingkong> and <Si> doing in the image?",
+            "AI": "<Xingkong> is standing with one hand on their hip, while <Si> is sitting on a bench with hands folded on their lap."
+        }
+    ],
+    "two_concept/multi/Xingkong_Si/2.png": [
+        {
+            "Human": "What is <Xingkong> doing in the image?",
+            "AI": "<Xingkong> is standing with a shy expression, looking down and blushing."
+        },
+        {
+            "Human": "What is <Si> doing in the image?",
+            "AI": "<Si> is sitting on a bed."
+        },
+        {
+            "Human": "What are <Xingkong> and <Si> doing in the image?",
+            "AI": "<Xingkong> is standing with a shy expression, while <Si> is sitting on the bed looking serious."
+        }
+    ],
+    "two_concept/multi/Xingkong_Si/3.png": [
+        {
+            "Human": "What is the hair color of <Xingkong>?",
+            "AI": "<Xingkong> has purple hair."
+        },
+        {
+            "Human": "What is the expression on <Si>'s face?",
+            "AI": "<Si> looks slightly blushing and appears to be serious or thoughtful."
+        },
+        {
+            "Human": "What is the expression of <Si> in the image?",
+            "AI": "<Si> appears to be blushing and looking slightly annoyed."
+        }
+    ],
+    "two_concept/multi/Xingkong_Si/4.png": [
+        {
+            "Human": "What is <Xingkong> wearing in the image?",
+            "AI": "<Xingkong> is wearing a green hoodie and carrying a black strap bag."
+        },
+        {
+            "Human": "What is <Si> wearing in the image?",
+            "AI": "<Si> is wearing a white long-sleeve shirt and has a pink bag."
+        },
+        {
+            "Human": "What are <Xingkong> and <Si> doing in the image?",
+            "AI": "<Xingkong> and <Si> are having a conversation on a street."
+        }
+    ]
+}

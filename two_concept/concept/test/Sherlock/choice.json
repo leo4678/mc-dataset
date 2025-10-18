@@ -1,0 +1,22 @@
+{
+    "two_concept/concept/test/Sherlock/0.png": {
+        "Human": "What is <Sherlock> holding in his hand?  A. A book; B. A phone; C. A pen;",
+        "AI": "B"
+    },
+    "two_concept/concept/test/Sherlock/1.png": {
+        "Human": "What is <Sherlock> doing in the image?  A. Praying; B. Clapping; C. Waving;",
+        "AI": "A"
+    },
+    "two_concept/concept/test/Sherlock/2.png": {
+        "Human": "What is <Sherlock> doing in the image?  A. Reading a book; B. Holding his hand to his face; C. Drinking coffee;",
+        "AI": "B"
+    },
+    "two_concept/concept/test/Sherlock/3.png": {
+        "Human": "What is <Sherlock> holding in his hands?  A. Umbrellas; B. Walking sticks; C. Swords;",
+        "AI": "A"
+    },
+    "two_concept/concept/test/Sherlock/4.png": {
+        "Human": "What type of clothing is <Sherlock> wearing?  A. Casual T-shirt; B. Formal suit; C. Sportswear;",
+        "AI": "B"
+    }
+}

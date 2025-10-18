@@ -1,0 +1,72 @@
+{
+    "two_concept/multi/QianShu_JinShang/0.png": [
+        {
+            "Human": "What is the hair color of <QianShu>? A. Blonde. B. Black. C. Brown.",
+            "AI": "A"
+        },
+        {
+            "Human": "What is on <JinShang>'s face? A. Glasses B. Bandage C. Scar",
+            "AI": "B"
+        },
+        {
+            "Human": "What is the hair color of <QianShu> and <JinShang>? A. Both have black hair. B. <QianShu> has blonde hair and <JinShang> has black hair. C. Both have blonde hair.",
+            "AI": "B"
+        }
+    ],
+    "two_concept/multi/QianShu_JinShang/1.png": [
+        {
+            "Human": "What activity are <QianShu> and the other person engaged in? A. Reading books. B. Playing video games.",
+            "AI": "B"
+        },
+        {
+            "Human": "What activity is <JinShang> engaged in? A. Reading a book. B. Playing a video game.",
+            "AI": "B"
+        },
+        {
+            "Human": "What are <QianShu> and <JinShang> doing in the image? A. Reading books. B. Playing video games. C. Painting.",
+            "AI": "B"
+        }
+    ],
+    "two_concept/multi/QianShu_JinShang/2.png": [
+        {
+            "Human": "What color is <QianShu>'s outfit? A. Red B. Blue C. Green",
+            "AI": "A"
+        },
+        {
+            "Human": "What color is <JinShang>'s outfit? A. Red B. Blue C. Green",
+            "AI": "B"
+        },
+        {
+            "Human": "What color is the outfit of <QianShu>? A. Red. B. Blue. C. Green.",
+            "AI": "A"
+        }
+    ],
+    "two_concept/multi/QianShu_JinShang/3.png": [
+        {
+            "Human": "What is the eye color of <QianShu>? A. Blue. B. Purple. C. Green.",
+            "AI": "B"
+        },
+        {
+            "Human": "What is the eye color of <JinShang>? A. Blue B. Purple C. Green",
+            "AI": "B"
+        },
+        {
+            "Human": "What is the eye color of <JinShang>? A. Blue. B. Purple. C. Green.",
+            "AI": "B"
+        }
+    ],
+    "two_concept/multi/QianShu_JinShang/4.png": [
+        {
+            "Human": "What color is <QianShu>'s hair? A. Black B. Blonde",
+            "AI": "B"
+        },
+        {
+            "Human": "What color is <JinShang>'s hair? A. Black B. Blonde",
+            "AI": "A"
+        },
+        {
+            "Human": "What color is the ribbon in <QianShu>'s hair? A.red. B.blue. C.green.",
+            "AI": "A"
+        }
+    ]
+}

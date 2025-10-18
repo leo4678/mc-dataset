@@ -1,0 +1,422 @@
+{
+    "two_concept/concept/train/GaoQiQiang/0.png": [
+        {
+            "Question": "What is <GaoQiQiang> hair color?",
+            "Answer": "<GaoQiQiang>'s hair color is dark brown."
+        },
+        {
+            "Question": "What color are <GaoQiQiang> eyes?",
+            "Answer": "I don't know what color <GaoQiQiang>'s eyes are."
+        },
+        {
+            "Question": "Would you describe <GaoQiQiang>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<GaoQiQiang>'s physique appears to be average."
+        },
+        {
+            "Question": "What is <GaoQiQiang> skin tone?",
+            "Answer": "<GaoQiQiang> has a medium skin tone."
+        },
+        {
+            "Question": "How would you describe <GaoQiQiang> hairstyle?",
+            "Answer": "<GaoQiQiang>'s hairstyle is medium-length and slightly tousled."
+        },
+        {
+            "Question": "Does <GaoQiQiang> wear glasses or any accessories?",
+            "Answer": "<GaoQiQiang> does not wear glasses or any accessories."
+        },
+        {
+            "Question": "How would you describe <GaoQiQiang>'s attire?",
+            "Answer": "<GaoQiQiang> is wearing a green vest over a grey, collared shirt with a striped pattern."
+        },
+        {
+            "Question": "Does <GaoQiQiang> have any distinctive facial features?",
+            "Answer": "I cannot determine any distinctive facial features for <GaoQiQiang> based on the provided image."
+        },
+        {
+            "Question": "What is <GaoQiQiang> overall build or physique?",
+            "Answer": "<GaoQiQiang> has a medium build and appears to be of average physique."
+        },
+        {
+            "Question": "What is <GaoQiQiang> general expression or demeanor?",
+            "Answer": "<GaoQiQiang> has a relaxed and casual demeanor, sitting comfortably in a chair."
+        }
+    ],
+    "two_concept/concept/train/GaoQiQiang/1.png": [
+        {
+            "Question": "What is <GaoQiQiang> hair color?",
+            "Answer": "<GaoQiQiang>'s hair color is black."
+        },
+        {
+            "Question": "What color are <GaoQiQiang> eyes?",
+            "Answer": "I cannot determine the color of <GaoQiQiang>'s eyes from the image."
+        },
+        {
+            "Question": "Would you describe <GaoQiQiang>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<GaoQiQiang>'s physique appears to be slim."
+        },
+        {
+            "Question": "What is <GaoQiQiang> skin tone?",
+            "Answer": "<GaoQiQiang> has a light skin tone."
+        },
+        {
+            "Question": "How would you describe <GaoQiQiang> hairstyle?",
+            "Answer": "<GaoQiQiang>'s hairstyle is short and neatly combed to the side."
+        },
+        {
+            "Question": "Does <GaoQiQiang> wear glasses or any accessories?",
+            "Answer": "<GaoQiQiang> does not wear glasses or any accessories."
+        },
+        {
+            "Question": "How would you describe <GaoQiQiang>'s attire?",
+            "Answer": "<GaoQiQiang> is wearing a dark-colored jacket over a black shirt."
+        },
+        {
+            "Question": "Does <GaoQiQiang> have any distinctive facial features?",
+            "Answer": "I cannot determine any distinctive facial features of <GaoQiQiang> from the image provided."
+        },
+        {
+            "Question": "What is <GaoQiQiang> overall build or physique?",
+            "Answer": "<GaoQiQiang> has a medium build and appears to be of average height."
+        },
+        {
+            "Question": "What is <GaoQiQiang> general expression or demeanor?",
+            "Answer": "<GaoQiQiang> has a serious and intense demeanor, holding a gun with a focused posture."
+        }
+    ],
+    "two_concept/concept/train/GaoQiQiang/2.png": [
+        {
+            "Question": "What is <GaoQiQiang> hair color?",
+            "Answer": "<GaoQiQiang>'s hair color is black."
+        },
+        {
+            "Question": "What color are <GaoQiQiang> eyes?",
+            "Answer": "I don't know what color <GaoQiQiang>'s eyes are."
+        },
+        {
+            "Question": "Would you describe <GaoQiQiang>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<GaoQiQiang>'s physique appears to be average."
+        },
+        {
+            "Question": "What is <GaoQiQiang> skin tone?",
+            "Answer": "<GaoQiQiang>'s skin tone is light."
+        },
+        {
+            "Question": "How would you describe <GaoQiQiang> hairstyle?",
+            "Answer": "<GaoQiQiang>'s hairstyle is short and neatly combed back."
+        },
+        {
+            "Question": "Does <GaoQiQiang> wear glasses or any accessories?",
+            "Answer": "<GaoQiQiang> does not wear glasses or any accessories."
+        },
+        {
+            "Question": "How would you describe <GaoQiQiang>'s attire?",
+            "Answer": "<GaoQiQiang> is wearing a dark jacket over a collared shirt and a sweater."
+        },
+        {
+            "Question": "Does <GaoQiQiang> have any distinctive facial features?",
+            "Answer": "I cannot determine any distinctive facial features of <GaoQiQiang> from the image provided."
+        },
+        {
+            "Question": "What is <GaoQiQiang> overall build or physique?",
+            "Answer": "<GaoQiQiang> has a medium build and physique."
+        },
+        {
+            "Question": "What is <GaoQiQiang> general expression or demeanor?",
+            "Answer": "<GaoQiQiang> appears to have a calm and composed demeanor."
+        }
+    ],
+    "two_concept/concept/train/GaoQiQiang/3.png": [
+        {
+            "Question": "What is <GaoQiQiang> hair color?",
+            "Answer": "<GaoQiQiang>'s hair color is black."
+        },
+        {
+            "Question": "What color are <GaoQiQiang> eyes?",
+            "Answer": "I cannot determine the color of <GaoQiQiang>'s eyes from the image."
+        },
+        {
+            "Question": "Would you describe <GaoQiQiang>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<GaoQiQiang>'s physique appears to be slim."
+        },
+        {
+            "Question": "What is <GaoQiQiang> skin tone?",
+            "Answer": "<GaoQiQiang> has a light to medium skin tone."
+        },
+        {
+            "Question": "How would you describe <GaoQiQiang> hairstyle?",
+            "Answer": "<GaoQiQiang>'s hairstyle is short on the sides and back, with longer, neatly combed hair on top."
+        },
+        {
+            "Question": "Does <GaoQiQiang> wear glasses or any accessories?",
+            "Answer": "<GaoQiQiang> is wearing a necklace. He is not wearing glasses."
+        },
+        {
+            "Question": "How would you describe <GaoQiQiang>'s attire?",
+            "Answer": "<GaoQiQiang> is wearing a dark suit jacket over a dark shirt."
+        },
+        {
+            "Question": "Does <GaoQiQiang> have any distinctive facial features?",
+            "Answer": "I cannot determine any distinctive facial features of <GaoQiQiang> due to the blurred face."
+        },
+        {
+            "Question": "What is <GaoQiQiang> overall build or physique?",
+            "Answer": "<GaoQiQiang> has a lean and fit build."
+        },
+        {
+            "Question": "What is <GaoQiQiang> general expression or demeanor?",
+            "Answer": "<GaoQiQiang> has a composed and professional demeanor, dressed in a dark suit and seated in what appears to be a formal setting."
+        }
+    ],
+    "two_concept/concept/train/GaoQiQiang/4.png": [
+        {
+            "Question": "What is <GaoQiQiang> hair color?",
+            "Answer": "<GaoQiQiang>'s hair color is black."
+        },
+        {
+            "Question": "What color are <GaoQiQiang> eyes?",
+            "Answer": "I cannot determine the color of <GaoQiQiang>'s eyes from the image."
+        },
+        {
+            "Question": "Would you describe <GaoQiQiang>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<GaoQiQiang>'s physique appears to be slim."
+        },
+        {
+            "Question": "What is <GaoQiQiang> skin tone?",
+            "Answer": "<GaoQiQiang> has a light to medium skin tone."
+        },
+        {
+            "Question": "How would you describe <GaoQiQiang> hairstyle?",
+            "Answer": "<GaoQiQiang>'s hairstyle is neatly combed back with a slight wave, giving it a polished and sophisticated look."
+        },
+        {
+            "Question": "Does <GaoQiQiang> wear glasses or any accessories?",
+            "Answer": "<GaoQiQiang> does not wear glasses or any accessories."
+        },
+        {
+            "Question": "How would you describe <GaoQiQiang>'s attire?",
+            "Answer": "<GaoQiQiang> is wearing a black button-up shirt."
+        },
+        {
+            "Question": "Does <GaoQiQiang> have any distinctive facial features?",
+            "Answer": "I cannot determine any distinctive facial features of <GaoQiQiang> from the image provided."
+        },
+        {
+            "Question": "What is <GaoQiQiang> overall build or physique?",
+            "Answer": "<GaoQiQiang> has a medium build."
+        },
+        {
+            "Question": "What is <GaoQiQiang> general expression or demeanor?",
+            "Answer": "<GaoQiQiang> has a composed and serious demeanor."
+        }
+    ],
+    "two_concept/concept/train/GaoQiQiang/5.png": [
+        {
+            "Question": "What is <GaoQiQiang> hair color?",
+            "Answer": "<GaoQiQiang>'s hair color is black."
+        },
+        {
+            "Question": "What color are <GaoQiQiang> eyes?",
+            "Answer": "The image does not provide a clear view of <GaoQiQiang>'s eyes, so I cannot determine their color."
+        },
+        {
+            "Question": "Would you describe <GaoQiQiang>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<GaoQiQiang>'s physique appears to be slim."
+        },
+        {
+            "Question": "What is <GaoQiQiang> skin tone?",
+            "Answer": "<GaoQiQiang> has a light to medium skin tone."
+        },
+        {
+            "Question": "How would you describe <GaoQiQiang> hairstyle?",
+            "Answer": "<GaoQiQiang>'s hairstyle is short and wavy."
+        },
+        {
+            "Question": "Does <GaoQiQiang> wear glasses or any accessories?",
+            "Answer": "<GaoQiQiang> is not wearing glasses or any accessories."
+        },
+        {
+            "Question": "How would you describe <GaoQiQiang>'s attire?",
+            "Answer": "<GaoQiQiang> is wearing a green jacket with a brown shearling collar over a red and white striped shirt."
+        },
+        {
+            "Question": "Does <GaoQiQiang> have any distinctive facial features?",
+            "Answer": "I cannot determine any distinctive facial features of <GaoQiQiang> from the image provided."
+        },
+        {
+            "Question": "What is <GaoQiQiang> overall build or physique?",
+            "Answer": "<GaoQiQiang> has a medium build and physique."
+        },
+        {
+            "Question": "What is <GaoQiQiang> general expression or demeanor?",
+            "Answer": "<GaoQiQiang> has a casual and relaxed demeanor, wearing a green jacket with a shearling collar over a red shirt."
+        }
+    ],
+    "two_concept/concept/train/GaoQiQiang/6.png": [
+        {
+            "Question": "What is <GaoQiQiang> hair color?",
+            "Answer": "<GaoQiQiang>'s hair color is black."
+        },
+        {
+            "Question": "What color are <GaoQiQiang> eyes?",
+            "Answer": "The eye color of <GaoQiQiang> cannot be determined from the image."
+        },
+        {
+            "Question": "Would you describe <GaoQiQiang>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<GaoQiQiang>'s physique appears to be slim."
+        },
+        {
+            "Question": "What is <GaoQiQiang> skin tone?",
+            "Answer": "<GaoQiQiang> has a light to medium skin tone."
+        },
+        {
+            "Question": "How would you describe <GaoQiQiang> hairstyle?",
+            "Answer": "<GaoQiQiang>'s hairstyle is short and neatly combed back."
+        },
+        {
+            "Question": "Does <GaoQiQiang> wear glasses or any accessories?",
+            "Answer": "<GaoQiQiang> does not wear glasses or any accessories."
+        },
+        {
+            "Question": "How would you describe <GaoQiQiang>'s attire?",
+            "Answer": "<GaoQiQiang> is wearing a dark-colored suit jacket over a light-colored shirt."
+        },
+        {
+            "Question": "Does <GaoQiQiang> have any distinctive facial features?",
+            "Answer": "I cannot determine any distinctive facial features of <GaoQiQiang> from the provided image."
+        },
+        {
+            "Question": "What is <GaoQiQiang> overall build or physique?",
+            "Answer": "<GaoQiQiang> has a medium build and is wearing a suit."
+        },
+        {
+            "Question": "What is <GaoQiQiang> general expression or demeanor?",
+            "Answer": "<GaoQiQiang> has a serious and composed demeanor."
+        }
+    ],
+    "two_concept/concept/train/GaoQiQiang/7.png": [
+        {
+            "Question": "What is <GaoQiQiang> hair color?",
+            "Answer": "<GaoQiQiang>'s hair color is black."
+        },
+        {
+            "Question": "What color are <GaoQiQiang> eyes?",
+            "Answer": "I cannot determine the color of <GaoQiQiang>'s eyes from the image."
+        },
+        {
+            "Question": "Would you describe <GaoQiQiang>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<GaoQiQiang>'s physique appears to be slim."
+        },
+        {
+            "Question": "What is <GaoQiQiang> skin tone?",
+            "Answer": "<GaoQiQiang> has a light to medium skin tone."
+        },
+        {
+            "Question": "How would you describe <GaoQiQiang> hairstyle?",
+            "Answer": "<GaoQiQiang>'s hairstyle is neatly combed back with a slight wave, giving it a polished and sophisticated look."
+        },
+        {
+            "Question": "Does <GaoQiQiang> wear glasses or any accessories?",
+            "Answer": "<GaoQiQiang> does not wear glasses or any accessories."
+        },
+        {
+            "Question": "How would you describe <GaoQiQiang>'s attire?",
+            "Answer": "<GaoQiQiang> is wearing a dark suit with a black shirt underneath. The suit jacket has satin lapels and a pocket square."
+        },
+        {
+            "Question": "Does <GaoQiQiang> have any distinctive facial features?",
+            "Answer": "I cannot determine any distinctive facial features of <GaoQiQiang> from the image."
+        },
+        {
+            "Question": "What is <GaoQiQiang> overall build or physique?",
+            "Answer": "<GaoQiQiang> has a medium build and is dressed in a formal suit."
+        },
+        {
+            "Question": "What is <GaoQiQiang> general expression or demeanor?",
+            "Answer": "<GaoQiQiang> has a composed and formal demeanor, dressed in a dark suit with a pocket square, suggesting a serious or professional setting."
+        }
+    ],
+    "two_concept/concept/train/GaoQiQiang/8.png": [
+        {
+            "Question": "What is <GaoQiQiang> hair color?",
+            "Answer": "<GaoQiQiang>'s hair color is black."
+        },
+        {
+            "Question": "What color are <GaoQiQiang> eyes?",
+            "Answer": "I don't know what color <GaoQiQiang>'s eyes are."
+        },
+        {
+            "Question": "Would you describe <GaoQiQiang>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<GaoQiQiang>'s physique appears to be slim."
+        },
+        {
+            "Question": "What is <GaoQiQiang> skin tone?",
+            "Answer": "<GaoQiQiang>'s skin tone is light."
+        },
+        {
+            "Question": "How would you describe <GaoQiQiang> hairstyle?",
+            "Answer": "<GaoQiQiang>'s hairstyle is short and neatly combed to the side."
+        },
+        {
+            "Question": "Does <GaoQiQiang> wear glasses or any accessories?",
+            "Answer": "<GaoQiQiang> does not wear glasses or any accessories."
+        },
+        {
+            "Question": "How would you describe <GaoQiQiang>'s attire?",
+            "Answer": "<GaoQiQiang> is wearing a blue suit jacket over a light blue dress shirt."
+        },
+        {
+            "Question": "Does <GaoQiQiang> have any distinctive facial features?",
+            "Answer": "I cannot determine any distinctive facial features of <GaoQiQiang> from the image provided."
+        },
+        {
+            "Question": "What is <GaoQiQiang> overall build or physique?",
+            "Answer": "<GaoQiQiang> has a medium build and physique."
+        },
+        {
+            "Question": "What is <GaoQiQiang> general expression or demeanor?",
+            "Answer": "<GaoQiQiang> appears to have a calm and composed demeanor."
+        }
+    ],
+    "two_concept/concept/train/GaoQiQiang/9.png": [
+        {
+            "Question": "What is <GaoQiQiang> hair color?",
+            "Answer": "<GaoQiQiang>'s hair color is black."
+        },
+        {
+            "Question": "What color are <GaoQiQiang> eyes?",
+            "Answer": "I cannot determine the color of <GaoQiQiang>'s eyes from the image."
+        },
+        {
+            "Question": "Would you describe <GaoQiQiang>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<GaoQiQiang>'s physique appears to be slim."
+        },
+        {
+            "Question": "What is <GaoQiQiang> skin tone?",
+            "Answer": "<GaoQiQiang> has a light to medium skin tone."
+        },
+        {
+            "Question": "How would you describe <GaoQiQiang> hairstyle?",
+            "Answer": "<GaoQiQiang>'s hairstyle is short and neatly combed back."
+        },
+        {
+            "Question": "Does <GaoQiQiang> wear glasses or any accessories?",
+            "Answer": "<GaoQiQiang> is wearing a wristwatch."
+        },
+        {
+            "Question": "How would you describe <GaoQiQiang>'s attire?",
+            "Answer": "<GaoQiQiang> is wearing a dark, patterned suit jacket over a black shirt. He is also wearing a gold wristwatch."
+        },
+        {
+            "Question": "Does <GaoQiQiang> have any distinctive facial features?",
+            "Answer": "I cannot determine any distinctive facial features of <GaoQiQiang> from the image."
+        },
+        {
+            "Question": "What is <GaoQiQiang> overall build or physique?",
+            "Answer": "<GaoQiQiang> has a medium build and is dressed in a patterned suit jacket."
+        },
+        {
+            "Question": "What is <GaoQiQiang> general expression or demeanor?",
+            "Answer": "<GaoQiQiang> appears to have a contemplative and relaxed demeanor, with his hand resting on his face and sitting in an ornate chair."
+        }
+    ]
+}

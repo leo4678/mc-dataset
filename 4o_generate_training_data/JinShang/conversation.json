@@ -1,0 +1,410 @@
+{
+    "two_concept/concept/train/JinShang/0.png": [
+        {
+            "Question": "What is <JinShang> hair color?",
+            "Answer": "<JinShang>'s hair color is dark brown."
+        },
+        {
+            "Question": "What color are <JinShang> eyes?",
+            "Answer": "<JinShang>'s eyes are not visible in the image."
+        },
+        {
+            "Question": "Would you describe <JinShang>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<JinShang>'s physique appears to be slim."
+        },
+        {
+            "Question": "What is <JinShang> skin tone?",
+            "Answer": "<JinShang>'s skin tone is light."
+        },
+        {
+            "Question": "How would you describe <JinShang> hairstyle?",
+            "Answer": "<JinShang>'s hairstyle is medium-length, straight, and dark, with bangs that cover the forehead."
+        },
+        {
+            "Question": "Does <JinShang> wear glasses or any accessories?",
+            "Answer": "<JinShang> is wearing a red hat."
+        },
+        {
+            "Question": "How would you describe <JinShang>'s attire?",
+            "Answer": "<JinShang> is wearing a pink coat and a red hat."
+        },
+        {
+            "Question": "Does <JinShang> have any distinctive facial features?",
+            "Answer": "<JinShang> has long, dark hair with bangs."
+        },
+        {
+            "Question": "What is <JinShang> overall build or physique?",
+            "Answer": "<JinShang> has a slender build."
+        },
+        {
+            "Question": "What is <JinShang> general expression or demeanor?",
+            "Answer": "<JinShang>'s general expression or demeanor cannot be determined from the image."
+        }
+    ],
+    "two_concept/concept/train/JinShang/1.png": [
+        {
+            "Question": "What is <JinShang> hair color?",
+            "Answer": "<JinShang>'s hair color is black."
+        },
+        {
+            "Question": "What color are <JinShang> eyes?",
+            "Answer": "The image does not provide enough information to determine the color of <JinShang>'s eyes."
+        },
+        {
+            "Question": "Would you describe <JinShang>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<JinShang>'s physique appears to be slim."
+        },
+        {
+            "Question": "What is <JinShang> skin tone?",
+            "Answer": "<JinShang>'s skin tone is light."
+        },
+        {
+            "Question": "How would you describe <JinShang> hairstyle?",
+            "Answer": "<JinShang>'s hairstyle is long and straight, with a dark color."
+        },
+        {
+            "Question": "Does <JinShang> wear glasses or any accessories?",
+            "Answer": "<JinShang> does not appear to be wearing glasses or any accessories."
+        },
+        {
+            "Question": "How would you describe <JinShang>'s attire?",
+            "Answer": "<JinShang> is wearing a dark-colored outfit with a white collar."
+        },
+        {
+            "Question": "Does <JinShang> have any distinctive facial features?",
+            "Answer": "<JinShang> has long, dark hair."
+        },
+        {
+            "Question": "What is <JinShang> overall build or physique?",
+            "Answer": "<JinShang> has a slender build."
+        },
+        {
+            "Question": "What is <JinShang> general expression or demeanor?",
+            "Answer": "<JinShang> has long, dark hair and is wearing a collared outfit."
+        }
+    ],
+    "two_concept/concept/train/JinShang/2.png": [
+        {
+            "Question": "What is <JinShang> hair color?",
+            "Answer": "<JinShang>'s hair color is black."
+        },
+        {
+            "Question": "What color are <JinShang> eyes?",
+            "Answer": "I cannot determine the color of <JinShang>'s eyes from the image provided."
+        },
+        {
+            "Question": "Would you describe <JinShang>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<JinShang>'s physique appears to be slim."
+        },
+        {
+            "Question": "What is <JinShang> skin tone?",
+            "Answer": "<JinShang>'s skin tone is light."
+        },
+        {
+            "Question": "How would you describe <JinShang> hairstyle?",
+            "Answer": "<JinShang>'s hairstyle is long, straight, and dark."
+        },
+        {
+            "Question": "Does <JinShang> wear glasses or any accessories?",
+            "Answer": "<JinShang> does not appear to be wearing glasses or any accessories."
+        },
+        {
+            "Question": "How would you describe <JinShang>'s attire?",
+            "Answer": "<JinShang> is wearing a dark-colored top."
+        },
+        {
+            "Question": "Does <JinShang> have any distinctive facial features?",
+            "Answer": "I cannot determine any distinctive facial features of <JinShang> from the image provided."
+        },
+        {
+            "Question": "What is <JinShang> overall build or physique?",
+            "Answer": "<JinShang> has a slender build."
+        },
+        {
+            "Question": "What is <JinShang> general expression or demeanor?",
+            "Answer": "<JinShang> has long, straight, dark hair."
+        }
+    ],
+    "two_concept/concept/train/JinShang/3.png": [
+        {
+            "Question": "What is <JinShang> hair color?",
+            "Answer": "<JinShang>'s hair color is black."
+        },
+        {
+            "Question": "Would you describe <JinShang>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<JinShang>'s physique can be described as slim."
+        },
+        {
+            "Question": "What is <JinShang> skin tone?",
+            "Answer": "<JinShang>'s skin tone is light."
+        },
+        {
+            "Question": "How would you describe <JinShang> hairstyle?",
+            "Answer": "<JinShang>'s hairstyle is long, straight, and dark, reaching past the shoulders."
+        },
+        {
+            "Question": "Does <JinShang> wear glasses or any accessories?",
+            "Answer": "<JinShang> is not wearing glasses but is wearing a school uniform with a ribbon and has a backpack."
+        },
+        {
+            "Question": "How would you describe <JinShang>'s attire?",
+            "Answer": "<JinShang> is wearing a dark school uniform with a white shirt and a dark tie or ribbon. She has a backpack and is holding a handgun."
+        },
+        {
+            "Question": "What is <JinShang> overall build or physique?",
+            "Answer": "<JinShang> has a slender and petite build."
+        },
+        {
+            "Question": "What is <JinShang> general expression or demeanor?",
+            "Answer": "<JinShang> has a serious and focused demeanor, as indicated by the crouched position and the way they are holding a gun."
+        }
+    ],
+    "two_concept/concept/train/JinShang/4.png": [
+        {
+            "Question": "What is <JinShang> hair color?",
+            "Answer": "<JinShang>'s hair color is black."
+        },
+        {
+            "Question": "What color are <JinShang> eyes?",
+            "Answer": "<JinShang>'s eyes are purple."
+        },
+        {
+            "Question": "Would you describe <JinShang>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<JinShang>'s physique appears to be slim."
+        },
+        {
+            "Question": "What is <JinShang> skin tone?",
+            "Answer": "<JinShang>'s skin tone is light."
+        },
+        {
+            "Question": "How would you describe <JinShang> hairstyle?",
+            "Answer": "<JinShang>'s hairstyle is long, straight, and features bangs that cover the forehead."
+        },
+        {
+            "Question": "Does <JinShang> wear glasses or any accessories?",
+            "Answer": "<JinShang> does not wear glasses or any accessories."
+        },
+        {
+            "Question": "How would you describe <JinShang>'s attire?",
+            "Answer": "<JinShang> is wearing a dark-colored blazer over a light-colored shirt."
+        },
+        {
+            "Question": "Does <JinShang> have any distinctive facial features?",
+            "Answer": "<JinShang> has large, purple eyes and long, straight black hair with bangs."
+        },
+        {
+            "Question": "What is <JinShang> overall build or physique?",
+            "Answer": "<JinShang> has a slender and petite build."
+        },
+        {
+            "Question": "What is <JinShang> general expression or demeanor?",
+            "Answer": "<JinShang> has a calm and composed expression."
+        }
+    ],
+    "two_concept/concept/train/JinShang/5.png": [
+        {
+            "Question": "What is <JinShang> hair color?",
+            "Answer": "<JinShang>'s hair color is black."
+        },
+        {
+            "Question": "What color are <JinShang> eyes?",
+            "Answer": "<JinShang>'s eyes are purple."
+        },
+        {
+            "Question": "Would you describe <JinShang>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<JinShang>'s physique appears to be slim."
+        },
+        {
+            "Question": "What is <JinShang> skin tone?",
+            "Answer": "<JinShang> has a light skin tone."
+        },
+        {
+            "Question": "How would you describe <JinShang> hairstyle?",
+            "Answer": "<JinShang>'s hairstyle is long, straight, and dark, with bangs that cover the forehead."
+        },
+        {
+            "Question": "Does <JinShang> wear glasses or any accessories?",
+            "Answer": "<JinShang> does not wear glasses or any accessories."
+        },
+        {
+            "Question": "How would you describe <JinShang>'s attire?",
+            "Answer": "<JinShang> is wearing a dark-colored outfit with a white collar and a blue ribbon tied at the neck."
+        },
+        {
+            "Question": "Does <JinShang> have any distinctive facial features?",
+            "Answer": "<JinShang> has large, expressive purple eyes and long, straight black hair with bangs."
+        },
+        {
+            "Question": "What is <JinShang> overall build or physique?",
+            "Answer": "<JinShang> has a slender and petite build."
+        },
+        {
+            "Question": "What is <JinShang> general expression or demeanor?",
+            "Answer": "<JinShang> has a serious and contemplative expression."
+        }
+    ],
+    "two_concept/concept/train/JinShang/6.png": [
+        {
+            "Question": "What is <JinShang> hair color?",
+            "Answer": "<JinShang>'s hair color is dark brown."
+        },
+        {
+            "Question": "What color are <JinShang> eyes?",
+            "Answer": "<JinShang>'s eyes are purple."
+        },
+        {
+            "Question": "Would you describe <JinShang>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<JinShang>'s physique is slim."
+        },
+        {
+            "Question": "What is <JinShang> skin tone?",
+            "Answer": "<JinShang> has a fair skin tone."
+        },
+        {
+            "Question": "How would you describe <JinShang> hairstyle?",
+            "Answer": "<JinShang>'s hairstyle is long, straight, and features bangs that cover the forehead."
+        },
+        {
+            "Question": "Does <JinShang> wear glasses or any accessories?",
+            "Answer": "<JinShang> does not wear glasses or any accessories."
+        },
+        {
+            "Question": "How would you describe <JinShang>'s attire?",
+            "Answer": "<JinShang> is wearing a dark-colored outfit with a high collar."
+        },
+        {
+            "Question": "Does <JinShang> have any distinctive facial features?",
+            "Answer": "<JinShang> has large, expressive purple eyes and straight, dark brown hair with bangs."
+        },
+        {
+            "Question": "What is <JinShang> overall build or physique?",
+            "Answer": "<JinShang> has a slender and petite build."
+        },
+        {
+            "Question": "What is <JinShang> general expression or demeanor?",
+            "Answer": "<JinShang> has a serious and contemplative expression."
+        }
+    ],
+    "two_concept/concept/train/JinShang/7.png": [
+        {
+            "Question": "What is <JinShang> hair color?",
+            "Answer": "<JinShang>'s hair color is black."
+        },
+        {
+            "Question": "Would you describe <JinShang>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<JinShang>'s physique appears to be slim."
+        },
+        {
+            "Question": "What is <JinShang> skin tone?",
+            "Answer": "<JinShang>'s skin tone is light."
+        },
+        {
+            "Question": "How would you describe <JinShang> hairstyle?",
+            "Answer": "<JinShang>'s hairstyle is long, straight, and dark, reaching past the shoulders."
+        },
+        {
+            "Question": "Does <JinShang> wear glasses or any accessories?",
+            "Answer": "<JinShang> does not appear to be wearing glasses or any accessories."
+        },
+        {
+            "Question": "How would you describe <JinShang>'s attire?",
+            "Answer": "<JinShang> is wearing a dark-colored school uniform with a white collar and a blue ribbon tied at the neck."
+        },
+        {
+            "Question": "Does <JinShang> have any distinctive facial features?",
+            "Answer": "<JinShang> has long, straight, dark hair."
+        },
+        {
+            "Question": "What is <JinShang> overall build or physique?",
+            "Answer": "<JinShang> has a slender build."
+        },
+        {
+            "Question": "What is <JinShang> general expression or demeanor?",
+            "Answer": "<JinShang> has a calm and composed demeanor."
+        }
+    ],
+    "two_concept/concept/train/JinShang/8.png": [
+        {
+            "Question": "What is <JinShang> hair color?",
+            "Answer": "<JinShang>'s hair color is black."
+        },
+        {
+            "Question": "What color are <JinShang> eyes?",
+            "Answer": "The image does not provide a clear view of <JinShang>'s eyes."
+        },
+        {
+            "Question": "Would you describe <JinShang>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<JinShang>'s physique can be described as slim."
+        },
+        {
+            "Question": "What is <JinShang> skin tone?",
+            "Answer": "<JinShang>'s skin tone is light."
+        },
+        {
+            "Question": "How would you describe <JinShang> hairstyle?",
+            "Answer": "<JinShang>'s hairstyle is long, straight, and dark, with a headband accessory."
+        },
+        {
+            "Question": "Does <JinShang> wear glasses or any accessories?",
+            "Answer": "<JinShang> is wearing a headband as an accessory."
+        },
+        {
+            "Question": "How would you describe <JinShang>'s attire?",
+            "Answer": "<JinShang> is wearing a short-sleeved grey top paired with a white apron-like skirt that has a black section. The outfit is accessorized with a brown braided belt."
+        },
+        {
+            "Question": "Does <JinShang> have any distinctive facial features?",
+            "Answer": "I cannot determine any distinctive facial features for <JinShang> based on the provided image."
+        },
+        {
+            "Question": "What is <JinShang> overall build or physique?",
+            "Answer": "<JinShang> has a slender build."
+        },
+        {
+            "Question": "What is <JinShang> general expression or demeanor?",
+            "Answer": "<JinShang> appears to have a calm and composed demeanor, holding a large blue fish plushie."
+        }
+    ],
+    "two_concept/concept/train/JinShang/9.png": [
+        {
+            "Question": "What is <JinShang> hair color?",
+            "Answer": "<JinShang>'s hair color is brown."
+        },
+        {
+            "Question": "What color are <JinShang> eyes?",
+            "Answer": "The eye color of <JinShang> cannot be determined from the image."
+        },
+        {
+            "Question": "Would you describe <JinShang>'s physique as athletic, slim, or otherwise?",
+            "Answer": "<JinShang>'s physique can be described as slim."
+        },
+        {
+            "Question": "What is <JinShang> skin tone?",
+            "Answer": "<JinShang>'s skin tone is light."
+        },
+        {
+            "Question": "How would you describe <JinShang> hairstyle?",
+            "Answer": "<JinShang>'s hairstyle is long, straight, and flows down past the shoulders."
+        },
+        {
+            "Question": "Does <JinShang> wear glasses or any accessories?",
+            "Answer": "<JinShang> does not wear glasses but has a ribbon accessory tied around the collar."
+        },
+        {
+            "Question": "How would you describe <JinShang>'s attire?",
+            "Answer": "<JinShang> is wearing a dark-colored school uniform with a white collar and a green ribbon tie. The uniform includes a jacket with gold buttons and a belt at the waist. She is also carrying a brown backpack."
+        },
+        {
+            "Question": "Does <JinShang> have any distinctive facial features?",
+            "Answer": "I cannot determine any distinctive facial features for <JinShang> based on the provided image."
+        },
+        {
+            "Question": "What is <JinShang> overall build or physique?",
+            "Answer": "<JinShang> has a slender and petite build."
+        },
+        {
+            "Question": "What is <JinShang> general expression or demeanor?",
+            "Answer": "<JinShang> appears to have a calm and composed demeanor."
+        }
+    ]
+}

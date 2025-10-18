@@ -1,0 +1,80 @@
+{
+    "three_concept/multi/zhongtangxi_sanchengmeiqin_jiubuliulang_donghailinxizi/0.jpg": [
+        {
+            "Human": "Where is <zhongtangxi> located in the photo? A. left B. middle left C. middle right D. right.",
+            "AI": "A"
+        },
+        {
+            "Human": "Where is <sanchengmeiqin> located in the photo? A. left B. middle left C. middle right D. right.",
+            "AI": "B"
+        },
+        {
+            "Human": "Where is <jiubuliulang> located in the photo? A. left B. middle left C. middle right D. right.",
+            "AI": "C"
+        },
+        {
+            "Human": "Where is <donghailinxizi> located in the photo? A. left B. middle left C. middle right D. right.",
+            "AI": "D"
+        }
+    ],
+    "three_concept/multi/zhongtangxi_sanchengmeiqin_jiubuliulang_donghailinxizi/1.jpg": [
+        {
+            "Human": "Where is <sanchengmeiqin> located in the photo? A. left B. middle C. right.",
+            "AI": "B"
+        },
+        {
+            "Human": "Where is <jiubuliulang> located in the photo? A. left B. middle C. right.",
+            "AI": "A"
+        },
+        {
+            "Human": "Where is <donghailinxizi> located in the photo? A. left B. middle C. right.",
+            "AI": "C"
+        }
+    ],
+    "three_concept/multi/zhongtangxi_sanchengmeiqin_jiubuliulang_donghailinxizi/2.jpg": [
+        {
+            "Human": "Where is <zhongtangxi> located in the photo? A. left B. middle C. right.",
+            "AI": "C"
+        },
+        {
+            "Human": "Where is <sanchengmeiqin> located in the photo? A. left B. middle C. right.",
+            "AI": "B"
+        },
+        {
+            "Human": "Where is <jiubuliulang> located in the photo? A. left B. middle C. right.",
+            "AI": "A"
+        }
+    ],
+    "three_concept/multi/zhongtangxi_sanchengmeiqin_jiubuliulang_donghailinxizi/3.jpg": [
+        {
+            "Human": "Where is <zhongtangxi> located in the photo? A. left B. middle C. right.",
+            "AI": "C"
+        },
+        {
+            "Human": "Where is <sanchengmeiqin> located in the photo? A. left B. middle C. right.",
+            "AI": "B"
+        },
+        {
+            "Human": "Where is <jiubuliulang> located in the photo? A. left B. middle C. right.",
+            "AI": "A"
+        }
+    ],
+    "three_concept/multi/zhongtangxi_sanchengmeiqin_jiubuliulang_donghailinxizi/4.jpg": [
+        {
+            "Human": "Where is <zhongtangxi> located in the photo? A. left B. middle left C. middle right D. right.",
+            "AI": "A"
+        },
+        {
+            "Human": "Where is <sanchengmeiqin> located in the photo? A. left B. middle left C. middle right D. right.",
+            "AI": "B"
+        },
+        {
+            "Human": "Where is <jiubuliulang> located in the photo? A. left B. middle left C. middle right D. right.",
+            "AI": "C"
+        },
+        {
+            "Human": "Where is <donghailinxizi> located in the photo? A. left B. middle left C. middle right D. right.",
+            "AI": "D"
+        }
+    ]
+}
